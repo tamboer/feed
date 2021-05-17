@@ -1,28 +1,28 @@
 cacheUrl: https://tamboer.github.io/feed/cache.json
 sources:
   - href: https://www.groundup.org.za/feeds/
-  - href: https://www.biznews.com
-  - href: https://www.realclearscience.com/
-  - href: https://www.theguardian.com/sport/
-  - href: https://www.rugbydump.com/
-  - href: http://www.worldrugby.org/news
-  - href: https://lifehacker.com
-  - href: https://hackaday.com
-  - href: https://makezine.com
-  - href: https://www.theguardian.com/us/technology
-  - href: http://yougrowgirl.com
-  - href: https://getbusygardening.com
-  - href: https://www.uitinvlaanderen.be
-  - href: https://www.standaard.be/plus/krant/
-  - href: https://www.vrt.be/vrtnws/nl/
-  - href: http://thetruthpodcast.com
-  - href: https://audioboom.com/channel/
-  - href: https://www.simplyrecipes.com
-  - href: https://sweetcrudereports.com
-  - href: https://www.spglobal.com/
-  - href: http://finance.yahoo.com/q/h?s=LNG
-  - href: https://www.theatlantic.com/
-  - href: https://www.moneyweb.co.za
+#   - href: https://www.biznews.com
+#   - href: https://www.realclearscience.com/
+#   - href: https://www.theguardian.com/sport/
+#   - href: https://www.rugbydump.com/
+#   - href: http://www.worldrugby.org/news
+#   - href: https://lifehacker.com
+#   - href: https://hackaday.com
+#   - href: https://makezine.com
+#   - href: https://www.theguardian.com/us/technology
+#   - href: http://yougrowgirl.com
+#   - href: https://getbusygardening.com
+#   - href: https://www.uitinvlaanderen.be
+#   - href: https://www.standaard.be/plus/krant/
+#   - href: https://www.vrt.be/vrtnws/nl/
+#   - href: http://thetruthpodcast.com
+#   - href: https://audioboom.com/channel/
+#   - href: https://www.simplyrecipes.com
+#   - href: https://sweetcrudereports.com
+#   - href: https://www.spglobal.com/
+#   - href: http://finance.yahoo.com/q/h?s=LNG
+#   - href: https://www.theatlantic.com/
+#   - href: https://www.moneyweb.co.za
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
