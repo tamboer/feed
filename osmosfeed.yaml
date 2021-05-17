@@ -1,4 +1,4 @@
-cacheUrl: https://tamboer.github.io/feed/cache.json
+# cacheUrl: https://tamboer.github.io/feed/cache.json
 sources:
   - href: https://www.groundup.org.za/feeds/
 #   - href: https://www.biznews.com
