@@ -1,5 +1,32 @@
 cacheUrl: https://tamboer.github.io/feed/cache.json
 sources:
+  - href: http://www.groundup.org.za/sitenews/rss/
+  - href: http://www.biznews.com/feed/ 
+  - href: http://newsrss.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml 
+  - href: http://www.realclearscience.com/articles/index.xml 
+  - href: http://www.guardian.co.uk/sport/rugby-union/rss 
+  - href: http://feeds.feedburner.com/rugbydump 
+  - href: http://www.irb.com/rss.xml 
+  - href: http://feeds.gawker.com/lifehacker/vip 
+  - href: http://www.hackaday.com/rss.xml 
+  - href: http://blog.makezine.com/index.xml 
+  - href: http://www.theguardian.com/technology/rss 
+  - href: http://www.yougrowgirl.com/feed/ 
+  - href: http://fromseedtotable.blogspot.com/feeds/posts/default 
+  - href: http://getbusygardening.com/feed 
+  - href: http://www.uitinvlaanderen.be/rss.xml 
+  - href: http://feeds.feedburner.com/dso-nieuws-regio-1 
+  - href: https://www.vrt.be/vrtnws/nl.rss.west-vlaanderen.xml 
+  - href: http://feeds.feedburner.com/thetruthapm 
+  - href: https://audioboom.com/channels/2399216.rss 
+  - href: http://feeds.feedburner.com/elise/simplyrecipes 
+  - href: http://www.moneyweb.co.za/mw/rss/mw/en/mny_investment_insights_rss.xml 
+  - href: http://sweetcrudereports.com/feed/ 
+  - href: https://www.spglobal.com/platts/en/rss-feed/natural-gas 
+  - href: http://finance.yahoo.com/rss/headline?s=LNG 
+  - href: http://feeds.feedburner.com/AtlanticBusinessChannel 
+  - href: http://www.moneyweb.co.za/mw/rss/mw/en/mny_south_africa_rss.xml 
+  - href: http://www.moneyweb.co.za/mw/rss/mw/en/moneyweb_news.xml 
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
