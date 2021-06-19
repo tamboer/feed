@@ -1,10 +1,10 @@
 # cacheUrl: https://tamboer.github.io/feed/cache.json
 sources:
   - href: https://www.groundup.org.za/sitenews/rss/
-  - href: https://www.biznews.com
-  - href: https://www.realclearscience.com
-  - href: https://www.theguardian.com/sport
-  - href: https://www.rugbydump.com
+#   - href: https://www.biznews.com
+#   - href: https://www.realclearscience.com
+#   - href: https://www.theguardian.com/sport
+#   - href: https://www.rugbydump.com
   - href: http://www.worldrugby.org/news
   - href: https://lifehacker.com/rss
   - href: https://hackaday.com/rss
@@ -16,7 +16,7 @@ sources:
   - href: https://www.standaard.be/plus/krant/rss
 #   - href: https://www.vrt.be/vrtnws/nl/
 #   - href: http://thetruthpodcast.com
-#   - href: http://feeds.feedburner.com/thetruthapm
+  - href: http://feeds.feedburner.com/thetruthapm
 #   - href: https://audioboom.com/channel
 #   - href: https://www.simplyrecipes.com
 #   - href: https://sweetcrudereports.com
