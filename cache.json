@@ -1,3 +1,222 @@
 {
-  "sources": []
+  "sources": [
+    {
+      "title": "GroundUp News",
+      "feedUrl": "https://www.groundup.org.za/sitenews/rss/",
+      "siteUrl": "https://www.groundup.org.za/feeds/",
+      "articles": [
+        {
+          "id": "https://www.groundup.org.za/article/immigrant-shop-owners-plead-be-allowed-continue-trading-diepkloof/",
+          "author": null,
+          "description": "“All we want is to operate our shops and look after our families”",
+          "link": "https://www.groundup.org.za/article/immigrant-shop-owners-plead-be-allowed-continue-trading-diepkloof/",
+          "publishedOn": "2021-06-18T14:05:00.000Z",
+          "wordCount": 1061,
+          "title": "Immigrant shop owners plead to be allowed to continue trading in Diepkloof",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Kimberly%20Mutandiro/taniko_jaban_and_daniel_bayan_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/state-asks-more-time-investigate-case-against-table-mountain-fire-accused/",
+          "author": null,
+          "description": "Accused’s lawyer wants case struck from court roll should the state not be ready next month",
+          "link": "https://www.groundup.org.za/article/state-asks-more-time-investigate-case-against-table-mountain-fire-accused/",
+          "publishedOn": "2021-06-18T13:32:28.000Z",
+          "wordCount": 862,
+          "title": "State asks for more time to investigate case against Table Mountain fire accused",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/marecia_damons/shaun_balram_and_frederick_mhangazo_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/makana-municipality-gets-court-interdict-against-further-protests/",
+          "author": null,
+          "description": "Community leaders protesting over poor services accused of hijacking genuine demands with a “nefarious political agenda”",
+          "link": "https://www.groundup.org.za/article/makana-municipality-gets-court-interdict-against-further-protests/",
+          "publishedOn": "2021-06-18T13:26:56.000Z",
+          "wordCount": 797,
+          "title": "Makana Municipality gets court interdict against further protests",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.zahttp://groundup.org.za/sites/default/files/styles/article_image/public/field/image/AyandaKota.jpg?itok=garH6q4R"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/health-department-likely-overcounting-its-vaccine-supply/",
+          "author": null,
+          "description": "Because of the syringes being used, vaccinators are getting fewer doses per vial",
+          "link": "https://www.groundup.org.za/article/health-department-likely-overcounting-its-vaccine-supply/",
+          "publishedOn": "2021-06-18T12:06:06.000Z",
+          "wordCount": 1843,
+          "title": "Health department is likely overcounting its vaccine supply",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/vaccine/covidvaccine-20210527-img_6296hr_huge.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/dozens-families-left-homelss-tsakane-after-60-shacks-demolished/",
+          "author": null,
+          "description": "Occupiers say they were tired of their pleas for housing “falling on deaf ears”",
+          "link": "https://www.groundup.org.za/article/dozens-families-left-homelss-tsakane-after-60-shacks-demolished/",
+          "publishedOn": "2021-06-18T11:38:30.000Z",
+          "wordCount": 1111,
+          "title": "Families left homeless in Tsakane after 60 shacks demolished",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Kimberly%20Mutandiro/mahlangu_at_the_demolition_in_tsakane_18062021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/east-london-residents-say-they-live-filth/",
+          "author": null,
+          "description": "Rubbish strewn and sewage flooded streets are a daily curse in Duncan Village",
+          "link": "https://www.groundup.org.za/article/east-london-residents-say-they-live-filth/",
+          "publishedOn": "2021-06-18T09:39:00.000Z",
+          "wordCount": 912,
+          "title": "East London residents say they live in filth",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Johnnie%20Isaac/ward_7_march_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/patients-knysna-wait-outside-clinic-hours-get-medication/",
+          "author": null,
+          "description": "Health department says it could soon be using a nearby church hall to dispense medication to prevent patients crowding at the clinic’s gates",
+          "link": "https://www.groundup.org.za/article/patients-knysna-wait-outside-clinic-hours-get-medication/",
+          "publishedOn": "2021-06-18T09:35:00.000Z",
+          "wordCount": 857,
+          "title": "Patients at a Knysna clinic wait outside for hours to get medication",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/siphokazi_mnyobe/hornlee_clinic_18062021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/gqeberha-bus-service-shut-down-second-day/",
+          "author": null,
+          "description": "Protesters block access to depot",
+          "link": "https://www.groundup.org.za/article/gqeberha-bus-service-shut-down-second-day/",
+          "publishedOn": "2021-06-18T09:31:00.000Z",
+          "wordCount": 1045,
+          "title": "Dispute between shareholders and board leaves commuters without bus service",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Mkhuseli%20Sizani/bus_protest_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/domestic-workers-celebrate-gains-made-workplace/",
+          "author": null,
+          "description": "“There are still a number of our rights that are not recognised. We still have to fight”",
+          "link": "https://www.groundup.org.za/article/domestic-workers-celebrate-gains-made-workplace/",
+          "publishedOn": "2021-06-18T07:58:00.000Z",
+          "wordCount": 1050,
+          "title": "Domestic workers celebrate workplace gains",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/masego_mafata/pinky_mashiane_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/men-should-spend-average-50-minutes-more-day-household-duties-report-finds/",
+          "author": null,
+          "description": "Only then would men do 50% of the unpaid care work",
+          "link": "https://www.groundup.org.za/article/men-should-spend-average-50-minutes-more-day-household-duties-report-finds/",
+          "publishedOn": "2021-06-17T13:59:00.000Z",
+          "wordCount": 1294,
+          "title": "Men should spend on average 50 minutes more a day on household duties, report finds",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/dirty_dishes_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/youth-day-event-charges-packet-sanitary-pads-entrance-fee/",
+          "author": null,
+          "description": "Campaign to collect pads for people who can’t afford them",
+          "link": "https://www.groundup.org.za/article/youth-day-event-charges-packet-sanitary-pads-entrance-fee/",
+          "publishedOn": "2021-06-17T13:55:00.000Z",
+          "wordCount": 729,
+          "title": "Youth Day event charges a packet of sanitary pads as entrance fee",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Selby%20Nomnganga/sanitarytoweldrive-selby_nomnfundo-20210617img_6254_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/activists-and-organisations-join-walk-resistance-against-river-club-development/",
+          "author": null,
+          "description": "A petition signed by 50,000 people opposing the R4.5bn mega-development has been handed over to Mayor Dan Plato",
+          "link": "https://www.groundup.org.za/article/activists-and-organisations-join-walk-resistance-against-river-club-development/",
+          "publishedOn": "2021-06-17T12:02:00.000Z",
+          "wordCount": 1116,
+          "title": "“Walk of Resistance” against Amazon site",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/marecia_damons/river_club_development_march_17062021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/why-government-such-muddle-over-vaccination/",
+          "author": null,
+          "description": "Decisions are chaotic and lack transparency",
+          "link": "https://www.groundup.org.za/article/why-government-such-muddle-over-vaccination/",
+          "publishedOn": "2021-06-17T11:34:40.000Z",
+          "wordCount": 1636,
+          "title": "Why is the government in such a muddle over vaccination?",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/lv-vaccine-web_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/makhanda-community-stops-million-rand-road-construction-project/",
+          "author": null,
+          "description": "They are demanding to be employed in local construction projects in their area",
+          "link": "https://www.groundup.org.za/article/makhanda-community-stops-million-rand-road-construction-project/",
+          "publishedOn": "2021-06-17T10:01:08.000Z",
+          "wordCount": 862,
+          "title": "Makhanda community stops million rand road construction project",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/loyiso_dyongman/makhanda_road_project_17062021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/langa-residents-are-fed-their-police/",
+          "author": null,
+          "description": "Community leaders claim their safety patrol is more effective than SAPS",
+          "link": "https://www.groundup.org.za/article/langa-residents-are-fed-their-police/",
+          "publishedOn": "2021-06-17T09:54:00.000Z",
+          "wordCount": 811,
+          "title": "Langa residents are fed up with their police",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/langa_police_protest_extra_large.jpeg"
+          }
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.10.2"
 }
