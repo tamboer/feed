@@ -1,6 +1,6 @@
 # cacheUrl: https://tamboer.github.io/feed/cache.json
 sources:
-  - href: https://www.groundup.org.za/feeds
+  - href: https://www.groundup.org.za/sitenews/rss/
 #   - href: https://www.biznews.com
 #   - href: https://www.realclearscience.com
 #   - href: https://www.theguardian.com/sport
