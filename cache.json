@@ -6,12 +6,82 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/commuters-have-deserted-metrorail/",
+          "author": null,
+          "description": "Another year at best before Cape Town Central line resumes service to Khayelitsha",
+          "link": "https://www.groundup.org.za/article/commuters-have-deserted-metrorail/",
+          "publishedOn": "2021-06-21T11:46:06.000Z",
+          "wordCount": 1124,
+          "title": "Commuters have deserted Metrorail",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Tariro%20Washinyira/metrorail_cpt_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/three-people-court-today-participating-four-day-garden-route-protests/",
+          "author": null,
+          "description": "The project was approved in October 2019 but has yet to break ground",
+          "link": "https://www.groundup.org.za/article/three-people-court-today-participating-four-day-garden-route-protests/",
+          "publishedOn": "2021-06-21T11:00:00.000Z",
+          "wordCount": 812,
+          "title": "Plett residents in court after protests against stalled housing project",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/siphokazi_mnyobe/qolweni_protest_21062021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/concourt-punishes-litigants-defaming-judges/",
+          "author": null,
+          "description": "Punitive cost order made against tribal authority that made unsubstantiated allegations",
+          "link": "https://www.groundup.org.za/article/concourt-punishes-litigants-defaming-judges/",
+          "publishedOn": "2021-06-21T10:22:29.000Z",
+          "wordCount": 1094,
+          "title": "Concourt punishes litigants for defaming judges",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/scales-of-justice_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/hundreds-making-use-of-sassas-new-online-booking-portal-for-disability-grants/",
+          "author": null,
+          "description": "But activists remain sceptical on whether it will alleviate the overburdened process for all vulnerable beneficiaries",
+          "link": "https://www.groundup.org.za/article/hundreds-making-use-of-sassas-new-online-booking-portal-for-disability-grants/",
+          "publishedOn": "2021-06-21T09:43:00.000Z",
+          "wordCount": 1052,
+          "title": "Hundreds making use of SASSA’s new online booking portal for disability grants",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Buziwe%20Nocuze/sassa_lines_in_gugulethu_2021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/covid-19-vaccinations-homeless-people-risk-being-left-out/",
+          "author": null,
+          "description": "At present the system requires an ID to register",
+          "link": "https://www.groundup.org.za/article/covid-19-vaccinations-homeless-people-risk-being-left-out/",
+          "publishedOn": "2021-06-21T08:12:45.000Z",
+          "wordCount": 1186,
+          "title": "Covid-19 vaccinations: homeless people at risk of being left out",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/James%20Stent/culemborg_homeless_2020_extra_large.jpeg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/immigrant-shop-owners-plead-be-allowed-continue-trading-diepkloof/",
           "author": null,
           "description": "“All we want is to operate our shops and look after our families”",
           "link": "https://www.groundup.org.za/article/immigrant-shop-owners-plead-be-allowed-continue-trading-diepkloof/",
           "publishedOn": "2021-06-18T14:05:00.000Z",
-          "wordCount": 1057,
+          "wordCount": 1069,
           "title": "Immigrant shop owners plead to be allowed to continue trading in Diepkloof",
           "enclosure": {
             "length": "26343",
@@ -25,7 +95,7 @@
           "description": "Accused’s lawyer wants case struck from court roll should the state not be ready next month",
           "link": "https://www.groundup.org.za/article/state-asks-more-time-investigate-case-against-table-mountain-fire-accused/",
           "publishedOn": "2021-06-18T13:32:28.000Z",
-          "wordCount": 859,
+          "wordCount": 854,
           "title": "State asks for more time to investigate case against Table Mountain fire accused",
           "enclosure": {
             "length": "26343",
@@ -39,7 +109,7 @@
           "description": "Community leaders protesting over poor services accused of hijacking genuine demands with a “nefarious political agenda”",
           "link": "https://www.groundup.org.za/article/makana-municipality-gets-court-interdict-against-further-protests/",
           "publishedOn": "2021-06-18T13:26:56.000Z",
-          "wordCount": 800,
+          "wordCount": 803,
           "title": "Makana Municipality gets court interdict against further protests",
           "enclosure": {
             "length": "26343",
@@ -53,7 +123,7 @@
           "description": "Because of the syringes being used, vaccinators are getting fewer doses per vial",
           "link": "https://www.groundup.org.za/article/health-department-likely-overcounting-its-vaccine-supply/",
           "publishedOn": "2021-06-18T12:06:06.000Z",
-          "wordCount": 1846,
+          "wordCount": 1822,
           "title": "Health department is likely overcounting its vaccine supply",
           "enclosure": {
             "length": "26343",
@@ -67,7 +137,7 @@
           "description": "Occupiers say they were tired of their pleas for housing “falling on deaf ears”",
           "link": "https://www.groundup.org.za/article/dozens-families-left-homelss-tsakane-after-60-shacks-demolished/",
           "publishedOn": "2021-06-18T11:38:30.000Z",
-          "wordCount": 1106,
+          "wordCount": 1101,
           "title": "Families left homeless in Tsakane after 60 shacks demolished",
           "enclosure": {
             "length": "26343",
@@ -81,7 +151,7 @@
           "description": "Rubbish strewn and sewage flooded streets are a daily curse in Duncan Village",
           "link": "https://www.groundup.org.za/article/east-london-residents-say-they-live-filth/",
           "publishedOn": "2021-06-18T09:39:00.000Z",
-          "wordCount": 905,
+          "wordCount": 901,
           "title": "East London residents say they live in filth",
           "enclosure": {
             "length": "26343",
@@ -95,7 +165,7 @@
           "description": "Health department says it could soon be using a nearby church hall to dispense medication to prevent patients crowding at the clinic’s gates",
           "link": "https://www.groundup.org.za/article/patients-knysna-wait-outside-clinic-hours-get-medication/",
           "publishedOn": "2021-06-18T09:35:00.000Z",
-          "wordCount": 860,
+          "wordCount": 849,
           "title": "Patients at a Knysna clinic wait outside for hours to get medication",
           "enclosure": {
             "length": "26343",
@@ -109,7 +179,7 @@
           "description": "Protesters block access to depot",
           "link": "https://www.groundup.org.za/article/gqeberha-bus-service-shut-down-second-day/",
           "publishedOn": "2021-06-18T09:31:00.000Z",
-          "wordCount": 1043,
+          "wordCount": 1037,
           "title": "Dispute between shareholders and board leaves commuters without bus service",
           "enclosure": {
             "length": "26343",
@@ -137,82 +207,12 @@
           "description": "Only then would men do 50% of the unpaid care work",
           "link": "https://www.groundup.org.za/article/men-should-spend-average-50-minutes-more-day-household-duties-report-finds/",
           "publishedOn": "2021-06-17T13:59:00.000Z",
-          "wordCount": 1297,
+          "wordCount": 1291,
           "title": "Men should spend on average 50 minutes more a day on household duties, report finds",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/dirty_dishes_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/youth-day-event-charges-packet-sanitary-pads-entrance-fee/",
-          "author": null,
-          "description": "Campaign to collect pads for people who can’t afford them",
-          "link": "https://www.groundup.org.za/article/youth-day-event-charges-packet-sanitary-pads-entrance-fee/",
-          "publishedOn": "2021-06-17T13:55:00.000Z",
-          "wordCount": 733,
-          "title": "Youth Day event charges a packet of sanitary pads as entrance fee",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Selby%20Nomnganga/sanitarytoweldrive-selby_nomnfundo-20210617img_6254_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/activists-and-organisations-join-walk-resistance-against-river-club-development/",
-          "author": null,
-          "description": "A petition signed by 50,000 people opposing the R4.5bn mega-development has been handed over to Mayor Dan Plato",
-          "link": "https://www.groundup.org.za/article/activists-and-organisations-join-walk-resistance-against-river-club-development/",
-          "publishedOn": "2021-06-17T12:02:00.000Z",
-          "wordCount": 1105,
-          "title": "“Walk of Resistance” against Amazon site",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/marecia_damons/river_club_development_march_17062021_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/why-government-such-muddle-over-vaccination/",
-          "author": null,
-          "description": "Decisions are chaotic and lack transparency",
-          "link": "https://www.groundup.org.za/article/why-government-such-muddle-over-vaccination/",
-          "publishedOn": "2021-06-17T11:34:40.000Z",
-          "wordCount": 1650,
-          "title": "Why is the government in such a muddle over vaccination?",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/lv-vaccine-web_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/makhanda-community-stops-million-rand-road-construction-project/",
-          "author": null,
-          "description": "They are demanding to be employed in local construction projects in their area",
-          "link": "https://www.groundup.org.za/article/makhanda-community-stops-million-rand-road-construction-project/",
-          "publishedOn": "2021-06-17T10:01:08.000Z",
-          "wordCount": 859,
-          "title": "Makhanda community stops million rand road construction project",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/loyiso_dyongman/makhanda_road_project_17062021_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/langa-residents-are-fed-their-police/",
-          "author": null,
-          "description": "Community leaders claim their safety patrol is more effective than SAPS",
-          "link": "https://www.groundup.org.za/article/langa-residents-are-fed-their-police/",
-          "publishedOn": "2021-06-17T09:54:00.000Z",
-          "wordCount": 823,
-          "title": "Langa residents are fed up with their police",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/langa_police_protest_extra_large.jpeg"
           }
         }
       ]
@@ -222,6 +222,141 @@
       "feedUrl": "https://lifehacker.com/rss",
       "siteUrl": "https://lifehacker.com",
       "articles": [
+        {
+          "id": "1847144065",
+          "author": "Brendan Hesse",
+          "description": "An unusual bug is currently breaking iPhones’ wifi connections. Luckily, it’s easy enough to avoid—and to fix if your phone becomes afflicted—but dang, is it weird. In short, for some reason, if your iPhone connects to a wifi network named “%p%s%s%s%s%n,” the device’s wifi will cease to function. So don’t do that.\n\nRead more...",
+          "link": "https://lifehacker.com/how-to-fix-the-mysterious-iphone-wifi-bug-and-avoid-it-1847144065",
+          "publishedOn": "2021-06-21T21:00:00.000Z",
+          "wordCount": 483,
+          "title": "How to Fix the Mysterious iPhone Wifi Bug (and Avoid It Altogether)"
+        },
+        {
+          "id": "1847143343",
+          "author": "Aisha Jordan",
+          "description": "When it comes to finding inspiration for your garden you could turn to an average internet search or tutorial, but nothing beats a daily feed of your favorite charismatic and innovative gardeners on social media. Here are some Instagram gardeners and conservatories to follow for both gardening advice and…\nRead more...",
+          "link": "https://lifehacker.com/follow-these-instagram-gardeners-to-inspire-your-dream-1847143343",
+          "publishedOn": "2021-06-21T20:30:00.000Z",
+          "wordCount": 548,
+          "title": "Follow These Instagram Gardeners to Inspire Your Dream Garden"
+        },
+        {
+          "id": "1692058974",
+          "author": "Dick Talens",
+          "description": "Unless you enjoy getting injured, you should use good form at the gym. But what exactly does “good form” mean, and how much of a difference does it make? First, let’s talk about the purpose of form. For that, we turn to Jordan Syatt, a world record powerlifter and Westside Certified Barbell instructor. According to…\nRead more...",
+          "link": "https://lifehacker.com/all-about-lifting-form-what-to-worry-about-and-what-n-1692058974",
+          "publishedOn": "2021-06-21T19:30:00.000Z",
+          "wordCount": 1404,
+          "title": "What 'Good Weight Lifting Form' Really Means (and When It Matters)"
+        },
+        {
+          "id": "1844633078",
+          "author": "Joel Kahn",
+          "description": "Even as the pandemic wanes (sort of—get vaccinated!) and we put the political strife of 2020 in the review mirror (wait, actually...), there’s still plenty to be upset about each and every day. So let’s put our combined anxiety aside and agree on one thing: Ice cream is best enjoyed when eaten from a coffee mug.\nRead more...",
+          "link": "https://lifehacker.com/ice-cream-deserves-to-be-eaten-from-a-mug-1844633078",
+          "publishedOn": "2021-06-21T19:00:00.000Z",
+          "wordCount": 461,
+          "title": "Ice Cream Deserves to Be Eaten From a Mug"
+        },
+        {
+          "id": "1847142442",
+          "author": "Mike Winters",
+          "description": "It’s understandable that Amazon’s Prime Day sale (June 21-22) looms large for most consumers—the company rakes in just under 50% of all e-commerce retail revenue, nearly six times that of it’s next closest competitor, Walmart. But that doesn’t mean that you can’t find a better deals elsewhere, as other large retail…\nRead more...",
+          "link": "https://lifehacker.com/the-best-prime-day-alternatives-if-youd-rather-not-shop-1847142442",
+          "publishedOn": "2021-06-21T18:30:00.000Z",
+          "wordCount": 776,
+          "title": "The Best Prime Day Alternatives If You'd Rather Not Shop at Amazon"
+        },
+        {
+          "id": "1847140732",
+          "author": "Aisha Jordan",
+          "description": "Pride month is in full swing even as more of us are starting to reemerge into the world as COVID restrictions are easing around the country. The timing couldn’t be better: This month is a time to honor those who rioted, fought, and paved the way for the livelihood and rights of LGBTQ people—a time both to commemorate…\nRead more...",
+          "link": "https://lifehacker.com/6-lgbtq-friendly-beaches-to-visit-this-summer-1847140732",
+          "publishedOn": "2021-06-21T18:00:00.000Z",
+          "wordCount": 1362,
+          "title": "6 LGBTQ-Friendly Beaches to Visit This Summer"
+        },
+        {
+          "id": "1847140307",
+          "author": "Sam Blum",
+          "description": "If you’re an avid stargazer, June alone has been a crowded month in an otherwise busy year of celestial events. A solar eclipse, a planetary conjunction, and an asteroid careening within a reasonably close distance of the planet have added a nice bit of cosmic intrigue as the days get warmer and longer.\n\nRead more...",
+          "link": "https://lifehacker.com/when-to-see-the-strawberry-moon-the-last-supermoon-of-1847140307",
+          "publishedOn": "2021-06-21T17:30:00.000Z",
+          "wordCount": 629,
+          "title": "When to See the 'Strawberry Moon,' the Last Supermoon of 2021"
+        },
+        {
+          "id": "1847141308",
+          "author": "Claire Lower",
+          "description": "Fresh herbs are beautiful, fragrant, and vivacious, but they lose their looks and flavor when left simmering in pots of soup or roasting with braised meat dishes. Losing their flavor is kind of the whole point—they are, after all, losing it to your dish—but the look and texture of soggy, heat-withered herbs is…\nRead more...",
+          "link": "https://lifehacker.com/how-to-make-your-own-bouquet-garni-1847141308",
+          "publishedOn": "2021-06-21T17:00:00.000Z",
+          "wordCount": 546,
+          "title": "How to Make Your Own Bouquet Garni"
+        },
+        {
+          "id": "1846103865",
+          "author": "Claire Lower",
+          "description": "Aesthetically speaking, ground meat is not the most pleasing of animal proteins. When raw, it is all squishy and speckled, and more often than not, cooking it just transforms the pink, soft stuff into grey, nubby stuff.\nRead more...",
+          "link": "https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865",
+          "publishedOn": "2021-06-21T16:00:00.000Z",
+          "wordCount": 748,
+          "title": "You Should Add Baking Soda to Your Ground Meat"
+        },
+        {
+          "id": "5626604",
+          "author": "Philip Guo",
+          "description": "A person’s name is the single most important word to them, and how you use that name can have a profound effect on their impressions of you: Think about the times you’ve felt special when someone you admired addressed you by your name in a sincere tone, or the times when you’ve felt belittled when someone negligently…\nRead more...",
+          "link": "https://lifehacker.com/how-to-remember-peoples-names-and-deal-with-unusual-na-5626604",
+          "publishedOn": "2021-06-21T15:30:00.000Z",
+          "wordCount": 1642,
+          "title": "8 Tips for Remembering People's Names (and How to Memorize Unfamiliar Ones)"
+        },
+        {
+          "id": "1822524179",
+          "author": "Michelle Woo",
+          "description": "As parents, we should trust our kids’ doctors. But we should also be aware of what is standard procedure, and what is not. \nRead more...",
+          "link": "https://lifehacker.com/what-your-pediatrician-should-and-shouldnt-do-during-a-1822524179",
+          "publishedOn": "2021-06-21T15:00:00.000Z",
+          "wordCount": 1375,
+          "title": "What Your Pediatrician Should and Shouldn't Do During a Physical Exam"
+        },
+        {
+          "id": "1847124197",
+          "author": "Sam Blum",
+          "description": "Houseplants are a great way to decorate and keeping them can even have psychological benefits—but to a curious cat or dog, many plants could also pose a major health risk. So before you bring just any plant home, you should acquaint yourself with the telltale signs of toxicity, so you can comfortably decorate without…\nRead more...",
+          "link": "https://lifehacker.com/how-to-tell-if-a-plant-is-toxic-to-pets-before-you-buy-1847124197",
+          "publishedOn": "2021-06-21T14:45:00.000Z",
+          "wordCount": 678,
+          "title": "How to Tell If a Plant Is Toxic to Pets Before You Buy It"
+        },
+        {
+          "id": "1847137263",
+          "author": "Mike Winters",
+          "description": "With the Department of Education recently having wiped out $500 million in student debt for former students of ITT Technical Institute, the Biden Administration continues to reverse many Trump-era policies on student debt relief claims. Now that it actually appears there is a chance borrowers who have been defrauded…\nRead more...",
+          "link": "https://lifehacker.com/how-to-file-a-borrower-defense-claim-for-student-loan-f-1847137263",
+          "publishedOn": "2021-06-21T14:00:00.000Z",
+          "wordCount": 551,
+          "title": "How to File a Borrower Defense Claim for Student Loan Forgiveness"
+        },
+        {
+          "id": "1847122748",
+          "author": "Meghan Moravcik Walbert",
+          "description": "This is the Parental Advisory advice column, where we tackle your most pressing parenting dilemmas, one tantrum at a time. Email your kid-rearing questions to mwalbert@lifehacker.com with “Parental Advisory” in the subject line.\nRead more...",
+          "link": "https://lifehacker.com/how-do-i-strengthen-my-relationship-with-my-adult-child-1847122748",
+          "publishedOn": "2021-06-21T13:30:00.000Z",
+          "wordCount": 1264,
+          "title": "How Do I Strengthen My Relationship With My Adult Children?"
+        },
+        {
+          "id": "1847123752",
+          "author": "Claire Lower",
+          "description": "Another day, another TikTok food trend; this time we’re putting mustard on watermelon, and we’re not even high. I’m not sure who made the first watermelon mustard video (I think it was this person), but I know that Lizzo made the most popular one. \nRead more...",
+          "link": "https://lifehacker.com/why-is-everyone-putting-mustard-on-watermelon-1847123752",
+          "publishedOn": "2021-06-21T13:00:00.000Z",
+          "wordCount": 775,
+          "title": "Why Is Everyone Putting Mustard on Watermelon?"
+        },
         {
           "id": "1847134604",
           "author": "Elizabeth Yuko",
@@ -237,7 +372,7 @@
           "description": "No matter how often you clean the tiles, fixtures, and tub/shower, you may still find yourself dealing with an annoying, recurring problem: mold on your shower curtain. One day you put in a fresh liner, and it seems like it’s only a few days later before the mold reemerges. \nRead more...",
           "link": "https://lifehacker.com/how-to-deal-with-a-moldy-shower-curtain-1847134631",
           "publishedOn": "2021-06-20T16:45:00.000Z",
-          "wordCount": 943,
+          "wordCount": 845,
           "title": "How to Deal With a Moldy Shower Curtain"
         },
         {
@@ -255,7 +390,7 @@
           "description": "One of the many things we’ve learned over the past year is that most office jobs can be done from pretty much anywhere with a solid internet connection (unless you have small children around, but that’s a different story). So after years of office bosses telling employees that working remotely wasn’t an option, that’s…\nRead more...",
           "link": "https://lifehacker.com/apply-to-live-rent-free-in-an-airbnb-for-10-months-1847133410",
           "publishedOn": "2021-06-19T16:00:00.000Z",
-          "wordCount": 402,
+          "wordCount": 423,
           "title": "Apply to Live Rent-Free in an Airbnb for 10 Months"
         },
         {
@@ -264,7 +399,7 @@
           "description": "Some decisions require a lot of thought—weighing pros and cons, and trying to reach the best possible outcome. But some people are indecisive about pretty much everything, big or small. Whether you’re dealing with an ambivalent person, or you are an ambivalent person yourself, you know that it can be annoying. \nRead more...",
           "link": "https://lifehacker.com/how-being-ambivalent-can-help-you-make-better-decisions-1847133403",
           "publishedOn": "2021-06-19T13:30:00.000Z",
-          "wordCount": 427,
+          "wordCount": 436,
           "title": "How Being Ambivalent Can Help You Make Better Decisions"
         },
         {
@@ -311,141 +446,6 @@
           "publishedOn": "2021-06-18T15:00:00.000Z",
           "wordCount": 920,
           "title": "The Out-of-Touch Adults' Guide To Kid Culture: Are You Buttering Your Popcorn Wrong?"
-        },
-        {
-          "id": "1847121757",
-          "author": "Ross Johnson",
-          "description": "It’s Father’s Day once again, which means you’re seeing ads for all the types of gifts that a dad might like: wacky golf balls; knives that open up to reveal other knives; neckties covered in pictures of hot dogs and footballs. Maybe you know a dad that loves all of that. Maybe your dad loves all that. But  fathers,…\nRead more...",
-          "link": "https://lifehacker.com/25-of-the-best-fictional-dads-in-movie-history-1847121757",
-          "publishedOn": "2021-06-18T14:00:00.000Z",
-          "wordCount": 3561,
-          "title": "25 of the Best Fictional Dads in Movie History"
-        },
-        {
-          "id": "1847122611",
-          "author": "Vaughn Stafford Gray",
-          "description": "Few dishes are as political and polarizing as cornbread. If you think the pineapple on pizza debate is heated, whoo boy, ask someone from the American South if cornbread should be sweet or savory. Much like the great Sugar in Grits debate, the topic of cornbread often elicits a visceral reaction, especially among…\nRead more...",
-          "link": "https://lifehacker.com/theres-more-than-one-way-to-make-authentic-cornbread-1847122611",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 939,
-          "title": "There's More Than One Way to Make 'Authentic' Cornbread"
-        },
-        {
-          "id": "1847124985",
-          "author": "Aisha Jordan",
-          "description": "It’s customary in countries around the world to remove your shoes before coming into the house. Some households do it for practical reasons while others remove shoes for religious reasons. In the United States, conversations around shoes in the home are often tied to bacteria and filth. While it is a valid concern,…\nRead more...",
-          "link": "https://lifehacker.com/actually-its-not-that-dirty-to-wear-your-shoes-inside-1847124985",
-          "publishedOn": "2021-06-17T21:15:00.000Z",
-          "wordCount": 535,
-          "title": "Actually, It's Not That Dirty to Wear Your Shoes Inside"
-        },
-        {
-          "id": "1847122963",
-          "author": "Aisha Jordan",
-          "description": "If you live in an apartment like mine, dust builds up as soon as you wipe it down, so sometimes you just don’t bother—but we really should do it, and probably more often. A build-up of dust can cause serious respiratory problems, and regular dustings can help you avoid severe illness down the road. Here are 12 fun and…\nRead more...",
-          "link": "https://lifehacker.com/11-ways-to-eliminate-dust-that-you-would-never-think-of-1847122963",
-          "publishedOn": "2021-06-17T21:00:00.000Z",
-          "wordCount": 1179,
-          "title": "11 Ways to Eliminate Dust That You Would Never Think of on Your Own"
-        },
-        {
-          "id": "1847124415",
-          "author": "Brendan Hesse",
-          "description": "The June Xbox system update for Xbox Series X/S and Xbox One consoles isn’t as big as previous months, but the latest firmware adds two important accessibility features for players with hearing and speech disabilities, along with new parental controls and a new way to organize your games and apps page. We’ll go over…\nRead more...",
-          "link": "https://lifehacker.com/how-to-enable-xboxs-new-party-chat-features-1847124415",
-          "publishedOn": "2021-06-17T20:45:00.000Z",
-          "wordCount": 555,
-          "title": "How to Enable Xbox's New Party Chat Features"
-        },
-        {
-          "id": "1847124266",
-          "author": "Mike Winters",
-          "description": "It’s a stereotype to say that all dads like craft beer, grilling meats, and shaving kits, but then again, a lot of dads do. To make Father’s Day a little easier on you—because it’s two days away and apparently you forgot to shop—here are 6 dad-friendly gifts that are totally cliché, but only because there’s a good…\nRead more...",
-          "link": "https://lifehacker.com/5-cliche-fathers-day-gift-ideas-worth-embracing-this-ye-1847124266",
-          "publishedOn": "2021-06-17T19:30:00.000Z",
-          "wordCount": 822,
-          "title": "5 Cliché Father's Day Gift Ideas Worth Embracing This Year"
-        },
-        {
-          "id": "1847114389",
-          "author": "Lindsey Ellefson",
-          "description": "When you find a new partner you really vibe with, it’s supposed to be all sunshine and rainbows. But for people with trauma in their pasts, there’s a dark cloud hanging over every new relationship: Inevitably, they will have to tell their new love about the horrors of their past.\nRead more...",
-          "link": "https://lifehacker.com/how-to-tell-your-partner-about-past-trauma-1847114389",
-          "publishedOn": "2021-06-17T19:00:00.000Z",
-          "wordCount": 1610,
-          "title": "How to Tell Your Partner About Past Trauma"
-        },
-        {
-          "id": "1847120647",
-          "author": "Sam Blum",
-          "description": "The out-of-office message is one of the most formulaic functions of the modern workplace, so much so that most of them seem to have been derived from a game of Mad-Libs: “I will be away from the office from [date] with limited access to email. If your message is urgent...” etc., etc.\n\nRead more...",
-          "link": "https://lifehacker.com/your-out-of-office-message-should-be-brutally-honest-1847120647",
-          "publishedOn": "2021-06-17T18:30:00.000Z",
-          "wordCount": 701,
-          "title": "Your Out-of-Office Message Should Be Brutally Honest"
-        },
-        {
-          "id": "1793895235",
-          "author": "Beth Skwarecki",
-          "description": "Chances are, no matter where you live, you live in tick country. These parasitic arachnids love to crawl onto our bodies, explore for a bit, and then settle down and bury their little heads into our skin. They can transmit illnesses like Lyme disease, making them a safety issue in addition to simply being gross. But a…\nRead more...",
-          "link": "https://lifehacker.com/youre-probably-going-to-get-a-tick-this-summer-good-lu-1793895235",
-          "publishedOn": "2021-06-17T18:00:00.000Z",
-          "wordCount": 1818,
-          "title": "8 Myths About Ticks You Should Ignore"
-        },
-        {
-          "id": "1847121655",
-          "author": "Beth Skwarecki",
-          "description": "If you struggle to find enough time to exercise, you’re not alone. Even though an effective workout can be long, short, or anywhere in between, we often let the time commitment exercise requires become a barrier, and figure it’s not worth even starting. Fortunately, a new review paper by sports scientists has gathered…\nRead more...",
-          "link": "https://lifehacker.com/how-to-strength-train-faster-according-to-science-1847121655",
-          "publishedOn": "2021-06-17T17:30:00.000Z",
-          "wordCount": 1154,
-          "title": "How to Strength Train Faster, According to Science"
-        },
-        {
-          "id": "1847121784",
-          "author": "Claire Lower",
-          "description": "Lemons are one of the few—or maybe one of two—fruits with peels as valuable as their juicy flesh. Lemon zest is one of the quickest ways you can add the essence of sunshine to your dish, but sometimes you don’t need juice and zest at the same time, and these out-of-sync moments can leave you with a whole bunch of…\nRead more...",
-          "link": "https://lifehacker.com/you-should-freeze-your-juiced-lemon-peels-1847121784",
-          "publishedOn": "2021-06-17T17:00:00.000Z",
-          "wordCount": 563,
-          "title": "You Should Freeze Your Juiced Lemon Peels"
-        },
-        {
-          "id": "1834561279",
-          "author": "Brendan Hesse",
-          "description": "Prime Day is fast approaching (again), and maybe you’re planning to spend it scouting good deals on off-brand tech like wireless earbuds and phone cables. But for all its convenience, online shopping’s biggest shortcoming is still the inability to see or test products first-hand before buying. So to feel like we know…\nRead more...",
-          "link": "https://lifehacker.com/how-to-spot-fake-reviews-on-amazon-1834561279",
-          "publishedOn": "2021-06-17T16:00:00.000Z",
-          "wordCount": 1080,
-          "title": "How to Spot Fake Reviews on Amazon"
-        },
-        {
-          "id": "1844015953",
-          "author": "Meghan Moravcik Walbert",
-          "description": "A Dad Joke is something to be appreciated any day of the year, but as we approach Father’s Day, it’s especially important to honor this specific genre of “humor.” If we can call it that.\nRead more...",
-          "link": "https://lifehacker.com/here-are-some-dad-jokes-for-you-1844015953",
-          "publishedOn": "2021-06-17T15:30:00.000Z",
-          "wordCount": 712,
-          "title": "Here Are Some Dad Jokes for You"
-        },
-        {
-          "id": "1847120458",
-          "author": "A.A. Newton",
-          "description": "Nothing finishes off a bowl of pasta like grated parmesan or pecorino—unless you’re vegan. Good vegan hard cheeses are probably out there somewhere, but I have yet to find a brand or recipe that comes close to the real thing. Instead of going broke betting my dinner on one failed contender after another, I gave up and…\nRead more...",
-          "link": "https://lifehacker.com/top-your-vegan-pasta-with-fried-breadcrumbs-1847120458",
-          "publishedOn": "2021-06-17T15:00:00.000Z",
-          "wordCount": 627,
-          "title": "Top Your Vegan Pasta With Fried Breadcrumbs"
-        },
-        {
-          "id": "1847114589",
-          "author": "Sam Blum",
-          "description": "Not all advice need be professional. Sometimes your problems merit a bit of unvarnished honesty from a dude equipped with nothing more than a computer and a conscience. Luckily for you, I’m that guy. Welcome back to Tough Love.\n\nRead more...",
-          "link": "https://lifehacker.com/what-should-i-do-with-these-mysterious-cremains-1847114589",
-          "publishedOn": "2021-06-17T14:30:00.000Z",
-          "wordCount": 1154,
-          "title": "What Should I Do With These Mysterious Cremains?"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=482900&preview=true&preview_id=482900",
-          "author": "Dan Maloney",
-          "description": "The hits just keep coming for Elon Musk, as this week Starlink users reported their new satellite dishes apparently can’t take the heat. Granted, the places these reports are coming …read more",
-          "link": "https://hackaday.com/2021/06/20/hackaday-links-june-20-2021/",
-          "publishedOn": "2021-06-20T23:00:37.000Z",
-          "wordCount": 1734,
-          "title": "Hackaday Links: June 20, 2021"
-        },
-        {
-          "id": "https://hackaday.com/?p=483165",
-          "author": "Al Williams",
-          "description": "An SDR add-on for the Raspberry Pi isn’t a new idea, but the open source cariboulite project looks like a great entry into the field. Even if you aren’t interested …read more",
-          "link": "https://hackaday.com/2021/06/20/raspberry-pi-hat-adds-sdr-with-high-speed-memory-access/",
-          "publishedOn": "2021-06-20T20:00:42.000Z",
-          "wordCount": 1398,
-          "title": "Raspberry Pi Hat Adds SDR with High Speed Memory Access"
-        },
-        {
-          "id": "https://hackaday.com/?p=483122",
+          "id": "https://hackaday.com/?p=483276",
           "author": "Bryan Cockfield",
-          "description": "While it’s in vogue right now to name fancy new technology after Tesla, the actual inventor had plenty of his own creations that would come to bear his namesake, including …read more",
-          "link": "https://hackaday.com/2021/06/20/tiny-tesla-valves-etched-in-glass/",
-          "publishedOn": "2021-06-20T17:00:01.000Z",
-          "wordCount": 1305,
-          "title": "Tiny Tesla Valves Etched in Glass"
+          "description": "[James Sharman] has built an impressive 8-bit homebrew computer. Based on TTL logic chips, it has a pipelined design which makes it capable of Commodore-level computing, but [James] hasn’t quite …read more",
+          "link": "https://hackaday.com/2021/06/21/vga-from-scratch-on-a-homebrew-8-bit-computer/",
+          "publishedOn": "2021-06-21T23:00:52.000Z",
+          "wordCount": 1113,
+          "title": "VGA From Scratch On A Homebrew 8-bit Computer"
         },
         {
-          "id": "https://hackaday.com/?p=483096",
+          "id": "https://hackaday.com/?p=483434",
           "author": "Al Williams",
-          "description": "Wireless charging is conceptually simple. Two coils form an ad hoc transformer with the primary in the charger and the secondary in the charging device. However, if you’ve ever had a …read more",
-          "link": "https://hackaday.com/2021/06/20/19-coils-make-charging-wireless/",
-          "publishedOn": "2021-06-20T14:00:03.000Z",
-          "wordCount": 4894,
-          "title": "19 Coils Make Charging Wireless"
+          "description": "Smart watches are pretty common today, but how many people do you know with a smart hat? [Oliver] built Wilson which he bills as “the IoT hat.” We wonder if …read more",
+          "link": "https://hackaday.com/2021/06/21/forget-smart-watch-build-a-smart-hat/",
+          "publishedOn": "2021-06-21T20:00:02.000Z",
+          "wordCount": 1142,
+          "title": "Forget Smart Watch; Build a Smart Hat"
         },
         {
-          "id": "https://hackaday.com/?p=482857",
-          "author": "Kristina Panos",
-          "description": "Let’s face it — eating different colored candy like M&Ms or Skittles is just a little more fun if you sort your pile by color first. The not-fun part is …read more",
-          "link": "https://hackaday.com/2021/06/20/compact-mm-sorter-goes-anywhere/",
-          "publishedOn": "2021-06-20T11:00:19.000Z",
-          "wordCount": 1528,
-          "title": "Compact M&M Sorter Goes Anywhere"
-        },
-        {
-          "id": "https://hackaday.com/?p=483027",
+          "id": "https://hackaday.com/?p=483414",
           "author": "Jenny List",
-          "description": "By now it’s likely that most Hackaday readers will be used to USB display adapters, in their most common form channeling DisplayPort over the ubiquitous serial interface. Connecting to projectors …read more",
-          "link": "https://hackaday.com/2021/06/20/a-mini-usb-display-for-your-pc-desktop/",
-          "publishedOn": "2021-06-20T08:00:55.000Z",
-          "wordCount": 1715,
-          "title": "A Mini USB Display For Your PC Desktop"
+          "description": "There are some times when an awesome project comes into your feed, but a language barrier intervenes as you try to follow its creator’s description. [Kanti Sharma]’s laser display appears …read more",
+          "link": "https://hackaday.com/2021/06/21/a-laser-display-board-of-your-very-own/",
+          "publishedOn": "2021-06-21T18:30:36.000Z",
+          "wordCount": 3972,
+          "title": "A Laser Display Board Of Your Very Own"
         },
         {
-          "id": "https://hackaday.com/?p=483058",
-          "author": "Al Williams",
-          "description": "We’re unabashed fans of [Ken Shirriff] here at Hackaday, and his latest post about an Apollo-era transistorized shift register doesn’t disappoint. Of course, nowadays a 16-bit shift register is nothing …read more",
-          "link": "https://hackaday.com/2021/06/19/apollo-shift-register-is-discrete/",
-          "publishedOn": "2021-06-20T05:00:32.000Z",
-          "wordCount": 1420,
-          "title": "Apollo Shift Register is Discrete"
+          "id": "https://hackaday.com/?p=480336",
+          "author": "Kristina Panos",
+          "description": "As much as I’d like to devote an article to each and every bit of keyboard-related what-have-you that I come across in my travels through the intertubes, there just aren’t …read more",
+          "link": "https://hackaday.com/2021/06/21/keebin-with-kristina-the-one-with-the-chinese-typewriter/",
+          "publishedOn": "2021-06-21T17:00:48.000Z",
+          "wordCount": 2045,
+          "title": "Keebin’ with Kristina: the One with the Chinese Typewriter"
+        },
+        {
+          "id": "https://hackaday.com/?p=483042&preview=true&preview_id=483042",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, June 23 at noon Pacific for the Microscopy Hack Chat with Zachary Tong! There was a time when electronics was very much a hobby that existed …read more",
+          "link": "https://hackaday.com/2021/06/21/microscopy-hack-chat-with-zachary-tong/",
+          "publishedOn": "2021-06-21T16:00:57.000Z",
+          "wordCount": 1235,
+          "title": "Microscopy Hack Chat with Zachary Tong"
+        },
+        {
+          "id": "https://hackaday.com/?p=483342",
+          "author": "Chris Lott",
+          "description": "A forum post by New Zealand electronics enthusiast [zl2wrw] about retreiving waypoints from a mysterious floppy disk caught our eye. The navigation system on his friend’s fishing boat had died and …read more",
+          "link": "https://hackaday.com/2021/06/21/raspberry-pi-floppy-driver-uncovers-fishy-secrets/",
+          "publishedOn": "2021-06-21T15:00:00.000Z",
+          "wordCount": 1851,
+          "title": "Raspberry Pi Floppy Driver Uncovers Fishy Secrets"
+        },
+        {
+          "id": "https://hackaday.com/?p=481856",
+          "author": "Tom Nardi",
+          "description": "While the price of electronic paper has dropped considerably over the last few years, it’s still relatively expensive when compared to more traditional display technology. Accordingly, we’ve seen a lot …read more",
+          "link": "https://hackaday.com/2021/06/21/review-inkplate-6plus/",
+          "publishedOn": "2021-06-21T14:00:46.000Z",
+          "wordCount": 2333,
+          "title": "Review: Inkplate 6PLUS"
         }
       ]
     },
@@ -524,6 +524,15 @@
       "feedUrl": "https://makezine.com/rss",
       "siteUrl": "https://makezine.com",
       "articles": [
+        {
+          "id": "https://makezine.com/2021/06/21/open-source-hardware-certifications-for-may-2021/",
+          "author": null,
+          "description": "In May 2021 the Open Source Hardware Association (OSHWA) certified a wide variety of hardware as open source.  we will have a certified variety collection of Open Source Hardwares, Let’s take a look! (And remember, certification is a free and easy way to show that your hardware complies with the open source hardware definition.) First, […]\nThe post Open Source Hardware Certifications for May 2021 appeared first on Make: DIY Projects and Ideas for Makers.",
+          "link": "https://makezine.com/2021/06/21/open-source-hardware-certifications-for-may-2021/",
+          "publishedOn": "2021-06-21T15:00:00.000Z",
+          "wordCount": 1861,
+          "title": "Open Source Hardware Certifications for May 2021"
+        },
         {
           "id": "https://makezine.com/2021/06/18/maker-spotlight-michael-albert/",
           "author": null,
@@ -604,15 +613,6 @@
           "publishedOn": "2021-06-10T15:00:00.000Z",
           "wordCount": 1314,
           "title": "First Look: The Flashforge Foto 8.9s 4k Resin Printer"
-        },
-        {
-          "id": "https://makezine.com/2021/06/09/amaze-the-world-at-maker-faire-rome-2021/",
-          "author": null,
-          "description": "Calling All Makers! Maker Faire Rome - The European Edition is back October 8-10th 2021. Apply now to participate!\nThe post Amaze the World at Maker Faire Rome 2021 appeared first on Make: DIY Projects and Ideas for Makers.",
-          "link": "https://makezine.com/2021/06/09/amaze-the-world-at-maker-faire-rome-2021/",
-          "publishedOn": "2021-06-10T02:37:45.000Z",
-          "wordCount": 1548,
-          "title": "Amaze the World at Maker Faire Rome 2021"
         }
       ]
     },
@@ -622,6 +622,69 @@
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
         {
+          "id": "https://www.theguardian.com/games/2021/jun/21/cyberpunk-2077-finally-launched-on-playstation-4",
+          "author": "Keith Stuart",
+          "description": "The troubled sci-fi adventure was taken off the PlayStation store in December 2020 due to serious technical issues – now it’s back, but its use is “not recommended” and PS5 owners still have to wait\nThe much-hyped sci-fi adventure Cyberpunk 2077 has finally been launched on the PlayStation store, more than six months after the game’s initial release.\n Related: Cyberpunk 2077: how 2020's biggest video game launch turned into a shambles \n Continue reading...",
+          "link": "https://www.theguardian.com/games/2021/jun/21/cyberpunk-2077-finally-launched-on-playstation-4",
+          "publishedOn": "2021-06-21T12:33:57.000Z",
+          "wordCount": 558,
+          "title": "Cyberpunk 2077 finally launched on PlayStation 4"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jun/21/maureen-donnelly-obituary",
+          "author": "Lucy Walker",
+          "description": "My friend Maureen Donnelly, who has died aged 71 of cancer, was a successful and creative businesswoman with socialist ideals and a belief in public service. She was also a rambler, adventurer and lover of Irish literature, and managed to be active in all these fields while also being a devoted single parent.\nBorn in Dungannon, County Tyrone, Maureen was the daughter of Mary (nee Barker) and Frank Donnelly, and one of five siblings brought up on a modest farm nearby. After leaving St Joseph’s convent school, Donaghmore, and studying maths at Queen’s University Belfast, she moved to London. Asked why, she replied that as a Catholic she couldn’t get work she wanted in Northern Ireland, and as a woman, she wouldn’t get such employment in Dublin.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jun/21/maureen-donnelly-obituary",
+          "publishedOn": "2021-06-21T11:02:56.000Z",
+          "wordCount": 585,
+          "title": "Maureen Donnelly obituary"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jun/21/cryptocurrency-boom-fails-stem-losses-uk-fintech-firm-revolut",
+          "author": "Kalyeena Makortoff Banking correspondent",
+          "description": "Losses almost double last year despite growing demand for crypto trading pushing up revenues 34%\nLosses at the British fintech firm Revolut nearly doubled last year, despite cashing in on the year-end cryptocurrency boom.\nThe company – founded by the former Lehman Brothers trader Nik Storonsky and chaired by the ex-Standard Life Aberdeen boss Martin Gilbert – said it made £39m on its cryptocurrency investments last year, while growing demand for its crypto trading services helped pushed revenues up 34% to £222m in the 12 months to 31 December.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jun/21/cryptocurrency-boom-fails-stem-losses-uk-fintech-firm-revolut",
+          "publishedOn": "2021-06-21T10:53:56.000Z",
+          "wordCount": 742,
+          "title": "Cryptocurrency boom fails to stem losses at UK fintech firm Revolut"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/jun/21/robots-reproduce-evolution-nature-technology",
+          "author": "Emma Hart",
+          "description": "Nature is full of examples of biology adapting to its surroundings. Technology may just be about to catch up\nFrom the bottom of the oceans to the skies above us, natural evolution has filled our planet with a vast and diverse array of lifeforms, with approximately 8 million species adapted to their surroundings in a myriad of ways. Yet 100 years after Karel Čapek coined the term robot, the functional abilities of many species still surpass the capabilities of current human engineering, which has yet to convincingly develop methods of producing robots that demonstrate human-level intelligence, move and operate seamlessly in challenging environments, and are capable of robust self-reproduction.\nBut could robots ever reproduce? This, undoubtedly, forms a pillar of “life” as shared by all natural organisms. A team of researchers from the UK and the Netherlands have recently demonstrated a fully automated technology to allow physical robots to repeatedly breed, evolving their artificial genetic code over time to better adapt to their environment. Arguably, this amounts to artificial evolution. Child robots are created by mixing the digital “DNA” from two parent robots on a computer.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/jun/21/robots-reproduce-evolution-nature-technology",
+          "publishedOn": "2021-06-21T09:10:41.000Z",
+          "wordCount": 1482,
+          "title": "Robots may soon be able to reproduce - will this change how we think about evolution? | Emma Hart"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jun/21/uber-lyft-fares-surge-drivers-dont-get-piece-of-pie",
+          "author": "Michael Sainato",
+          "description": "Recent changes have driven down pay for drivers, including a reduction in minimum pay for long-distance trips\nSocializing, parties and late night trips are all coming back as the coronavirus pandemic recedes in the US and along with them has come a surge in the price of calling a cab. It’s good news for Uber and Lyft, but for the rideshare drivers who were hit so hard by the pandemic? Not so much.\n“We’re making less than normal,” said Robert Eaton of Reno, Nevada, a full-time Uber driver for over two years. He tries to work as many hours as possible every week to provide for his family, citing his most common shift is 16 hours, noon to 4am. “While fares have skyrocketed in this market, the drivers’ pay has not been raised at all.”\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jun/21/uber-lyft-fares-surge-drivers-dont-get-piece-of-pie",
+          "publishedOn": "2021-06-21T09:00:41.000Z",
+          "wordCount": 1247,
+          "title": "Uber and Lyft fares surge as pandemic recedes – but drivers don’t get ‘piece of pie’"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds",
+          "author": "Samuel Gibbs Consumer technology editor",
+          "description": "AirPods rivals have top sound, battery and translation features but cost significantly less\nGoogle’s latest AirPods competitors, the Pixel Buds A-Series, get a big price cut and a slightly more comfortable design.\nThe new Bluetooth earbuds take a cue from Google’s cheaper but great A-Series phones, cutting a few features to cost £100 (US$99) – a full £80 cheaper than their predecessors.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds",
+          "publishedOn": "2021-06-21T06:00:45.000Z",
+          "wordCount": 1380,
+          "title": "Pixel Buds A-Series review: Google’s cheaper but good earbuds"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/jun/20/sir-patrick-vallance-national-technology-adviser",
+          "author": "Jim Waterson",
+          "description": "Chief scientific adviser will head new government body looking at big bets in science and technology\nThe government’s chief scientific adviser, Sir Patrick Vallance, has been asked by Boris Johnson to investigate whether the UK’s successful vaccine procurement programme can be replicated in other areas of technology.\nVallance, who has become a household name following his appearances at coronavirus press conferences, will take on the new title of national technology adviser, serving alongside his current roles.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/jun/20/sir-patrick-vallance-national-technology-adviser",
+          "publishedOn": "2021-06-20T21:30:34.000Z",
+          "wordCount": 482,
+          "title": "Sir Patrick Vallance handed tech role to build on vaccine success"
+        },
+        {
           "id": "https://www.theguardian.com/culture/2021/jun/19/on-my-radar-anne-enright-cultural-highlights",
           "author": "Anne Enright",
           "description": "The Booker prize-winning author on Mare of Easttown, her favourite lockdown park and the fearsome power of folk music\nBorn in Dublin in 1962, Anne Enright studied English and philosophy at Trinity College Dublin and received an MA in creative writing from the University of East Anglia. Formerly an RTE television producer, she has written two collections of stories, published together as Yesterday’s Weather, one book of essays and seven novels, including the 2007 Booker prize-winning The Gathering and The Forgotten Waltz, which was awarded the Andrew Carnegie medal for excellence in fiction. In 2015, she was named the inaugural laureate for Irish fiction. Her latest novel, Actress, published by Vintage, is out in paperback now.\n Continue reading...",
@@ -629,15 +692,6 @@
           "publishedOn": "2021-06-19T14:00:01.000Z",
           "wordCount": 941,
           "title": "On my radar: Anne Enright’s cultural highlights"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jun/18/bytedance-revenues-more-than-double-on-back-of-tiktok-boom",
-          "author": "Mark Sweney",
-          "description": "Owner of video-sharing app also reports a 93% increase in gross profit to $19bn in 2020\nByteDance, the Chinese parent of TikTok, more than doubled its revenues last year as usage of the hugely popular video app boomed.\nThe company, which last year weathered pressure from Donald Trump to sell its US operation as part of a trade war with China, reported a 111% increase in revenues to $34.3bn (£24.7bn).\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/18/bytedance-revenues-more-than-double-on-back-of-tiktok-boom",
-          "publishedOn": "2021-06-18T08:57:06.000Z",
-          "wordCount": 594,
-          "title": "ByteDance revenues more than double on back of TikTok boom"
         },
         {
           "id": "https://www.theguardian.com/tv-and-radio/2021/jun/18/tom-hanks-ruined-my-life-podcasts-of-the-week",
@@ -667,6 +721,15 @@
           "title": "About 2.3m Britons hold cryptocurrencies despite warnings of risk"
         },
         {
+          "id": "https://www.theguardian.com/technology/2021/jun/17/ransomware-working-from-home-russia",
+          "author": "Kari Paul",
+          "description": "With workers outside the ‘castle walls’ of their companies, criminals have it easier – and cryptocurrency hasn’t helped\nRansomware has roared into the headlines in recent weeks after criminal hacking networks, tentatively linked to Russia, launched attacks on the major US meat packing plant JBS and the nation’s largest fuel pipeline. \nJoe Biden and his administration are scrambling to address the growing threat, pressing Vladimir Putin in a highly anticipated meeting on Wednesday to take action against the rise of ransomware attacks. Biden said he gave Putin a list of 16 areas – mostly in critical infrastructure - that are “off limits” for cyber-attacks.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jun/17/ransomware-working-from-home-russia",
+          "publishedOn": "2021-06-17T10:00:31.000Z",
+          "wordCount": 1131,
+          "title": "How remote work opened the floodgates to ransomware"
+        },
+        {
           "id": "https://www.theguardian.com/technology/2021/jun/17/nine-out-of-10-health-apps-harvest-user-data-global-study-shows",
           "author": "Soofia Tariq",
           "description": "Analysis of 20,000 mobile apps that ask for sensitive information shows that some track users across different platforms\nNine out of 10 mobile health apps collect and track user data, according to a new global study. \nThe research published in the British Medical Journal conducted in-depth analysis of more than 20,000 mobile health apps on the Google Play Store, some of which require users to disclose sensitive health information, including step and calorie counters, apps that manage health conditions, symptom checkers and menstruation trackers.\n Continue reading...",
@@ -674,15 +737,6 @@
           "publishedOn": "2021-06-17T00:15:32.000Z",
           "wordCount": 683,
           "title": "Nine out of 10 health apps harvest user data, global study shows"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jun/16/airbnb-new-york-woman-allegedly-raped-settlement",
-          "author": "Richard Luscombe",
-          "description": "Airbnb taskforce that ‘cleans up only after disaster strikes’ intervened after alleged attack, reports Bloomberg Businessweek\nAn Australian woman who was allegedly raped at knifepoint in an Airbnb apartment in New York received a secret settlement of $7m which included restrictions on what she could say about the incident, according to a media investigation into the vacation listings giant’s “guest safety” policies .\nThe 29-year-old was attacked in a property near the tourist magnet and central Manhattan crossroads of Times Square early on New Year’s Day in 2016, Bloomberg Businessweek reported, prompting the swift intervention of a dedicated Airbnb crisis management “taskforce”.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/16/airbnb-new-york-woman-allegedly-raped-settlement",
-          "publishedOn": "2021-06-16T20:36:29.000Z",
-          "wordCount": 1071,
-          "title": "Woman allegedly raped at New York Airbnb received secret $7m settlement – report"
         },
         {
           "id": "https://www.theguardian.com/culture/2021/jun/17/alex-gallagher-the-10-funniest-things-i-have-ever-seen-on-the-internet",
@@ -712,15 +766,6 @@
           "title": "Game Builder Garage review – Nintendo lets you loose on its building blocks"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/jun/16/amazon-blames-social-media-for-struggle-with-fake-reviews",
-          "author": "Alex Hern UK technology editor",
-          "description": "Firm says sites are slow to act when warned that fake reviews are being solicited on their platforms\nAmazon has blamed social media companies for its failure to remove fake reviews from its website, arguing that “bad actors” turn to social networks to buy and sell fake product reviews outside the reach of its own technology.\nThe company says it removed more than 200m suspected fake reviews before they were seen by customers in 2020 alone, but nonetheless has faced continued criticism for the enormous scale of fake and misleading reviews that make it on to its store.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/16/amazon-blames-social-media-for-struggle-with-fake-reviews",
-          "publishedOn": "2021-06-16T11:24:16.000Z",
-          "wordCount": 614,
-          "title": "Amazon blames social media for struggle with fake reviews"
-        },
-        {
           "id": "https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick",
           "author": "Erin McCormick in San Francisco",
           "description": "The California startup leads a global push toward lab-grown meat. But experts question its bold claims\nIn December of last year, a handful of diners sat down to a futuristic meal at 1880, a members-only restaurant in Singapore. The star ingredient was “no-kill” chicken – raised not on a farm but in a laboratory bioreactor. Attendees snacked on lab-grown nuggets paired with crispy maple waffles, bao buns, and black bean puree.\nFor the California entrepreneur Josh Tetrick, it was a breakthrough. His company, Eat Just, had become the first in the world to sell the product after receiving approval from Singapore authorities. Headlines hailed a landmark step in the quest to end animal agriculture, upend the meat industry and redefine our diets.\n Continue reading...",
@@ -728,15 +773,6 @@
           "publishedOn": "2021-06-16T10:00:02.000Z",
           "wordCount": 3188,
           "title": "Eat Just is racing to put ‘no-kill meat’ on your plate. Is it too good to be true?"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition",
-          "author": "Samuel Gibbs Consumer technology editor",
-          "description": "Premium PC with new choice of faster chips, eight-hour battery, great keyboard and face recognition \nMicrosoft’s sleek and stylish Surface Laptop is back for its fourth generation with faster performance and a greater variety of chips.\nThe Surface Laptop 4 is available with either a 13.5in or a 15in screen and starts at £999 in the UK, $999 in the US or $1,599 in Australia sitting above the Surface Laptop Go as Microsoft’s mainstream premium notebook, competing with the similarly priced Dell XPS 13 and Apple MacBook Air, among others.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition",
-          "publishedOn": "2021-06-16T06:00:22.000Z",
-          "wordCount": 1394,
-          "title": "Microsoft Surface Laptop 4 review: Windows 10 as it is meant to be"
         },
         {
           "id": "https://www.theguardian.com/games/2021/jun/15/e3-2021-nintendo-announces-legend-of-zelda-breath-of-the-wild-2-for-2022",
@@ -827,15 +863,6 @@
           "publishedOn": "2021-06-09T10:27:25.000Z",
           "wordCount": 824,
           "title": "Vertigo the game: could it delete the horrific history of movie tie-ins?"
-        },
-        {
-          "id": "https://www.theguardian.com/games/2021/jun/09/overboard-review-inkle",
-          "author": "Keith Stuart",
-          "description": "iOS, PC, Switch; Inkle\nYou are the murderous starlet forced to concoct your alibi in Inkle’s fresh and beautifully detailed paperback crime novel of a game\n\nAboard an ocean liner travelling from Britain to New York in the late 1930s, a famous actor murders her husband by throwing him from the upper deck into the raging sea. If this were a piece of golden age detective fiction, the fate of the drowned man would form the basis of an intriguing whodunnit, but in the hands of narrative game specialist Inkle – a team that skilfully turned Jules Verne’s Around the World in 80 Days into a luscious interactive adventure – it was never going to be so straightforward.\nInstead, Overboard! is told from the killer’s perspective, the player taking on the role of faded screen idol Veronica Villensey who launches her spouse Malcolm into the Atlantic in order to claim his life insurance. From this point on, your job is to create an alibi for Veronica as well as perhaps implicating another passenger in Malcolm’s watery demise. This is achieved by touring the ship and chatting to other characters – some of whom can be useful allies, while others may have secrets to hide that can be exploited to divert attention or even set up ulterior suspects. The game has an internal clock that ticks towards your arrival in New York, so any plan you formulate has to be tidily and swiftly enacted, relying on certain characters being in the right place at the right time, and important objects such as keys, sleeping pills and damning documents being discovered and utilised.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jun/09/overboard-review-inkle",
-          "publishedOn": "2021-06-09T09:46:01.000Z",
-          "wordCount": 862,
-          "title": "Overboard! review – ingenious cruise-ship thriller casts you as the villain"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/jun/08/internet-outage-illustrates-lack-of-resilience-at-heart-of-critical-services",
@@ -953,15 +980,6 @@
           "publishedOn": "2021-05-28T06:00:49.000Z",
           "wordCount": 1468,
           "title": "Apple TV 4K 2021 review: faster chip, fancy iPod-like remote"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/may/27/demis-hassabis-the-deep-mind-dominic-cummings-turned-to-as-the-pandemic-hit",
-          "author": "Alex Hern Technology editor",
-          "description": "The AI researcher and co-founder of Google’s DeepMind was one of many who pressed for an hard lockdown in March 2020\nAt first glance, Demis Hassabis is an unusual figure for Dominic Cummings to have turned to for guidance in March 2020 about the threat of the novel coronavirus bearing down on the UK.\nThe co-founder of Google subsidiary DeepMind, which is dedicated to high-level AI research, has a varied CV, but is no epidemiologist. A child chess prodigy, he hit the rank of master at 13 and was for a brief time the second-highest-rated player in the world in his age category.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/may/27/demis-hassabis-the-deep-mind-dominic-cummings-turned-to-as-the-pandemic-hit",
-          "publishedOn": "2021-05-27T15:56:06.000Z",
-          "wordCount": 805,
-          "title": "Demis Hassabis: the deep mind Dominic Cummings turned to as the pandemic hit"
         }
       ]
     },
