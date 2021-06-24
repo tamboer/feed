@@ -1,18 +1,406 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T00:31:44.262Z</id>
+    <id>urn:2021-06-24T00:26:24.831Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:31:44.262Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:26:24.831Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Flexible Prototyping for E-Textiles That Doesn’t Cost an Arm and a Leg]]></title>
-        <id>https://hackaday.com/?p=483549</id>
-        <link href="https://hackaday.com/2021/06/22/flexible-prototyping-for-e-textiles-that-doesnt-cost-an-arm-and-a-leg/"/>
-        <updated>2021-06-22T23:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Let’s face it: pretty much everything about e-textiles is fiddly. If wearables were easy, more people would probably work in that space. But whereas most circuit prototyping is done in …read more]]></summary>
+        <title type="html"><![CDATA[John McAfee’s Wild Ride is Over]]></title>
+        <id>https://hackaday.com/?p=484097</id>
+        <link href="https://hackaday.com/2021/06/23/john-mcafees-wild-ride-is-over/"/>
+        <updated>2021-06-23T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[John McAfee, the founder of McAfee Associates and pioneer in the antivirus field, was found dead today, June 23, 2021, of an apparent suicide in a Barcelona prison cell. Born …read more]]></summary>
         <author>
-            <name>Kristina Panos</name>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Lock Your Shady Incognito Tabs With This Hidden Face ID Setting]]></title>
+        <id>1847160329</id>
+        <link href="https://lifehacker.com/you-can-lock-your-shady-incognito-tabs-with-this-hidden-1847160329"/>
+        <updated>2021-06-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is testing a new feature for Chrome on iPhone and iPad that lets you lock incognito tabs with facial ID when they’re left open in the background. (Unfortunately, the feature is not available on Android—at least not yet).
+
+Read more...]]></summary>
+        <author>
+            <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Share Tweets Directly to Your Instagram Stories on iOS Instead of Using Screenshots]]></title>
+        <id>1847158269</id>
+        <link href="https://lifehacker.com/how-to-share-tweets-directly-to-your-instagram-stories-1847158269"/>
+        <updated>2021-06-23T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re an iOS user, you no longer have to go through the tedious process of taking a screenshot of a tweet in your Twitter app, switching over to Instagram, and uploading them separately to your Instagram Stories. Twitter now lets you do this directly with its new Instagram Stories share option.
+
+Read more...]]></summary>
+        <author>
+            <name>Emily Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piezo Pickup Makes Wax Records Easy to Digitize]]></title>
+        <id>https://hackaday.com/?p=483418</id>
+        <link href="https://hackaday.com/2021/06/23/piezo-pickup-makes-wax-records-easy-to-digitize/"/>
+        <updated>2021-06-23T20:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Sound recording and playback have come a long way in the last century or so, but it’s fair to say there’s still a lot of interesting stuff locked away on …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Ways You Aren't Using Mesh Laundry Bags, But Should Be]]></title>
+        <id>1847158700</id>
+        <link href="https://lifehacker.com/9-ways-you-arent-using-mesh-laundry-bags-but-should-be-1847158700"/>
+        <updated>2021-06-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some things make it into the washer and never make it out, and it can feel like house elves are stealing your things when you swore you put an even number of socks in the machine, only to be left with an odd number. The truth is, your washer really does eat your clothes sometimes. The washer housing might be holding…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Your Airbnb Reservation Without Being a Jerk]]></title>
+        <id>1847157861</id>
+        <link href="https://lifehacker.com/how-to-cancel-your-airbnb-reservation-without-being-an-1847157861"/>
+        <updated>2021-06-23T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of its sweeping product update last month, Airbnb announced a change to its cancelation policy. The change, which was partly inspired by industry-wide ripple effects wrought by the pandemic, intends to make cancelations more flexible for both hosts and guests.
+
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use This Tool to Claim Money From Your Child Tax Credit]]></title>
+        <id>1847158751</id>
+        <link href="https://lifehacker.com/use-this-tool-to-claim-money-from-your-child-tax-credit-1847158751"/>
+        <updated>2021-06-23T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday the IRS launched a new portal to help you manage advance payments on the recently expanded Child Tax Credit, worth up to $3,600 per child. The tax credit is complicated—as it’s based on your estimated income for 2021—so you’ll want to use the portal to update your income and child dependent status (or opt…
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Multiple Accounts to Your Amazon Echo]]></title>
+        <id>1847157930</id>
+        <link href="https://lifehacker.com/how-to-add-multiple-accounts-to-your-amazon-echo-1847157930"/>
+        <updated>2021-06-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One benefit of an Amazon smart speaker is that anyone can ask Alexa to play music, or set a timer, or perform any number of basic functions—regardless of whose Amazon account was used to set up the device.
+
+Read more...]]></summary>
+        <author>
+            <name>Emily Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Jumpers Make this Wire-Free Breadboard Programmable]]></title>
+        <id>https://hackaday.com/?p=483601</id>
+        <link href="https://hackaday.com/2021/06/23/silicon-jumpers-make-this-wire-free-breadboard-programmable/"/>
+        <updated>2021-06-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no doubting the utility of the trusty solderless breadboard, but you have to admit they’re less than perfect. They’re not ideal for certain types of circuits, of course, but …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enroll in the iOS 15 Developer Beta Right Now]]></title>
+        <id>1847158717</id>
+        <link href="https://lifehacker.com/how-to-enroll-in-the-ios-15-developer-beta-right-now-1847158717"/>
+        <updated>2021-06-23T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The public beta for iOS 15 and iPadOS 15 starts sometime in July, but users can get their hands on Apple’s new mobile operating systems even earlier by installing the developer builds. These versions are less stable than the eventual public beta, and there are several requirements you’ll need to meet, but it’s the…
+Read more...]]></summary>
+        <author>
+            <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greta Lee Jackson: the 10 funniest things I have ever seen on the internet]]></title>
+        <id>https://www.theguardian.com/culture/2021/jun/24/greta-lee-jackson-the-10-funniest-things-i-have-ever-seen-on-the-internet</id>
+        <link href="https://www.theguardian.com/culture/2021/jun/24/greta-lee-jackson-the-10-funniest-things-i-have-ever-seen-on-the-internet"/>
+        <updated>2021-06-23T17:30:35.000Z</updated>
+        <summary type="html"><![CDATA[We ask connoisseurs of comedy to provide a tasting plate from the smorgasbord of laughs. Greta Lee Jackson serves up this one
+Hello! I’m Greta Lee Jackson. You might know me from being in my activewear or having a massive go at celebrities during the pandemic. I’m a comedy content maker, meaning I try to make funny clips for TV and the internet. Having said that, I’m fairly confident that nothing I make will ever come close to the level of comedy that the following pieces of content achieve. I will forever be in awe of them, hauling them out whenever times get tough and I need cheering up, or I need inspiration, or just fancy feeling like an abject failure at my chosen profession.
+ Related: Alex Gallagher: the 10 funniest things I have ever seen (on the internet) 
+ Continue reading...]]></summary>
+        <author>
+            <name>Greta Lee Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Plant-Based Protein Powder Not Taste Like Ass]]></title>
+        <id>1847158394</id>
+        <link href="https://lifehacker.com/how-to-make-plant-based-protein-powder-not-taste-like-a-1847158394"/>
+        <updated>2021-06-23T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Plant-based protein powders are hugely popular right now, and not just among vegans. Whey protein can be hard to digest, which means even omnivores may prefer to supplement their diets with vegan protein. 
+Read more...]]></summary>
+        <author>
+            <name>A.A. Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire, The Newest Audio Kid on the Linux Block]]></title>
+        <id>https://hackaday.com/?p=481569</id>
+        <link href="https://hackaday.com/2021/06/23/pipewire-the-newest-audio-kid-on-the-linux-block/"/>
+        <updated>2021-06-23T17:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Raise your hand if you remember when PulseAudio was famous for breaking audio on Linux for everyone. For quite a few years, the standard answer for any audio problem on …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Should Make Pasta Salad With Store-Bought Gnocchi]]></title>
+        <id>1847157759</id>
+        <link href="https://lifehacker.com/you-should-make-pasta-salad-with-store-bought-gnocchi-1847157759"/>
+        <updated>2021-06-23T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t trust people who claim to not like pasta salad. Pasta is good, and so is mayonnaise. Often there are other ingredients involved that are not pasta or mayonnaise, and they are also good. Sometimes it’s just too hot to eat a steaming bowl of spaghetti, but what am I going to do? Stop eating pasta from the end of…
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clean Blinds]]></title>
+        <id>1836246155</id>
+        <link href="https://lifehacker.com/how-to-clean-blinds-1836246155"/>
+        <updated>2021-06-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you know how to clean your blinds? Or do you just leave them until they’re so coated in filth that you have to throw them out and buy new window treatments? That’s gross, don’t do that.
+
+Read more...]]></summary>
+        <author>
+            <name>Joel Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Go to the Gym Before Work, According to Reddit]]></title>
+        <id>1847156642</id>
+        <link href="https://lifehacker.com/how-to-get-ready-when-you-go-to-the-gym-before-work-ac-1847156642"/>
+        <updated>2021-06-23T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Exercising in the morning can make you feel great for the rest of the day, and we have tips on how to motivate yourself to want to exercise in the morning. But then you have to deal with the practical obstacles: Do you go straight from the gym to the office? What do you do with your stinky clothes, and how do you pack…
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Spinning Disk Makes a Small Color Video Display]]></title>
+        <id>https://hackaday.com/?p=483758</id>
+        <link href="https://hackaday.com/2021/06/23/big-spinning-disk-makes-a-small-color-video-display/"/>
+        <updated>2021-06-23T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The earliest televisions used a spinning disk technology called the Nipkow disk, which is exactly what [Science ‘n’ Stuff] recreated with their Arduino-based mechanical color television (video link, also embedded …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These High Humidity Plants Will Thrive in Your Bathroom]]></title>
+        <id>1847153066</id>
+        <link href="https://lifehacker.com/these-high-humidity-plants-will-thrive-in-your-bathroom-1847153066"/>
+        <updated>2021-06-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It can be hard to find good plants for the low-light, high-humidity climate of your bathroom, but it’s worth the search. Plants and flowers look great everywhere, including—or maybe especially—in bathrooms, and ones that originate in the tropics, like philodendron and ficus plants, love hot and humid weather. Here’s…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing The Winners Of Our “May The 4th” Cosplay and Droid Contest]]></title>
+        <id>https://makezine.com/2021/06/23/announcing-the-winners-of-our-may-the-4th-cosplay-and-droid-contest/</id>
+        <link href="https://makezine.com/2021/06/23/announcing-the-winners-of-our-may-the-4th-cosplay-and-droid-contest/"/>
+        <updated>2021-06-23T14:46:29.000Z</updated>
+        <summary type="html"><![CDATA[When we announced our Star Wars themed contest, along with NVidia, we knew we were going to be in for a difficult time deciding on a winner. There are so many great projects out there with incredible documentation and stunning results! We were not let down by the entries. If you haven’t checked them out […]
+The post Announcing The Winners Of Our “May The 4th” Cosplay and Droid Contest appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
+        <author>
+            <name>Make: DIY Projects and Ideas for Makers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New on Netflix in July 2021]]></title>
+        <id>1847115656</id>
+        <link href="https://lifehacker.com/whats-new-on-netflix-in-july-2021-1847115656"/>
+        <updated>2021-06-23T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[As a child of the 1980s, I was obsessed with He-Man and the Masters of the Universe—I have a vivid memory of being three years old and arguing with my mom about whether or not Eternia’s greatest hero wore pajamas to bed (luckily the dude did wear a diaper). 
+Given that, you’d think I’d be thrilled about Masters of the…
+Read more...]]></summary>
+        <author>
+            <name>Joel Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Do When You Feel Like You're 'Failing Up']]></title>
+        <id>1847150876</id>
+        <link href="https://lifehacker.com/how-to-ease-your-guilt-about-failing-upwards-1847150876"/>
+        <updated>2021-06-23T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a certain type of person in the workplace who often carries a loathsome reputation: the colleague who succeeds in big ways despite not being all that good at their job. These people have “failed upwards,” meaning they’ve attained undue success, sometimes from sheer luck, or maybe thanks to a savvy networking…
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Graphene May Enable The Next Generations Of High-Density Hard Drives]]></title>
+        <id>https://hackaday.com/?p=482729</id>
+        <link href="https://hackaday.com/2021/06/23/how-graphene-may-enable-the-next-generations-of-high-density-hard-drives/"/>
+        <updated>2021-06-23T14:01:49.000Z</updated>
+        <summary type="html"><![CDATA[After decades of improvements to hard disk drive (HDD) technology, manufacturers are now close to taking the next big leap that will boost storage density to new levels. Using laser-assisted …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Baby Gear You Can Purchase Used, and What Should Be New]]></title>
+        <id>1847098730</id>
+        <link href="https://lifehacker.com/what-baby-gear-you-can-purchase-used-and-what-should-b-1847098730"/>
+        <updated>2021-06-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A brand new, tiny little being shouldn’t come with so much stuff. But when a baby moves into your home, they bring with them a crib, stroller, car seat, bath tub, breast pump, bottles, playpen, clothing, and on and on. And each one of those comes with a cost that can really add up over time. 
+Read more...]]></summary>
+        <author>
+            <name>Jason Keil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Qualify for an FHA Mortgage, Even With Student Debt]]></title>
+        <id>1847153023</id>
+        <link href="https://lifehacker.com/how-to-qualify-for-an-fha-mortgage-even-with-student-d-1847153023"/>
+        <updated>2021-06-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If student loans have held you back from getting a FHA mortgage, there’s some good news: the Department of Housing and Urban Development (HUD) is relaxing the rules on how it assesses student loan debt, which will increase your chances of qualifying for a loan if you’re on a repayment plan.
+
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strawberry moon 2021: how to take a good photograph of the full supermoon on your phone or camera with the right settings]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/23/strawberry-moon-2021-june-australia-how-to-photograph-full-super-moon-with-phone-tonight-take-picture-supermoon-photography-what-time-when-thursday-night-smartphone-camera-dslr-iphone-best-settings</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/23/strawberry-moon-2021-june-australia-how-to-photograph-full-super-moon-with-phone-tonight-take-picture-supermoon-photography-what-time-when-thursday-night-smartphone-camera-dslr-iphone-best-settings"/>
+        <updated>2021-06-23T13:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Guardian Australia picture editor Carly Earl explains the dos and don’ts of shooting June’s super moon
+With another full supermoon rising – this time the June ‘strawberry moon’ on Thursday night across the world – many people will pull out their mobile phones to try and get an Instagram-worthy photograph, but unfortunately it’s really challenging to take a great picture of the moon.
+Two reasons: it is very far away and unless you have a telephoto lens (which makes the moon appear closer than it is) it will always appear as a very small glowing dot in the frame.
+ Continue reading...]]></summary>
+        <author>
+            <name>Carly Earl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweat review – the loneliness of the social media influencer]]></title>
+        <id>https://www.theguardian.com/film/2021/jun/23/sweat-review-the-loneliness-of-the-social-media-influencer-magdalena-kolesnik</id>
+        <link href="https://www.theguardian.com/film/2021/jun/23/sweat-review-the-loneliness-of-the-social-media-influencer-magdalena-kolesnik"/>
+        <updated>2021-06-23T13:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Magnus von Horn’s contrived Polish drama about a fitness guru promises more in shock and character than it delivers
+In theory, it should be possible to create a drama about a social media influencer and motivational fitness celebrity that isn’t all about the hidden loneliness and shame of her shallow existence. It should be possible to show such a person being a huge hit in public and perfectly content in private. But this movie from Polish director Magnus von Horn pretty much goes for route one, and despite some interesting touches, it promises much more in terms of shock and character insight than it ever really delivers, with some contrived and unconvincing plot transitions.
+Sylwia (Magdalena Koleśnik) has 600,000 followers for the Instagram account on which she obsessively posts, detailing every aspect of her day as a successful single woman, running colossally popular fitness events with her beefcake male assistant Klaudiusz (Julian Świeżewski). He clearly has a major thing for her, though at one crucial moment he shows a very implausible kind of restraint. She is living in a sleek apartment with her adorable dog, Jackson; there’s a new fitness DVD out and everything seems to be going well.
+ Continue reading...]]></summary>
+        <author>
+            <name>Peter Bradshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Season Ground Meat 'to Taste']]></title>
+        <id>1847150730</id>
+        <link href="https://lifehacker.com/how-to-season-ground-meat-to-taste-1847150730"/>
+        <updated>2021-06-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re making meatballs, meatloaf, or some other food that requires seasoning a mass of raw ground meat, it can be hard to predict the flavor outcome, especially if you’re working with a new recipe, a vague recipe, or a recipe that you developed all by yourself.
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letting users bypass App Store would be security risk, says Apple]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/23/letting-users-bypass-app-store-would-be-security-risk-says-apple</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/23/letting-users-bypass-app-store-would-be-security-risk-says-apple"/>
+        <updated>2021-06-23T11:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Opening up iOS to ‘sideloading’ would lead to wave of damaging malware on iPhones and iPads, firm says
+Allowing users to bypass the App Store would lead to a wave of damaging malware on iPhones and iPads, Apple has warned, as the company faces the prospect of sweeping regulatory action on both sides of the Atlantic.
+Opening up iOS to “sideloading”, the name for installing software from unapproved sources, could allow malicious software to hold user data to ransom, let children bypass parental controls, or lead to rampant piracy, the company claims in a new paper.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern UK technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your ‘Blue Pill’ Board For A Genuine STM32F103C8 MCU]]></title>
+        <id>https://hackaday.com/?p=483692</id>
+        <link href="https://hackaday.com/2021/06/23/test-your-blue-pill-board-for-a-genuine-stm32f103c8-mcu/"/>
+        <updated>2021-06-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the market for STM32F103C8-based ‘Blue Pill’ boards slowly being overrun with boards that contain either a cloned, fake or outright broken chip, [Terry Porter] really wanted to have an …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 15 greatest video games of the 1990s – ranked!]]></title>
+        <id>https://www.theguardian.com/games/2021/jun/23/the-15-greatest-video-games-of-the-1990s-ranked</id>
+        <link href="https://www.theguardian.com/games/2021/jun/23/the-15-greatest-video-games-of-the-1990s-ranked"/>
+        <updated>2021-06-23T10:45:25.000Z</updated>
+        <summary type="html"><![CDATA[It was the decade Sonic the Hedgehog, the original PlayStation, the Nintendo 64 and so much more entered the world – here are the 15 best games of this golden age of gaming
+Of all LucasArts’ memorable, quip-fuelled point and click adventures – from dark afterlife comedy Grim Fandango to the surrealist Day of the Tentacle – it’s Monkey Island 2 that gets the most love nowadays, and justifiably so. The puzzles were just on the right side of deliberately obscure, the characters were strange and colourful, and the music unforgettable. And that ending still sparks discussion, 30 years on.
+ Continue reading...]]></summary>
+        <author>
+            <name>Keza MacDonald and Keith Stuart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EFF wants us to use the Russian and Chinese vaccines. But there are unanswered questions about them]]></title>
+        <id>https://www.groundup.org.za/article/eff-wants-us-use-russian-and-chinese-vaccines-there-are-unanswered-questions-about-them/</id>
+        <link href="https://www.groundup.org.za/article/eff-wants-us-use-russian-and-chinese-vaccines-there-are-unanswered-questions-about-them/"/>
+        <updated>2021-06-23T08:31:39.000Z</updated>
+        <summary type="html"><![CDATA[The regulatory authority must act in the public interest and not be swayed by undue pressure]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“We don’t have anywhere else to go,” says Johannesburg occupier]]></title>
+        <id>https://www.groundup.org.za/article/we-dont-have-anywhere-else-to-go-says-johannesburg-occupier/</id>
+        <link href="https://www.groundup.org.za/article/we-dont-have-anywhere-else-to-go-says-johannesburg-occupier/"/>
+        <updated>2021-06-23T08:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Eviction case pending against Rosettenville families while City asked to provide emergency accommodation]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Berners-Lee defends auction of NFT representing web’s source code]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/23/tim-berners-lee-defends-auction-nft-web-source-code</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/23/tim-berners-lee-defends-auction-nft-web-source-code"/>
+        <updated>2021-06-23T06:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Creator of the world wide web says digital asset is ‘totally aligned with the values of the web’
+Tim Berners-Lee has defended his decision to auction an NFT (non-fungible token) representing the source code to the web, comparing the sale to an autographed book or a speaking tour.
+The creator of the world wide web announced his decision to create and sell the digital asset through Sotheby’s auction house last week. In the auction, which begins on Wednesday and will run for one week, collectors will have the chance to bid on a bundle of items, including the 10,000 lines of the source code to the original web browser, a digital poster created by Berners-Lee representing the code, a letter from him, and an animated video showing the code being entered.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern UK technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud spraying and hurricane slaying: how ocean geoengineering became the frontier of the climate crisis]]></title>
+        <id>https://www.theguardian.com/environment/2021/jun/23/cloud-spraying-and-hurricane-slaying-could-geoengineering-fix-the-climate-crisis</id>
+        <link href="https://www.theguardian.com/environment/2021/jun/23/cloud-spraying-and-hurricane-slaying-could-geoengineering-fix-the-climate-crisis"/>
+        <updated>2021-06-23T05:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Around the world, dozens of ingenious projects are trying to ‘trick’ the ocean into absorbing more CO2. But critics warn of unforeseen consequences
+Tom Green has a plan to tackle climate change. The British biologist and director of the charity Project Vesta wants to turn a trillion tonnes of CO2 into rock, and sink it to the bottom of the sea.
+Green admits the idea is “audacious”. It would involve locking away atmospheric carbon by dropping pea-coloured sand into the ocean. The sand is made of ground olivine – an abundant volcanic rock, known to jewellers as peridot – and, if Green’s calculations are correct, depositing it offshore on 2% of the world’s coastlines would capture 100% of total global annual carbon emissions.
+ Continue reading...]]></summary>
+        <author>
+            <name>Amy Fleming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs and me: meet the people trying to sell their memes for millions]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/23/nfts-and-me-meet-the-people-trying-to-sell-their-memes-for-millions</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/23/nfts-and-me-meet-the-people-trying-to-sell-their-memes-for-millions"/>
+        <updated>2021-06-23T05:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Once, people who owned viral photos made little money from them. Now, the ‘original’ can potentially sell for an enormous sum. But are buyers savvy investors – or unwitting dupes?
+The photographer Jeff McCurry’s favourite Harambe memes are the ones where the dead gorilla is in heaven, Photoshopped alongside Diana, Princess of Wales, Tupac and Muhammad Ali. “It’s like: wow,” says McCurry. “What greater spot can you be placed in? Harambe’s at the top of the hill, waiting to meet you there.”
+McCurry took the photograph of the 17-year-old western lowland gorilla that went on to become a meme. In it, Harambe kneels, projecting a fearsome aura of strength, nobility and calm. A former volunteer photographer at Cincinnati zoo, McCurry was there on 28 May 2016, the fateful day a three-year-old boy climbed into the gorilla’s enclosure, forcing zookeepers to shoot Harambe dead. “It didn’t seem real at first,” says McCurry, who was a regular visitor to the zoo. “When any of your friends die, it’s hard to process. I was in shock.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Sirin Kale</name>
         </author>
     </entry>
     <entry>
@@ -63,16 +451,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOOM Comes to the nRF5340]]></title>
-        <id>https://hackaday.com/?p=483652</id>
-        <link href="https://hackaday.com/2021/06/22/doom-comes-to-the-nrf5340/"/>
-        <updated>2021-06-22T20:00:13.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a reminder of how powerful the tiny microcontrollers that run our everyday gadgets have become, check out the work impressive work [Audun Wilhelmsen] has done to …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These Office Plants Will Turn Your Workspace Into an Oasis]]></title>
         <id>1847150886</id>
         <link href="https://lifehacker.com/these-office-plants-will-turn-your-workspace-into-an-oa-1847150886"/>
@@ -120,16 +498,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pi Pico-Powered ATX Motherboard]]></title>
-        <id>https://hackaday.com/?p=483191</id>
-        <link href="https://hackaday.com/2021/06/22/pi-pico-powered-atx-motherboard/"/>
-        <updated>2021-06-22T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For a couple of years, embedded developer and Rust addict [Jonathan Pallant] aka [theJPster] has been working on a simple computer which he calls the Neotron. The idea is to …read more]]></summary>
-        <author>
-            <name>Chris Lott</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[17 Top Container Garden Flowers For Stunning Summer Pots]]></title>
         <id>https://getbusygardening.com/?p=34374</id>
         <link href="https://getbusygardening.com/container-flowers/"/>
@@ -163,70 +531,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human Google: Ruth Freitag, Isaac Asimov, and Bibliographies]]></title>
-        <id>https://hackaday.com/?p=480525</id>
-        <link href="https://hackaday.com/2021/06/22/human-google-ruth-freitag-issac-asimov-and-bibliographies/"/>
-        <updated>2021-06-22T17:01:26.000Z</updated>
-        <summary type="html"><![CDATA[You don’t often turn on a light and think, “That power company is sure on the ball!” You generally only think of them when the lights go out without warning. …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Turkey Burger That Actually Tastes Good]]></title>
-        <id>1847149730</id>
-        <link href="https://lifehacker.com/how-to-make-a-turkey-burger-that-actually-tastes-good-1847149730"/>
-        <updated>2021-06-22T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I have often thought of turkey burgers as a relic of the ‘90s,  leftover from an era when fat was the number one enemy, and Snackwells reigned (and it was a reign of artificially sweet terror). But some people just don’t like red meat, and others have medical reasons for wanting to avoid it. Some people may just like…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Feed Yourself When You're Depressed]]></title>
-        <id>1823560127</id>
-        <link href="https://lifehacker.com/how-to-feed-yourself-when-youre-really-depressed-1823560127"/>
-        <updated>2021-06-22T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Depression has a sneaky way of creeping into all aspects of your life, and making you not care about any of them. And yes, this includes food. Eating is a prerequisite for life, so it makes perverse sense that, for many people, it’s among the first victims of a depressive episode.
-Read more...]]></summary>
-        <author>
-            <name>A.A. Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Sense of What Apple Has Done to the Podcasts App]]></title>
-        <id>1847129209</id>
-        <link href="https://lifehacker.com/how-to-make-sense-of-what-apple-has-done-to-the-podcast-1847129209"/>
-        <updated>2021-06-22T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[In April, Apple made some long-overdue changes to its Podcasts app, part of an overhaul of the company’s general approach to the podcasting market that will allow podcasts makers to charge subscription fees for their content via Apple’s homegrown app. Unfortunately, the changes have proved frustrating to many longtime…
-Read more...]]></summary>
-        <author>
-            <name>Andrew Liptak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heatsink Makes VR Even Cooler]]></title>
-        <id>https://hackaday.com/?p=483424</id>
-        <link href="https://hackaday.com/2021/06/22/heatsink-makes-vr-even-cooler/"/>
-        <updated>2021-06-22T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Our first thought was that having big fins coming out of your VR goggles might not look very cool. But then we realized if you are wearing VR goggles, that’s …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Foreign Service Courses to Learn a New Language for Free]]></title>
-        <id>1847143262</id>
-        <link href="https://lifehacker.com/use-foreign-service-courses-to-learn-a-new-language-for-1847143262"/>
-        <updated>2021-06-22T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no shortage of apps and online courses purporting to offer the best way to learn a new language. Whether you want to brush up on your high school Spanish or start fresh, you might turn to Duolingo (which has been accused of pillaging users’ personal data) or a paid option like Rosetta Stone or Coursera, but…
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unemployed security guards shut down municipal customer care centre]]></title>
         <id>https://www.groundup.org.za/article/unemployed-security-guards-shut-down-municipal-customer-care-centre/</id>
         <link href="https://www.groundup.org.za/article/unemployed-security-guards-shut-down-municipal-customer-care-centre/"/>
@@ -247,38 +551,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teardown: Franz Crystal Metronome]]></title>
-        <id>https://hackaday.com/?p=479866</id>
-        <link href="https://hackaday.com/2021/06/22/teardown-franz-crystal-metronome/"/>
-        <updated>2021-06-22T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[I wish I could tell you that there’s some complex decision tree at play when I select a piece of hardware to take apart for this series, but ultimately it …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At Least You Can Get Free Chicken Nuggets at Wendy's for the Rest of the Month]]></title>
-        <id>1847145951</id>
-        <link href="https://lifehacker.com/at-least-you-can-get-free-chicken-nuggets-at-wendys-for-1847145951"/>
-        <updated>2021-06-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re the kind of person who keeps tabs on summertime snack deals,  you’ve probably already taken advantage of some of what Wendy’s has on offer—including free small Frostys during the month of June. Well, now you can add another one to the list, because the hamburger chain is also giving away free chicken nuggets…
-Read more...]]></summary>
-        <author>
-            <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Time to Embrace Hot Pickle Summer]]></title>
-        <id>1847143817</id>
-        <link href="https://lifehacker.com/its-time-to-embrace-hot-pickle-summer-1847143817"/>
-        <updated>2021-06-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In a development fictional scientists are calling “not really that surprising,” I have grown obsessed with cooking cucumbers, both pickled and plain. First I cooked some of the latter over coals, then I turned my attention to ranch-fried pickles, and now I’m all about—and I mean all about—grilled pickles.
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vaccine registration system cannot work in rural areas, says doctor]]></title>
         <id>https://www.groundup.org.za/article/vaccine-registration-system-cannot-work-rural-areas-says-doctor/</id>
         <link href="https://www.groundup.org.za/article/vaccine-registration-system-cannot-work-rural-areas-says-doctor/"/>
@@ -286,27 +558,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Logistics of rollout need to be simpler in the Eastern Cape]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Right Now Is the Best Time to Ask for a Pay Raise]]></title>
-        <id>1847144633</id>
-        <link href="https://lifehacker.com/why-right-now-is-the-best-time-to-ask-for-a-pay-raise-1847144633"/>
-        <updated>2021-06-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the labor market tilted in favor of job seekers, it’s time to consider asking for a raise. Your employer is much more likely to agree versus earlier in the pandemic, and you can make a convincing case that rising inflation has weakened the purchasing power of your wages. Here are some tips to keep in mind as you…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steady Hand Brings GBA Cart Back from the Grave]]></title>
-        <id>https://hackaday.com/?p=483540</id>
-        <link href="https://hackaday.com/2021/06/22/steady-hand-brings-gba-cart-back-from-the-grave/"/>
-        <updated>2021-06-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The flash chips used in Game Boy Advance (GBA) cartridges were intended to be more reliable and less bulky than the battery-backed SRAM used to save player progress on earlier …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
         </author>
     </entry>
     <entry>
@@ -330,32 +581,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK children get tool to help stop nude images being shared online]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/22/children-tool-stop-nude-images-shared-online-iwf</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/22/children-tool-stop-nude-images-shared-online-iwf"/>
-        <updated>2021-06-22T08:25:35.000Z</updated>
-        <summary type="html"><![CDATA[‘Report remove’ button on Childline website is described by internet safety charity as a world first
-Children in the UK who are worried that nude pictures and videos may end up online will be able to report the material to help prevent it from being uploaded in the future.
-For the first time, young people will be able to flag the content with the Internet Watch Foundation (IWF) via a tool on Childline’s website before it has appeared online.
- Continue reading...]]></summary>
-        <author>
-            <name>PA Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to take a good photograph of the moon on your phone or camera with the right settings]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/22/how-to-take-a-photograph-of-the-full-moon-with-phone-photography-tonight-picture-night-sky-smartphone-camera-dslr-iphone-best-settings</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/22/how-to-take-a-photograph-of-the-full-moon-with-phone-photography-tonight-picture-night-sky-smartphone-camera-dslr-iphone-best-settings"/>
-        <updated>2021-06-22T04:33:12.000Z</updated>
-        <summary type="html"><![CDATA[Guardian Australia picture editor Carly Earl explains the dos and don’ts of photographing the moon
-When a full moon rises, many people will pull out their mobile phones to try and get an Instagram-worthy photograph, but unfortunately the moon is really challenging to get a great photo of.
-Two reasons: it is very far away and unless you have a telephoto lens (which makes the moon appear closer than it is) it will always appear as a very small glowing dot in the frame.
- Continue reading...]]></summary>
-        <author>
-            <name>Carly Earl</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bitcoin price slumps further as China tightens crackdown]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/22/bitcoin-price-slumps-further-as-china-tightens-crackdown</id>
         <link href="https://www.theguardian.com/technology/2021/jun/22/bitcoin-price-slumps-further-as-china-tightens-crackdown"/>
@@ -366,118 +591,6 @@ Bitcoin fell as low as $31,333 on Monday, a two-week trough, dragging down other
  Continue reading...]]></summary>
         <author>
             <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix the Mysterious iPhone Wifi Bug (and Avoid It Altogether)]]></title>
-        <id>1847144065</id>
-        <link href="https://lifehacker.com/how-to-fix-the-mysterious-iphone-wifi-bug-and-avoid-it-1847144065"/>
-        <updated>2021-06-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An unusual bug is currently breaking iPhones’ wifi connections. Luckily, it’s easy enough to avoid—and to fix if your phone becomes afflicted—but dang, is it weird. In short, for some reason, if your iPhone connects to a wifi network named “%p%s%s%s%s%n,” the device’s wifi will cease to function. So don’t do that.
-
-Read more...]]></summary>
-        <author>
-            <name>Brendan Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow These Instagram Gardeners to Inspire Your Dream Garden]]></title>
-        <id>1847143343</id>
-        <link href="https://lifehacker.com/follow-these-instagram-gardeners-to-inspire-your-dream-1847143343"/>
-        <updated>2021-06-21T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to finding inspiration for your garden you could turn to an average internet search or tutorial, but nothing beats a daily feed of your favorite charismatic and innovative gardeners on social media. Here are some Instagram gardeners and conservatories to follow for both gardening advice and…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What 'Good Weight Lifting Form' Really Means (and When It Matters)]]></title>
-        <id>1692058974</id>
-        <link href="https://lifehacker.com/all-about-lifting-form-what-to-worry-about-and-what-n-1692058974"/>
-        <updated>2021-06-21T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Unless you enjoy getting injured, you should use good form at the gym. But what exactly does “good form” mean, and how much of a difference does it make? First, let’s talk about the purpose of form. For that, we turn to Jordan Syatt, a world record powerlifter and Westside Certified Barbell instructor. According to…
-Read more...]]></summary>
-        <author>
-            <name>Dick Talens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ice Cream Deserves to Be Eaten From a Mug]]></title>
-        <id>1844633078</id>
-        <link href="https://lifehacker.com/ice-cream-deserves-to-be-eaten-from-a-mug-1844633078"/>
-        <updated>2021-06-21T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even as the pandemic wanes (sort of—get vaccinated!) and we put the political strife of 2020 in the review mirror (wait, actually...), there’s still plenty to be upset about each and every day. So let’s put our combined anxiety aside and agree on one thing: Ice cream is best enjoyed when eaten from a coffee mug.
-Read more...]]></summary>
-        <author>
-            <name>Joel Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Prime Day Alternatives If You'd Rather Not Shop at Amazon]]></title>
-        <id>1847142442</id>
-        <link href="https://lifehacker.com/the-best-prime-day-alternatives-if-youd-rather-not-shop-1847142442"/>
-        <updated>2021-06-21T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s understandable that Amazon’s Prime Day sale (June 21-22) looms large for most consumers—the company rakes in just under 50% of all e-commerce retail revenue, nearly six times that of it’s next closest competitor, Walmart. But that doesn’t mean that you can’t find a better deals elsewhere, as other large retail…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 LGBTQ-Friendly Beaches to Visit This Summer]]></title>
-        <id>1847140732</id>
-        <link href="https://lifehacker.com/6-lgbtq-friendly-beaches-to-visit-this-summer-1847140732"/>
-        <updated>2021-06-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pride month is in full swing even as more of us are starting to reemerge into the world as COVID restrictions are easing around the country. The timing couldn’t be better: This month is a time to honor those who rioted, fought, and paved the way for the livelihood and rights of LGBTQ people—a time both to commemorate…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to See the 'Strawberry Moon,' the Last Supermoon of 2021]]></title>
-        <id>1847140307</id>
-        <link href="https://lifehacker.com/when-to-see-the-strawberry-moon-the-last-supermoon-of-1847140307"/>
-        <updated>2021-06-21T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an avid stargazer, June alone has been a crowded month in an otherwise busy year of celestial events. A solar eclipse, a planetary conjunction, and an asteroid careening within a reasonably close distance of the planet have added a nice bit of cosmic intrigue as the days get warmer and longer.
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Your Own Bouquet Garni]]></title>
-        <id>1847141308</id>
-        <link href="https://lifehacker.com/how-to-make-your-own-bouquet-garni-1847141308"/>
-        <updated>2021-06-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fresh herbs are beautiful, fragrant, and vivacious, but they lose their looks and flavor when left simmering in pots of soup or roasting with braised meat dishes. Losing their flavor is kind of the whole point—they are, after all, losing it to your dish—but the look and texture of soggy, heat-withered herbs is…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Should Add Baking Soda to Your Ground Meat]]></title>
-        <id>1846103865</id>
-        <link href="https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865"/>
-        <updated>2021-06-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aesthetically speaking, ground meat is not the most pleasing of animal proteins. When raw, it is all squishy and speckled, and more often than not, cooking it just transforms the pink, soft stuff into grey, nubby stuff.
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Tips for Remembering People's Names (and How to Memorize Unfamiliar Ones)]]></title>
-        <id>5626604</id>
-        <link href="https://lifehacker.com/how-to-remember-peoples-names-and-deal-with-unusual-na-5626604"/>
-        <updated>2021-06-21T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A person’s name is the single most important word to them, and how you use that name can have a profound effect on their impressions of you: Think about the times you’ve felt special when someone you admired addressed you by your name in a sincere tone, or the times when you’ve felt belittled when someone negligently…
-Read more...]]></summary>
-        <author>
-            <name>Philip Guo</name>
         </author>
     </entry>
     <entry>
@@ -570,19 +683,6 @@ The company – founded by the former Lehman Brothers trader Nik Storonsky and c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robots may soon be able to reproduce - will this change how we think about evolution? | Emma Hart]]></title>
-        <id>https://www.theguardian.com/commentisfree/2021/jun/21/robots-reproduce-evolution-nature-technology</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/jun/21/robots-reproduce-evolution-nature-technology"/>
-        <updated>2021-06-21T09:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Nature is full of examples of biology adapting to its surroundings. Technology may just be about to catch up
-From the bottom of the oceans to the skies above us, natural evolution has filled our planet with a vast and diverse array of lifeforms, with approximately 8 million species adapted to their surroundings in a myriad of ways. Yet 100 years after Karel Čapek coined the term robot, the functional abilities of many species still surpass the capabilities of current human engineering, which has yet to convincingly develop methods of producing robots that demonstrate human-level intelligence, move and operate seamlessly in challenging environments, and are capable of robust self-reproduction.
-But could robots ever reproduce? This, undoubtedly, forms a pillar of “life” as shared by all natural organisms. A team of researchers from the UK and the Netherlands have recently demonstrated a fully automated technology to allow physical robots to repeatedly breed, evolving their artificial genetic code over time to better adapt to their environment. Arguably, this amounts to artificial evolution. Child robots are created by mixing the digital “DNA” from two parent robots on a computer.
- Continue reading...]]></summary>
-        <author>
-            <name>Emma Hart</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Covid-19 vaccinations: homeless people at risk of being left out]]></title>
         <id>https://www.groundup.org.za/article/covid-19-vaccinations-homeless-people-risk-being-left-out/</id>
         <link href="https://www.groundup.org.za/article/covid-19-vaccinations-homeless-people-risk-being-left-out/"/>
@@ -590,32 +690,6 @@ But could robots ever reproduce? This, undoubtedly, forms a pillar of “life”
         <summary type="html"><![CDATA[At present the system requires an ID to register]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel Buds A-Series review: Google’s cheaper but good earbuds]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds"/>
-        <updated>2021-06-21T06:00:45.000Z</updated>
-        <summary type="html"><![CDATA[AirPods rivals have top sound, battery and translation features but cost significantly less
-Google’s latest AirPods competitors, the Pixel Buds A-Series, get a big price cut and a slightly more comfortable design.
-The new Bluetooth earbuds take a cue from Google’s cheaper but great A-Series phones, cutting a few features to cost £100 (US$99) – a full £80 cheaper than their predecessors.
- Continue reading...]]></summary>
-        <author>
-            <name>Samuel Gibbs Consumer technology editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sir Patrick Vallance handed tech role to build on vaccine success]]></title>
-        <id>https://www.theguardian.com/uk-news/2021/jun/20/sir-patrick-vallance-national-technology-adviser</id>
-        <link href="https://www.theguardian.com/uk-news/2021/jun/20/sir-patrick-vallance-national-technology-adviser"/>
-        <updated>2021-06-20T21:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Chief scientific adviser will head new government body looking at big bets in science and technology
-The government’s chief scientific adviser, Sir Patrick Vallance, has been asked by Boris Johnson to investigate whether the UK’s successful vaccine procurement programme can be replicated in other areas of technology.
-Vallance, who has become a household name following his appearances at coronavirus press conferences, will take on the new title of national technology adviser, serving alongside his current roles.
- Continue reading...]]></summary>
-        <author>
-            <name>Jim Waterson</name>
         </author>
     </entry>
     <entry>
@@ -672,23 +746,17 @@ The post Maker Spotlight: Michael Albert appeared first on Make: DIY Projects an
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Health department is likely overcounting its vaccine supply]]></title>
-        <id>https://www.groundup.org.za/article/health-department-likely-overcounting-its-vaccine-supply/</id>
-        <link href="https://www.groundup.org.za/article/health-department-likely-overcounting-its-vaccine-supply/"/>
-        <updated>2021-06-18T12:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Because of the syringes being used, vaccinators are getting fewer doses per vial]]></summary>
+        <title type="html"><![CDATA[The best video games of 2021 so far]]></title>
+        <id>https://www.theguardian.com/culture/2021/jun/18/the-best-video-games-of-2021-so-far</id>
+        <link href="https://www.theguardian.com/culture/2021/jun/18/the-best-video-games-of-2021-so-far"/>
+        <updated>2021-06-18T06:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Hostile alien planets, giant vampire women and a jazz age murder mystery – plus some old favourites, rebooted – are among the best games released this year
+PC
+A gentle, board game style town building sim, which has you matching hexagonal landscape tiles to craft unique locations, laying on further puzzles and pleasures as you go.
+What we said: “This is game-playing at its most thoughtfully relaxing, with that rare chance, in video games, to be the architect of a world, rather than its conqueror.” Read the full review.
+ Continue reading...]]></summary>
         <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Families left homeless in Tsakane after 60 shacks demolished]]></title>
-        <id>https://www.groundup.org.za/article/dozens-families-left-homelss-tsakane-after-60-shacks-demolished/</id>
-        <link href="https://www.groundup.org.za/article/dozens-families-left-homelss-tsakane-after-60-shacks-demolished/"/>
-        <updated>2021-06-18T11:38:30.000Z</updated>
-        <summary type="html"><![CDATA[Occupiers say they were tired of their pleas for housing “falling on deaf ears”]]></summary>
-        <author>
-            <name>GroundUp News</name>
+            <name>Keza MacDonald and Keith Stuart</name>
         </author>
     </entry>
     <entry>
@@ -824,19 +892,6 @@ Game Builder Garage broadens the canvas offered by its predecessors by allowing 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eat Just is racing to put ‘no-kill meat’ on your plate. Is it too good to be true?]]></title>
-        <id>https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick</id>
-        <link href="https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick"/>
-        <updated>2021-06-16T10:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The California startup leads a global push toward lab-grown meat. But experts question its bold claims
-In December of last year, a handful of diners sat down to a futuristic meal at 1880, a members-only restaurant in Singapore. The star ingredient was “no-kill” chicken – raised not on a farm but in a laboratory bioreactor. Attendees snacked on lab-grown nuggets paired with crispy maple waffles, bao buns, and black bean puree.
-For the California entrepreneur Josh Tetrick, it was a breakthrough. His company, Eat Just, had become the first in the world to sell the product after receiving approval from Singapore authorities. Headlines hailed a landmark step in the quest to end animal agriculture, upend the meat industry and redefine our diets.
- Continue reading...]]></summary>
-        <author>
-            <name>Erin McCormick in San Francisco</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Surface Laptop 4 review: Windows 10 as it is meant to be]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition</id>
         <link href="https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition"/>
@@ -897,21 +952,6 @@ Lindy Cameron, chief executive of the National Cyber Security Centre, will say i
  Continue reading...]]></summary>
         <author>
             <name>Dan Sabbagh Defence and security editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 2021: all the news from Microsoft and Bethesda’s Xbox showcase]]></title>
-        <id>https://www.theguardian.com/games/live/2021/jun/13/e3-2021-all-the-news-from-microsoft-and-bethesdas-xbox-showcase</id>
-        <link href="https://www.theguardian.com/games/live/2021/jun/13/e3-2021-all-the-news-from-microsoft-and-bethesdas-xbox-showcase"/>
-        <updated>2021-06-13T18:46:18.000Z</updated>
-        <summary type="html"><![CDATA[From Halo Infinite to the long anticipated role-playing adventure Starfield, Microsoft is promising a big show for this year’s digital only E3 conference
- 7.43pm BST 
-Virtual E3 is all a bit weird and disappointing but there were some great-looking games in Microsoft and Bethesda’s line-up. Here’s all the news, for those just joining us:
- 7.23pm BST 
-It’s something new from Arkane, makers of Dishonored and Prey. It’s an Xbox exclusive, an open-world shooter that you can apparently play alone or with friends. We’re seeing Heroes-esque young things with telekinetic powers, perusing a destroyed storefront. Then we see what happened: a supernatural firefight against VAMPIRES, assisted by locals who apparently worship them. They have a glowing purple Tardis and a robot dog? I’m into this. It’s called Redfall and it’s out summer next year.
- Continue reading...]]></summary>
-        <author>
-            <name>Keza MacDonald and Keith Stuart</name>
         </author>
     </entry>
     <entry>
@@ -978,31 +1018,6 @@ The An0m devices were released in October 2018 by a convicted narcotics importer
  Continue reading...]]></summary>
         <author>
             <name>Nino Bucci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Look: The Flashforge Foto 8.9s 4k Resin Printer]]></title>
-        <id>https://makezine.com/2021/06/10/first-look-the-flashforge-foto-8-9s-4k-resin-printer/</id>
-        <link href="https://makezine.com/2021/06/10/first-look-the-flashforge-foto-8-9s-4k-resin-printer/"/>
-        <updated>2021-06-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FlashForge’s latest resin printer, the Foto 8.9s, arrived on my workbench a few weeks ago and I’ve had a lot of fun testing it out and putting it through it’s paces. This is the latest in their Foto series, pushing the specs and reliability further than they have before. Lets go over some specs: build […]
-The post First Look: The Flashforge Foto 8.9s 4k Resin Printer appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
-        <author>
-            <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertigo the game: could it delete the horrific history of movie tie-ins?]]></title>
-        <id>https://www.theguardian.com/film/2021/jun/09/vertigo-the-game-movie-tie-ins</id>
-        <link href="https://www.theguardian.com/film/2021/jun/09/vertigo-the-game-movie-tie-ins"/>
-        <updated>2021-06-09T10:27:25.000Z</updated>
-        <summary type="html"><![CDATA[A new French project ‘inspired’ by the Hitchcock classic could point the way to video games that riff off a film-maker’s wider aesthetic
-
-As someone who has just suffered through the living joyless hell of the Lego Incredibles game at a six-year-old’s insistence, I am the last person who needs to be reminded that video games based on movies are the second lowest form of art, after movies based on video games.
-Did you ever play the White Men Can’t Jump game on the Atari Jaguar? Did you ever play the Hudson Hawk game on the Amiga? Did you ever, for the love of all that is holy, shell out money to play the Street Fighter: The Movie game (based, in a nightmarish helix spiral of market synergy, on a film that was based on a game) on the original PlayStation? If you did – or if you’ve played games based on Scarface, Planet of the Apes, Platoon, Porky’s, The Italian Job or either of the first two Godfather films – you’ll know to instantly equate a movie licence with a terrible game.
- Continue reading...]]></summary>
-        <author>
-            <name>Stuart Heritage</name>
         </author>
     </entry>
     <entry>
