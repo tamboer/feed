@@ -1,10 +1,344 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T00:36:16.520Z</id>
+    <id>urn:2021-06-26T00:32:09.834Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:36:16.520Z</updated>
+    <updated>2021-06-26T00:32:09.834Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Custom Clock with LED Filament Hands]]></title>
+        <id>https://hackaday.com/?p=483871</id>
+        <link href="https://hackaday.com/2021/06/25/a-custom-clock-with-led-filament-hands/"/>
+        <updated>2021-06-25T23:00:36.000Z</updated>
+        <summary type="html"><![CDATA[LEDs have become so ubiquitous in our projects that just hearing that term probably conjures images of tiny illuminated domes in an array of single-spectrum colors. It’s easy to forget …read more]]></summary>
+        <author>
+            <name>Zach Zeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Terracotta, Ceramic, and Plastic Pots, and Why It Matters to Your Plants]]></title>
+        <id>1847176578</id>
+        <link href="https://lifehacker.com/the-difference-between-terracotta-ceramic-and-plastic-1847176578"/>
+        <updated>2021-06-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Different pots have different uses for your home plants and planters. Plants behave differently in plastic containers than they do in glazed ceramic pots, and each pot has its own set of care instructions. So what is the difference between these various pots and planters? It comes down to breathability and moisture…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use 'Self-Determination Theory' to Motivate Others]]></title>
+        <id>1847173631</id>
+        <link href="https://lifehacker.com/use-self-determination-theory-to-motivate-others-1847173631"/>
+        <updated>2021-06-25T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You probably know what it’s like to have a bad boss. You might even know what it’s like to be one. Certainly at work (and if life) nobody likes a micromanager, but a boss who can’t be bothered to actually lead the team or  check-in with their direct reports is just as bad. 
+
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casting A Simple 3D Print in Aluminium]]></title>
+        <id>https://hackaday.com/?p=484145</id>
+        <link href="https://hackaday.com/2021/06/25/casting-a-simple-3d-print-in-aluminium/"/>
+        <updated>2021-06-25T20:00:13.000Z</updated>
+        <summary type="html"><![CDATA[3D printing with plastics and resins is great for quickly prototyping parts with all manner of geometries, but strength and durability of the parts produced is often limited. One way …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFS, Put Some Weight on the Bar]]></title>
+        <id>1847176087</id>
+        <link href="https://lifehacker.com/put-some-fucking-weight-on-the-bar-1847176087"/>
+        <updated>2021-06-25T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The point of lifting weights is to challenge your body, such that your body rises to the challenge by building muscle. The more you lift, the stronger you get. And yet, too many people get talked out of ever putting some fucking weight on the bar. 
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Island Vacations Where You Won't Need a Passport]]></title>
+        <id>1847174446</id>
+        <link href="https://lifehacker.com/15-island-vacations-where-you-wont-need-a-passport-1847174446"/>
+        <updated>2021-06-25T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not many people first think of the United States when it comes to planning a relaxing island getaway—the thought of an island vacation might instead conjure images of a tropical beach in the Caribbean or the south of France. That’s fair; but there are several island destinations right here in the United States worth…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will We Soon Be Running Linux On SiFive Cores Made By Intel?]]></title>
+        <id>https://hackaday.com/?p=483973</id>
+        <link href="https://hackaday.com/2021/06/25/will-we-soon-be-running-linux-on-sifive-cores-made-by-intel/"/>
+        <updated>2021-06-25T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s an understandably high level of interest in RISC-V processors among our community, but while we’ve devoured the various microcontroller offerings containing the open-source core it’s fair to say we’re …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blend Two Pink Liqueurs Into a Campberry Cooler]]></title>
+        <id>1847174411</id>
+        <link href="https://lifehacker.com/blend-two-pink-liqueurs-into-a-campberry-cooler-1847174411"/>
+        <updated>2021-06-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A couple of weeks ago, I picked a flat of Hood strawberries. Hoods are  sweet, delicate, and prone to going bad before you can process them all. So I utilized my usual strategy of drinking through my berry haul.
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22 History Facts You Didn't Learn in School, According to Reddit]]></title>
+        <id>1847173167</id>
+        <link href="https://lifehacker.com/22-history-facts-you-didnt-learn-in-school-according-t-1847173167"/>
+        <updated>2021-06-25T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Where do you go to find surprising true facts from history, backed up by solid sources and told with nuance? You may be shocked to hear the answer is: Reddit. The sub called r/AskHistorians specializes in exactly this, with experts writing in-depth answers to questions about any area of history. 
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Know Audio: A Loudspeaker Primer]]></title>
+        <id>https://hackaday.com/?p=481145</id>
+        <link href="https://hackaday.com/2021/06/25/know-audio-a-loudspeaker-primer/"/>
+        <updated>2021-06-25T17:00:06.000Z</updated>
+        <summary type="html"><![CDATA[As we’ve started out on our journey through the world of Hi-Fi audio from a strictly practical and engineering viewpoint without being misled by any audiophile woo, we’ve already taken …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Way to Pack a Cooler]]></title>
+        <id>1844605820</id>
+        <link href="https://lifehacker.com/the-best-way-to-pack-a-cooler-1844605820"/>
+        <updated>2021-06-25T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[There are few things more disappointing in the height of summer than pulling a lukewarm beer or spoiled food out of your cooler. Truly keeping food and beverages cold in very hot weather may seem like an impossible task, but it can be done if you pack your cooler strategically. Here’s how to do it.
+
+Read more...]]></summary>
+        <author>
+            <name>Emily Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google starts warning users if search results are likely to be poor]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/25/google-starts-warning-users-if-search-results-are-likely-to-be-poor</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/25/google-starts-warning-users-if-search-results-are-likely-to-be-poor"/>
+        <updated>2021-06-25T16:30:56.000Z</updated>
+        <summary type="html"><![CDATA[New message warns that results are ‘changing quickly’ and may not yet include reliable sources
+Google has started warning users when they search for a topic that is likely to have poor results, as part of its effort to tackle “data voids” on the search engine.
+The new warning was spotted by Renee DiResta, an academic who studies misinformation at Stanford University. “It looks like these results are changing quickly,” Google will now caution users. “If this topic is new, it can sometimes take time for results to be added by reliable sources.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern UK technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chicken Poop Is Really Useful, Actually]]></title>
+        <id>1847165526</id>
+        <link href="https://lifehacker.com/chicken-shit-is-really-useful-actually-1847165526"/>
+        <updated>2021-06-25T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This past spring, I set out to design and maintain a sustainable garden in my backyard—and a big part of that project has involved using chickens to fertilize my soil and help process my compost pile. All of their pecking, scratching, and depleting the backyard of its resources can be redirected and contained to one…
+Read more...]]></summary>
+        <author>
+            <name>Therese McPherson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Podcast 124: Hard Drivin’ with Graphene, Fooled by Lasers, Etching with Poison Acid, and All The Linux Commands]]></title>
+        <id>https://hackaday.com/?p=484198&amp;preview=true&amp;preview_id=484198</id>
+        <link href="https://hackaday.com/2021/06/25/hackaday-podcast-124-hard-drivin-with-graphene-fooled-by-lasers-etching-with-poison-acid-and-all-the-linux-commands/"/>
+        <updated>2021-06-25T16:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Hackaday editors Elliot Williams and Mike Szczys marvel at the dangerous projects on display this week, including glass etching with hydrofluoric acid and pumping 200,000 A into a 5,000 A …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Smarter Ways to Make Killer Deviled Eggs]]></title>
+        <id>1847167171</id>
+        <link href="https://lifehacker.com/13-smarter-ways-to-make-killer-deviled-eggs-1847167171"/>
+        <updated>2021-06-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If I had to pick a favorite BBQ appetizer, it would probably be deviled eggs. They are savory, the perfect size, and have a decidedly retro feel that I find incredibly charming. They’re also an incredibly easy dish, but one that is riddled with pitfalls, especially if you’ve never been “in charge” of the deviled eggs…
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft to let developers keep all their Windows app store revenue]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/25/microsoft-let-developers-keep-all-windows-app-store-revenue</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/25/microsoft-let-developers-keep-all-windows-app-store-revenue"/>
+        <updated>2021-06-25T15:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Change affecting all firms apart from game developers will increase pressure on Apple and Google
+Microsoft will no longer force companies to pay it a cut of their revenue if they want a place on the Windows app store, the company has announced, in a move calculated to increase the regulatory pressure on Apple and Google’s mobile duopoly.
+As part of the shift to Windows 11, unveiled on Thursday, the company will allow developers to use their own payment systems on apps they sell through the Windows store. Those who do will not have to pay a penny to Microsoft.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern  UK technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get macOS 12's Safari Interface on macOS 11]]></title>
+        <id>1847173289</id>
+        <link href="https://lifehacker.com/how-to-get-macos-12s-safari-interface-on-macos-11-1847173289"/>
+        <updated>2021-06-25T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Safari browser will get a visual overhaul as part of the upcoming macOS 12 Monterey update launching later this year, and there are a couple of ways to try out the new browser ahead of the macOS 12 update, including a way to get it now on macOS 11.
+
+Read more...]]></summary>
+        <author>
+            <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Boy Color Gets A Rechargeable Battery]]></title>
+        <id>https://hackaday.com/?p=484144</id>
+        <link href="https://hackaday.com/2021/06/25/game-boy-color-gets-a-rechargeable-battery/"/>
+        <updated>2021-06-25T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo’s classic Game Boy has long been the darling queen of the handheld scene. However, with many fans modifying their handhelds with power-sucking features like modern backlit LCDs, running on …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Looking at Your Ex’s Social Media]]></title>
+        <id>1847170738</id>
+        <link href="https://lifehacker.com/how-to-stop-looking-at-your-ex-s-social-media-1847170738"/>
+        <updated>2021-06-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After a breakup, you might find yourself compelled to look at your ex’s Instagram (or Facebook or Venmo or LinkedIn…). Ideally, you’ll see them doing badly and you might feel victorious, although you know that’s not true: Most people don’t post their low moments online. 
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Out-of-Touch Adults' Guide To Kid Culture: When Will Britney Spears Be Free?]]></title>
+        <id>1847170751</id>
+        <link href="https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-when-will-1847170751"/>
+        <updated>2021-06-25T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This week covers the whole spectrum of kid-internet-culture, from Britney Spears stuck in a conservatorship, to a movie about family stuck next to the ultimate Karen, to a TikTok lady who got stuck in her own chair. Let’s dive in—here’s what you need to know.
+
+Read more...]]></summary>
+        <author>
+            <name>Stephen Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SACP picket in Western Cape calls for inquiry into “the rot within the police”]]></title>
+        <id>https://www.groundup.org.za/article/sacp-picket-in-western-cape-calling-for-inquiry-into-the-rot-within-the-police/</id>
+        <link href="https://www.groundup.org.za/article/sacp-picket-in-western-cape-calling-for-inquiry-into-the-rot-within-the-police/"/>
+        <updated>2021-06-25T14:19:50.000Z</updated>
+        <summary type="html"><![CDATA[The party says the public have lost all confidence and trust in the police]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anger over exclusion of ECD centres from teacher vaccinations]]></title>
+        <id>https://www.groundup.org.za/article/anger-over-exclusion-early-childhood-development-centres-teacher-vaccinations/</id>
+        <link href="https://www.groundup.org.za/article/anger-over-exclusion-early-childhood-development-centres-teacher-vaccinations/"/>
+        <updated>2021-06-25T14:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Early childhood development centre owners say they are “the forgotten sector”]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have I gone too far in monitoring my children’s online activity? | Annalisa Barbieri]]></title>
+        <id>https://www.theguardian.com/lifeandstyle/2021/jun/25/have-i-gone-too-far-in-monitoring-my-childrens-online-activity</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/jun/25/have-i-gone-too-far-in-monitoring-my-childrens-online-activity"/>
+        <updated>2021-06-25T14:00:28.000Z</updated>
+        <summary type="html"><![CDATA[At this stage, being a parent is more about negotiation and trust, says Annalisa Barbieri. Sit down as a family and talk about it – make rules together
+I have two children, aged nine and 11. We’ve always limited their tech but just before the pandemic, we bought them tablets to give them access to education, entertainment and their friends. Then I became concerned about their increasing use and placed more limits on screen time.
+Full disclosure: I am a phone addict. So I introduced a rule where we all put our devices in a box when we aren’t using them (I break this rule most). During the last lockdown, we got my older child a phone. She had already asked for TikTok – her friends all had it, but I refused because it has all sorts of age-inappropriate stuff. However, that was how her friends communicated, so I allowed it as long as it was a private account on my device, so I could monitor it and her messages. She agreed to this reluctantly. I know I need to step back, but how do I do that without neglecting my duties as a parent?
+ Continue reading...]]></summary>
+        <author>
+            <name>Annalisa Barbieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Security: Schemeflood, Modern Wardialing, And More!]]></title>
+        <id>https://hackaday.com/?p=484080</id>
+        <link href="https://hackaday.com/2021/06/25/this-week-in-security-schemeflood-modern-wardialing-and-more/"/>
+        <updated>2021-06-25T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[There’s been yet another technique discovered to fingerprint users, and this one can even work in the Tor browser. Scheme flooding works by making calls to application URLs, something like …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to See Mercury With Your Naked Eyes This July]]></title>
+        <id>1847167734</id>
+        <link href="https://lifehacker.com/when-to-see-mercury-with-your-naked-eyes-this-july-1847167734"/>
+        <updated>2021-06-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With all of the celestial events coming this summer, we can safely rebrand the next few months Big Planet Season. All of this year’s supermoons have come and gone, but the cosmic gifts dotting the calendar are a bit more mysterious and striking than the moon: Some of the solar system’s biggest and most distant planets…
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 of the Most Iconic Directorial Debuts in Movie History]]></title>
+        <id>1847165193</id>
+        <link href="https://lifehacker.com/25-of-the-most-iconic-directorial-debuts-in-movie-histo-1847165193"/>
+        <updated>2021-06-25T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It takes a rare sort of artistic genius to create a masterpiece on your first try. Whatever type of art we’re talking about, there is of course nothing wrong with fumbling around in the dark in search of greatness. Certainly the cinema is no different—the careers of many of history’s most revered film directors…
+Read more...]]></summary>
+        <author>
+            <name>Ross Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Ragweed and Goldenrod, and What It Means for Your Allergies]]></title>
+        <id>1847168303</id>
+        <link href="https://lifehacker.com/the-difference-between-ragweed-and-goldenrod-and-what-1847168303"/>
+        <updated>2021-06-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There has been a lot of talk about the healing power of nature—between forest bathing, fresh air, and all kinds of “wellness” retreats—but people with hay fever may have a slightly different take on the great outdoors. Namely: It can be difficult to really appreciate nature when so much of it makes your eyes water…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise of BookTok: meet the teen influencers pushing books up the charts]]></title>
+        <id>https://www.theguardian.com/books/2021/jun/25/the-rise-of-booktok-meet-the-teen-influencers-pushing-books-up-the-charts</id>
+        <link href="https://www.theguardian.com/books/2021/jun/25/the-rise-of-booktok-meet-the-teen-influencers-pushing-books-up-the-charts"/>
+        <updated>2021-06-25T11:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Young TikTok users are sharing their passion for books with millions – bringing titles they love to life online and reshaping the publishing world, all in under a minute
+In August 2020, Kate Wilson, a 16-year-old from Shrewsbury, posted on the social media video platform TikTok a series of quotes from books she had read, “that say I love you, without actually saying I love you”. Set to a melancholy soundtrack, the short video plays out as Wilson, an A-level student, holds up copies of the books with the quotes superimposed over them. “You have been the last dream of my soul,” from A Tale of Two Cities. “Whatever our souls are made of, his and mine are the same,” from Wuthering Heights. “Every atom of your flesh is as dear to me as my own,” from Jane Eyre. It has been viewed more than 1.2m times.
+Wilson’s TikTok handle, @kateslibrary, is among the increasingly popular accounts posting on #BookTok, a corner of TikTok devoted to reading, which has clocked up 9.6bn views and counting, and has been described as the last wholesome place on the internet. Here, users – predominantly young women – post short videos inspired by the books they love. Those that do best are fun, snappy takes on literature and the experience of reading. “Books where the main character was sent to kill someone but they end up falling in love,” from @kateslibrary. “Things that bookworms do,” from @abbysbooks. “When you were 12 and your parents caught you crying over a book,” from @emilymiahreads.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alison Flood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gauteng families huddle around fire at night without food or sufficient shelter]]></title>
+        <id>https://www.groundup.org.za/article/tsakane-families-huddle-around-fire-night-without-food-or-sufficient-shelter/</id>
+        <link href="https://www.groundup.org.za/article/tsakane-families-huddle-around-fire-night-without-food-or-sufficient-shelter/"/>
+        <updated>2021-06-25T10:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Ekurhuleni spokesperson says they were evicted because their occupation was illegal but admits housing backlog was “not being eradicated at the pace the homeless community would like to see”]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon and Google investigated by UK regulator over fake reviews]]></title>
+        <id>https://www.theguardian.com/business/2021/jun/25/amazon-and-google-investigated-by-uk-regulator-over-fake-reviews</id>
+        <link href="https://www.theguardian.com/business/2021/jun/25/amazon-and-google-investigated-by-uk-regulator-over-fake-reviews"/>
+        <updated>2021-06-25T07:44:21.000Z</updated>
+        <summary type="html"><![CDATA[CMA will decide whether consumer law was broken by not taking sufficient action to protect shoppers
+Amazon and Google are to be investigated by the UK competition watchdog over concerns the tech companies have not done enough to tackle the widespread problem of fake reviews on their websites.
+The Competition and Markets Authority, which began looking at the issue of fake reviews on major platforms two years ago, will now consider whether Amazon and Google have broken consumer law by not taking sufficient action to protect shoppers from fake reviews.
+ Continue reading...]]></summary>
+        <author>
+            <name>Mark Sweney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘They can’t do it without us’: Black TikTokers strike to protest dance appropriation]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/24/tiktok-strike-black-creators-megan-thee-stallion-dance</id>
@@ -19,16 +353,6 @@ The action has been focused on Megan Thee Stallion’s new song Thot Shit, which
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacked AC Window Unit Split in Half to Cool the Garage]]></title>
-        <id>https://hackaday.com/?p=483567</id>
-        <link href="https://hackaday.com/2021/06/24/hacked-ac-window-unit-split-in-half-to-cool-the-garage/"/>
-        <updated>2021-06-24T23:01:04.000Z</updated>
-        <summary type="html"><![CDATA[It’s getting into the hot summer months for those of us in the Northern Hemisphere, and for many Hackaday readers, that means its time to get the old window air …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[These Are the Only Two Ways to Actually Keep Mosquitoes Away]]></title>
         <id>1844224273</id>
         <link href="https://lifehacker.com/to-keep-mosquitoes-away-do-these-two-things-1844224273"/>
@@ -37,16 +361,6 @@ The action has been focused on Megan Thee Stallion’s new song Thot Shit, which
 Read more...]]></summary>
         <author>
             <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fat Tire Bike Turned Hubless]]></title>
-        <id>https://hackaday.com/?p=483938</id>
-        <link href="https://hackaday.com/2021/06/24/fat-tire-bike-turned-hubless/"/>
-        <updated>2021-06-24T20:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Bicycle wheels have looked pretty much the same for over a century, and for very good reason: It works. [The Q] decided to ignore reason for a bit and focus …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
         </author>
     </entry>
     <entry>
@@ -92,16 +406,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active Ball Joint Uses Spherical Gear]]></title>
-        <id>https://hackaday.com/?p=483868</id>
-        <link href="https://hackaday.com/2021/06/24/active-ball-joint-uses-spherical-gear/"/>
-        <updated>2021-06-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A common CAD operation is to take a 2D shape and extrude it into a 3D shape. But what happens if you take a gear and replicate it along a …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
         </author>
     </entry>
     <entry>
@@ -165,16 +469,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ISS Gets Roll-Out Solar Panels in Post-Shuttle Fix]]></title>
-        <id>https://hackaday.com/?p=484094</id>
-        <link href="https://hackaday.com/2021/06/24/iss-gets-roll-out-solar-panels-in-post-shuttle-fix/"/>
-        <updated>2021-06-24T17:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Astronauts are currently installing the first of six new solar arrays on the International Space Station (ISS), in a bid to bolster the reduced power generation capability of the original …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make the Best Croutons in Your Air Fryer]]></title>
         <id>1847165915</id>
         <link href="https://lifehacker.com/how-to-make-the-best-croutons-in-your-air-fryer-1847165915"/>
@@ -220,39 +514,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mechanically Multiplexed Flip-Dot]]></title>
-        <id>https://hackaday.com/?p=482870</id>
-        <link href="https://hackaday.com/2021/06/24/mechanically-multiplexed-flip-dot/"/>
-        <updated>2021-06-24T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Flip dots displays are timeless classics, but driving the large ones can quickly turn into a major challenge. The electromagnets require a lot of current to operate, and the driver …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New on HBO Max in July 2021]]></title>
-        <id>1847164866</id>
-        <link href="https://lifehacker.com/whats-new-on-hbo-max-in-july-2021-1847164866"/>
-        <updated>2021-06-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everyone loves to joke that time is a flat circle, but rebooting a circa mid-aughts show about the decadent lives of ultra-wealthy Manhattan prep school kids while the nation is still entrenched in another fiscal crisis (if one of a very different sort than the 2008 crash) is a bit... on the nose, shall we say.
-Of…
-Read more...]]></summary>
-        <author>
-            <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Really Recognize Poison Ivy, Beyond 'Leaves of Three, Let It Be']]></title>
-        <id>1836417759</id>
-        <link href="https://lifehacker.com/how-to-identify-poison-ivy-1836417759"/>
-        <updated>2021-06-24T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Leaves of three, let it be” is a classic rhyme about poison ivy, and it’s accurate: The plant’s triple leaflets are a reliable characteristic. But if you want to know more about this itch-inducing plant, you need to learn a few more things. 
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gauteng sewage has shown high rates of Covid-19 for three weeks]]></title>
         <id>https://www.groundup.org.za/article/covid-19-poo-surveillance-covid-19-third-wave-in-gauteng/</id>
         <link href="https://www.groundup.org.za/article/covid-19-poo-surveillance-covid-19-third-wave-in-gauteng/"/>
@@ -260,49 +521,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Other hotspots are Gqeberha and Cape Town]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can’t Put the Toothpaste Back In the Tube, But It Used to Be Easier]]></title>
-        <id>https://hackaday.com/?p=475425</id>
-        <link href="https://hackaday.com/2021/06/24/you-cant-put-the-toothpaste-back-in-the-tube-but-it-used-to-be-easier/"/>
-        <updated>2021-06-24T14:01:07.000Z</updated>
-        <summary type="html"><![CDATA[After five years of research, Colgate-Palmolive recently revealed Australia’s first recyclable toothpaste tube. Why is this exciting? They are eager to share the design with the rest of the toothpaste …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Shouldn't Expect a COVID Vaccine Booster Anytime Soon]]></title>
-        <id>1847160793</id>
-        <link href="https://lifehacker.com/why-you-shouldnt-expect-a-covid-vaccine-booster-anytime-1847160793"/>
-        <updated>2021-06-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We don’t know how long protection from the COVID-19 vaccines will last, which has led to speculation that we might all need to get booster shots—perhaps yearly, as with flu shots—to stay protected. But according to data presented at a recent CDC meeting, people who finished their vaccinations six months ago are still…
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install a Bidet, Because It's Easier Than You Think]]></title>
-        <id>1847153710</id>
-        <link href="https://lifehacker.com/how-to-install-a-bidet-because-its-easier-than-you-thi-1847153710"/>
-        <updated>2021-06-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Bidets have long been a common bathroom fixture in many parts of the world, but they finally found their moment to shine in the United States at the start of the pandemic, when toilet paper was hard to come by. We’ve already talked about the benefits of a bidet and how to use the different styles, but what about…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honor Your Summer Fruit by Turning It Into Liqueur]]></title>
-        <id>1847160087</id>
-        <link href="https://lifehacker.com/honor-your-summer-fruit-by-turning-it-into-liqueur-1847160087"/>
-        <updated>2021-06-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fruit liqueurs don’t have the best reputation. As with flavored vodkas, most options available for purchase taste cloying and artificial. But homemade fruit liqueur can be a wondrous thing—all you need is fruit, vodka, and simple syrup.
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
         </author>
     </entry>
     <entry>
@@ -316,35 +534,12 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Pi USB Webcam That Was Born to Boot Quick]]></title>
-        <id>https://hackaday.com/?p=483940</id>
-        <link href="https://hackaday.com/2021/06/24/a-pi-usb-webcam-that-was-born-to-boot-quick/"/>
-        <updated>2021-06-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the age of business Zoom rooms, having a crisp webcam is key for introducing fellow executives to your pet cat. Unfortunately, quality webcams are out of stock and building …read more]]></summary>
-        <author>
-            <name>Joshua Vasquez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Covid-19 vaccines should be compulsory]]></title>
         <id>https://www.groundup.org.za/article/why-covid-19-vaccines-should-be-compulsory/</id>
         <link href="https://www.groundup.org.za/article/why-covid-19-vaccines-should-be-compulsory/"/>
         <updated>2021-06-24T10:33:41.000Z</updated>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon crushed the Alabama union drive – can the Teamsters do better?]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/24/amazon-alabama-union-drive-teamsters</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/24/amazon-alabama-union-drive-teamsters"/>
-        <updated>2021-06-24T09:00:53.000Z</updated>
-        <summary type="html"><![CDATA[The Teamsters union is rich, strong, and experienced – and it’s ready to help workers and give Amazon a headache  
-The announcement that the Teamsters – one of America’s most powerful unions – is going to mount an ambitious campaign to unionize Amazon warehouses across the US presents the e-retailing colossus with a far bigger threat than the recent effort to unionize an Amazon warehouse in Alabama ever did.
- Related: Amazon fired him – now he’s trying to unionize 5,000 workers in New York 
- Continue reading...]]></summary>
-        <author>
-            <name>Steven Greenhouse</name>
         </author>
     </entry>
     <entry>
@@ -396,19 +591,6 @@ Two reasons: it is very far away and unless you have a telephoto lens (which mak
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft urged to keep corporate travel to 2020 levels for good]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/24/microsoft-urged-to-keep-corporate-travel-to-2020-levels-for-good</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/24/microsoft-urged-to-keep-corporate-travel-to-2020-levels-for-good"/>
-        <updated>2021-06-24T05:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Firm should set example by using its videoconferencing tools to reduce flying, campaigners say
-Microsoft is being urged to limit its corporate travel to 2020 levels for good, to set an example that others can follow by using its videoconferencing tools to limit its impact on the environment.
-The Just Use Teams campaign, launched by a group of climate activists and Microsoft customers, says the company has spoken about the urgent need to tackle climate change but remains among the top 10 corporate flyers globally, despite being the only one to own and operate a videoconferencing platform.
- Continue reading...]]></summary>
-        <author>
-            <name>Alex Hern</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[John McAfee: the tech pioneer turned fugitive]]></title>
         <id>https://www.theguardian.com/us-news/2021/jun/24/john-mcafee-the-tech-pioneer-turned-fugitive</id>
         <link href="https://www.theguardian.com/us-news/2021/jun/24/john-mcafee-the-tech-pioneer-turned-fugitive"/>
@@ -425,19 +607,6 @@ He publicly embraced drugs, guns and sex, and had a history of legal woes spanni
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How meme stars of the early internet are striking it rich with NFTs - podcast]]></title>
-        <id>https://www.theguardian.com/news/audio/2021/jun/24/how-meme-stars-early-internet-striking-it-rich-nfts-podcast</id>
-        <link href="https://www.theguardian.com/news/audio/2021/jun/24/how-meme-stars-early-internet-striking-it-rich-nfts-podcast"/>
-        <updated>2021-06-24T02:00:44.000Z</updated>
-        <summary type="html"><![CDATA[The growth of non-fungible tokens has given rise to massive windfalls for those behind early virals. Sirin Kale and Alex Hern explain all
-On 28 May 2016 the photographer Jeff McCurry was taking pictures of a 17-year-old western lowland gorilla called Harambe in Cincinnati zoo when a child entered the enclosure. The zookeepers reacted by shooting the gorilla dead. The child was unhurt. What was a local story suddenly became a global phenomenon due to the combination of social media and McCurry’s picture. Harambe’s image was everywhere. But, despite his photo being shared billions of times, McCurry did not see much of a financial benefit. Now advances in technology have given the world non-fungible tokens (NFTs) – and McCurry has a way of finally cashing in on his famous image.
-The Guardian’s technology editor, Alex Hern, tells Rachel Humphreys that this year’s craze for NFTs follows in the wake of speculation on cryptocurrencies such as Bitcoin. Now similar technology means unique images, film clips, animations and even poems are being bought and sold online for increasingly large sums.
- Continue reading...]]></summary>
-        <author>
-            <name>Presented by Rachel Humphreys with Sirin Kale and Alex Hern; produced by Alex Atack, Ned Carter Miles and Sami el-Enany; executive producers Phil Maynard and Archie Bland</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cancer patients say they are struggling to access treatment since Charlotte Maxeke fire]]></title>
         <id>https://www.groundup.org.za/article/cancer-patients-struggling-april-access-treatment-charlotte-maxeke-hospital-fire/</id>
         <link href="https://www.groundup.org.za/article/cancer-patients-struggling-april-access-treatment-charlotte-maxeke-hospital-fire/"/>
@@ -448,118 +617,16 @@ The Guardian’s technology editor, Alex Hern, tells Rachel Humphreys that this 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Can Lock Your Shady Incognito Tabs With This Hidden Face ID Setting]]></title>
-        <id>1847160329</id>
-        <link href="https://lifehacker.com/you-can-lock-your-shady-incognito-tabs-with-this-hidden-1847160329"/>
-        <updated>2021-06-23T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is testing a new feature for Chrome on iPhone and iPad that lets you lock incognito tabs with facial ID when they’re left open in the background. (Unfortunately, the feature is not available on Android—at least not yet).
-
-Read more...]]></summary>
+        <title type="html"><![CDATA[Greta Lee Jackson: the 10 funniest things I have ever seen on the internet]]></title>
+        <id>https://www.theguardian.com/culture/2021/jun/24/greta-lee-jackson-the-10-funniest-things-i-have-ever-seen-on-the-internet</id>
+        <link href="https://www.theguardian.com/culture/2021/jun/24/greta-lee-jackson-the-10-funniest-things-i-have-ever-seen-on-the-internet"/>
+        <updated>2021-06-23T17:30:35.000Z</updated>
+        <summary type="html"><![CDATA[We ask connoisseurs of comedy to provide a tasting plate from the smorgasbord of laughs. Greta Lee Jackson serves up this one
+Hello! I’m Greta Lee Jackson. You might know me from being in my activewear or having a massive go at celebrities during the pandemic. I’m a comedy content maker, meaning I try to make funny clips for TV and the internet. Having said that, I’m fairly confident that nothing I make will ever come close to the level of comedy that the following pieces of content achieve. I will forever be in awe of them, hauling them out whenever times get tough and I need cheering up, or I need inspiration, or just fancy feeling like an abject failure at my chosen profession.
+ Related: Alex Gallagher: the 10 funniest things I have ever seen (on the internet) 
+ Continue reading...]]></summary>
         <author>
-            <name>Brendan Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Share Tweets Directly to Your Instagram Stories on iOS Instead of Using Screenshots]]></title>
-        <id>1847158269</id>
-        <link href="https://lifehacker.com/how-to-share-tweets-directly-to-your-instagram-stories-1847158269"/>
-        <updated>2021-06-23T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an iOS user, you no longer have to go through the tedious process of taking a screenshot of a tweet in your Twitter app, switching over to Instagram, and uploading them separately to your Instagram Stories. Twitter now lets you do this directly with its new Instagram Stories share option.
-
-Read more...]]></summary>
-        <author>
-            <name>Emily Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Ways You Aren't Using Mesh Laundry Bags, But Should Be]]></title>
-        <id>1847158700</id>
-        <link href="https://lifehacker.com/9-ways-you-arent-using-mesh-laundry-bags-but-should-be-1847158700"/>
-        <updated>2021-06-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some things make it into the washer and never make it out, and it can feel like house elves are stealing your things when you swore you put an even number of socks in the machine, only to be left with an odd number. The truth is, your washer really does eat your clothes sometimes. The washer housing might be holding…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cancel Your Airbnb Reservation Without Being a Jerk]]></title>
-        <id>1847157861</id>
-        <link href="https://lifehacker.com/how-to-cancel-your-airbnb-reservation-without-being-an-1847157861"/>
-        <updated>2021-06-23T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of its sweeping product update last month, Airbnb announced a change to its cancelation policy. The change, which was partly inspired by industry-wide ripple effects wrought by the pandemic, intends to make cancelations more flexible for both hosts and guests.
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use This Tool to Claim Money From Your Child Tax Credit]]></title>
-        <id>1847158751</id>
-        <link href="https://lifehacker.com/use-this-tool-to-claim-money-from-your-child-tax-credit-1847158751"/>
-        <updated>2021-06-23T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday the IRS launched a new portal to help you manage advance payments on the recently expanded Child Tax Credit, worth up to $3,600 per child. The tax credit is complicated—as it’s based on your estimated income for 2021—so you’ll want to use the portal to update your income and child dependent status (or opt…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Multiple Accounts to Your Amazon Echo]]></title>
-        <id>1847157930</id>
-        <link href="https://lifehacker.com/how-to-add-multiple-accounts-to-your-amazon-echo-1847157930"/>
-        <updated>2021-06-23T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One benefit of an Amazon smart speaker is that anyone can ask Alexa to play music, or set a timer, or perform any number of basic functions—regardless of whose Amazon account was used to set up the device.
-
-Read more...]]></summary>
-        <author>
-            <name>Emily Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enroll in the iOS 15 Developer Beta Right Now]]></title>
-        <id>1847158717</id>
-        <link href="https://lifehacker.com/how-to-enroll-in-the-ios-15-developer-beta-right-now-1847158717"/>
-        <updated>2021-06-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The public beta for iOS 15 and iPadOS 15 starts sometime in July, but users can get their hands on Apple’s new mobile operating systems even earlier by installing the developer builds. These versions are less stable than the eventual public beta, and there are several requirements you’ll need to meet, but it’s the…
-Read more...]]></summary>
-        <author>
-            <name>Brendan Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Plant-Based Protein Powder Not Taste Like Ass]]></title>
-        <id>1847158394</id>
-        <link href="https://lifehacker.com/how-to-make-plant-based-protein-powder-not-taste-like-a-1847158394"/>
-        <updated>2021-06-23T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Plant-based protein powders are hugely popular right now, and not just among vegans. Whey protein can be hard to digest, which means even omnivores may prefer to supplement their diets with vegan protein. 
-Read more...]]></summary>
-        <author>
-            <name>A.A. Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Should Make Pasta Salad With Store-Bought Gnocchi]]></title>
-        <id>1847157759</id>
-        <link href="https://lifehacker.com/you-should-make-pasta-salad-with-store-bought-gnocchi-1847157759"/>
-        <updated>2021-06-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t trust people who claim to not like pasta salad. Pasta is good, and so is mayonnaise. Often there are other ingredients involved that are not pasta or mayonnaise, and they are also good. Sometimes it’s just too hot to eat a steaming bowl of spaghetti, but what am I going to do? Stop eating pasta from the end of…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clean Blinds]]></title>
-        <id>1836246155</id>
-        <link href="https://lifehacker.com/how-to-clean-blinds-1836246155"/>
-        <updated>2021-06-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you know how to clean your blinds? Or do you just leave them until they’re so coated in filth that you have to throw them out and buy new window treatments? That’s gross, don’t do that.
-
-Read more...]]></summary>
-        <author>
-            <name>Joel Kahn</name>
+            <name>Greta Lee Jackson</name>
         </author>
     </entry>
     <entry>
@@ -584,19 +651,6 @@ Sylwia (Magdalena Koleśnik) has 600,000 followers for the Instagram account on 
  Continue reading...]]></summary>
         <author>
             <name>Peter Bradshaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letting users bypass App Store would be security risk, says Apple]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/23/letting-users-bypass-app-store-would-be-security-risk-says-apple</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/23/letting-users-bypass-app-store-would-be-security-risk-says-apple"/>
-        <updated>2021-06-23T11:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Opening up iOS to ‘sideloading’ would lead to wave of damaging malware on iPhones and iPads, firm says
-Allowing users to bypass the App Store would lead to a wave of damaging malware on iPhones and iPads, Apple has warned, as the company faces the prospect of sweeping regulatory action on both sides of the Atlantic.
-Opening up iOS to “sideloading”, the name for installing software from unapproved sources, could allow malicious software to hold user data to ransom, let children bypass parental controls, or lead to rampant piracy, the company claims in a new paper.
- Continue reading...]]></summary>
-        <author>
-            <name>Alex Hern UK technology editor</name>
         </author>
     </entry>
     <entry>
@@ -730,36 +784,6 @@ The much-hyped sci-fi adventure Cyberpunk 2077 has finally been launched on the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Commuters have deserted Metrorail]]></title>
-        <id>https://www.groundup.org.za/article/commuters-have-deserted-metrorail/</id>
-        <link href="https://www.groundup.org.za/article/commuters-have-deserted-metrorail/"/>
-        <updated>2021-06-21T11:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Another year at best before Cape Town Central line resumes service to Khayelitsha]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plett residents in court after protests against stalled housing project]]></title>
-        <id>https://www.groundup.org.za/article/three-people-court-today-participating-four-day-garden-route-protests/</id>
-        <link href="https://www.groundup.org.za/article/three-people-court-today-participating-four-day-garden-route-protests/"/>
-        <updated>2021-06-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The project was approved in October 2019 but has yet to break ground]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concourt punishes litigants for defaming judges]]></title>
-        <id>https://www.groundup.org.za/article/concourt-punishes-litigants-defaming-judges/</id>
-        <link href="https://www.groundup.org.za/article/concourt-punishes-litigants-defaming-judges/"/>
-        <updated>2021-06-21T10:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Punitive cost order made against tribal authority that made unsubstantiated allegations]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pixel Buds A-Series review: Google’s cheaper but good earbuds]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds</id>
         <link href="https://www.theguardian.com/technology/2021/jun/21/pixel-buds-a-series-review-google-cheaper-but-good-earbuds"/>
@@ -770,18 +794,6 @@ The new Bluetooth earbuds take a cue from Google’s cheaper but great A-Series 
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs Consumer technology editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On my radar: Anne Enright’s cultural highlights]]></title>
-        <id>https://www.theguardian.com/culture/2021/jun/19/on-my-radar-anne-enright-cultural-highlights</id>
-        <link href="https://www.theguardian.com/culture/2021/jun/19/on-my-radar-anne-enright-cultural-highlights"/>
-        <updated>2021-06-19T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[The Booker prize-winning author on Mare of Easttown, her favourite lockdown park and the fearsome power of folk music
-Born in Dublin in 1962, Anne Enright studied English and philosophy at Trinity College Dublin and received an MA in creative writing from the University of East Anglia. Formerly an RTE television producer, she has written two collections of stories, published together as Yesterday’s Weather, one book of essays and seven novels, including the 2007 Booker prize-winning The Gathering and The Forgotten Waltz, which was awarded the Andrew Carnegie medal for excellence in fiction. In 2015, she was named the inaugural laureate for Irish fiction. Her latest novel, Actress, published by Vintage, is out in paperback now.
- Continue reading...]]></summary>
-        <author>
-            <name>Anne Enright</name>
         </author>
     </entry>
     <entry>
@@ -807,19 +819,6 @@ What we said: “This is game-playing at its most thoughtfully relaxing, with th
  Continue reading...]]></summary>
         <author>
             <name>Keza MacDonald and Keith Stuart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Hanks ruined my life! – podcasts of the week]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2021/jun/18/tom-hanks-ruined-my-life-podcasts-of-the-week</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2021/jun/18/tom-hanks-ruined-my-life-podcasts-of-the-week"/>
-        <updated>2021-06-18T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Meet the man trying to pick up the pieces after being brutally fired by Hanks. Plus: an extraordinary investigation into sinister goings on at the British military training camp 
-Motherhacker
-The second season of this bingeable podcast opens with Bridget (Carrie Coon) caught up in even more chaos since the pandemic hit. Her Tesla has been hacked and there’s a confrontation over face masks as she waits for her takeaway. One screech of the tyres later and she’s caught up in another unwanted adventure, just when she’s supposed to be lying low. Bridget is on a mission to save her friend, but she collects a few new enemies along the way. Tavi Gevinson and Lucas Hedges also star. HV
- Continue reading...]]></summary>
-        <author>
-            <name>Hannah Verdier, Hannah J Davies and Noah Payne-Frank</name>
         </author>
     </entry>
     <entry>
@@ -926,6 +925,19 @@ Game Builder Garage broadens the canvas offered by its predecessors by allowing 
  Continue reading...]]></summary>
         <author>
             <name>Keith Stuart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eat Just is racing to put ‘no-kill meat’ on your plate. Is it too good to be true?]]></title>
+        <id>https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick</id>
+        <link href="https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick"/>
+        <updated>2021-06-16T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The California startup leads a global push toward lab-grown meat. But experts question its bold claims
+In December of last year, a handful of diners sat down to a futuristic meal at 1880, a members-only restaurant in Singapore. The star ingredient was “no-kill” chicken – raised not on a farm but in a laboratory bioreactor. Attendees snacked on lab-grown nuggets paired with crispy maple waffles, bao buns, and black bean puree.
+For the California entrepreneur Josh Tetrick, it was a breakthrough. His company, Eat Just, had become the first in the world to sell the product after receiving approval from Singapore authorities. Headlines hailed a landmark step in the quest to end animal agriculture, upend the meat industry and redefine our diets.
+ Continue reading...]]></summary>
+        <author>
+            <name>Erin McCormick in San Francisco</name>
         </author>
     </entry>
     <entry>
