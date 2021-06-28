@@ -1,10 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-27T00:36:48.178Z</id>
+    <id>urn:2021-06-28T00:35:56.451Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:36:48.178Z</updated>
+    <updated>2021-06-28T00:35:56.451Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: June 27, 2021]]></title>
+        <id>https://hackaday.com/?p=483763&amp;preview=true&amp;preview_id=483763</id>
+        <link href="https://hackaday.com/2021/06/27/hackaday-links-june-27-2021/"/>
+        <updated>2021-06-27T23:00:09.000Z</updated>
+        <summary type="html"><![CDATA[When asked why he robbed banks, career criminal Willie Sutton is reported to have said, “Because that’s where the money is.” It turns out that a reporter made up the …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AD409 Microscope Review]]></title>
+        <id>https://hackaday.com/?p=484013</id>
+        <link href="https://hackaday.com/2021/06/27/ad409-microscope-review/"/>
+        <updated>2021-06-27T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t that long ago that if you had an optical microscope in your electronics shop, you had a very well-supplied shop indeed. Today, though, a microscope is almost a …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen To The RF Around You]]></title>
+        <id>https://hackaday.com/?p=483665</id>
+        <link href="https://hackaday.com/2021/06/27/listen-to-the-rf-around-you/"/>
+        <updated>2021-06-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These days, we are spoiled for choice with regard to SDRs for RF analysis, but sometimes we’re more interested in the source of RF than the contents of the transmission. …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK financial watchdog cracks down on cryptocurrency exchange Binance]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/27/uk-financial-watchdog-cracks-down-on-cryptocurrency-exchange-binance</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/27/uk-financial-watchdog-cracks-down-on-cryptocurrency-exchange-binance"/>
+        <updated>2021-06-27T16:37:40.000Z</updated>
+        <summary type="html"><![CDATA[FCA steps up oversight amid warning to consumers about platform 
+Britain’s financial regulator has ordered Binance, one of the world’s largest cryptocurrency exchanges, to stop all regulated activity and issued a warning to consumers about the platform, which is coming under growing scrutiny globally.
+In a notice dated 25 June, the Financial Conduct Authority (FCA) said Binance Markets Ltd, Binance’s UK entity, “must not, without the prior written consent of the FCA, carry out any regulated activities … with immediate effect”.
+ Continue reading...]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Paid to Travel Around Your State Tasting the Best Pizza]]></title>
+        <id>1847175706</id>
+        <link href="https://lifehacker.com/get-paid-to-travel-around-your-state-tasting-the-best-p-1847175706"/>
+        <updated>2021-06-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you the person your friends and family turn to when they need a pizza recommendation? If not, do you want to be? If so, you may be interested in learning more about applying to become your state’s Head of Pizza—a position made up by Slice, a pizza ordering platform designed for independent pizzerias. Here’s what…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric RC Plane Flies For Almost 11 Hours]]></title>
+        <id>https://hackaday.com/?p=483671</id>
+        <link href="https://hackaday.com/2021/06/27/electric-rc-plane-flies-for-almost-11-hours/"/>
+        <updated>2021-06-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Electric RC aircraft are not known for long flight times, with multirotors usually doing 20-45 minutes, while most fixed wings will struggle to get past two hours. [Matthew Heiskell] blew …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Use in Your Pool If You Can't Find Chlorine Tablets]]></title>
+        <id>1847175681</id>
+        <link href="https://lifehacker.com/what-to-use-in-your-pool-if-you-cant-find-chlorine-tabl-1847175681"/>
+        <updated>2021-06-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Masks may be coming off, and shots may be getting in arms, but we’re still feeling the impact of the COVID-19 pandemic on manufacturing and shipping. Along with things like appliances and lumber, there’s also a shortage of chlorine tablets for swimming pools. Here’s why that happened, and what you can use instead of…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Questions You Should Be Asking Your Pharmacist Every Time You Start a New Prescription]]></title>
+        <id>1847175639</id>
+        <link href="https://lifehacker.com/5-questions-you-should-be-asking-your-pharmacist-every-1847175639"/>
+        <updated>2021-06-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting a new prescription medication may not seem like a big deal, but when you think about it, you’re introducing a new substance into your body, and should go in as informed as possible. Ideally, your health care provider would have gone over any potential side effects of the medicine with you, but there’s more to…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video De-shaker Software Measures Linear Rail Quality]]></title>
+        <id>https://hackaday.com/?p=483701</id>
+        <link href="https://hackaday.com/2021/06/27/video-de-shaker-software-measures-linear-rail-quality/"/>
+        <updated>2021-06-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s an interesting experiment that attempts to measure the quality of a linear rail by using a form of visual odometry, accomplished by mounting a camera on the rail and …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast, reliable broadband … it’s now a key selling point for house hunters]]></title>
+        <id>https://www.theguardian.com/money/2021/jun/27/fast-reliable-broadband-its-now-a-key-selling-point-for-house-hunters</id>
+        <link href="https://www.theguardian.com/money/2021/jun/27/fast-reliable-broadband-its-now-a-key-selling-point-for-house-hunters"/>
+        <updated>2021-06-27T08:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Forget schools or a nice pub nearby. A good internet connection is a top priority. But not all properties are equal
+It used to be that demand for homes centred on the proximity to good schools, or how close they were to a nice restaurant or pub. Now, before they sign on the dotted line, homebuyers want to ensure they can download a film quickly, or check their work emails without interruption.
+Access to reliable and fast broadband is one of the key priorities as working from home looks set to become a more permanent arrangement for many. And a surge of interest in people wanting to move to the country has been coupled with demand for good internet in areas that might otherwise have weak connections.
+ Continue reading...]]></summary>
+        <author>
+            <name>Shane Hickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanical 7-Segment Display Uses a Single Motor]]></title>
+        <id>https://hackaday.com/?p=483954</id>
+        <link href="https://hackaday.com/2021/06/27/mechanical-7-segment-display-uses-a-single-motor/"/>
+        <updated>2021-06-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Seven-segment displays have been around for a long time, and there is a seemingly endless number of ways to build them. The latest of is a mechanical seven-segment from a …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding a Custom Driver For The Adafruit Mini Thermal Printer]]></title>
+        <id>https://hackaday.com/?p=483885</id>
+        <link href="https://hackaday.com/2021/06/26/coding-a-custom-driver-for-the-adafruit-mini-thermal-printer/"/>
+        <updated>2021-06-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thermal printers are cool… or, uh, warm actually. They use heat to make images, so they never need ink and they print on receipt rolls. The thermal printer available from …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to photograph a full moon on your phone or camera with the best settings]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/24/strawberry-moon-2021-june-australia-how-to-photograph-full-super-moon-with-phone-tonight-take-picture-supermoon-photography-what-time-when-thursday-night-smartphone-camera-dslr-iphone-best-settings</id>
@@ -19,36 +148,6 @@ Two reasons: it is very far away and unless you have a telephoto lens (which mak
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Custom 3D Printer Cart Hides Clever Features]]></title>
-        <id>https://hackaday.com/?p=483636</id>
-        <link href="https://hackaday.com/2021/06/26/custom-3d-printer-cart-hides-clever-features/"/>
-        <updated>2021-06-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even if you’ve got a decent sized workshop, there’s only so much stuff you can have sitting on the bench at one time. That’s why [Eric Strebel], ever the prolific …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LoRa Messenger in Nokia’s Shell]]></title>
-        <id>https://hackaday.com/?p=483468</id>
-        <link href="https://hackaday.com/2021/06/26/lora-messenger-in-nokias-shell/"/>
-        <updated>2021-06-26T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The arrival of LoRa a few years ago gave  us at last an accessible licence-free UHF communication protocol with significant range. It’s closed-source, but there are plenty of modules available …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Pico Oscilloscope]]></title>
-        <id>https://hackaday.com/?p=483675</id>
-        <link href="https://hackaday.com/2021/06/26/raspberry-pi-pico-oscilloscope/"/>
-        <updated>2021-06-26T17:01:43.000Z</updated>
-        <summary type="html"><![CDATA[As you dive deeper into the world of electronics, a good oscilloscope quickly is an indispensable tool. However, for many use cases where you’re debugging low voltage, low speed circuits, …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Memo to corporate leaders post-Covid: the disruption to businesses has only just begun | John Naughton]]></title>
         <id>https://www.theguardian.com/commentisfree/2021/jun/26/memo-to-corporate-leaders-post-covid-the-disruption-to-businesses-has-only-just-begun</id>
         <link href="https://www.theguardian.com/commentisfree/2021/jun/26/memo-to-corporate-leaders-post-covid-the-disruption-to-businesses-has-only-just-begun"/>
@@ -59,16 +158,6 @@ The problem with having had the fast-forward button suddenly propel us into an u
  Continue reading...]]></summary>
         <author>
             <name>John Naughton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did I Live Without a Microscope?]]></title>
-        <id>https://hackaday.com/?p=484370</id>
-        <link href="https://hackaday.com/2021/06/26/how-did-i-live-without-a-microscope/"/>
-        <updated>2021-06-26T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Get yourself a decent stereo inspection microscope, preferably optical. Something that can magnify from maybe 4x to 40x is fine, anything outside this range is icing on the cake. Some …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
         </author>
     </entry>
     <entry>
@@ -106,26 +195,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can the Solenoid Engine Power a Car?]]></title>
-        <id>https://hackaday.com/?p=483592</id>
-        <link href="https://hackaday.com/2021/06/26/can-the-solenoid-engine-power-a-car/"/>
-        <updated>2021-06-26T11:01:09.000Z</updated>
-        <summary type="html"><![CDATA[[Emiel] aka [The Practical Engineer] makes all kinds of fun projects in his fully-featured shop, and one of his tangents has been building a series of solenoid engines. These engines …read more]]></summary>
-        <author>
-            <name>Bryan Cockfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random Numbers From A Smoke Detector]]></title>
-        <id>https://hackaday.com/?p=483535</id>
-        <link href="https://hackaday.com/2021/06/26/random-numbers-from-a-smoke-detector/"/>
-        <updated>2021-06-26T08:01:38.000Z</updated>
-        <summary type="html"><![CDATA[The quest for truly random numbers is something to which scientists and engineers have devoted a lot of time and effort. The trick is to find an unpredictable source of …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I spy: are smart doorbells creating a global surveillance network?]]></title>
         <id>https://www.theguardian.com/lifeandstyle/2021/jun/26/i-spy-are-smart-doorbells-creating-a-global-surveillance-network</id>
         <link href="https://www.theguardian.com/lifeandstyle/2021/jun/26/i-spy-are-smart-doorbells-creating-a-global-surveillance-network"/>
@@ -136,16 +205,6 @@ My phone is ringing! C major first inversion chord, arpeggiated, repeated, for t
  Continue reading...]]></summary>
         <author>
             <name>Sam Wollaston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PiNet — One Small Project Grows Unexpectedly]]></title>
-        <id>https://hackaday.com/?p=483617</id>
-        <link href="https://hackaday.com/2021/06/25/pinet-one-small-project-grows-unexpectedly/"/>
-        <updated>2021-06-26T05:00:12.000Z</updated>
-        <summary type="html"><![CDATA[A few years ago, [Gregory Sanders] aka [Dr Gerg] had one simple wish in mind when he started what is now the PiNet project — to know whether his garage …read more]]></summary>
-        <author>
-            <name>Chris Lott</name>
         </author>
     </entry>
     <entry>
@@ -458,17 +517,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's New on Amazon Prime Video in July 2021]]></title>
-        <id>1847166244</id>
-        <link href="https://lifehacker.com/whats-new-on-amazon-prime-video-in-july-2021-1847166244"/>
-        <updated>2021-06-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Summer 2021 is shaping up to be a lot better than summer 2020, vaccines be praised (yay science!), but you’ll be forgiven if you’re not ready to head back to theaters to catch a splashy summer blockbuster. Speaking of which, they’re in short supply anyway—outside of a few delayed tentpoles from last year (including …
-Read more...]]></summary>
-        <author>
-            <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Billionaire Peter Thiel amasses $5bn tax-free nest egg in retirement account]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/24/billionaire-peter-thiel-5bn-tax-free-savings</id>
         <link href="https://www.theguardian.com/technology/2021/jun/24/billionaire-peter-thiel-5bn-tax-free-savings"/>
@@ -494,17 +542,6 @@ The post Get Tickets Now For The Make: Education Forum appeared first on Make: D
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Keep Your Kid Occupied at the Doctor's Office Without Handing Them a Screen]]></title>
-        <id>1847165849</id>
-        <link href="https://lifehacker.com/how-to-keep-your-kid-occupied-at-the-doctors-office-wit-1847165849"/>
-        <updated>2021-06-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A thing that’s not fun to do when you’re a parent is take your young children to the pediatrician’s office. There are endless reasons why the doctor’s office isn’t fun—it means your kid is hurt, sick, or has some freaky-looking rash; it’s an annual check-up, which might mean shots are in their future; your kid will…
-Read more...]]></summary>
-        <author>
-            <name>Meghan Moravcik Walbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11: Microsoft revamps start menu and adds Android apps]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/24/windows-11-microsoft-revamps-start-menu-and-adds-android-apps</id>
         <link href="https://www.theguardian.com/technology/2021/jun/24/windows-11-microsoft-revamps-start-menu-and-adds-android-apps"/>
@@ -515,17 +552,6 @@ Announced during a livestream that had some technical issues, Windows 11 will re
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs Consumer technology editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check Your Fridge for These Recalled Vegan Egg Products]]></title>
-        <id>1847165122</id>
-        <link href="https://lifehacker.com/check-your-fridge-for-these-recalled-vegan-egg-products-1847165122"/>
-        <updated>2021-06-24T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Between vegans and people with egg allergies, chicken eggs aren’t an option for everyone, and that’s where plant-based egg products comes in. But if you happen to have some in your fridge, it’s a good idea to check the label, because there’s been a large voluntary recall of foods made with the vegan egg-flavored…
-Read more...]]></summary>
-        <author>
-            <name>Elizabeth Yuko</name>
         </author>
     </entry>
     <entry>
@@ -605,22 +631,6 @@ The chaotic mini-game series is making a really welcome return, this time featur
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John McAfee: the tech pioneer turned fugitive]]></title>
-        <id>https://www.theguardian.com/us-news/2021/jun/24/john-mcafee-the-tech-pioneer-turned-fugitive</id>
-        <link href="https://www.theguardian.com/us-news/2021/jun/24/john-mcafee-the-tech-pioneer-turned-fugitive"/>
-        <updated>2021-06-24T04:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Founder of McAfee Associates went on the run in 2012 after his Belize neighbour was shot dead
-
-John McAfee: antivirus entrepreneur found dead in Spanish prison
-
-John McAfee, the creator of a programme that is among the most-used virus protection programmes worldwide, was a controversial figure, cryptocurrency promoter, tax opponent and fugitive who twice made long-shot runs for the US presidency. 
-He publicly embraced drugs, guns and sex, and had a history of legal woes spanning from Tennessee to Central America to the Caribbean.
- Continue reading...]]></summary>
-        <author>
-            <name>Helen Sullivan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cancer patients say they are struggling to access treatment since Charlotte Maxeke fire]]></title>
         <id>https://www.groundup.org.za/article/cancer-patients-struggling-april-access-treatment-charlotte-maxeke-hospital-fire/</id>
         <link href="https://www.groundup.org.za/article/cancer-patients-struggling-april-access-treatment-charlotte-maxeke-hospital-fire/"/>
@@ -697,19 +707,6 @@ Of all LucasArts’ memorable, quip-fuelled point and click adventures – from 
         <summary type="html"><![CDATA[Eviction case pending against Rosettenville families while City asked to provide emergency accommodation]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud spraying and hurricane slaying: how ocean geoengineering became the frontier of the climate crisis]]></title>
-        <id>https://www.theguardian.com/environment/2021/jun/23/cloud-spraying-and-hurricane-slaying-could-geoengineering-fix-the-climate-crisis</id>
-        <link href="https://www.theguardian.com/environment/2021/jun/23/cloud-spraying-and-hurricane-slaying-could-geoengineering-fix-the-climate-crisis"/>
-        <updated>2021-06-23T05:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Around the world, dozens of ingenious projects are trying to ‘trick’ the ocean into absorbing more CO2. But critics warn of unforeseen consequences
-Tom Green has a plan to tackle climate change. The British biologist and director of the charity Project Vesta wants to turn a trillion tonnes of CO2 into rock, and sink it to the bottom of the sea.
-Green admits the idea is “audacious”. It would involve locking away atmospheric carbon by dropping pea-coloured sand into the ocean. The sand is made of ground olivine – an abundant volcanic rock, known to jewellers as peridot – and, if Green’s calculations are correct, depositing it offshore on 2% of the world’s coastlines would capture 100% of total global annual carbon emissions.
- Continue reading...]]></summary>
-        <author>
-            <name>Amy Fleming</name>
         </author>
     </entry>
     <entry>
