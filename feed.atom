@@ -1,10 +1,240 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-03T00:33:25.157Z</id>
+    <id>urn:2021-07-04T00:34:23.410Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T00:33:25.157Z</updated>
+    <updated>2021-07-04T00:34:23.410Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[E-Ink Equipped Sourdough Starter Jar]]></title>
+        <id>https://hackaday.com/?p=484041</id>
+        <link href="https://hackaday.com/2021/07/03/e-ink-equipped-sourdough-starter-jar/"/>
+        <updated>2021-07-03T23:00:17.000Z</updated>
+        <summary type="html"><![CDATA[One of the unexpected side effects of our this pandemic is a sudden growth in the global population of captive colonies of Lactobacillus bacteria and yeast. Also known as sourdough …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden announces investigation into international ransomware attack]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"/>
+        <updated>2021-07-03T21:43:15.000Z</updated>
+        <summary type="html"><![CDATA[President addresses hack of Kaseya software that has affected hundreds of US businesses and shut down Swedish shops
+Joe Biden said on Saturday he had directed US intelligence agencies to investigate a sophisticated ransomware attack that hit hundreds of American businesses as the Fourth of July holiday weekend began and aroused suspicions of Russian gang involvement.
+ Related: Joe Biden cherry-picks audience to promote bipartisan infrastructure deal 
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WiFiWart Linux Pentesting Device Gets First PCBs]]></title>
+        <id>https://hackaday.com/?p=484260</id>
+        <link href="https://hackaday.com/2021/07/03/wifiwart-linux-pentesting-device-gets-first-pcbs/"/>
+        <updated>2021-07-03T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[When we last checked in on the WiFiWart, an ambitious project to scratch-build a Linux powered penetration testing drop box small enough to be disguised as a standard phone charger, …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your PC Sound Card As A Sensor Input]]></title>
+        <id>https://hackaday.com/?p=485291</id>
+        <link href="https://hackaday.com/2021/07/03/your-pc-sound-card-as-a-sensor-input/"/>
+        <updated>2021-07-03T17:01:29.000Z</updated>
+        <summary type="html"><![CDATA[The commoditised PC is the most versatile tool many of us will own, and since it has been around for a very long time it is also something that can …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install tvOS 15 Public Beta on Your Apple TV]]></title>
+        <id>1847219334</id>
+        <link href="https://lifehacker.com/how-to-install-tvos-15-public-beta-on-your-apple-tv-1847219334"/>
+        <updated>2021-07-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While you might not think of the software that runs on your Apple TV too often, Apple does release a major update every year. In the fall of 2021, Apple will release tvOS 15, which brings some quality-of-life improvements to the Apple TV: You’ll finally be able to log in to apps using Face ID on your iPhone, for…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The week in audio: Pieces of Britney; Elon Musk: The Evening Rocket; Human Resources and more]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2021/jul/03/pieces-of-britney-review-elon-musk-the-evening-rocket-human-resources-the-essay-caribbean-voices-the-kindness-experiment</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2021/jul/03/pieces-of-britney-review-elon-musk-the-evening-rocket-human-resources-the-essay-caribbean-voices-the-kindness-experiment"/>
+        <updated>2021-07-03T16:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Radio 4 series on Britney Spears’s troubles and Elon Musk’s space ambitions highlight society’s double standards
+Pieces of Britney (Radio 4) | BBC Sounds
+Elon Musk: The Evening Rocket (Radio 4) | BBC Sounds
+Human Resources Broccoli Productions | Spotify
+The Essay: Caribbean Voices (Radio 3) | BBC Sounds
+The Kindness Experiment (Radio 4) | BBC Sounds
+Britney Spears has been in the news a lot over the past few weeks. Her recent court plea to be released from legal conservatorship was horrible and shocking; and also rejected. Judge Brenda Penny ruled last Wednesday that the current situation – where Britney’s father Jamie is a co-conservator, even though he’s ill – should stay in place. Pain, when expressed by a woman, is often disbelieved and ignored.
+ Continue reading...]]></summary>
+        <author>
+            <name>Miranda Sawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Pie Parfait Is a Perfect Last-Minute July 4th Dessert]]></title>
+        <id>1847222616</id>
+        <link href="https://lifehacker.com/this-pie-parfait-is-a-perfect-last-minute-july-4th-dess-1847222616"/>
+        <updated>2021-07-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is not exactly a secret that I am not particularly proud to be an American, but I am a food writer living in the United States, which means  certain editorial decisions are influenced by certain American holidays. (That’s capitalism, baby.) This Sunday is Independence Day, a day often celebrated with the…
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enjoy the restored Night Watch, but don’t ignore the machine behind the Rembrandt]]></title>
+        <id>https://www.theguardian.com/technology/commentisfree/2021/jul/03/enjoy-the-restored-night-watch-but-dont-ignore-the-machine-behind-the-rembrandt</id>
+        <link href="https://www.theguardian.com/technology/commentisfree/2021/jul/03/enjoy-the-restored-night-watch-but-dont-ignore-the-machine-behind-the-rembrandt"/>
+        <updated>2021-07-03T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The computer restoration of this masterpiece illustrates both the benefits and the dangers of AI
+In the late 1970s I lived and worked briefly in the Netherlands. Often, on Sundays, I would travel to Amsterdam, go to the morning concert in the Spiegelzaal of the Concertgebouw, and afterwards walk over to the Rijksmuseum, Holland’s national gallery, and spend a couple of hours there. The museum is a wonderful storehouse of Dutch art and there was always much to explore. But on nearly every visit I found myself being drawn back to one of Rembrandt’s most famous pictures – The Night Watch – which I guess is to the Rijksmuseum what the Mona Lisa is to the Louvre.
+Its official title is Militia Company of District II under the Command of Captain Frans Banninck Cocq. It came to be called The Night Watch because by the end of the 18th century it had darkened considerably through the accumulation of layers of dirt and varnish, leading to the belief that the painted scene had occurred after dusk.
+ Continue reading...]]></summary>
+        <author>
+            <name>John Naughton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only batteries have the power to save British carmaking]]></title>
+        <id>https://www.theguardian.com/business/2021/jul/03/only-batteries-have-the-power-to-save-british-carmaking</id>
+        <link href="https://www.theguardian.com/business/2021/jul/03/only-batteries-have-the-power-to-save-british-carmaking"/>
+        <updated>2021-07-03T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Nissan’s ‘gigafactory’ in Sunderland must be the first of many sites if the UK is to compete in the electric vehicle era
+The British government’s £100m-plus commitment to secure Nissan’s battery gigafactory for Sunderland has been like gadget-shopping on Amazon writ large: splurging on some new technology that has suddenly become essential – and then being immediately prompted to buy another six.
+This time, though, duplicating the spending looks more sensible. More gigafactories – or plain old big battery factories – are not essential for the UK to transition to using electric vehicles (EVs). But they certainly will be if Britain hopes to keep making, selling and exporting its own cars.
+ Continue reading...]]></summary>
+        <author>
+            <name>Gwyn Topham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Devil is in the Details]]></title>
+        <id>https://hackaday.com/?p=485487</id>
+        <link href="https://hackaday.com/2021/07/03/the-devil-is-in-the-details/"/>
+        <updated>2021-07-03T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve taken a physics class, you’ve doubtless heard tales of mythical beasts like the massless string, the frictionless bearing, and the perfect sphere. And if you’re designing something new, …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Spot a Rotting Tree Before the Next Storm]]></title>
+        <id>1847213061</id>
+        <link href="https://lifehacker.com/how-to-spot-a-rotting-tree-before-the-next-storm-1847213061"/>
+        <updated>2021-07-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The morning after a severe weather event—whether a localized thunderstorm or major hurricane—people cautiously walk out of their homes to survey the damage. If you live somewhere with trees, chances are you’ll find at least a few that are no longer standing, either on your property or near it. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Along With Your Siblings Now That You're All Adults]]></title>
+        <id>1847212975</id>
+        <link href="https://lifehacker.com/how-to-get-along-with-your-siblings-now-that-youre-all-1847212975"/>
+        <updated>2021-07-03T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sibling relationships can look a lot of different ways. We all know someone who considers their brothers and sisters their best friends, and are in touch with them every day. But we also all probably know at least one person who has an adversarial relationship with a sibling, or may have cut them out of their life…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pull Off a Coastal Theme Without Your Home Looking Like a Long John Silver's]]></title>
+        <id>1847212524</id>
+        <link href="https://lifehacker.com/how-to-pull-off-a-coastal-theme-without-your-home-looki-1847212524"/>
+        <updated>2021-07-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rent a vacation home on or near basically any coastline in the country (including those surrounding lakes), and there is a good chance that the decor will be nautical in nature. But it doesn’t end there. It’s not uncommon to see coastal themed interior design in completely landlocked areas too—just because there isn’t…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Custom Raspberry Pi Spotted In The Wild]]></title>
+        <id>https://hackaday.com/?p=485309</id>
+        <link href="https://hackaday.com/2021/07/03/a-custom-raspberry-pi-spotted-in-the-wild/"/>
+        <updated>2021-07-03T11:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Since the first Raspberry Pi came to market back in 2012 there have been a variety of models released. Some of them are rarer than others, and unusual boards can …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alcohol bans reduced deaths, study finds]]></title>
+        <id>https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/</id>
+        <link href="https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/"/>
+        <updated>2021-07-03T09:24:05.000Z</updated>
+        <summary type="html"><![CDATA[UCT and MRC researchers found that dozens of deaths a day were averted by restrictions]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Zoetrope Uses Illusion to Double the Frames]]></title>
+        <id>https://hackaday.com/?p=484339</id>
+        <link href="https://hackaday.com/2021/07/03/3d-zoetrope-uses-illusion-to-double-the-frames/"/>
+        <updated>2021-07-03T08:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Although film and animation have come quite a long way, there’s still something magical about that grandaddy of them all, the zoetrope. Thanks to persistence of vision, our eyes are …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency scam costs online dating user £20,000]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr"/>
+        <updated>2021-07-03T08:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Internet cons have surged in the Covid crisis, with some victims left with little recourse to recover cash
+In early May, James Evans* met a man on the dating app Grindr. The man, who said his name was David, was friendly and chatty. “It started off as a normal conversation,” says Evans. “We moved to WhatsApp and exchanged messages. After a few days he started telling me about crypto trading and how he could show me how it worked and how I could earn money from it. It seemed like a genuine connection.”
+Unfortunately for Evans, , that wasn’t the case. He hadhooked up with a scammer, who within a week had convinced him to hand over £20,000.
+ Continue reading...]]></summary>
+        <author>
+            <name>Hilary Osborne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andy Jassy steps out of the shadows – so who exactly is Amazon’s new CEO?]]></title>
+        <id>https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos</id>
+        <link href="https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos"/>
+        <updated>2021-07-03T05:00:44.000Z</updated>
+        <summary type="html"><![CDATA[The elevation of the man behind the Cloud while Jeff Bezos relinquishes day-to-day control, comes at a critical time for Amazon 
+Andy Jassy made a powerful – and painful – first impression on the billionaire Amazon founder Jeff Bezos soon after he joined the then start-up bookseller in 1997.
+During a rambunctious game of “broomball” – a cross between lacrosse and football that another Amazon executive invented and is still overly competitively played at the company – Jassy, then a fresh-faced recruit from Harvard Business School, accidentally hit Bezos over the head with a kayak paddle.
+ Continue reading...]]></summary>
+        <author>
+            <name>Rupert Neate Wealth correspondent and Sarah Butler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s next for Jeff Bezos? Space, climate and media may all figure]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure"/>
+        <updated>2021-07-03T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[As he hands over top job at Amazon, Bezos will remain largest shareholder and ‘has never had more energy’
+A quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos is preparing to loosen his grip on his $1.7tn (£1.2tn) company. Few employees in the sphere conservatories at Amazon’s sprawling Seattle campus headquarters reckon Bezos will relinquish that much of his iron grip on the company’s big decisions when Andy Jassy succeeds him as CEO on Monday. After all, Bezos will become executive chairman of Amazon’s board and remains the company’s biggest shareholder. But Bezos, 57, told his 1.3 million employees (whom he refers to as “fellow Amazonians”) that “as much as I still tap dance into the office, I’m excited about this transition”.
+“I’ve never had more energy, and this isn’t about retiring,” he said. “I intend to focus my energies and attention on new products and early initiatives … I’m super passionate about the impact I think these organisations can have.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Rupert Neate Wealth correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Custom Signal Protocols with Old Nintendos]]></title>
+        <id>https://hackaday.com/?p=485090</id>
+        <link href="https://hackaday.com/2021/07/02/understanding-custom-signal-protocols-with-old-nintendos/"/>
+        <updated>2021-07-03T05:00:36.000Z</updated>
+        <summary type="html"><![CDATA[For retro gaming, there’s really no substitute for original hardware. As it ages, though, a lot of us need to find something passable since antique hardware won’t last forever. If …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest ransomware attack appears to hit hundreds of American businesses]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya</id>
@@ -16,16 +246,6 @@ Huntress Labs said on Friday that 200 American businesses were hit after an inci
  Continue reading...]]></summary>
         <author>
             <name>Guardian staff and agencies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Printer to Vinyl Cutter]]></title>
-        <id>https://hackaday.com/?p=484273</id>
-        <link href="https://hackaday.com/2021/07/02/from-printer-to-vinyl-cutter/"/>
-        <updated>2021-07-02T23:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Some might look at a cheap inkjet printer and see a clunky device that costs more to replace the ink than to buy a new one. [Abhishek Verma] saw an …read more]]></summary>
-        <author>
-            <name>Matthew Carlson</name>
         </author>
     </entry>
     <entry>
@@ -60,16 +280,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An OSHW IR Remote Control Powered by the ATtiny13A]]></title>
-        <id>https://hackaday.com/?p=484314</id>
-        <link href="https://hackaday.com/2021/07/02/an-oshw-ir-remote-control-powered-by-the-attiny13a/"/>
-        <updated>2021-07-02T20:00:58.000Z</updated>
-        <summary type="html"><![CDATA[The new hotness in consumer electronics might be RF remotes based on protocols like Bluetooth Low Energy, but there’s still plenty of life left in the classic infrared remote. Especially …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
         </author>
     </entry>
     <entry>
@@ -117,16 +327,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Throne of Dev: an Endgame Office Chair]]></title>
-        <id>https://hackaday.com/?p=483839</id>
-        <link href="https://hackaday.com/2021/07/02/throne-of-dev-an-endgame-office-chair/"/>
-        <updated>2021-07-02T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[They say you shouldn’t cheap out on anything that comes between you and the ground. Typically, that list includes shoes, tires, and mattresses. But it’s 2021, and it’s high time …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why You Need Three Morning Routines]]></title>
         <id>1847220529</id>
         <link href="https://lifehacker.com/why-you-need-three-morning-routines-1847220529"/>
@@ -146,16 +346,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Jason Keil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trouble with Hubble: Payload Computer Glitch Stops Science at the Space Observatory]]></title>
-        <id>https://hackaday.com/?p=485038</id>
-        <link href="https://hackaday.com/2021/07/02/the-trouble-with-hubble-payload-computer-glitch-stops-science-at-the-space-observatory/"/>
-        <updated>2021-07-02T17:01:28.000Z</updated>
-        <summary type="html"><![CDATA[The Hubble Space Telescope’s remarkably long service life and its string of astonishing contributions to astronomy belie its troubled history. Long before its launch into low Earth orbit in 1990, …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -181,16 +371,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackaday Podcast 125:  Linux Users Talking Windows 11, Pop Bottle Filament, Old Phones with Modern Guts, and Eavesdropping in RF]]></title>
-        <id>https://hackaday.com/?p=485410&amp;preview=true&amp;preview_id=485410</id>
-        <link href="https://hackaday.com/2021/07/02/hackaday-podcast-125-linux-users-talking-windows-11-pop-bottle-filament-old-phones-with-modern-guts-and-eavesdropping-in-rf/"/>
-        <updated>2021-07-02T16:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Hackaday editors Mike Szczys and Elliot Williams look through the most interesting hacks of the week. We spent ample time in adulation of the automatons built by François Junod; wizard-level …read more]]></summary>
-        <author>
-            <name>Mike Szczys</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best No-Churn Ice Cream Recipes for When It's Hot As Balls]]></title>
         <id>1847219562</id>
         <link href="https://lifehacker.com/the-best-no-churn-ice-cream-recipes-for-when-its-hot-as-1847219562"/>
@@ -210,16 +390,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ross Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discarded Plastic Laser-Cut And Reassembled]]></title>
-        <id>https://hackaday.com/?p=485387</id>
-        <link href="https://hackaday.com/2021/07/02/discarded-plastic-laser-cut-and-reassembled/"/>
-        <updated>2021-07-02T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The longevity of plastic is both a blessing and a curse. On the one hand, it’s extremely durable, inexpensive, and easy to work with, but it also doesn’t biodegrade and …read more]]></summary>
-        <author>
-            <name>Bryan Cockfield</name>
         </author>
     </entry>
     <entry>
@@ -243,16 +413,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Stephen Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week in Security: Bad Signs from Microsoft, An Epyc VM Escape]]></title>
-        <id>https://hackaday.com/?p=485199</id>
-        <link href="https://hackaday.com/2021/07/02/this-week-in-security-bad-signs-from-microsoft-an-epyc-vm-escape/"/>
-        <updated>2021-07-02T14:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Code signing is the silver bullet that will save us from malware, right? Not so much, particularly when vendors can be convinced to sign malicious code. Researchers at G DATA …read more]]></summary>
-        <author>
-            <name>Jonathan Bennett</name>
         </author>
     </entry>
     <entry>
@@ -401,19 +561,6 @@ Adam Peacock is the host of this seasonal spin-off of horror spoof My Neighbours
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bye bye BMI: Pinterest bans weight loss ads in first for major social networks]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks"/>
-        <updated>2021-07-02T01:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Advertisements promoting diets or slimming products and that idealise certain body types will be removed from the platform
-Pinterest is banning all advertisements with weight loss language and imagery, including ads that idealise or denigrate certain body types, the social media company says.
-The popular, picture-led social network, which allows users to create and share mood boards, said it would also not allow ads with testimonials about weight loss or weight loss products, or ads referencing body mass index (BMI) or similar indexes.
- Continue reading...]]></summary>
-        <author>
-            <name>Guardian staff and agencies</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['Corpse Flowers' Are a Thing, and You Can Watch One Bloom]]></title>
         <id>1847213469</id>
         <link href="https://lifehacker.com/corpse-flowers-are-a-thing-and-you-can-watch-one-bloom-1847213469"/>
@@ -436,50 +583,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Recharge After Quitting a Job You Hate, Without Sabotaging Your Career]]></title>
-        <id>1847212354</id>
-        <link href="https://lifehacker.com/how-to-recharge-after-quitting-a-job-you-hate-without-1847212354"/>
-        <updated>2021-07-01T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The pandemic is waning here in the United States (at least for now), the job market is slowly showing signs of recovery, and millions of workers have fled their jobs in what many headlines are calling “The Great Resignation.” You might be one of those workers reckoning with what you want from work, and while it might…
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Absolutely Have to Clean Your Charcoal Grill]]></title>
-        <id>1847212611</id>
-        <link href="https://lifehacker.com/you-absolutely-have-to-clean-your-charcoal-grill-1847212611"/>
-        <updated>2021-07-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I have always been resistant to cleaning things that are outside. Outside is where the dirt lives—the dirt’s “home turf,” if you will. But now that I live in a house that comes with its own little piece of outside, I’m seeing that cleaning these out-of-doors spaces is necessary, especially now that I am doing a fair…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Really Make Money on Twitter?]]></title>
-        <id>1847213704</id>
-        <link href="https://lifehacker.com/can-you-really-make-money-on-twitter-1847213704"/>
-        <updated>2021-07-01T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter has launched two new features, Super Follows and Ticketed Spaces, that the company says will help creators make money off of their followers. Does this mean you could make a decent living using the social media app? Probably not, unless you already have a huge Twitter following eager to consume your content at…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should Vaccinated People Mask Up Against the Delta Variant?]]></title>
-        <id>1847212949</id>
-        <link href="https://lifehacker.com/should-vaccinated-people-mask-up-against-the-delta-vari-1847212949"/>
-        <updated>2021-07-01T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Los Angeles County recently asked residents to start wearing masks in public again, due to the increased risk posed by the Delta variant of the virus that causes COVID-19. Days later, the CDC director said that vaccinated people are still “safe” and still don’t need to mask up in most public settings. Who’s right, and…
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emotion and Empathy Are Glue for Makers]]></title>
         <id>https://makezine.com/2021/07/01/emotion-and-empathy-are-glue-for-makers/</id>
         <link href="https://makezine.com/2021/07/01/emotion-and-empathy-are-glue-for-makers/"/>
@@ -488,17 +591,6 @@ Read more...]]></summary>
 The post Emotion and Empathy Are Glue for Makers appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access the Hidden Symbols on Your iPhone's Keyboard]]></title>
-        <id>1847212952</id>
-        <link href="https://lifehacker.com/how-to-access-the-hidden-symbols-on-your-iphones-keyboa-1847212952"/>
-        <updated>2021-07-01T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The iPhone keyboard has a hidden superpower—beneath its usual letters, numbers, and symbols lie a treasure trove of less common but still useful symbols. The next time you want to tell someone how hot or cold it is, for example, you don’t need to type “degrees” or do a Google search for the degree symbol. You can tap…
-Read more...]]></summary>
-        <author>
-            <name>Pranay Parab</name>
         </author>
     </entry>
     <entry>
@@ -613,16 +705,6 @@ The ballot for this year’s Wimbledon tennis tournament was online only and a b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gun lobby says proposed amendments to the Firearms Control Bill won’t reduce violent crime]]></title>
-        <id>https://www.groundup.org.za/article/how-will-proposed-amendments-firearms-control-bill-reduce-violent-gun-crime-asks-pro-gun-lobbyists/</id>
-        <link href="https://www.groundup.org.za/article/how-will-proposed-amendments-firearms-control-bill-reduce-violent-gun-crime-asks-pro-gun-lobbyists/"/>
-        <updated>2021-07-01T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The police ministry has received over 100,000 submissions on the bill. Comment period extended to 2 August]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OzKitsch: the 10 funniest things I have ever seen (on the internet)]]></title>
         <id>https://www.theguardian.com/culture/2021/jul/01/ozkitsch-the-10-funniest-things-i-have-ever-seen-on-the-internet</id>
         <link href="https://www.theguardian.com/culture/2021/jul/01/ozkitsch-the-10-funniest-things-i-have-ever-seen-on-the-internet"/>
@@ -636,19 +718,6 @@ But its purpose has evolved over time. Instead of simply wincing at the olden da
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cristiano Ronaldo shoots to top of Instagram rich list]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/30/cristiano-ronaldo-shoots-to-top-of-instagram-rich-list</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/30/cristiano-ronaldo-shoots-to-top-of-instagram-rich-list"/>
-        <updated>2021-06-30T15:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Portugal footballer can command as much as $1.6m to endorse a product on social media
-Cristiano Ronaldo has shot to the top of Instagram’s annual rich list of celebrities who can charge the most for a sponsored post, with the footballer able to command as much as $1.6m (£1.2m) to endorse a product on social media.
-The Portugal captain, who rattled the Euro 2020 sponsor Coca-Cola by removing its drinks from view at a post-match press conference, has been crowned king of the influencers in a list that includes the wrestler-turned-actor Dwayne “the Rock” Johnson and the singer Ariana Grande.
- Continue reading...]]></summary>
-        <author>
-            <name>Mark Sweney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to photograph the moon on your phone or camera with the best settings]]></title>
         <id>https://www.theguardian.com/technology/2021/jun/30/how-to-photograph-the-full-moon-with-phone-tips-take-picture-photography-smartphone-camera-dslr-iphone-best-settings</id>
         <link href="https://www.theguardian.com/technology/2021/jun/30/how-to-photograph-the-full-moon-with-phone-tips-take-picture-photography-smartphone-camera-dslr-iphone-best-settings"/>
@@ -659,19 +728,6 @@ Two reasons: it is very far away and unless you have a telephoto lens (which mak
  Continue reading...]]></summary>
         <author>
             <name>Carly Earl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei lawyers claim emails prove US has no grounds to extradite CFO from Canada]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/29/huawei-meng-wanzhou-cfo-extradition-emails</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/29/huawei-meng-wanzhou-cfo-extradition-emails"/>
-        <updated>2021-06-29T22:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Lawyers will try to persuade Canadian court to permit new documents to be introduced as evidence to clear Meng Wanzhou
-The US justice department’s battle to extradite Meng Wanzhou from Canada has taken a fresh turn as lawyers for Huawei’s chief financial officer claimed that internal emails and bank documents prove there is no grounds to extradite her to the US.
-Meng, 48, was arrested on a US warrant at Vancouver airport in late 2018, and has been battling extradition. Her detention infuriated the Chinese government and has helped drag relations between Beijing and Ottawa to their lowest point in years.
- Continue reading...]]></summary>
-        <author>
-            <name>Patrick Wintour</name>
         </author>
     </entry>
     <entry>
@@ -697,32 +753,6 @@ The post If You’re Into 3D Printing, You Need To Be Watching CNC Kitchen appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook’s value tops $1tn after judge dismisses US lawsuits]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/28/facebook-antitrust-lawsuits-dismissed-ftc</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/28/facebook-antitrust-lawsuits-dismissed-ftc"/>
-        <updated>2021-06-29T10:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Cases filed by FTC and state attorneys general did not give enough evidence to prove Facebook was a monopoly
-In a significant blow to US regulators’ attempt to rein in big tech, a federal judge has dismissed lawsuits brought against Facebook by the Federal Trade Commission and a broad coalition of state attorneys general.
-Markets cheered the ruling, sending Facebook shares surging by more than 4%, which pushed the social network’s market value to more than $1tn (£722bn) for the first time.
- Continue reading...]]></summary>
-        <author>
-            <name>Kari Paul and agencies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘It just doesn’t stop!’ Do we need a new law to ban out-of-hours emails?]]></title>
-        <id>https://www.theguardian.com/money/2021/jun/29/it-just-doesnt-stop-do-we-need-a-new-law-to-ban-out-of-hours-emails</id>
-        <link href="https://www.theguardian.com/money/2021/jun/29/it-just-doesnt-stop-do-we-need-a-new-law-to-ban-out-of-hours-emails"/>
-        <updated>2021-06-29T04:56:57.000Z</updated>
-        <summary type="html"><![CDATA[During the pandemic many workers have felt more under siege than ever from work emails that arrive at all hours. Could the legal right to disconnect help?
-For 10 years, Jonathan has been available on email. He receives messages as early as 6am and as late as midnight, and steadily for a 12-hour stretch every day. And right from when he first became a lawyer, the clear expectation was that he would do his best to read them as soon as they came in.
-“When you get these emails on your phone, as we all do now, the pressure externally and internally to do something is huge,” Jonathan, 41, from north-west England, says.
- Continue reading...]]></summary>
-        <author>
-            <name>Elle Hunt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head]]></title>
         <id>https://makezine.com/2021/06/28/the-making-of-lord-of-the-rings-inspired-fellbeast-head/</id>
         <link href="https://makezine.com/2021/06/28/the-making-of-lord-of-the-rings-inspired-fellbeast-head/"/>
@@ -731,19 +761,6 @@ For 10 years, Jonathan has been available on email. He receives messages as earl
 The post The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackney blames a cyber-attack for not issuing council tax refund]]></title>
-        <id>https://www.theguardian.com/money/2021/jun/28/hackney-blames-a-cyber-attack-for-not-issuing-council-tax-refund</id>
-        <link href="https://www.theguardian.com/money/2021/jun/28/hackney-blames-a-cyber-attack-for-not-issuing-council-tax-refund"/>
-        <updated>2021-06-28T06:00:46.000Z</updated>
-        <summary type="html"><![CDATA[It was more than seven months ago, but it still can’t say when I’ll get my money
-Can you please ask Hackney council to pay the £1,071 in council tax it owes me? It claims it can’t because it faced a big cyber-attack more than seven months ago.
-I moved out of the borough in August 2020 and filled in the required form to let it know that I would no longer be paying council tax. I received an email receipt and assumed my direct debits would be cancelled. However, in early May, I discovered it was still taking £119 from my account each month.
- Continue reading...]]></summary>
-        <author>
-            <name>Miles Brignall</name>
         </author>
     </entry>
     <entry>
@@ -793,6 +810,19 @@ It is a question that would make even less sense now. In 1999, Mario Golf was ju
  Continue reading...]]></summary>
         <author>
             <name>Keza MacDonald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon crushed the Alabama union drive – can the Teamsters do better?]]></title>
+        <id>https://www.theguardian.com/technology/2021/jun/24/amazon-alabama-union-drive-teamsters</id>
+        <link href="https://www.theguardian.com/technology/2021/jun/24/amazon-alabama-union-drive-teamsters"/>
+        <updated>2021-06-24T09:00:53.000Z</updated>
+        <summary type="html"><![CDATA[The Teamsters union is rich, strong, and experienced – and it’s ready to help workers and give Amazon a headache  
+The announcement that the Teamsters – one of America’s most powerful unions – is going to mount an ambitious campaign to unionize Amazon warehouses across the US presents the e-retailing colossus with a far bigger threat than the recent effort to unionize an Amazon warehouse in Alabama ever did.
+ Related: Amazon fired him – now he’s trying to unionize 5,000 workers in New York 
+ Continue reading...]]></summary>
+        <author>
+            <name>Steven Greenhouse</name>
         </author>
     </entry>
     <entry>
@@ -1210,30 +1240,6 @@ Brad Stone, a senior editor at Bloomberg News, is now the author of a second boo
  Continue reading...]]></summary>
         <author>
             <name>Charles Kaiser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon fired him – now he’s trying to unionize 5,000 workers in New York]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/04/amazon-workers-staten-island-christian-smalls</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/04/amazon-workers-staten-island-christian-smalls"/>
-        <updated>2021-06-04T07:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Christian Smalls is taking on the fiercely anti-union colossus , convinced that a union of only Amazon workers is the smartest way to rally Amazon employees 
-Christian Smalls has taken on the biggest challenge of his life. Still smarting from when Amazon fired him last year, the 32-year-old is spearheading an effort to unionize more than 5,000 workers at four Amazon facilities in Staten Island, including a giant warehouse.
-Smalls is taking a highly unusual route in pursuing this goal; he has founded an independent union, the Amazon Labor Union, convinced that a new union comprising only Amazon workers is the smartest way to rally Amazon employees behind a union after the crushing defeat of an effort to unionize an Amazon warehouse in Alabama earlier this year.
- Continue reading...]]></summary>
-        <author>
-            <name>Steven Greenhouse in New York</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19 Long Blooming Perennials For A More Beautiful Flower Garden]]></title>
-        <id>https://getbusygardening.com/?p=34010</id>
-        <link href="https://getbusygardening.com/long-blooming-perennials/"/>
-        <updated>2021-06-03T19:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Long-blooming perennials are the best way to get as much joy from your flower beds as possible. There are tons of great options that you can choose from too. No matter where you live, you’re sure to find plenty of great choices on this list. If you’re tired of perennials that only bloom for aContinue Reading
-The post 19 Long Blooming Perennials For A More Beautiful Flower Garden appeared first on Get Busy Gardening.]]></summary>
-        <author>
-            <name>Amy Andrychowicz</name>
         </author>
     </entry>
 </feed>
