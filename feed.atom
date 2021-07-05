@@ -1,18 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-04T00:34:23.410Z</id>
+    <id>urn:2021-07-05T00:31:32.664Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:34:23.410Z</updated>
+    <updated>2021-07-05T00:31:32.664Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[E-Ink Equipped Sourdough Starter Jar]]></title>
-        <id>https://hackaday.com/?p=484041</id>
-        <link href="https://hackaday.com/2021/07/03/e-ink-equipped-sourdough-starter-jar/"/>
-        <updated>2021-07-03T23:00:17.000Z</updated>
-        <summary type="html"><![CDATA[One of the unexpected side effects of our this pandemic is a sudden growth in the global population of captive colonies of Lactobacillus bacteria and yeast. Also known as sourdough …read more]]></summary>
+        <title type="html"><![CDATA[Hackaday Links: July 4, 2021]]></title>
+        <id>https://hackaday.com/?p=484933&amp;preview=true&amp;preview_id=484933</id>
+        <link href="https://hackaday.com/2021/07/04/hackaday-links-july-4-2021/"/>
+        <updated>2021-07-04T23:00:34.000Z</updated>
+        <summary type="html"><![CDATA[With rescue and recovery efforts at the horrific condo collapse in Florida this week still underway, we noted with interest some of the technology being employed on the site. Chief …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking a Thermal Imager for Dual-use of the Thermal Sensor]]></title>
+        <id>https://hackaday.com/?p=484633</id>
+        <link href="https://hackaday.com/2021/07/04/hacking-a-thermal-imager-for-dual-use-of-the-thermal-sensor/"/>
+        <updated>2021-07-04T20:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes a device doesn’t do quite what one needs, and in those cases a bit of tampering might do the trick. That’s what led to being able to record video …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Extrudes Filament]]></title>
+        <id>https://hackaday.com/?p=484520</id>
+        <link href="https://hackaday.com/2021/07/04/machine-extrudes-filament/"/>
+        <updated>2021-07-04T17:00:22.000Z</updated>
+        <summary type="html"><![CDATA[We’ve seen a lot of homebrew filament extruders, but [Stefan] at CNC Kitchen shows off a commercial desktop filament extruder in his latest video, which you can see below. The …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uninstall These Malicious Android Apps That Stole Facebook Passwords]]></title>
+        <id>1847227502</id>
+        <link href="https://lifehacker.com/uninstall-these-malicious-android-apps-that-stole-faceb-1847227502"/>
+        <updated>2021-07-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers from Dr. Web have found nine apps with more than 5.8 million combined downloads that were sneakily stealing user’s Facebook passwords using a genuine Facebook login page. As of writing, Google has  banned the developer and removed these nine apps from the Play Store, but if you’ve downloaded any of them,…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Paid $5,000 to Do Summer Activities That Are Already on Your List]]></title>
+        <id>1847221891</id>
+        <link href="https://lifehacker.com/get-paid-5-000-to-do-summer-activities-that-are-alread-1847221891"/>
+        <updated>2021-07-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you think of the classic summer jobs for young adults, things like lifeguarding, scooping ice cream, or mowing lawns might come to mind. (And honestly don’t sound half bad.) But then you grow up, and there’s no such thing as summer vacation, and your summer job is also your fall job, winter job, and spring job.
+
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vintage Remote Control Gets Bluetooth Upgrade]]></title>
+        <id>https://hackaday.com/?p=484377</id>
+        <link href="https://hackaday.com/2021/07/04/vintage-remote-control-gets-bluetooth-upgrade/"/>
+        <updated>2021-07-04T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[This swanky Magnavox remote is old enough to predate the use of infrared, and actually relies on ultrasound to communicate with the television. It’s a neat conversation starter, but not …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Throw Your Fireworks Away the Right Way]]></title>
+        <id>1847221874</id>
+        <link href="https://lifehacker.com/throw-your-fireworks-away-the-right-way-1847221874"/>
+        <updated>2021-07-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Twas later that evening on the 4th of July, and sparkly fireworks no longer lit up the sky. Whatever leftovers you thought you might have for next year ended up in the Grand Finale. Now, an assortment of larger fireworks, and smaller firecrackers and sparklers litter the yard, street, or wherever your DIY display…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Spot and Treat a Chlorine Rash]]></title>
+        <id>1847221857</id>
+        <link href="https://lifehacker.com/how-to-spot-and-treat-a-chlorine-rash-1847221857"/>
+        <updated>2021-07-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pools are pretty gross when you think about it. And as much as we may not love the idea of swimming in a bunch of chemicals—in this case, chlorine—that’s probably preferable to whatever else would be stewing in there without them. So, yes, chlorine is necessary and important, but that doesn’t mean we have to enjoy its…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Arduino isn’t Color Blind]]></title>
+        <id>https://hackaday.com/?p=484541</id>
+        <link href="https://hackaday.com/2021/07/04/this-arduino-isnt-color-blind/"/>
+        <updated>2021-07-04T11:00:48.000Z</updated>
+        <summary type="html"><![CDATA[You can sense a lot of things with the right sensor, and [Nikhil Nailwal] is here to show us how to sense colors using a TCS230. The project is a …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This space race has its downside… Rocketwoman Wally Funk joins crew for Jeff Bezos’s ego trip]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/04/this-space-race-has-its-downside-rocketwoman-wally-funk-joins-crew-for-jeff-bezoss-ego-trip</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/04/this-space-race-has-its-downside-rocketwoman-wally-funk-joins-crew-for-jeff-bezoss-ego-trip"/>
+        <updated>2021-07-04T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[The veteran US pilot is set to become the oldest woman in space – the only snag is she has to go with the Amazon billionaire 
+You have to feel for the American pilot Wally Funk. You would sympathise with anyone with that name, but she has had a particularly mixed week. On one hand, at 82, she is set to finally fulfil her life’s ambition and travel into space. Funk was one of the most promising female candidates for the Mercury 13 programme in the 1960s, but was denied a spot because of her gender. Right stuff, wrong parts. On Thursday, the Amazon founder, Jeff Bezos, announced on Instagram that Wally would become the oldest person in space as one of the four passengers on New Shepard, the rocket being launched by his company Blue Origin on 20 July. “I didn’t think I’d ever get to go up,” Funk said in an interview.
+The obvious downside, which she was too polite to mention, is that she has to ride with Bezos, his brother and one other, in a kind of UberPool from hell. She ought to have been more specific to the genie. Midlife does strange things to men, and so does being a billionaire. The combination leads to some odd outcomes. Not content with building his own rockets, Jeff, as he approaches 60, has decided to start riding them as well. Towers and yachts are so passé. Private space travel is the thing. Elon Musk is at it, too, and presumably a load of guys in China.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ed Cumming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Canine Mask For Protection From Foxtails]]></title>
+        <id>https://hackaday.com/?p=484846</id>
+        <link href="https://hackaday.com/2021/07/04/extreme-canine-mask-for-protection-from-foxtails/"/>
+        <updated>2021-07-04T08:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Our canine partners are fortunately not affected by the current global pandemic, but it turns out there are other dangers that might necessitate them to wearing masks: Foxtail seeds. After …read more]]></summary>
         <author>
             <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Chess on a Real Chessboard]]></title>
+        <id>https://hackaday.com/?p=484530</id>
+        <link href="https://hackaday.com/2021/07/03/internet-chess-on-a-real-chessboard/"/>
+        <updated>2021-07-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Internet teaches us that we can accept stand-ins for the real world. We have an avatar that looks like us. We have virtual mailboxes to read messages out of …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
         </author>
     </entry>
     <entry>
@@ -26,26 +144,6 @@ Joe Biden said on Saturday he had directed US intelligence agencies to investiga
  Continue reading...]]></summary>
         <author>
             <name>Guardian staff and agencies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WiFiWart Linux Pentesting Device Gets First PCBs]]></title>
-        <id>https://hackaday.com/?p=484260</id>
-        <link href="https://hackaday.com/2021/07/03/wifiwart-linux-pentesting-device-gets-first-pcbs/"/>
-        <updated>2021-07-03T20:00:30.000Z</updated>
-        <summary type="html"><![CDATA[When we last checked in on the WiFiWart, an ambitious project to scratch-build a Linux powered penetration testing drop box small enough to be disguised as a standard phone charger, …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your PC Sound Card As A Sensor Input]]></title>
-        <id>https://hackaday.com/?p=485291</id>
-        <link href="https://hackaday.com/2021/07/03/your-pc-sound-card-as-a-sensor-input/"/>
-        <updated>2021-07-03T17:01:29.000Z</updated>
-        <summary type="html"><![CDATA[The commoditised PC is the most versatile tool many of us will own, and since it has been around for a very long time it is also something that can …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
         </author>
     </entry>
     <entry>
@@ -114,16 +212,6 @@ This time, though, duplicating the spending looks more sensible. More gigafactor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Devil is in the Details]]></title>
-        <id>https://hackaday.com/?p=485487</id>
-        <link href="https://hackaday.com/2021/07/03/the-devil-is-in-the-details/"/>
-        <updated>2021-07-03T14:00:35.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve taken a physics class, you’ve doubtless heard tales of mythical beasts like the massless string, the frictionless bearing, and the perfect sphere. And if you’re designing something new, …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Spot a Rotting Tree Before the Next Storm]]></title>
         <id>1847213061</id>
         <link href="https://lifehacker.com/how-to-spot-a-rotting-tree-before-the-next-storm-1847213061"/>
@@ -157,16 +245,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Custom Raspberry Pi Spotted In The Wild]]></title>
-        <id>https://hackaday.com/?p=485309</id>
-        <link href="https://hackaday.com/2021/07/03/a-custom-raspberry-pi-spotted-in-the-wild/"/>
-        <updated>2021-07-03T11:01:58.000Z</updated>
-        <summary type="html"><![CDATA[Since the first Raspberry Pi came to market back in 2012 there have been a variety of models released. Some of them are rarer than others, and unusual boards can …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alcohol bans reduced deaths, study finds]]></title>
         <id>https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/</id>
         <link href="https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/"/>
@@ -174,16 +252,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[UCT and MRC researchers found that dozens of deaths a day were averted by restrictions]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Zoetrope Uses Illusion to Double the Frames]]></title>
-        <id>https://hackaday.com/?p=484339</id>
-        <link href="https://hackaday.com/2021/07/03/3d-zoetrope-uses-illusion-to-double-the-frames/"/>
-        <updated>2021-07-03T08:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Although film and animation have come quite a long way, there’s still something magical about that grandaddy of them all, the zoetrope. Thanks to persistence of vision, our eyes are …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +291,6 @@ A quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos i
  Continue reading...]]></summary>
         <author>
             <name>Rupert Neate Wealth correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Custom Signal Protocols with Old Nintendos]]></title>
-        <id>https://hackaday.com/?p=485090</id>
-        <link href="https://hackaday.com/2021/07/02/understanding-custom-signal-protocols-with-old-nintendos/"/>
-        <updated>2021-07-03T05:00:36.000Z</updated>
-        <summary type="html"><![CDATA[For retro gaming, there’s really no substitute for original hardware. As it ages, though, a lot of us need to find something passable since antique hardware won’t last forever. If …read more]]></summary>
-        <author>
-            <name>Bryan Cockfield</name>
         </author>
     </entry>
     <entry>
@@ -427,29 +485,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install the macOS Monterey Public Beta]]></title>
-        <id>1847217806</id>
-        <link href="https://lifehacker.com/how-to-install-macos-monterey-public-beta-1847217806"/>
-        <updated>2021-07-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Somewhere in the fall of 2021, Apple will release the macOS Monterey update—and this is a big one. Shortcuts automation finally comes to the Mac, Universal Control lets you share a cursor with your iPad, not to mention the new FaceTime features for shared media playback.
-
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Know the Difference Between a Child's Immaturity and Developmental Delays]]></title>
-        <id>1847214784</id>
-        <link href="https://lifehacker.com/know-the-difference-between-a-childs-immaturity-and-dev-1847214784"/>
-        <updated>2021-07-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to growing up, some children need a little more time. Maturing slower than their peers can be hard for a kid though, especially once they start school. If all their friends are moving on to different activities and interests while their own schoolwork is getting progressively harder, it can leave them…
-Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECD staff, social workers, and SASSA tellers could be vaccinated soon, says Minister Zulu]]></title>
         <id>https://www.groundup.org.za/article/ecd-staff-social-workers-and-sassa-tellers-could-be-vaccinated-soon-says-minister-zulu/</id>
         <link href="https://www.groundup.org.za/article/ecd-staff-social-workers-and-sassa-tellers-could-be-vaccinated-soon-says-minister-zulu/"/>
@@ -558,28 +593,6 @@ Adam Peacock is the host of this seasonal spin-off of horror spoof My Neighbours
  Continue reading...]]></summary>
         <author>
             <name>Hannah Verdier and Danielle Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Corpse Flowers' Are a Thing, and You Can Watch One Bloom]]></title>
-        <id>1847213469</id>
-        <link href="https://lifehacker.com/corpse-flowers-are-a-thing-and-you-can-watch-one-bloom-1847213469"/>
-        <updated>2021-07-01T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are two words I think we can all agree don’t belong together and they are as follows: corpse and flower. And yet, not only are corpse flowers a thing, they are a giant thing. The amorphophallus titanum or “corpse flower” is a huge flower that, when it blooms, gives off a smell akin to rotting meat. Corpse…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Podcast Apps for Your iPhone and iPad (2021)]]></title>
-        <id>1830569398</id>
-        <link href="https://lifehacker.com/the-best-iphone-podcast-managers-for-2018-1830569398"/>
-        <updated>2021-07-01T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Podcasts is the standard podcast app for many iOS users, but recent iOS 14 updates have made it an unbearable mess. Users have dealt with bugs, lost subscriptions, delayed episode availability, and poor performance for months, and every patch seems to break as many things as it fixes. It’s also made the platform…
-Read more...]]></summary>
-        <author>
-            <name>Mike Epstein and Brendan Hesse</name>
         </author>
     </entry>
     <entry>
