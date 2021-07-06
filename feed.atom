@@ -1,38 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T00:31:32.664Z</id>
+    <id>urn:2021-07-06T00:35:08.583Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:31:32.664Z</updated>
+    <updated>2021-07-06T00:35:08.583Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Hackaday Links: July 4, 2021]]></title>
-        <id>https://hackaday.com/?p=484933&amp;preview=true&amp;preview_id=484933</id>
-        <link href="https://hackaday.com/2021/07/04/hackaday-links-july-4-2021/"/>
-        <updated>2021-07-04T23:00:34.000Z</updated>
-        <summary type="html"><![CDATA[With rescue and recovery efforts at the horrific condo collapse in Florida this week still underway, we noted with interest some of the technology being employed on the site. Chief …read more]]></summary>
+        <title type="html"><![CDATA[Wooden Linear Clock Aided By GPS]]></title>
+        <id>https://hackaday.com/?p=484419</id>
+        <link href="https://hackaday.com/2021/07/05/wooden-linear-clock-aided-by-gps/"/>
+        <updated>2021-07-05T23:01:37.000Z</updated>
+        <summary type="html"><![CDATA[The notion of segmenting and quantizing the day into discrete segments of time is perhaps one of the most human things we do. Heralding back to a simpler era when …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Air Quality Sensor]]></title>
+        <id>https://hackaday.com/?p=484980</id>
+        <link href="https://hackaday.com/2021/07/05/diy-air-quality-sensor/"/>
+        <updated>2021-07-05T20:01:23.000Z</updated>
+        <summary type="html"><![CDATA[[Andrew Lamchenko], who has built a number of small e-ink-based sensors this year, released another design called the eON Indoor Air Quality Sensor. As his previous sensor designs, the …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Collapsible Container Without Breaking Down]]></title>
+        <id>https://hackaday.com/?p=484300</id>
+        <link href="https://hackaday.com/2021/07/05/how-to-make-a-collapsible-container-without-breaking-down/"/>
+        <updated>2021-07-05T17:01:28.000Z</updated>
+        <summary type="html"><![CDATA[How hard could it be to make a collapsible silicone container? Turns out, it’s really, really hard — collapsible containers have rigid guidelines. Just ask [Eric Strebel], who failed dozens …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microfluidics for Biohacking Hack Chat]]></title>
+        <id>https://hackaday.com/?p=485498&amp;preview=true&amp;preview_id=485498</id>
+        <link href="https://hackaday.com/2021/07/05/microfluidics-for-biohacking-hack-chat/"/>
+        <updated>2021-07-05T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Join us on Wednesday, July 7 at noon Pacific for the Microfluidics for Biohacking Hack Chat with Krishna Sanka! “Microfluidics” sounds like a weird and wonderful field, but one that …read more]]></summary>
         <author>
             <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacking a Thermal Imager for Dual-use of the Thermal Sensor]]></title>
-        <id>https://hackaday.com/?p=484633</id>
-        <link href="https://hackaday.com/2021/07/04/hacking-a-thermal-imager-for-dual-use-of-the-thermal-sensor/"/>
-        <updated>2021-07-04T20:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes a device doesn’t do quite what one needs, and in those cases a bit of tampering might do the trick. That’s what led to being able to record video …read more]]></summary>
+        <title type="html"><![CDATA[How to Break Into the Legal Weed Industry]]></title>
+        <id>1847223015</id>
+        <link href="https://lifehacker.com/how-to-break-into-the-legal-weed-industry-1847223015"/>
+        <updated>2021-07-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The weed legalization train is on the move around America, and whether it’s already been through your state or is headed your way, you might be interested in getting into the industry. There’s always been money in marijuana, but now there’s money in marijuana that you can actually talk about with the stranger across…
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Types of Rest, and How to Get the Kind You Need]]></title>
+        <id>1847223651</id>
+        <link href="https://lifehacker.com/the-7-types-of-rest-and-how-to-get-the-kind-you-need-1847223651"/>
+        <updated>2021-07-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, our default answer to the question “How are you?” has been “fine,” or some variation of it. But over the past few years—and especially during the pandemic—another response is becoming increasingly common: Telling the person who asked that you’re “tired,” or even “exhausted.”
+
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Barker obituary]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary"/>
+        <updated>2021-07-05T14:29:48.000Z</updated>
+        <summary type="html"><![CDATA[My grandfather Tom Barker, who has died of cancer aged 84, was a pivotal figure in mechanical engineering. He collaborated with some of the world’s best architects, putting heat, sound, light and air at the forefront of design. As director of Ove Arup & Partners (now Arup Group), the global engineering company, he was known for his work on the Pompidou Centre in Paris and the Lloyd’s building in London, among many others.
+Tom led Arup’s engineering group for 26 years, designing for key projects such as the Menil Collection museum in Houston, Texas, and Kansai international airport in Osaka, Japan, with Peter Rice. 
+ Continue reading...]]></summary>
+        <author>
+            <name>Phoebe Barker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Spin on Empty Filament Spools for Part Storage]]></title>
+        <id>https://hackaday.com/?p=483813</id>
+        <link href="https://hackaday.com/2021/07/05/a-new-spin-on-empty-filament-spools-for-part-storage/"/>
+        <updated>2021-07-05T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Empty spools from 3D printer filament are the kind of thing that begs to be repurposed, and one option is [3d-printy]’s vertical filament spool parts drawer design. The way this …read more]]></summary>
         <author>
             <name>Donald Papp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine Extrudes Filament]]></title>
-        <id>https://hackaday.com/?p=484520</id>
-        <link href="https://hackaday.com/2021/07/04/machine-extrudes-filament/"/>
-        <updated>2021-07-04T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[We’ve seen a lot of homebrew filament extruders, but [Stefan] at CNC Kitchen shows off a commercial desktop filament extruder in his latest video, which you can see below. The …read more]]></summary>
+        <title type="html"><![CDATA[How to Use Kitchen Scraps on Your Plants Without Having to Learn Composting]]></title>
+        <id>1847223657</id>
+        <link href="https://lifehacker.com/how-to-use-kitchen-scraps-on-your-plants-without-having-1847223657"/>
+        <updated>2021-07-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We should start by saying that we are not anti-compost. In fact, we have several articles walking you through the ins and outs of the composting process. In a perfect world, everyone would have the time, energy, and space to have their own compost pile or container, and then use the finished product to help their…
+Read more...]]></summary>
         <author>
-            <name>Al Williams</name>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanitation worse than ever after floods hit informal settlement]]></title>
+        <id>https://www.groundup.org.za/article/sanitation-worse-ever-after-floods-hit-informal-settlement/</id>
+        <link href="https://www.groundup.org.za/article/sanitation-worse-ever-after-floods-hit-informal-settlement/"/>
+        <updated>2021-07-05T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Residents of Ethembeni in Khayelitsha say they urgently need ten to 15 chemical toilets]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use These Botanical Gardens-Inspired Decor Tips to Make Your Home Feel Like an Oasis]]></title>
+        <id>1847223642</id>
+        <link href="https://lifehacker.com/use-these-botanical-gardens-inspired-decor-tips-to-make-1847223642"/>
+        <updated>2021-07-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s something very calming about visiting a botanical garden. Perhaps it’s being surrounded by foliage, or taking in the array of colors. Or maybe it’s just nice to be able to enjoy well-manicured and maintained nature where someone else did all the gardening and landscaping work. Whatever the reason, if you’re…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messaging on Signal Via The ESP32]]></title>
+        <id>https://hackaday.com/?p=483884</id>
+        <link href="https://hackaday.com/2021/07/05/messaging-on-signal-via-the-esp32/"/>
+        <updated>2021-07-05T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Signal is a popular encrypted messaging app, typically used on smartphones. The cross-platform service can now be used via the ESP32, however, thanks to the work of [Dharmik] and [Tirth]. …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivermectin: balance of evidence shows no benefit against Covid-19]]></title>
+        <id>https://www.groundup.org.za/article/ivermectin-flops-largest-trial-yet/</id>
+        <link href="https://www.groundup.org.za/article/ivermectin-flops-largest-trial-yet/"/>
+        <updated>2021-07-05T10:58:39.000Z</updated>
+        <summary type="html"><![CDATA[While it’s too soon to say that the drug is useless, it has clearly been overhyped]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to dystopia: getting fired from your job as an Amazon worker by an app | Jessa Crispin]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia"/>
+        <updated>2021-07-05T10:24:47.000Z</updated>
+        <summary type="html"><![CDATA[This is the most boring possible Terminator sequel - the robots are here to text you snidely that you won’t need to come into work ever again
+We were initially anxious about the introduction of robots into our workforce because of the potential disappearance of manual labor jobs. Robots would take over factories, we were told, they’d drive our cars and trucks, and they would do all of the cleaning that janitorial and domestic workers are currently hired to do. But it turns out auto-pilots drive cars about as well as my cat when he’s drunk, and the way my friend’s Roomba always gets lost under the kitchen table, spinning uselessly, unable to find his way out, suggests we’ll still need people with brooms for a while now.
+ Related: Stressed-out Amazon workers can now access ‘mindfulness’ training. Gee, thanks | Jessa Crispin 
+ Continue reading...]]></summary>
+        <author>
+            <name>Jessa Crispin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man accused of stealing a cellphone and set alight recovers in hospital from severe burns]]></title>
+        <id>https://www.groundup.org.za/article/durban-man-accused-of-stealing-a-cellphone-was-set-alight-by-a-mob-he-is-in-hospital-with-severe-burn-wounds/</id>
+        <link href="https://www.groundup.org.za/article/durban-man-accused-of-stealing-a-cellphone-was-set-alight-by-a-mob-he-is-in-hospital-with-severe-burn-wounds/"/>
+        <updated>2021-07-05T08:58:23.000Z</updated>
+        <summary type="html"><![CDATA[At least three people killed every day by vigilantes according to latest quarterly crime stats]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Education goes back to court to force government to feed hungry school children]]></title>
+        <id>https://www.groundup.org.za/article/equal-education-goes-back-court-force-government-feed-hungry-school-children/</id>
+        <link href="https://www.groundup.org.za/article/equal-education-goes-back-court-force-government-feed-hungry-school-children/"/>
+        <updated>2021-07-05T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Minister Motshekga and eight provincial education MECs in contempt of court, says NGO]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gauteng police have killed hundreds, but SAPS leaves brutal cops unchecked]]></title>
+        <id>https://www.groundup.org.za/article/gauteng-police-have-killed-hundreds-saps-leave-brutal-cops-unchecked/</id>
+        <link href="https://www.groundup.org.za/article/gauteng-police-have-killed-hundreds-saps-leave-brutal-cops-unchecked/"/>
+        <updated>2021-07-05T08:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Official statistics show no Gauteng officers have been disciplined for violent offences since 2016]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Litter Buggies Haul Trash Off The Beach]]></title>
+        <id>https://hackaday.com/?p=482876</id>
+        <link href="https://hackaday.com/2021/07/05/litter-buggies-haul-trash-off-the-beach/"/>
+        <updated>2021-07-05T08:01:35.000Z</updated>
+        <summary type="html"><![CDATA[There is a depressing amount of trash in our oceans, and a lot of it is washes up on beaches. [Glenn Morris] has turned collecting all this trash into a …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venu 2 review: can Garmin make a good smartwatch?]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch"/>
+        <updated>2021-07-05T06:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Fitness firm’s new Apple Watch-rival looks the part and tracks loads of data but lacks some real smarts
+Garmin’s latest device aims to beat the Apple Watch and rivals at their own game, offering longer battery life and better fitness tracking in a more traditional touchscreen smartwatch body.
+ Continue reading...]]></summary>
+        <author>
+            <name>Samuel Gibbs Consumer technology editor</name>
         </author>
     </entry>
     <entry>
@@ -59,16 +231,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vintage Remote Control Gets Bluetooth Upgrade]]></title>
-        <id>https://hackaday.com/?p=484377</id>
-        <link href="https://hackaday.com/2021/07/04/vintage-remote-control-gets-bluetooth-upgrade/"/>
-        <updated>2021-07-04T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[This swanky Magnavox remote is old enough to predate the use of infrared, and actually relies on ultrasound to communicate with the television. It’s a neat conversation starter, but not …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Throw Your Fireworks Away the Right Way]]></title>
         <id>1847221874</id>
         <link href="https://lifehacker.com/throw-your-fireworks-away-the-right-way-1847221874"/>
@@ -91,13 +253,17 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Arduino isn’t Color Blind]]></title>
-        <id>https://hackaday.com/?p=484541</id>
-        <link href="https://hackaday.com/2021/07/04/this-arduino-isnt-color-blind/"/>
-        <updated>2021-07-04T11:00:48.000Z</updated>
-        <summary type="html"><![CDATA[You can sense a lot of things with the right sensor, and [Nikhil Nailwal] is here to show us how to sense colors using a TCS230. The project is a …read more]]></summary>
+        <title type="html"><![CDATA[Deep sea robots will let us find millions of shipwrecks, says man who discovered Titanic]]></title>
+        <id>https://www.theguardian.com/science/2021/jul/04/deep-sea-robots-will-let-us-find-millions-of-shipwrecks-says-man-who-discovered-titanic</id>
+        <link href="https://www.theguardian.com/science/2021/jul/04/deep-sea-robots-will-let-us-find-millions-of-shipwrecks-says-man-who-discovered-titanic"/>
+        <updated>2021-07-04T10:00:18.000Z</updated>
+        <summary type="html"><![CDATA[A revolutionary new class of amphibious vehicle will transform the search for lost vessels on the ocean floor, says marine archaeologist Dr Robert Ballard
+
+He is the celebrated deep-sea explorer who discovered the Titanic, as well as the German battleship Bismarck and other historic sunken vessels around the world.
+Now Dr Robert Ballard is pioneering cutting-edge technology – autonomous underwater vehicles that will “revolutionise” the search for more than three million shipwrecks that lie scattered across ocean floors, according to a Unesco estimate. Many will offer new insights into life on board at the time of sinking, hundreds or even thousands of years ago.
+ Continue reading...]]></summary>
         <author>
-            <name>Al Williams</name>
+            <name>Dalya Alberge</name>
         </author>
     </entry>
     <entry>
@@ -111,26 +277,6 @@ The obvious downside, which she was too polite to mention, is that she has to ri
  Continue reading...]]></summary>
         <author>
             <name>Ed Cumming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extreme Canine Mask For Protection From Foxtails]]></title>
-        <id>https://hackaday.com/?p=484846</id>
-        <link href="https://hackaday.com/2021/07/04/extreme-canine-mask-for-protection-from-foxtails/"/>
-        <updated>2021-07-04T08:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Our canine partners are fortunately not affected by the current global pandemic, but it turns out there are other dangers that might necessitate them to wearing masks: Foxtail seeds. After …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Chess on a Real Chessboard]]></title>
-        <id>https://hackaday.com/?p=484530</id>
-        <link href="https://hackaday.com/2021/07/03/internet-chess-on-a-real-chessboard/"/>
-        <updated>2021-07-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Internet teaches us that we can accept stand-ins for the real world. We have an avatar that looks like us. We have virtual mailboxes to read messages out of …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
         </author>
     </entry>
     <entry>
@@ -255,19 +401,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cryptocurrency scam costs online dating user £20,000]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr"/>
-        <updated>2021-07-03T08:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Internet cons have surged in the Covid crisis, with some victims left with little recourse to recover cash
-In early May, James Evans* met a man on the dating app Grindr. The man, who said his name was David, was friendly and chatty. “It started off as a normal conversation,” says Evans. “We moved to WhatsApp and exchanged messages. After a few days he started telling me about crypto trading and how he could show me how it worked and how I could earn money from it. It seemed like a genuine connection.”
-Unfortunately for Evans, , that wasn’t the case. He hadhooked up with a scammer, who within a week had convinced him to hand over £20,000.
- Continue reading...]]></summary>
-        <author>
-            <name>Hilary Osborne</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Andy Jassy steps out of the shadows – so who exactly is Amazon’s new CEO?]]></title>
         <id>https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos</id>
         <link href="https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos"/>
@@ -278,19 +411,6 @@ During a rambunctious game of “broomball” – a cross between lacrosse and f
  Continue reading...]]></summary>
         <author>
             <name>Rupert Neate Wealth correspondent and Sarah Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s next for Jeff Bezos? Space, climate and media may all figure]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure"/>
-        <updated>2021-07-03T05:00:43.000Z</updated>
-        <summary type="html"><![CDATA[As he hands over top job at Amazon, Bezos will remain largest shareholder and ‘has never had more energy’
-A quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos is preparing to loosen his grip on his $1.7tn (£1.2tn) company. Few employees in the sphere conservatories at Amazon’s sprawling Seattle campus headquarters reckon Bezos will relinquish that much of his iron grip on the company’s big decisions when Andy Jassy succeeds him as CEO on Monday. After all, Bezos will become executive chairman of Amazon’s board and remains the company’s biggest shareholder. But Bezos, 57, told his 1.3 million employees (whom he refers to as “fellow Amazonians”) that “as much as I still tap dance into the office, I’m excited about this transition”.
-“I’ve never had more energy, and this isn’t about retiring,” he said. “I intend to focus my energies and attention on new products and early initiatives … I’m super passionate about the impact I think these organisations can have.”
- Continue reading...]]></summary>
-        <author>
-            <name>Rupert Neate Wealth correspondent</name>
         </author>
     </entry>
     <entry>
@@ -440,51 +560,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20 of the Most Obscenely Patriotic Movies Ever]]></title>
-        <id>1847211948</id>
-        <link href="https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948"/>
-        <updated>2021-07-02T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Raise a glass, America. It’s the Fourth of July. Independence Day. Your special day. Why not celebrate with an over-the-top, ultra-violent action spectacular celebrating the can-explode spirit of the country that we all love?
-Read more...]]></summary>
-        <author>
-            <name>Ross Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scan Your LEGO With This App to Figure Out What to Build]]></title>
-        <id>1847218270</id>
-        <link href="https://lifehacker.com/scan-your-lego-with-this-app-to-figure-out-what-to-buil-1847218270"/>
-        <updated>2021-07-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[LEGOs are all about the possible: When handed a full box, what can you build? I spent a good chunk of my childhood rummaging through our LEGO collection at home, building all sorts of gadgets and contraptions. My older brother, when he wasn’t beating me up, would sometimes join in, and we’d spend hours building…
-Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Out-of-Touch Adults' Guide To Kid Culture: Why Are Kids Putting Garlic In Their Nose?]]></title>
-        <id>1847217387</id>
-        <link href="https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-k-1847217387"/>
-        <updated>2021-07-02T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As the world enjoys our newfound freedom to leave our houses and the drama of the presidential election fades into memory, we’re all freed up to make up conspiracy theories about video games, pretend to drive invisible cars, and shove garlic up our noses.
-
-Read more...]]></summary>
-        <author>
-            <name>Stephen Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Should Have a Favorite Niche Literary Subgenre]]></title>
-        <id>1847214414</id>
-        <link href="https://lifehacker.com/you-should-have-a-favorite-niche-literary-subgenre-1847214414"/>
-        <updated>2021-07-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you want to dive deeper than the traditional mystery, romance, thriller, sci-fi, and fantasy books. If you like any of these five major literary genres but have nonetheless grown tired of them—or you just don’t know the difference between all these literary labels—it’s time to branch out with some niche sub…
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECD staff, social workers, and SASSA tellers could be vaccinated soon, says Minister Zulu]]></title>
         <id>https://www.groundup.org.za/article/ecd-staff-social-workers-and-sassa-tellers-could-be-vaccinated-soon-says-minister-zulu/</id>
         <link href="https://www.groundup.org.za/article/ecd-staff-social-workers-and-sassa-tellers-could-be-vaccinated-soon-says-minister-zulu/"/>
@@ -512,19 +587,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[ANC and DA want October poll to proceed]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC removes Bitesize page on climate change ‘benefits’ after backlash]]></title>
-        <id>https://www.theguardian.com/media/2021/jul/02/bbc-removes-bitesize-page-climate-change-benefits-backlash</id>
-        <link href="https://www.theguardian.com/media/2021/jul/02/bbc-removes-bitesize-page-climate-change-benefits-backlash"/>
-        <updated>2021-07-02T10:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Study website made claims including warmer temperatures ‘could lead to healthier outdoor lifestyles’
-The BBC has removed an educational page laying out the “benefits” of climate change after a furious online reaction.
-BBC Bitesize, its website for schoolchildren, claimed warmer temperatures “could lead to healthier outdoor lifestyles” and that a benefit of climate change could mean easier access to oil in Alaska and Siberia.
- Continue reading...]]></summary>
-        <author>
-            <name>Helena Horton</name>
         </author>
     </entry>
     <entry>
@@ -596,6 +658,19 @@ Adam Peacock is the host of this seasonal spin-off of horror spoof My Neighbours
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bye bye BMI: Pinterest bans weight loss ads in first for major social networks]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks"/>
+        <updated>2021-07-02T01:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Advertisements promoting diets or slimming products and that idealise certain body types will be removed from the platform
+Pinterest is banning all advertisements with weight loss language and imagery, including ads that idealise or denigrate certain body types, the social media company says.
+The popular, picture-led social network, which allows users to create and share mood boards, said it would also not allow ads with testimonials about weight loss or weight loss products, or ads referencing body mass index (BMI) or similar indexes.
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff and agencies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Emotion and Empathy Are Glue for Makers]]></title>
         <id>https://makezine.com/2021/07/01/emotion-and-empathy-are-glue-for-makers/</id>
         <link href="https://makezine.com/2021/07/01/emotion-and-empathy-are-glue-for-makers/"/>
@@ -638,49 +713,6 @@ The post Harvesting Brussels Sprouts – Everything You Need To Know appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Artists want Minister Nathi Mthethwa’s head to roll]]></title>
-        <id>https://www.groundup.org.za/article/artists-want-minister-nathi-mthethwas-head-to-roll/</id>
-        <link href="https://www.groundup.org.za/article/artists-want-minister-nathi-mthethwas-head-to-roll/"/>
-        <updated>2021-07-01T13:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Theatre and Dance Alliance report says those responsible for the mess made of the Presidential Employment Stimulus Package should be held accountable]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desperate Zimbabweans living on the streets of Musina say municipality makes their hard lives worse]]></title>
-        <id>https://www.groundup.org.za/article/i-thought-i-had-grabbed-a-way-of-living-but-i-now-live-by-scavenging-from-bins/</id>
-        <link href="https://www.groundup.org.za/article/i-thought-i-had-grabbed-a-way-of-living-but-i-now-live-by-scavenging-from-bins/"/>
-        <updated>2021-07-01T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[“I thought I had grabbed a way of living … but I now live by scavenging from bins”]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Domestic worker’s decade long struggle to make her RDP house liveable]]></title>
-        <id>https://www.groundup.org.za/article/domestic-workers-decade-long-struggle-make-her-rdp-house-liveable/</id>
-        <link href="https://www.groundup.org.za/article/domestic-workers-decade-long-struggle-make-her-rdp-house-liveable/"/>
-        <updated>2021-07-01T12:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Six months after moving in, Nokwayintombi Pateni’s home has still not been electrified]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flying car makes successful test run between airports in Slovakia – video]]></title>
-        <id>https://www.theguardian.com/world/video/2021/jul/01/flying-car-successful-test-run-airports-slovakia-video</id>
-        <link href="https://www.theguardian.com/world/video/2021/jul/01/flying-car-successful-test-run-airports-slovakia-video"/>
-        <updated>2021-07-01T12:33:58.000Z</updated>
-        <summary type="html"><![CDATA[A flying car is seen completing its first intercity flight in Slovakia. The prototype, called AirCar, takes off from Nitra airport and lands in Bratislava 35 minutes later. Using wings that fold away in less than three minutes and a propeller at its rear, the dual-transportation vehicle has now completed more than 40 hours of test flight
-
-Flying cars will be a reality by 2030, says Hyundai’s Europe chief
- Continue reading...]]></summary>
-        <author>
-            <name>Technology | The Guardian</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Covid ticketing rules exclude people not online from major events]]></title>
         <id>https://www.theguardian.com/money/2021/jul/01/covid-ticketing-rules-exclude-people-not-online-from-major-events</id>
         <link href="https://www.theguardian.com/money/2021/jul/01/covid-ticketing-rules-exclude-people-not-online-from-major-events"/>
@@ -695,26 +727,6 @@ The ballot for this year’s Wimbledon tennis tournament was online only and a b
  Continue reading...]]></summary>
         <author>
             <name>Anna Tims</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixed reactions to Gauteng government’s ambulance takeover]]></title>
-        <id>https://www.groundup.org.za/article/mixed-reactions-to-gauteng-governments-ambulance-service-takeover/</id>
-        <link href="https://www.groundup.org.za/article/mixed-reactions-to-gauteng-governments-ambulance-service-takeover/"/>
-        <updated>2021-07-01T10:34:46.000Z</updated>
-        <summary type="html"><![CDATA[City of Johannesburg’s service suspended during current Covid-19 surge]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villagers make difficult 70km journey to get vaccinated]]></title>
-        <id>https://www.groundup.org.za/article/villagers-far-flung-rural-areas-battle-make-journey-70km-vaccination-site-bizana/</id>
-        <link href="https://www.groundup.org.za/article/villagers-far-flung-rural-areas-battle-make-journey-70km-vaccination-site-bizana/"/>
-        <updated>2021-07-01T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Eastern Cape health department says many new sites will open soon]]></summary>
-        <author>
-            <name>GroundUp News</name>
         </author>
     </entry>
     <entry>
@@ -787,17 +799,6 @@ The problem with having had the fast-forward button suddenly propel us into an u
  Continue reading...]]></summary>
         <author>
             <name>John Naughton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign up for TechScape: Alex Hern’s weekly guide to the world of technology]]></title>
-        <id>https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up</id>
-        <link href="https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up"/>
-        <updated>2021-06-25T11:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Starting 14 July, a weekly newsletter from our UK tech editor, that will offer a unique insight into the goings on in Silicon Valley and beyond
- Continue reading...]]></summary>
-        <author>
-            <name>Technology | The Guardian</name>
         </author>
     </entry>
     <entry>
@@ -1224,35 +1225,6 @@ US officials on Sunday ratcheted up pressure on companies and foreign adversarie
  Continue reading...]]></summary>
         <author>
             <name>Reuters in Washington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Losing Depop to US ownership makes the British tech sector look secondhand]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/06/losing-depop-to-us-ownership-makes-the-british-tech-sector-look-secondhand</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/06/losing-depop-to-us-ownership-makes-the-british-tech-sector-look-secondhand"/>
-        <updated>2021-06-06T06:00:32.000Z</updated>
-        <summary type="html"><![CDATA[The fashion resale app and its young users represents the likely future of retail: more online, more sustainable, and more social
-Depop, the fashion resale app, has joined fellow British tech companies such as Arm Holdings and DeepMind in heading to a deep pool of investment outside its homeland.
-London-based Depop’s acquisition by Brooklyn-based Etsy for $1.6bn (£1.1bn) last week came just days after Oxford-based WaveOptics, a maker of displays used in augmented-reality glasses, was bought up by the Santa Monica-headquartered owner of Snapchat for $500m.
- Continue reading...]]></summary>
-        <author>
-            <name>Technology | The Guardian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Unbound review: how Jeff Bezos engulfed and devoured us all]]></title>
-        <id>https://www.theguardian.com/books/2021/jun/06/amazon-unbound-review-jeff-bezos</id>
-        <link href="https://www.theguardian.com/books/2021/jun/06/amazon-unbound-review-jeff-bezos"/>
-        <updated>2021-06-06T06:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Brad Stone’s second book on the world’s richest person is another portrait of great power – and the great damage it does
-
-Amazon fired him – now he’s trying to unionize New York
-
-Brad Stone, a senior editor at Bloomberg News, is now the author of a second book-length portrait of what may be the most successful business of the 21st century. When Stone’s first book, The Everything Store, was published in 2013, Amazon founder Jeff Bezos was worth a piddling $27bn. That number has risen to $190bn, 70% more than he had at the beginning of the pandemic.
- Related: Jeff Bezos thinks our cultural heritage is just ‘intellectual property’ | Nicholas Russell 
- Continue reading...]]></summary>
-        <author>
-            <name>Charles Kaiser</name>
         </author>
     </entry>
 </feed>

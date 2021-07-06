@@ -6,12 +6,82 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/sanitation-worse-ever-after-floods-hit-informal-settlement/",
+          "author": null,
+          "description": "Residents of Ethembeni in Khayelitsha say they urgently need ten to 15 chemical toilets",
+          "link": "https://www.groundup.org.za/article/sanitation-worse-ever-after-floods-hit-informal-settlement/",
+          "publishedOn": "2021-07-05T13:59:00.000Z",
+          "wordCount": 749,
+          "title": "Sanitation worse than ever after floods hit informal settlement",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/ethembeni_in_khayelitsha_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/ivermectin-flops-largest-trial-yet/",
+          "author": null,
+          "description": "While it’s too soon to say that the drug is useless, it has clearly been overhyped",
+          "link": "https://www.groundup.org.za/article/ivermectin-flops-largest-trial-yet/",
+          "publishedOn": "2021-07-05T10:58:39.000Z",
+          "wordCount": 1597,
+          "title": "Ivermectin: balance of evidence shows no benefit against Covid-19",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/ivermectin-flickr_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/durban-man-accused-of-stealing-a-cellphone-was-set-alight-by-a-mob-he-is-in-hospital-with-severe-burn-wounds/",
+          "author": null,
+          "description": "At least three people killed every day by vigilantes according to latest quarterly crime stats",
+          "link": "https://www.groundup.org.za/article/durban-man-accused-of-stealing-a-cellphone-was-set-alight-by-a-mob-he-is-in-hospital-with-severe-burn-wounds/",
+          "publishedOn": "2021-07-05T08:58:23.000Z",
+          "wordCount": 1359,
+          "title": "Man accused of stealing a cellphone and set alight recovers in hospital from severe burns",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/mpumelelo_mcinelwa_2_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/equal-education-goes-back-court-force-government-feed-hungry-school-children/",
+          "author": null,
+          "description": "Minister Motshekga and eight provincial education MECs in contempt of court, says NGO",
+          "link": "https://www.groundup.org.za/article/equal-education-goes-back-court-force-government-feed-hungry-school-children/",
+          "publishedOn": "2021-07-05T08:18:00.000Z",
+          "wordCount": 1371,
+          "title": "Equal Education goes back to court to force government to feed hungry school children",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/scales-of-justice_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/gauteng-police-have-killed-hundreds-saps-leave-brutal-cops-unchecked/",
+          "author": null,
+          "description": "Official statistics show no Gauteng officers have been disciplined for violent offences since 2016",
+          "link": "https://www.groundup.org.za/article/gauteng-police-have-killed-hundreds-saps-leave-brutal-cops-unchecked/",
+          "publishedOn": "2021-07-05T08:03:46.000Z",
+          "wordCount": 2336,
+          "title": "Gauteng police have killed hundreds, but SAPS leaves brutal cops unchecked",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/gautengpolice-20210705/01_header_photo_thembi_nkosi_grave_huge.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/",
           "author": null,
           "description": "UCT and MRC researchers found that dozens of deaths a day were averted by restrictions",
           "link": "https://www.groundup.org.za/article/alcohol-bans-reduced-deaths-study-finds/",
           "publishedOn": "2021-07-03T09:24:05.000Z",
-          "wordCount": 1267,
+          "wordCount": 1278,
           "title": "Alcohol bans reduced deaths, study finds",
           "enclosure": {
             "length": "26343",
@@ -25,7 +95,7 @@
           "description": "ECD staff remain sceptical, demand Zulu commits to timelines",
           "link": "https://www.groundup.org.za/article/ecd-staff-social-workers-and-sassa-tellers-could-be-vaccinated-soon-says-minister-zulu/",
           "publishedOn": "2021-07-02T12:23:07.000Z",
-          "wordCount": 1109,
+          "wordCount": 1110,
           "title": "ECD staff, social workers, and SASSA tellers could be vaccinated soon, says Minister Zulu",
           "enclosure": {
             "length": "26343",
@@ -39,7 +109,7 @@
           "description": "Shacks flooded by heavy rains in Khayelitsha",
           "link": "https://www.groundup.org.za/article/where-are-our-ward-councillors-ask-flood-victims/",
           "publishedOn": "2021-07-02T12:11:50.000Z",
-          "wordCount": 1002,
+          "wordCount": 993,
           "title": "Where are our ward councillors? ask flood victims",
           "enclosure": {
             "length": "26343",
@@ -53,7 +123,7 @@
           "description": "ANC and DA want October poll to proceed",
           "link": "https://www.groundup.org.za/article/postpone-elections-say-top-doctors-little-consensus-moseneke-commission/",
           "publishedOn": "2021-07-02T11:20:20.000Z",
-          "wordCount": 1810,
+          "wordCount": 1789,
           "title": "Postpone elections, say top doctors, but little consensus at Moseneke commission",
           "enclosure": {
             "length": "26343",
@@ -67,7 +137,7 @@
           "description": "Association warns drivers to wear masks and sanitise, or face penalties from Monday",
           "link": "https://www.groundup.org.za/article/taxi-bosses-surprise-drivers-inspection-after-commuter-complaints-over-covid-19-compliance/",
           "publishedOn": "2021-07-02T09:58:00.000Z",
-          "wordCount": 884,
+          "wordCount": 877,
           "title": "Taxi bosses surprise drivers with Covid-19 inspection",
           "enclosure": {
             "length": "26343",
@@ -81,7 +151,7 @@
           "description": "#PayTheGrants campaign members renew calls for government to reinstate the grant",
           "link": "https://www.groundup.org.za/article/how-r350-covid-19-grant-helped-durban-artists-open-his-own-food-stall/",
           "publishedOn": "2021-07-02T09:21:00.000Z",
-          "wordCount": 1224,
+          "wordCount": 1208,
           "title": "How the R350 Covid-19 grant helped an artist open his own food stall",
           "enclosure": {
             "length": "26343",
@@ -95,7 +165,7 @@
           "description": "Community-built Dunoon barrier fails to save people from winter floods",
           "link": "https://www.groundup.org.za/article/homes-flooded-after-diep-river-bursts-its-banks/",
           "publishedOn": "2021-07-02T08:59:03.000Z",
-          "wordCount": 808,
+          "wordCount": 806,
           "title": "Homes flooded after Diep River bursts its banks",
           "enclosure": {
             "length": "26343",
@@ -109,7 +179,7 @@
           "description": "Lockdown regulations ruled valid and constitutional",
           "link": "https://www.groundup.org.za/article/appeal-court-overturns-ruling-favoured-covid-19-denialists-reyno-dawid-de-beer-and-his-liberty-fighters-network/",
           "publishedOn": "2021-07-02T08:04:00.000Z",
-          "wordCount": 1458,
+          "wordCount": 1441,
           "title": "Court thrashes “Covid-19 denialists”",
           "enclosure": {
             "length": "26343",
@@ -123,7 +193,7 @@
           "description": "A terrible rainstorm in Cape Town has flooded shacks in Kraaifontein.",
           "link": "https://www.groundup.org.za/article/video-cape-town-shacks-flooded/",
           "publishedOn": "2021-07-01T15:44:00.000Z",
-          "wordCount": 464,
+          "wordCount": 453,
           "title": "Video: Horrific footage of flooded Cape Town shacks",
           "enclosure": {
             "length": "26343",
@@ -137,82 +207,12 @@
           "description": "City says most flooded areas “are situated on land that is not suitable for habitation”",
           "link": "https://www.groundup.org.za/article/kraaifontein-shack-dwellers-wade-through-water-logged-homes/",
           "publishedOn": "2021-07-01T14:53:31.000Z",
-          "wordCount": 936,
+          "wordCount": 928,
           "title": "Kraaifontein shack dwellers flooded out of their homes",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/bloekombos/bloekombos-20210701-img_8209hr_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/artists-want-minister-nathi-mthethwas-head-to-roll/",
-          "author": null,
-          "description": "Theatre and Dance Alliance report says those responsible for the mess made of the Presidential Employment Stimulus Package should be held accountable",
-          "link": "https://www.groundup.org.za/article/artists-want-minister-nathi-mthethwas-head-to-roll/",
-          "publishedOn": "2021-07-01T13:20:07.000Z",
-          "wordCount": 1316,
-          "title": "Artists want Minister Nathi Mthethwa’s head to roll",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/SONA2020/Sona2020-2601HR_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/i-thought-i-had-grabbed-a-way-of-living-but-i-now-live-by-scavenging-from-bins/",
-          "author": null,
-          "description": "“I thought I had grabbed a way of living … but I now live by scavenging from bins”",
-          "link": "https://www.groundup.org.za/article/i-thought-i-had-grabbed-a-way-of-living-but-i-now-live-by-scavenging-from-bins/",
-          "publishedOn": "2021-07-01T13:13:00.000Z",
-          "wordCount": 1241,
-          "title": "Desperate Zimbabweans living on the streets of Musina say municipality makes their hard lives worse",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Bernard%20Chiguvare/bwiti_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/domestic-workers-decade-long-struggle-make-her-rdp-house-liveable/",
-          "author": null,
-          "description": "Six months after moving in, Nokwayintombi Pateni’s home has still not been electrified",
-          "link": "https://www.groundup.org.za/article/domestic-workers-decade-long-struggle-make-her-rdp-house-liveable/",
-          "publishedOn": "2021-07-01T12:48:07.000Z",
-          "wordCount": 1191,
-          "title": "Domestic worker’s decade long struggle to make her RDP house liveable",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/pateni_inside_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/mixed-reactions-to-gauteng-governments-ambulance-service-takeover/",
-          "author": null,
-          "description": "City of Johannesburg’s service suspended during current Covid-19 surge",
-          "link": "https://www.groundup.org.za/article/mixed-reactions-to-gauteng-governments-ambulance-service-takeover/",
-          "publishedOn": "2021-07-01T10:34:46.000Z",
-          "wordCount": 1159,
-          "title": "Mixed reactions to Gauteng government’s ambulance takeover",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/johannesburg_ambulance_service_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/villagers-far-flung-rural-areas-battle-make-journey-70km-vaccination-site-bizana/",
-          "author": null,
-          "description": "Eastern Cape health department says many new sites will open soon",
-          "link": "https://www.groundup.org.za/article/villagers-far-flung-rural-areas-battle-make-journey-70km-vaccination-site-bizana/",
-          "publishedOn": "2021-07-01T09:02:00.000Z",
-          "wordCount": 1006,
-          "title": "Villagers make difficult 70km journey to get vaccinated",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/daniel_steyn/vaccine_site_in_bizana_01072021_extra_large.jpg"
           }
         }
       ]
@@ -223,12 +223,48 @@
       "siteUrl": "https://lifehacker.com",
       "articles": [
         {
+          "id": "1847223015",
+          "author": "Lindsey Ellefson",
+          "description": "The weed legalization train is on the move around America, and whether it’s already been through your state or is headed your way, you might be interested in getting into the industry. There’s always been money in marijuana, but now there’s money in marijuana that you can actually talk about with the stranger across…\nRead more...",
+          "link": "https://lifehacker.com/how-to-break-into-the-legal-weed-industry-1847223015",
+          "publishedOn": "2021-07-05T16:00:00.000Z",
+          "wordCount": 991,
+          "title": "How to Break Into the Legal Weed Industry"
+        },
+        {
+          "id": "1847223651",
+          "author": "Elizabeth Yuko",
+          "description": "For a long time, our default answer to the question “How are you?” has been “fine,” or some variation of it. But over the past few years—and especially during the pandemic—another response is becoming increasingly common: Telling the person who asked that you’re “tired,” or even “exhausted.”\n\nRead more...",
+          "link": "https://lifehacker.com/the-7-types-of-rest-and-how-to-get-the-kind-you-need-1847223651",
+          "publishedOn": "2021-07-05T15:00:00.000Z",
+          "wordCount": 659,
+          "title": "The 7 Types of Rest, and How to Get the Kind You Need"
+        },
+        {
+          "id": "1847223657",
+          "author": "Elizabeth Yuko",
+          "description": "We should start by saying that we are not anti-compost. In fact, we have several articles walking you through the ins and outs of the composting process. In a perfect world, everyone would have the time, energy, and space to have their own compost pile or container, and then use the finished product to help their…\nRead more...",
+          "link": "https://lifehacker.com/how-to-use-kitchen-scraps-on-your-plants-without-having-1847223657",
+          "publishedOn": "2021-07-05T14:00:00.000Z",
+          "wordCount": 516,
+          "title": "How to Use Kitchen Scraps on Your Plants Without Having to Learn Composting"
+        },
+        {
+          "id": "1847223642",
+          "author": "Elizabeth Yuko",
+          "description": "There’s something very calming about visiting a botanical garden. Perhaps it’s being surrounded by foliage, or taking in the array of colors. Or maybe it’s just nice to be able to enjoy well-manicured and maintained nature where someone else did all the gardening and landscaping work. Whatever the reason, if you’re…\nRead more...",
+          "link": "https://lifehacker.com/use-these-botanical-gardens-inspired-decor-tips-to-make-1847223642",
+          "publishedOn": "2021-07-05T13:00:00.000Z",
+          "wordCount": 491,
+          "title": "Use These Botanical Gardens-Inspired Decor Tips to Make Your Home Feel Like an Oasis"
+        },
+        {
           "id": "1847227502",
           "author": "Khamosh Pathak",
           "description": "Researchers from Dr. Web have found nine apps with more than 5.8 million combined downloads that were sneakily stealing user’s Facebook passwords using a genuine Facebook login page. As of writing, Google has  banned the developer and removed these nine apps from the Play Store, but if you’ve downloaded any of them,…\nRead more...",
           "link": "https://lifehacker.com/uninstall-these-malicious-android-apps-that-stole-faceb-1847227502",
           "publishedOn": "2021-07-04T16:00:00.000Z",
-          "wordCount": 531,
+          "wordCount": 601,
           "title": "Uninstall These Malicious Android Apps That Stole Facebook Passwords"
         },
         {
@@ -381,7 +417,7 @@
           "description": "Anyone who has ever tried to teach a child to tie their shoes knows how long it can take for them to get it right—and how frustrated they may feel in the meantime. But eventually, there comes that moment when it clicks. And it’s in that moment, when their failures turn to successes and their perseverance pays off,…\nRead more...",
           "link": "https://lifehacker.com/how-to-raise-a-confident-child-1846987864",
           "publishedOn": "2021-07-02T17:30:00.000Z",
-          "wordCount": 804,
+          "wordCount": 851,
           "title": "How to Raise a Confident Child"
         },
         {
@@ -399,7 +435,7 @@
           "description": "One of the most striking things about aging is how one’s perception of time changes over the years. When you’re a kid, time seems like it stretches on forever: A week can feel like a year, and a year can feel like a lifetime. But as you age, time seems to speed up. Sure, a particularly draining workday might drag on,…\nRead more...",
           "link": "https://lifehacker.com/how-to-make-time-slow-down-1847212162",
           "publishedOn": "2021-07-02T16:30:00.000Z",
-          "wordCount": 1682,
+          "wordCount": 1963,
           "title": "How to Make Time Slow Down"
         },
         {
@@ -410,42 +446,6 @@
           "publishedOn": "2021-07-02T16:00:00.000Z",
           "wordCount": 862,
           "title": "The Best No-Churn Ice Cream Recipes for When It's Hot As Balls"
-        },
-        {
-          "id": "1847211948",
-          "author": "Ross Johnson",
-          "description": "Raise a glass, America. It’s the Fourth of July. Independence Day. Your special day. Why not celebrate with an over-the-top, ultra-violent action spectacular celebrating the can-explode spirit of the country that we all love?\nRead more...",
-          "link": "https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948",
-          "publishedOn": "2021-07-02T15:30:00.000Z",
-          "wordCount": 2952,
-          "title": "20 of the Most Obscenely Patriotic Movies Ever"
-        },
-        {
-          "id": "1847218270",
-          "author": "Rachel Fairbank",
-          "description": "LEGOs are all about the possible: When handed a full box, what can you build? I spent a good chunk of my childhood rummaging through our LEGO collection at home, building all sorts of gadgets and contraptions. My older brother, when he wasn’t beating me up, would sometimes join in, and we’d spend hours building…\nRead more...",
-          "link": "https://lifehacker.com/scan-your-lego-with-this-app-to-figure-out-what-to-buil-1847218270",
-          "publishedOn": "2021-07-02T15:00:00.000Z",
-          "wordCount": 510,
-          "title": "Scan Your LEGO With This App to Figure Out What to Build"
-        },
-        {
-          "id": "1847217387",
-          "author": "Stephen Johnson",
-          "description": "As the world enjoys our newfound freedom to leave our houses and the drama of the presidential election fades into memory, we’re all freed up to make up conspiracy theories about video games, pretend to drive invisible cars, and shove garlic up our noses.\n\nRead more...",
-          "link": "https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-k-1847217387",
-          "publishedOn": "2021-07-02T14:30:00.000Z",
-          "wordCount": 1089,
-          "title": "The Out-of-Touch Adults' Guide To Kid Culture: Why Are Kids Putting Garlic In Their Nose?"
-        },
-        {
-          "id": "1847214414",
-          "author": "Sam Blum",
-          "description": "Sometimes you want to dive deeper than the traditional mystery, romance, thriller, sci-fi, and fantasy books. If you like any of these five major literary genres but have nonetheless grown tired of them—or you just don’t know the difference between all these literary labels—it’s time to branch out with some niche sub…\nRead more...",
-          "link": "https://lifehacker.com/you-should-have-a-favorite-niche-literary-subgenre-1847214414",
-          "publishedOn": "2021-07-02T14:00:00.000Z",
-          "wordCount": 1137,
-          "title": "You Should Have a Favorite Niche Literary Subgenre"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=484933&preview=true&preview_id=484933",
+          "id": "https://hackaday.com/?p=484419",
+          "author": "Matthew Carlson",
+          "description": "The notion of segmenting and quantizing the day into discrete segments of time is perhaps one of the most human things we do. Heralding back to a simpler era when …read more",
+          "link": "https://hackaday.com/2021/07/05/wooden-linear-clock-aided-by-gps/",
+          "publishedOn": "2021-07-05T23:01:37.000Z",
+          "wordCount": 1426,
+          "title": "Wooden Linear Clock Aided By GPS"
+        },
+        {
+          "id": "https://hackaday.com/?p=484980",
+          "author": "Chris Lott",
+          "description": "[Andrew Lamchenko], who has built a number of small e-ink-based sensors this year, released another design called the eON Indoor Air Quality Sensor. As his previous sensor designs, the …read more",
+          "link": "https://hackaday.com/2021/07/05/diy-air-quality-sensor/",
+          "publishedOn": "2021-07-05T20:01:23.000Z",
+          "wordCount": 1412,
+          "title": "DIY Air Quality Sensor"
+        },
+        {
+          "id": "https://hackaday.com/?p=484300",
+          "author": "Kristina Panos",
+          "description": "How hard could it be to make a collapsible silicone container? Turns out, it’s really, really hard — collapsible containers have rigid guidelines. Just ask [Eric Strebel], who failed dozens …read more",
+          "link": "https://hackaday.com/2021/07/05/how-to-make-a-collapsible-container-without-breaking-down/",
+          "publishedOn": "2021-07-05T17:01:28.000Z",
+          "wordCount": 1221,
+          "title": "How to Make a Collapsible Container Without Breaking Down"
+        },
+        {
+          "id": "https://hackaday.com/?p=485498&preview=true&preview_id=485498",
           "author": "Dan Maloney",
-          "description": "With rescue and recovery efforts at the horrific condo collapse in Florida this week still underway, we noted with interest some of the technology being employed on the site. Chief …read more",
-          "link": "https://hackaday.com/2021/07/04/hackaday-links-july-4-2021/",
-          "publishedOn": "2021-07-04T23:00:34.000Z",
-          "wordCount": 1719,
-          "title": "Hackaday Links: July 4, 2021"
+          "description": "Join us on Wednesday, July 7 at noon Pacific for the Microfluidics for Biohacking Hack Chat with Krishna Sanka! “Microfluidics” sounds like a weird and wonderful field, but one that …read more",
+          "link": "https://hackaday.com/2021/07/05/microfluidics-for-biohacking-hack-chat/",
+          "publishedOn": "2021-07-05T16:00:41.000Z",
+          "wordCount": 1205,
+          "title": "Microfluidics for Biohacking Hack Chat"
         },
         {
-          "id": "https://hackaday.com/?p=484633",
+          "id": "https://hackaday.com/?p=483813",
           "author": "Donald Papp",
-          "description": "Sometimes a device doesn’t do quite what one needs, and in those cases a bit of tampering might do the trick. That’s what led to being able to record video …read more",
-          "link": "https://hackaday.com/2021/07/04/hacking-a-thermal-imager-for-dual-use-of-the-thermal-sensor/",
-          "publishedOn": "2021-07-04T20:00:17.000Z",
-          "wordCount": 1220,
-          "title": "Hacking a Thermal Imager for Dual-use of the Thermal Sensor"
+          "description": "Empty spools from 3D printer filament are the kind of thing that begs to be repurposed, and one option is [3d-printy]’s vertical filament spool parts drawer design. The way this …read more",
+          "link": "https://hackaday.com/2021/07/05/a-new-spin-on-empty-filament-spools-for-part-storage/",
+          "publishedOn": "2021-07-05T14:01:16.000Z",
+          "wordCount": 1923,
+          "title": "A New Spin on Empty Filament Spools for Part Storage"
         },
         {
-          "id": "https://hackaday.com/?p=484520",
-          "author": "Al Williams",
-          "description": "We’ve seen a lot of homebrew filament extruders, but [Stefan] at CNC Kitchen shows off a commercial desktop filament extruder in his latest video, which you can see below. The …read more",
-          "link": "https://hackaday.com/2021/07/04/machine-extrudes-filament/",
-          "publishedOn": "2021-07-04T17:00:22.000Z",
-          "wordCount": 1782,
-          "title": "Machine Extrudes Filament"
+          "id": "https://hackaday.com/?p=483884",
+          "author": "Lewin Day",
+          "description": "Signal is a popular encrypted messaging app, typically used on smartphones. The cross-platform service can now be used via the ESP32, however, thanks to the work of [Dharmik] and [Tirth]. …read more",
+          "link": "https://hackaday.com/2021/07/05/messaging-on-signal-via-the-esp32/",
+          "publishedOn": "2021-07-05T11:01:00.000Z",
+          "wordCount": 1428,
+          "title": "Messaging on Signal Via The ESP32"
         },
         {
-          "id": "https://hackaday.com/?p=484377",
-          "author": "Tom Nardi",
-          "description": "This swanky Magnavox remote is old enough to predate the use of infrared, and actually relies on ultrasound to communicate with the television. It’s a neat conversation starter, but not …read more",
-          "link": "https://hackaday.com/2021/07/04/vintage-remote-control-gets-bluetooth-upgrade/",
-          "publishedOn": "2021-07-04T14:00:06.000Z",
-          "wordCount": 1786,
-          "title": "Vintage Remote Control Gets Bluetooth Upgrade"
-        },
-        {
-          "id": "https://hackaday.com/?p=484541",
-          "author": "Al Williams",
-          "description": "You can sense a lot of things with the right sensor, and [Nikhil Nailwal] is here to show us how to sense colors using a TCS230. The project is a …read more",
-          "link": "https://hackaday.com/2021/07/04/this-arduino-isnt-color-blind/",
-          "publishedOn": "2021-07-04T11:00:48.000Z",
-          "wordCount": 1188,
-          "title": "This Arduino isn’t Color Blind"
-        },
-        {
-          "id": "https://hackaday.com/?p=484846",
+          "id": "https://hackaday.com/?p=482876",
           "author": "Danie Conradie",
-          "description": "Our canine partners are fortunately not affected by the current global pandemic, but it turns out there are other dangers that might necessitate them to wearing masks: Foxtail seeds. After …read more",
-          "link": "https://hackaday.com/2021/07/04/extreme-canine-mask-for-protection-from-foxtails/",
-          "publishedOn": "2021-07-04T08:00:56.000Z",
-          "wordCount": 2275,
-          "title": "Extreme Canine Mask For Protection From Foxtails"
-        },
-        {
-          "id": "https://hackaday.com/?p=484530",
-          "author": "Al Williams",
-          "description": "The Internet teaches us that we can accept stand-ins for the real world. We have an avatar that looks like us. We have virtual mailboxes to read messages out of …read more",
-          "link": "https://hackaday.com/2021/07/03/internet-chess-on-a-real-chessboard/",
-          "publishedOn": "2021-07-04T05:00:00.000Z",
-          "wordCount": 1441,
-          "title": "Internet Chess on a Real Chessboard"
+          "description": "There is a depressing amount of trash in our oceans, and a lot of it is washes up on beaches. [Glenn Morris] has turned collecting all this trash into a …read more",
+          "link": "https://hackaday.com/2021/07/05/litter-buggies-haul-trash-off-the-beach/",
+          "publishedOn": "2021-07-05T08:01:35.000Z",
+          "wordCount": 2370,
+          "title": "Litter Buggies Haul Trash Off The Beach"
         }
       ]
     },
@@ -622,6 +622,42 @@
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
         {
+          "id": "https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary",
+          "author": "Phoebe Barker",
+          "description": "My grandfather Tom Barker, who has died of cancer aged 84, was a pivotal figure in mechanical engineering. He collaborated with some of the world’s best architects, putting heat, sound, light and air at the forefront of design. As director of Ove Arup & Partners (now Arup Group), the global engineering company, he was known for his work on the Pompidou Centre in Paris and the Lloyd’s building in London, among many others.\nTom led Arup’s engineering group for 26 years, designing for key projects such as the Menil Collection museum in Houston, Texas, and Kansai international airport in Osaka, Japan, with Peter Rice. \n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary",
+          "publishedOn": "2021-07-05T14:29:48.000Z",
+          "wordCount": 640,
+          "title": "Tom Barker obituary"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia",
+          "author": "Jessa Crispin",
+          "description": "This is the most boring possible Terminator sequel - the robots are here to text you snidely that you won’t need to come into work ever again\nWe were initially anxious about the introduction of robots into our workforce because of the potential disappearance of manual labor jobs. Robots would take over factories, we were told, they’d drive our cars and trucks, and they would do all of the cleaning that janitorial and domestic workers are currently hired to do. But it turns out auto-pilots drive cars about as well as my cat when he’s drunk, and the way my friend’s Roomba always gets lost under the kitchen table, spinning uselessly, unable to find his way out, suggests we’ll still need people with brooms for a while now.\n Related: Stressed-out Amazon workers can now access ‘mindfulness’ training. Gee, thanks | Jessa Crispin \n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia",
+          "publishedOn": "2021-07-05T10:24:47.000Z",
+          "wordCount": 1226,
+          "title": "Welcome to dystopia: getting fired from your job as an Amazon worker by an app | Jessa Crispin"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch",
+          "author": "Samuel Gibbs Consumer technology editor",
+          "description": "Fitness firm’s new Apple Watch-rival looks the part and tracks loads of data but lacks some real smarts\nGarmin’s latest device aims to beat the Apple Watch and rivals at their own game, offering longer battery life and better fitness tracking in a more traditional touchscreen smartwatch body.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch",
+          "publishedOn": "2021-07-05T06:00:43.000Z",
+          "wordCount": 1772,
+          "title": "Venu 2 review: can Garmin make a good smartwatch?"
+        },
+        {
+          "id": "https://www.theguardian.com/science/2021/jul/04/deep-sea-robots-will-let-us-find-millions-of-shipwrecks-says-man-who-discovered-titanic",
+          "author": "Dalya Alberge",
+          "description": "A revolutionary new class of amphibious vehicle will transform the search for lost vessels on the ocean floor, says marine archaeologist Dr Robert Ballard\n\nHe is the celebrated deep-sea explorer who discovered the Titanic, as well as the German battleship Bismarck and other historic sunken vessels around the world.\nNow Dr Robert Ballard is pioneering cutting-edge technology – autonomous underwater vehicles that will “revolutionise” the search for more than three million shipwrecks that lie scattered across ocean floors, according to a Unesco estimate. Many will offer new insights into life on board at the time of sinking, hundreds or even thousands of years ago.\n Continue reading...",
+          "link": "https://www.theguardian.com/science/2021/jul/04/deep-sea-robots-will-let-us-find-millions-of-shipwrecks-says-man-who-discovered-titanic",
+          "publishedOn": "2021-07-04T10:00:18.000Z",
+          "wordCount": 825,
+          "title": "Deep sea robots will let us find millions of shipwrecks, says man who discovered Titanic"
+        },
+        {
           "id": "https://www.theguardian.com/technology/2021/jul/04/this-space-race-has-its-downside-rocketwoman-wally-funk-joins-crew-for-jeff-bezoss-ego-trip",
           "author": "Ed Cumming",
           "description": "The veteran US pilot is set to become the oldest woman in space – the only snag is she has to go with the Amazon billionaire \nYou have to feel for the American pilot Wally Funk. You would sympathise with anyone with that name, but she has had a particularly mixed week. On one hand, at 82, she is set to finally fulfil her life’s ambition and travel into space. Funk was one of the most promising female candidates for the Mercury 13 programme in the 1960s, but was denied a spot because of her gender. Right stuff, wrong parts. On Thursday, the Amazon founder, Jeff Bezos, announced on Instagram that Wally would become the oldest person in space as one of the four passengers on New Shepard, the rocket being launched by his company Blue Origin on 20 July. “I didn’t think I’d ever get to go up,” Funk said in an interview.\nThe obvious downside, which she was too polite to mention, is that she has to ride with Bezos, his brother and one other, in a kind of UberPool from hell. She ought to have been more specific to the genie. Midlife does strange things to men, and so does being a billionaire. The combination leads to some odd outcomes. Not content with building his own rockets, Jeff, as he approaches 60, has decided to start riding them as well. Towers and yachts are so passé. Private space travel is the thing. Elon Musk is at it, too, and presumably a load of guys in China.\n Continue reading...",
@@ -667,15 +703,6 @@
           "title": "Only batteries have the power to save British carmaking"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr",
-          "author": "Hilary Osborne",
-          "description": "Internet cons have surged in the Covid crisis, with some victims left with little recourse to recover cash\nIn early May, James Evans* met a man on the dating app Grindr. The man, who said his name was David, was friendly and chatty. “It started off as a normal conversation,” says Evans. “We moved to WhatsApp and exchanged messages. After a few days he started telling me about crypto trading and how he could show me how it worked and how I could earn money from it. It seemed like a genuine connection.”\nUnfortunately for Evans, , that wasn’t the case. He hadhooked up with a scammer, who within a week had convinced him to hand over £20,000.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/03/cryptocurrency-scam-online-dating-covid-binance-grindr",
-          "publishedOn": "2021-07-03T08:00:47.000Z",
-          "wordCount": 1283,
-          "title": "Cryptocurrency scam costs online dating user £20,000"
-        },
-        {
           "id": "https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos",
           "author": "Rupert Neate Wealth correspondent and Sarah Butler",
           "description": "The elevation of the man behind the Cloud while Jeff Bezos relinquishes day-to-day control, comes at a critical time for Amazon \nAndy Jassy made a powerful – and painful – first impression on the billionaire Amazon founder Jeff Bezos soon after he joined the then start-up bookseller in 1997.\nDuring a rambunctious game of “broomball” – a cross between lacrosse and football that another Amazon executive invented and is still overly competitively played at the company – Jassy, then a fresh-faced recruit from Harvard Business School, accidentally hit Bezos over the head with a kayak paddle.\n Continue reading...",
@@ -685,15 +712,6 @@
           "title": "Andy Jassy steps out of the shadows – so who exactly is Amazon’s new CEO?"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure",
-          "author": "Rupert Neate Wealth correspondent",
-          "description": "As he hands over top job at Amazon, Bezos will remain largest shareholder and ‘has never had more energy’\nA quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos is preparing to loosen his grip on his $1.7tn (£1.2tn) company. Few employees in the sphere conservatories at Amazon’s sprawling Seattle campus headquarters reckon Bezos will relinquish that much of his iron grip on the company’s big decisions when Andy Jassy succeeds him as CEO on Monday. After all, Bezos will become executive chairman of Amazon’s board and remains the company’s biggest shareholder. But Bezos, 57, told his 1.3 million employees (whom he refers to as “fellow Amazonians”) that “as much as I still tap dance into the office, I’m excited about this transition”.\n“I’ve never had more energy, and this isn’t about retiring,” he said. “I intend to focus my energies and attention on new products and early initiatives … I’m super passionate about the impact I think these organisations can have.”\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure",
-          "publishedOn": "2021-07-03T05:00:43.000Z",
-          "wordCount": 818,
-          "title": "What’s next for Jeff Bezos? Space, climate and media may all figure"
-        },
-        {
           "id": "https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya",
           "author": "Guardian staff and agencies",
           "description": "The US cybersecurity agency said it was investigating the attack after an incident at the Miami-based IT firm Kaseya\nHundreds of American businesses have been hit by a ransomware attack ahead of the Fourth of July holiday weekend, according to the cybersecurity company Huntress Labs.\nHuntress Labs said on Friday that 200 American businesses were hit after an incident at the Miami-based IT firm Kaseya, potentially marking the latest in a line of hacks destabilizing US companies.\n Continue reading...",
@@ -701,15 +719,6 @@
           "publishedOn": "2021-07-03T00:01:09.000Z",
           "wordCount": 640,
           "title": "Latest ransomware attack appears to hit hundreds of American businesses"
-        },
-        {
-          "id": "https://www.theguardian.com/media/2021/jul/02/bbc-removes-bitesize-page-climate-change-benefits-backlash",
-          "author": "Helena Horton",
-          "description": "Study website made claims including warmer temperatures ‘could lead to healthier outdoor lifestyles’\nThe BBC has removed an educational page laying out the “benefits” of climate change after a furious online reaction.\nBBC Bitesize, its website for schoolchildren, claimed warmer temperatures “could lead to healthier outdoor lifestyles” and that a benefit of climate change could mean easier access to oil in Alaska and Siberia.\n Continue reading...",
-          "link": "https://www.theguardian.com/media/2021/jul/02/bbc-removes-bitesize-page-climate-change-benefits-backlash",
-          "publishedOn": "2021-07-02T10:43:22.000Z",
-          "wordCount": 653,
-          "title": "BBC removes Bitesize page on climate change ‘benefits’ after backlash"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/jul/02/fire-hd-10-plus-2021-review-amazons-top-budget-tablet-upgraded",
@@ -730,13 +739,13 @@
           "title": "British Scandal serves up tabloid trouble – podcasts of the week"
         },
         {
-          "id": "https://www.theguardian.com/world/video/2021/jul/01/flying-car-successful-test-run-airports-slovakia-video",
-          "author": null,
-          "description": "A flying car is seen completing its first intercity flight in Slovakia. The prototype, called AirCar, takes off from Nitra airport and lands in Bratislava 35 minutes later. Using wings that fold away in less than three minutes and a propeller at its rear, the dual-transportation vehicle has now completed more than 40 hours of test flight\n\nFlying cars will be a reality by 2030, says Hyundai’s Europe chief\n Continue reading...",
-          "link": "https://www.theguardian.com/world/video/2021/jul/01/flying-car-successful-test-run-airports-slovakia-video",
-          "publishedOn": "2021-07-01T12:33:58.000Z",
-          "wordCount": 439,
-          "title": "Flying car makes successful test run between airports in Slovakia – video"
+          "id": "https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks",
+          "author": "Guardian staff and agencies",
+          "description": "Advertisements promoting diets or slimming products and that idealise certain body types will be removed from the platform\nPinterest is banning all advertisements with weight loss language and imagery, including ads that idealise or denigrate certain body types, the social media company says.\nThe popular, picture-led social network, which allows users to create and share mood boards, said it would also not allow ads with testimonials about weight loss or weight loss products, or ads referencing body mass index (BMI) or similar indexes.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/02/bye-bye-bmi-pinterest-bans-weight-loss-ads-in-first-for-major-social-networks",
+          "publishedOn": "2021-07-02T01:18:26.000Z",
+          "wordCount": 578,
+          "title": "Bye bye BMI: Pinterest bans weight loss ads in first for major social networks"
         },
         {
           "id": "https://www.theguardian.com/money/2021/jul/01/covid-ticketing-rules-exclude-people-not-online-from-major-events",
@@ -773,15 +782,6 @@
           "publishedOn": "2021-06-26T15:00:02.000Z",
           "wordCount": 1108,
           "title": "Memo to corporate leaders post-Covid: the disruption to businesses has only just begun | John Naughton"
-        },
-        {
-          "id": "https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up",
-          "author": null,
-          "description": "Starting 14 July, a weekly newsletter from our UK tech editor, that will offer a unique insight into the goings on in Silicon Valley and beyond\n Continue reading...",
-          "link": "https://www.theguardian.com/info/ng-interactive/2021/jun/25/techscape-sign-up",
-          "publishedOn": "2021-06-25T11:00:49.000Z",
-          "wordCount": 354,
-          "title": "Sign up for TechScape: Alex Hern’s weekly guide to the world of technology"
         },
         {
           "id": "https://www.theguardian.com/games/2021/jun/24/mario-golf-super-rush-review-madcap-golf-game-switches-things-up",
@@ -998,24 +998,6 @@
           "publishedOn": "2021-06-06T18:07:43.000Z",
           "wordCount": 597,
           "title": "US mulling military response to ransomware attacks, Biden officials say"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jun/06/losing-depop-to-us-ownership-makes-the-british-tech-sector-look-secondhand",
-          "author": null,
-          "description": "The fashion resale app and its young users represents the likely future of retail: more online, more sustainable, and more social\nDepop, the fashion resale app, has joined fellow British tech companies such as Arm Holdings and DeepMind in heading to a deep pool of investment outside its homeland.\nLondon-based Depop’s acquisition by Brooklyn-based Etsy for $1.6bn (£1.1bn) last week came just days after Oxford-based WaveOptics, a maker of displays used in augmented-reality glasses, was bought up by the Santa Monica-headquartered owner of Snapchat for $500m.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/06/losing-depop-to-us-ownership-makes-the-british-tech-sector-look-secondhand",
-          "publishedOn": "2021-06-06T06:00:32.000Z",
-          "wordCount": 1482,
-          "title": "Losing Depop to US ownership makes the British tech sector look secondhand"
-        },
-        {
-          "id": "https://www.theguardian.com/books/2021/jun/06/amazon-unbound-review-jeff-bezos",
-          "author": "Charles Kaiser",
-          "description": "Brad Stone’s second book on the world’s richest person is another portrait of great power – and the great damage it does\n\nAmazon fired him – now he’s trying to unionize New York\n\nBrad Stone, a senior editor at Bloomberg News, is now the author of a second book-length portrait of what may be the most successful business of the 21st century. When Stone’s first book, The Everything Store, was published in 2013, Amazon founder Jeff Bezos was worth a piddling $27bn. That number has risen to $190bn, 70% more than he had at the beginning of the pandemic.\n Related: Jeff Bezos thinks our cultural heritage is just ‘intellectual property’ | Nicholas Russell \n Continue reading...",
-          "link": "https://www.theguardian.com/books/2021/jun/06/amazon-unbound-review-jeff-bezos",
-          "publishedOn": "2021-06-06T06:00:31.000Z",
-          "wordCount": 1020,
-          "title": "Amazon Unbound review: how Jeff Bezos engulfed and devoured us all"
         }
       ]
     },
