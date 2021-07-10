@@ -6,12 +6,138 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/a-woman-with-hiv-took-over-200-days-to-clear-her-covid-infection-heres-why-researchers-are-worried/",
+          "author": null,
+          "description": "A case study suggests that people with HIV should be prioritised for Covid vaccination",
+          "link": "https://www.groundup.org.za/article/a-woman-with-hiv-took-over-200-days-to-clear-her-covid-infection-heres-why-researchers-are-worried/",
+          "publishedOn": "2021-07-09T22:01:00.000Z",
+          "wordCount": 1108,
+          "title": "A woman with HIV took over 200 days to clear her Covid infection. Here’s why researchers are worried",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/large/wave_three_2021-large_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/rubbish-collection-stopped-garbage-collectors-demanding-permanent-jobs-kariega/",
+          "author": null,
+          "description": "The workers say they were employed as casuals from 2018 until June 2021",
+          "link": "https://www.groundup.org.za/article/rubbish-collection-stopped-garbage-collectors-demanding-permanent-jobs-kariega/",
+          "publishedOn": "2021-07-09T09:39:00.000Z",
+          "wordCount": 768,
+          "title": "Rubbish collection stopped by garbage collectors demanding permanent jobs in Kariega",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Thamsanqa%20Mbovane/collectors_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/one-man-died-and-200-shacks-destroyed-fire-cato-manor/",
+          "author": null,
+          "description": "Residents say this is the third devastating fire in eight months at Marikana informal settlement",
+          "link": "https://www.groundup.org.za/article/one-man-died-and-200-shacks-destroyed-fire-cato-manor/",
+          "publishedOn": "2021-07-09T08:29:00.000Z",
+          "wordCount": 796,
+          "title": "Fire kills one man and destroys 200 shacks in Cato Manor",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/marikana_fire_1_lpn2swx_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/over-4-million-vaccines-administered-rollout-goes-full-steam-ahead/",
+          "author": null,
+          "description": "Evidence accumulates that Covid-19 vaccines are saving lives across the planet",
+          "link": "https://www.groundup.org.za/article/over-4-million-vaccines-administered-rollout-goes-full-steam-ahead/",
+          "publishedOn": "2021-07-09T06:52:22.000Z",
+          "wordCount": 1030,
+          "title": "Over 4 million vaccines administered, as rollout goes full steam ahead",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/jeffrey_abrahams/vaccinations/vaccination_-_jta_8114_huge.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/many-750000-children-have-dropped-out-school-during-pandemic/",
+          "author": null,
+          "description": "School attendance is at the lowest level it has been in 20 years",
+          "link": "https://www.groundup.org.za/article/many-750000-children-have-dropped-out-school-during-pandemic/",
+          "publishedOn": "2021-07-09T04:14:47.000Z",
+          "wordCount": 1303,
+          "title": "As many as 750,000 children have dropped out of school during the pandemic",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/school-outside-small_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/workers-dismissed-refusing-polygraph-test-head-labour-court/",
+          "author": null,
+          "description": "The workers will argue that polygraph tests are unscientific and will ask for their dismissals to be rescinded",
+          "link": "https://www.groundup.org.za/article/workers-dismissed-refusing-polygraph-test-head-labour-court/",
+          "publishedOn": "2021-07-09T04:00:00.000Z",
+          "wordCount": 1155,
+          "title": "Workers dismissed for refusing polygraph test head to Labour Court",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/png",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/LabourCourt_5mSiinB_extra_large.png"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/eastern-cape-fishers-celebrate-chance-once-again-catch-squid/",
+          "author": null,
+          "description": "Small-scale fisheries have been given a 15% squid quota",
+          "link": "https://www.groundup.org.za/article/eastern-cape-fishers-celebrate-chance-once-again-catch-squid/",
+          "publishedOn": "2021-07-09T03:00:00.000Z",
+          "wordCount": 1110,
+          "title": "Eastern Cape fishers celebrate chance to once again catch squid",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Navar%20Claasen/Chokka%20fishers/Santo%20Mersk_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/housing-development-informal-settlement-hold-after-acsa-opposes-development/",
+          "author": null,
+          "description": "Province waiting for tests on aircraft noise, but resident says they have been living there since the 1990s and have not gone deaf",
+          "link": "https://www.groundup.org.za/article/housing-development-informal-settlement-hold-after-acsa-opposes-development/",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 905,
+          "title": "Housing for informal settlement near Cape Town airport on hold",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nombulelo%20Damba/thabo_mbeki_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/there-were-mice-cockroaches-mosquitos-and-flies-that-were-attracted-by-the-dumping-site/",
+          "author": null,
+          "description": "eThekwini Municipality warns of fines of up to R5,000 for illegal dumping",
+          "link": "https://www.groundup.org.za/article/there-were-mice-cockroaches-mosquitos-and-flies-that-were-attracted-by-the-dumping-site/",
+          "publishedOn": "2021-07-09T02:00:00.000Z",
+          "wordCount": 782,
+          "title": "“Mice, cockroaches, mosquitos and flies were attracted to the dumping site”",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/mathambo_2_extra_large.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/the-service-dining-rooms-have-been-feeding-cape-towns-hungry-for-more-than-80-years-but-never-have-so-many-people-queued-for-food/",
           "author": null,
           "description": "“The increase in numbers shows how much people are struggling out there”",
           "link": "https://www.groundup.org.za/article/the-service-dining-rooms-have-been-feeding-cape-towns-hungry-for-more-than-80-years-but-never-have-so-many-people-queued-for-food/",
           "publishedOn": "2021-07-08T08:43:00.000Z",
-          "wordCount": 1957,
+          "wordCount": 2000,
           "title": "This charity has been feeding Cape Town’s hungry for more than 80 years. Never have so many people queued for food",
           "enclosure": {
             "length": "26343",
@@ -25,7 +151,7 @@
           "description": "Poor services and a controversial mining project have fuelled disaffection with governing party",
           "link": "https://www.groundup.org.za/article/elections-2021-xolobeni-residents-may-vote-out-anc/",
           "publishedOn": "2021-07-08T05:00:00.000Z",
-          "wordCount": 2193,
+          "wordCount": 2209,
           "title": "Elections 2021: Xolobeni voters may kick ANC out",
           "enclosure": {
             "length": "26343",
@@ -39,7 +165,7 @@
           "description": "Residents are asking the City of Cape Town to subsidise a model they say worked in Stellenbosch",
           "link": "https://www.groundup.org.za/article/siqalo-shack-dwellers-see-solar-power-solution-their-electricity-woes/",
           "publishedOn": "2021-07-08T04:00:00.000Z",
-          "wordCount": 1216,
+          "wordCount": 1224,
           "title": "Siqalo shack dwellers want solar power",
           "enclosure": {
             "length": "26343",
@@ -53,7 +179,7 @@
           "description": "Nomava Mboniswa offered her zinc church structure after she saw images of the flood on TV",
           "link": "https://www.groundup.org.za/article/makeshift-church-takes-flood-victims-bloekombos/",
           "publishedOn": "2021-07-08T03:15:00.000Z",
-          "wordCount": 1192,
+          "wordCount": 1204,
           "title": "Makeshift church takes in flood victims in Bloekombos",
           "enclosure": {
             "length": "26343",
@@ -67,7 +193,7 @@
           "description": "Study was conducted in January and May, before the third wave peaked",
           "link": "https://www.groundup.org.za/article/blood-survey-finds-half-south-africans-have-likely-had-covid-19/",
           "publishedOn": "2021-07-08T03:01:00.000Z",
-          "wordCount": 961,
+          "wordCount": 962,
           "title": "Survey estimates half of all adults under 70 have likely had Covid-19",
           "enclosure": {
             "length": "26343",
@@ -81,138 +207,12 @@
           "description": "“We’ve been using vaccines for years. I don’t understand why people are afraid of this vaccine” says Soweto pensioner",
           "link": "https://www.groundup.org.za/article/gauteng-government-takes-vaccination-drive-sassa-queues/",
           "publishedOn": "2021-07-07T08:52:00.000Z",
-          "wordCount": 978,
+          "wordCount": 982,
           "title": "Gauteng government takes vaccination drive to SASSA queues",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/photographers/masego_mafata/marshaltown_post_office_line_7072021_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/volunteers-kayamandi-wake-4am-keep-their-community-safe/",
-          "author": null,
-          "description": "Residents welcome patrol initiative",
-          "link": "https://www.groundup.org.za/article/volunteers-kayamandi-wake-4am-keep-their-community-safe/",
-          "publishedOn": "2021-07-07T08:23:32.000Z",
-          "wordCount": 913,
-          "title": "Volunteers in Kayamandi wake up at 4am to keep their community safe",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/kayamandipatrol-vusumzi_mokoena-20210706_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/video-man-covid-survives-after-spending-122-days-groote-schuur-icu/",
-          "author": null,
-          "description": "Winston Spencer Cogill is full of praise for the staff that saved his life",
-          "link": "https://www.groundup.org.za/article/video-man-covid-survives-after-spending-122-days-groote-schuur-icu/",
-          "publishedOn": "2021-07-07T08:21:54.000Z",
-          "wordCount": 648,
-          "title": "Video: Surviving 122 days in Groote Schuur ICU with Covid",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/_versions/images/photographers/Ashraf%20Hendricks/winston-20210621-img_7648hr_extra_large_medium.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/informal-mining-attracts-bustling-business-forest/",
-          "author": null,
-          "description": "Immigrant traders supply miners with everything from water to socks",
-          "link": "https://www.groundup.org.za/article/informal-mining-attracts-bustling-business-forest/",
-          "publishedOn": "2021-07-07T07:55:42.000Z",
-          "wordCount": 1214,
-          "title": "A thriving trade has sprung up around informal mining in Gauteng",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Kimberly%20Mutandiro/forest_town_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/video-death-ishmael-gama-hands-gauteng-police/",
-          "author": null,
-          "description": "More than a year after his death, and months after the police watchdog implicated eight officers in murder, police management has not acted.",
-          "link": "https://www.groundup.org.za/article/video-death-ishmael-gama-hands-gauteng-police/",
-          "publishedOn": "2021-07-07T06:49:00.000Z",
-          "wordCount": 596,
-          "title": "Video: The death of Ishmael Gama at the hands of Gauteng police",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Third%20Party/gautengpolice-20210705/01_header_photo_thembi_nkosi_grave_medium.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/khayelitsha-resident-says-most-his-chickens-died-after-drinking-overflowing-water-pump-station/",
-          "author": null,
-          "description": "Shack dwellers demand the nearby sewage pump station be fixed",
-          "link": "https://www.groundup.org.za/article/khayelitsha-resident-says-most-his-chickens-died-after-drinking-overflowing-water-pump-station/",
-          "publishedOn": "2021-07-06T13:54:10.000Z",
-          "wordCount": 914,
-          "title": "Filthy water killed my chickens, says Khayelitsha protester",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/100_3484_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/rdp-homes-abandoned-first-their-owners-then-municipality-are-magnet-crime-say-makhanda-residents/",
-          "author": null,
-          "description": "Empty RDP houses attract crime, say residents",
-          "link": "https://www.groundup.org.za/article/rdp-homes-abandoned-first-their-owners-then-municipality-are-magnet-crime-say-makhanda-residents/",
-          "publishedOn": "2021-07-06T10:35:18.000Z",
-          "wordCount": 897,
-          "title": "Makhana municipality dodges responsibility for abandoned houses",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/loyiso_dyongman/ext10_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/there-no-right-carry-gun-under-our-constitution/",
-          "author": null,
-          "description": "Yet much debate on the Firearms Control Amendment Bill is based on the “right” to have a gun for self-defence",
-          "link": "https://www.groundup.org.za/article/there-no-right-carry-gun-under-our-constitution/",
-          "publishedOn": "2021-07-06T09:19:21.000Z",
-          "wordCount": 954,
-          "title": "There is no right to carry a gun under our Constitution",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/20180912%20BishopLavis/BishopLavis-8358HR_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/water-protesters-stone-cars-dunoon/",
-          "author": null,
-          "description": "Residents in Zwelitsha informal settlement have been without potable water for weeks",
-          "link": "https://www.groundup.org.za/article/water-protesters-stone-cars-dunoon/",
-          "publishedOn": "2021-07-06T07:29:06.000Z",
-          "wordCount": 839,
-          "title": "Protesters demanding water stone cars in Dunoon",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Peter%20Luhanga/lackofwater_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/former-circus-school-occupants-lose-court-bid-to-exclude-the-citys-housing-report/",
-          "author": null,
-          "description": "A date for the final hearing on the eviction case is yet to be determined",
-          "link": "https://www.groundup.org.za/article/former-circus-school-occupants-lose-court-bid-to-exclude-the-citys-housing-report/",
-          "publishedOn": "2021-07-06T03:00:00.000Z",
-          "wordCount": 999,
-          "title": "Court dismisses Observatory occupants’ application against City of Cape Town",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Liezl%20Human/willow_art_collective_extra_large.jpg"
           }
         }
       ]
@@ -223,12 +223,174 @@
       "siteUrl": "https://lifehacker.com",
       "articles": [
         {
+          "id": "1847262076",
+          "author": "Brendan Hesse",
+          "description": "Video games offer a wide range of genres and gameplay styles, and there’s probably a game out there for everyone. But despite the variety of experiences, jumping into console or PC gaming can be daunting, especially if you didn’t grow up playing games. Luckily, there are plenty of great video games out there for…\nRead more...",
+          "link": "https://lifehacker.com/10-video-games-for-newbies-who-always-wanted-to-become-1847262076",
+          "publishedOn": "2021-07-09T21:00:00.000Z",
+          "wordCount": 2765,
+          "title": "10 Video Games for Newbies Who Always Wanted to Become Gamers"
+        },
+        {
+          "id": "1847261235",
+          "author": "Aisha Jordan",
+          "description": "We recently posted about the many ways aluminum foil is helpful around the house and quickly found that mentioning “tin foil” was scientifically incorrect (and I’m always willing to admit my mistakes). Depending where you’re from, it might be a natural reflex to say “tin foil” when wrapping up leftovers or cooking on…\nRead more...",
+          "link": "https://lifehacker.com/the-difference-between-aluminum-and-tin-foil-1847261235",
+          "publishedOn": "2021-07-09T20:30:00.000Z",
+          "wordCount": 521,
+          "title": "The Difference Between Aluminum and Tin Foil"
+        },
+        {
+          "id": "1847261332",
+          "author": "Mike Winters",
+          "description": "Trying out a new credit card is like driving a new car for the first time: In the same way you might adjust the seat and mirrors, locate the emergency brake, or fiddle around with the air conditioner controls, you’ll want to fine-tune the settings for your new card before you start spending. Here’s a checklist of…\nRead more...",
+          "link": "https://lifehacker.com/you-shouldnt-use-your-new-credit-card-until-you-do-thes-1847261332",
+          "publishedOn": "2021-07-09T20:00:00.000Z",
+          "wordCount": 889,
+          "title": "You Shouldn't Use Your New Credit Card Until You Do These Things"
+        },
+        {
+          "id": "1847261973",
+          "author": "Claire Lower",
+          "description": "Thanks to a very detailed and helpful explainer that was recently published on this very site, I have started brewing my own kombucha. As a former brewer of beer, I have to say that brewing ‘booch is a much easier, more relaxed endeavor, and the end product does not make me sneeze. (Beer started making me sneeze in my…\nRead more...",
+          "link": "https://lifehacker.com/use-kombucha-to-make-a-summery-negroni-1847261973",
+          "publishedOn": "2021-07-09T19:30:00.000Z",
+          "wordCount": 392,
+          "title": "Use Kombucha to Make a Summery 'Negroni'"
+        },
+        {
+          "id": "1847259759",
+          "author": "Sam Blum",
+          "description": "The cosmos is in constant motion, and during the month of July, the movements of celestial bodies are an especially welcome treat for those on the ground. The two planets situated on either side of Earth—Mars and Venus—are poised to drift within a relatively close distance of each other, at least in the grand scheme…\nRead more...",
+          "link": "https://lifehacker.com/mars-and-venus-are-about-to-make-out-guys-1847259759",
+          "publishedOn": "2021-07-09T19:00:00.000Z",
+          "wordCount": 683,
+          "title": "Mars and Venus Are About to Make Out, Guys"
+        },
+        {
+          "id": "1847160793",
+          "author": "Beth Skwarecki",
+          "description": "We don’t know how long protection from the COVID-19 vaccines will last, which has led to speculation that we might all need to get booster shots—perhaps yearly, as with flu shots—to stay protected. Pfizer recently announced they plan to seek FDA authorization soon for a booster dose of their vaccine.\nRead more...",
+          "link": "https://lifehacker.com/why-you-shouldnt-expect-a-covid-vaccine-booster-anytime-1847160793",
+          "publishedOn": "2021-07-09T18:45:00.000Z",
+          "wordCount": 786,
+          "title": "Why You (Still) Shouldn't Expect a COVID Vaccine Booster Anytime Soon [Updated]"
+        },
+        {
+          "id": "1847259575",
+          "author": "Rachel Fairbank",
+          "description": "The garbage disposal may be one of the miracles of modern life, but it’s also a source for foul odors to build up. Once the odors are there, it can be a challenge to get rid of them completely—rather than just covering them up. But a few lemons and limes (plus vinegar) can go a long way—if you keep them on hand and…\nRead more...",
+          "link": "https://lifehacker.com/the-easiest-and-most-natural-ways-to-get-rid-of-garba-1847259575",
+          "publishedOn": "2021-07-09T18:30:00.000Z",
+          "wordCount": 562,
+          "title": "The Easiest (and Most Natural) Ways to Get Rid of Garbage Disposal Odors"
+        },
+        {
+          "id": "1847258633",
+          "author": "Ross Johnson",
+          "description": "It only took Marvel 20-ish movies to give Scarlett Johansson’s Black Widow her own solo film, but that wasn’t her first, nor even her second comic book movie character. We’ve just reached the point where most popular actors will have played at least a few comics-based characters before they retire. But we come here to…\nRead more...",
+          "link": "https://lifehacker.com/24-of-the-best-comic-book-adaptations-that-arent-marvel-1847258633",
+          "publishedOn": "2021-07-09T18:00:00.000Z",
+          "wordCount": 2544,
+          "title": "24 of the Best Comic Book Adaptations That Aren't Marvel or DC"
+        },
+        {
+          "id": "1847260616",
+          "author": "Beth Skwarecki",
+          "description": "TikTok is a fantastic place to discover new things to worry about, or new ways to worry about old things. The latest is the “dehydration check,” in which you pinch the skin on your knuckle. If the skin stays wrinkled for a few seconds, that’s (supposedly) your sign to grab a glass of water.\nRead more...",
+          "link": "https://lifehacker.com/tiktoks-dehydration-check-is-silly-and-useless-1847260616",
+          "publishedOn": "2021-07-09T17:30:00.000Z",
+          "wordCount": 730,
+          "title": "TikTok's 'Dehydration Check' Is Silly and Useless"
+        },
+        {
+          "id": "1847257040",
+          "author": "Aisha Jordan",
+          "description": "Flowers give us vibrant pops of color in our garden and beautiful centerpieces for special occasions—but it’s easy to forget that they can provide us sustenance, too. Flowers are plants, and some plants are edible—even delicious. That’s why horticulturists like Alexis Nikole, known as the Black Forager, are showing us…\nRead more...",
+          "link": "https://lifehacker.com/14-flowers-you-can-actually-eat-and-how-to-prepare-the-1847257040",
+          "publishedOn": "2021-07-09T17:00:00.000Z",
+          "wordCount": 1150,
+          "title": "14 Flowers You Can Actually Eat (and How to Prepare Them)"
+        },
+        {
+          "id": "1847253999",
+          "author": "Sam Blum",
+          "description": "With COVID-19 making a resurgence in Tokyo, the Olympics are currently coming apart at the seams, including an announcement on Thursday from Japan’s Olympics Minister Tamayo Marukawa that the Games would proceed without fans. If watching the world’s most prestigious athletic competition take place in deserted venues…\nRead more...",
+          "link": "https://lifehacker.com/watch-these-sports-if-the-olympics-get-cancelled-after-1847253999",
+          "publishedOn": "2021-07-09T16:30:00.000Z",
+          "wordCount": 652,
+          "title": "Watch These Sports If the Olympics Get Cancelled After All"
+        },
+        {
+          "id": "1847257072",
+          "author": "Lindsey Ellefson",
+          "description": "It’s officially a post-vax slutty summer, which means people are out and about. Everyone is going on dates and having fun, and that includes your ex. (Sorry!) But what happens if you run into them? Well, here’s what you should do.\nRead more...",
+          "link": "https://lifehacker.com/what-to-do-when-you-see-your-ex-on-a-date-1847257072",
+          "publishedOn": "2021-07-09T16:00:00.000Z",
+          "wordCount": 1156,
+          "title": "What to Do When You See Your Ex on a Date"
+        },
+        {
+          "id": "1847255554",
+          "author": "Joel Kahn",
+          "description": "If you’re like me, then you have consciously made the decision to avoid all people under the age of 25. However, sometimes you get stuck in a room with a tiny baby that just wants to cry and drool and who can sense that your biggest fear is them pooping on you.\nRead more...",
+          "link": "https://lifehacker.com/how-to-get-a-baby-to-like-you-1847255554",
+          "publishedOn": "2021-07-09T15:30:00.000Z",
+          "wordCount": 682,
+          "title": "How to Get a Baby to Like You"
+        },
+        {
+          "id": "1847249246",
+          "author": "Stephen Johnson",
+          "description": "I’ve tested the global youth-culture internet and the results have come back positive: Everything is looking up this week. We’re even talking about colonizing Venus, which is cool...if not impossible. \n\nRead more...",
+          "link": "https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-could-we-1847249246",
+          "publishedOn": "2021-07-09T15:00:00.000Z",
+          "wordCount": 989,
+          "title": "The Out-of-Touch Adults' Guide To Kid Culture: Could We Really Colonize Venus?"
+        },
+        {
+          "id": "1847256205",
+          "author": "Rachel Fairbank",
+          "description": "Read more...",
+          "link": "https://lifehacker.com/what-kind-of-burnt-out-are-you-and-why-it-matters-1847256205",
+          "publishedOn": "2021-07-09T14:30:00.000Z",
+          "wordCount": 1038,
+          "title": "What Kind of Burnt Out Are You? (And Why It Matters)"
+        },
+        {
+          "id": "1847220889",
+          "author": "Meghan Moravcik Walbert",
+          "description": "I can’t be the only one who blinked hard at the calendar in July, wondering where the hell the first half of 2021 had gone. After spending the better part of 2020 wanting the whole year to vanish off the space-time continuum, it’s a little surreal to watch time speed up again as life around us normalizes. Even so,…\nRead more...",
+          "link": "https://lifehacker.com/16-of-our-best-parenting-hacks-of-2021-so-far-1847220889",
+          "publishedOn": "2021-07-09T14:00:00.000Z",
+          "wordCount": 2782,
+          "title": "16 of Our Best Parenting Hacks of 2021 So Far"
+        },
+        {
+          "id": "1847255661",
+          "author": "Mike Winters",
+          "description": "Increasingly, companies include unlimited paid time off as part of their job offers, as it’s an enticement popular with millennials and Gen Z workers. But you’ll want to think twice about whether it’s really all that great—studies show that workers often take less time off with unlimited vacation days. Why would that…\nRead more...",
+          "link": "https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661",
+          "publishedOn": "2021-07-09T13:30:00.000Z",
+          "wordCount": 875,
+          "title": "Why Unlimited Vacation Days Is a Scam"
+        },
+        {
+          "id": "1847254928",
+          "author": "Claire Lower",
+          "description": "With the exception of salt, pepper is the most common and ubiquitous seasoning in American cooking.  The berries themselves vary wildly in both color and flavor, but when and how you grind and cook them also has a big impact on their flavor.  (Growing up, my sister called pre-ground black pepper “hot salt,” though it…\nRead more...",
+          "link": "https://lifehacker.com/when-exactly-should-you-pepper-a-steak-1847254928",
+          "publishedOn": "2021-07-09T13:00:00.000Z",
+          "wordCount": 570,
+          "title": "When Exactly Should You Pepper a Steak?"
+        },
+        {
           "id": "1847253136",
           "author": "Aisha Jordan",
           "description": "An outdoor space is a bonus wherever you live, especially if you have the room to create some outdoor seating. Structures like a pergola provide protection from the sun and lend a certain bit of style to your yard—but they can bring more of both if you cover them in creeping vines. \nThese tall, often wooden structures…\nRead more...",
           "link": "https://lifehacker.com/how-to-grow-vines-on-your-pergola-1847253136",
           "publishedOn": "2021-07-08T21:00:00.000Z",
-          "wordCount": 859,
+          "wordCount": 858,
           "title": "How to Grow Vines on Your Pergola"
         },
         {
@@ -246,7 +408,7 @@
           "description": "I never look to the sky for advice, or thought that planetary alignment on my birthday—July 5, 1989—helps explain why I struggle with anxiety and like wrestling and playing the drums. I don’t think those things are preordained by the cosmos, but you might be led to believe otherwise if you are really into astrology. \nRead more...",
           "link": "https://lifehacker.com/why-you-should-understand-astrology-even-if-you-think-1847252102",
           "publishedOn": "2021-07-08T19:00:00.000Z",
-          "wordCount": 794,
+          "wordCount": 861,
           "title": "Why You Should Understand Astrology, Even If You Don't Believe In It"
         },
         {
@@ -255,7 +417,7 @@
           "description": "With millions of homeowners behind on their mortgage payments, and a looming foreclosure moratorium that expires July 31, the Consumer Financial Protection Bureau (CFPB) has added some new protections to help borrowers keep their homes. However, since lenders don’t always follow the rules, you’ll want to know what…\nRead more...",
           "link": "https://lifehacker.com/you-just-got-more-protections-from-unscrupulous-lenders-1847253500",
           "publishedOn": "2021-07-08T18:30:00.000Z",
-          "wordCount": 455,
+          "wordCount": 471,
           "title": "You Just Got More Protections From Unscrupulous Lenders Trying to Foreclose on Your Home"
         },
         {
@@ -264,7 +426,7 @@
           "description": "One of the first rites of passage for any traveler is getting your passport. And while some people have been traveling internationally since they were little, plenty of others have never had a passport and don’t know how to get the process started. This information is for them. (Please note: The procedures described…\nRead more...",
           "link": "https://lifehacker.com/how-to-get-a-passport-for-the-first-time-1843395448",
           "publishedOn": "2021-07-08T18:00:00.000Z",
-          "wordCount": 993,
+          "wordCount": 992,
           "title": "How to Get a Passport for the First Time"
         },
         {
@@ -273,7 +435,7 @@
           "description": "Microsoft recently released emergency patches to fix a major zero-day security flaw in Windows’ Print Spooler code dubbed “PrintNightmare,” but they didn’t fix the problem. Security researchers discovered the vulnerability is still present on several versions of Windows even after the patch (via TechRadar), leaving…\nRead more...",
           "link": "https://lifehacker.com/how-to-avoid-windows-printnightmare-security-threat-1847221653",
           "publishedOn": "2021-07-08T17:30:00.000Z",
-          "wordCount": 788,
+          "wordCount": 787,
           "title": "What to Do Now That Those 'PrintNightmare' Windows Patches Didn't Work [Updated]"
         },
         {
@@ -282,170 +444,8 @@
           "description": "There is something very alluring about the large, plastic-domed containers of croissants you see at the grocery store and Costco, but I rarely give in to their buttery siren song. It’s just too stressful! But last week, I saw a 12-pack on sale for a mere three (3) American dollars, and I could resist no longer. I…\nRead more...",
           "link": "https://lifehacker.com/perk-up-a-sad-stale-croissant-in-your-air-fryer-1847252762",
           "publishedOn": "2021-07-08T17:00:00.000Z",
-          "wordCount": 430,
+          "wordCount": 429,
           "title": "Perk Up a Sad, Stale Croissant in Your Air Fryer"
-        },
-        {
-          "id": "1833773821",
-          "author": "Joel Kahn",
-          "description": "Paper coffee filters are exclusively sold in packs by the thousand for less than $2. This is a universal fact.\nRead more...",
-          "link": "https://lifehacker.com/use-extra-coffee-filters-to-replace-paper-towels-and-te-1833773821",
-          "publishedOn": "2021-07-08T16:30:00.000Z",
-          "wordCount": 507,
-          "title": "Use Extra Coffee Filters to Replace Paper Towels and Tea Bags"
-        },
-        {
-          "id": "1847250309",
-          "author": "Pranay Parab",
-          "description": "Every time you need to upload documents online, you’ll find yourself looking for a good scanner app. For those with Androids, here are some of the best you can find. Some of these apps support optical character recognition (OCR)—a cool piece of technology that lets you copy and paste text from photos or scanned…\nRead more...",
-          "link": "https://lifehacker.com/10-of-the-best-scanner-apps-for-android-1847250309",
-          "publishedOn": "2021-07-08T16:00:00.000Z",
-          "wordCount": 1567,
-          "title": "10 of the Best Scanner Apps for Android"
-        },
-        {
-          "id": "1847250573",
-          "author": "Rachel Fairbank",
-          "description": "One of the hard parts about transitioning from being a student to the real world (whatever that means, anyway) is the lack of opportunities for competing in organized sports. In a school setting, the opportunities are built right in, with teams, daily practices, and competitions.\nRead more...",
-          "link": "https://lifehacker.com/8-sports-you-can-still-compete-in-if-youre-old-1847250573",
-          "publishedOn": "2021-07-08T15:00:00.000Z",
-          "wordCount": 1108,
-          "title": "8 Sports You Can Still Compete in If You're Old"
-        },
-        {
-          "id": "1847247089",
-          "author": "Sam Blum",
-          "description": "TikTok is a creator’s paradise, and these days, more than just fashion influencers and aspiring comedians are clogging the platform. A new community has blossomed on the app, and it’s made up of users, many of them teens, plugging books—a pretty unlikely product, as far as social media boosterism goes.\n\nRead more...",
-          "link": "https://lifehacker.com/you-should-let-the-booktok-teens-find-your-next-read-1847247089",
-          "publishedOn": "2021-07-08T14:30:00.000Z",
-          "wordCount": 698,
-          "title": "You Should Let the BookTok Teens Find Your Next Read"
-        },
-        {
-          "id": "1847246723",
-          "author": "Aisha Jordan",
-          "description": "Living in an older home presents all sorts of challenges. The layouts may be more closed in, the wiring could need updating, the closet space is lacking—and the heating systems might be outdated. Older homes will often use a boiler and radiator system to heat the home, which involves steam rising through the pipe…\nRead more...",
-          "link": "https://lifehacker.com/how-to-decorate-around-your-ugly-old-radiator-1847246723",
-          "publishedOn": "2021-07-08T14:00:00.000Z",
-          "wordCount": 855,
-          "title": "How to Decorate Around Your Ugly Old Radiator"
-        },
-        {
-          "id": "1847246781",
-          "author": "Mike Winters",
-          "description": "It’s hard to believe we’re already halfway through 2021, since it feels like we just crawled out of the smoking crater that was 2020. In terms of personal finance, the pandemic was worse than the 2008 financial crisis for most Americans, affecting everything including employment, retirement savings, and the cost of…\nRead more...",
-          "link": "https://lifehacker.com/10-of-our-best-personal-finance-hacks-of-2021-so-far-1847246781",
-          "publishedOn": "2021-07-08T13:30:00.000Z",
-          "wordCount": 1291,
-          "title": "10 of Our Best Personal Finance Hacks of 2021 So Far"
-        },
-        {
-          "id": "1847247490",
-          "author": "Claire Lower",
-          "description": "Hello everyone, and welcome back to Prix Fixed, Lifehacker’s menu-planning advice column.\n\nRead more...",
-          "link": "https://lifehacker.com/this-vegan-cabbage-dish-is-perfect-for-a-cozy-book-club-1847247490",
-          "publishedOn": "2021-07-08T13:00:00.000Z",
-          "wordCount": 1554,
-          "title": "This Vegan Cabbage Dish Is Perfect for a Cozy Book Club"
-        },
-        {
-          "id": "1847247591",
-          "author": "Brendan Hesse",
-          "description": "Social media is a vital tool for promoting your work online, but almost every social media app shares a major flaw: You can only paste one “website” link to your profile. For most people, that’s not enough—most of us have multiple profiles, projects, and portfolios to promote, sometimes to different audiences—which is…\nRead more...",
-          "link": "https://lifehacker.com/use-linktree-to-make-your-link-in-bio-actually-useful-1847247591",
-          "publishedOn": "2021-07-07T21:30:00.000Z",
-          "wordCount": 997,
-          "title": "Use Linktree to Make Your 'Link in Bio' Actually Useful"
-        },
-        {
-          "id": "1847246819",
-          "author": "Beth Skwarecki",
-          "description": "If you’re the type of person to wear underwear with everything—a very normal type of person to be, in my opinion—you might start to wonder what’s going on with running shorts and workout leggings. Sometimes loose men’s shorts will have a snug-fitting liner, or certain women’s styles will have a crotch gusset made of a…\nRead more...",
-          "link": "https://lifehacker.com/should-you-go-commando-in-your-running-shorts-1847246819",
-          "publishedOn": "2021-07-07T20:00:00.000Z",
-          "wordCount": 685,
-          "title": "Should You Go Commando in Your Running Shorts?"
-        },
-        {
-          "id": "1847244651",
-          "author": "Sam Blum",
-          "description": "The process of interviewing for a job can feel like a job in itself, particularly when it is stretched out over weeks or months and requires you to devote your attention to fulfilling countless tasks you hope will prove your worth.\n\nRead more...",
-          "link": "https://lifehacker.com/the-right-way-to-ask-why-you-didnt-get-a-job-1847244651",
-          "publishedOn": "2021-07-07T19:30:00.000Z",
-          "wordCount": 753,
-          "title": "The Right Way to Ask Why You Didn't Get a Job"
-        },
-        {
-          "id": "1847244588",
-          "author": "Beth Skwarecki",
-          "description": "If you’ve gotten used to monitoring your “cardio fitness” score on your Fitbit, Garmin, Apple Health, or any other activity tracker or app, you may have noticed that the score has dropped recently—or perhaps not gone up as much as you would have expected. But if you’ve been keeping up your training,  the dip may not…\nRead more...",
-          "link": "https://lifehacker.com/why-your-tracking-app-thinks-your-cardio-fitness-has-su-1847244588",
-          "publishedOn": "2021-07-07T18:30:00.000Z",
-          "wordCount": 780,
-          "title": "Why Your Tracking App Thinks Your Cardio Fitness Has Suddenly Gotten Worse"
-        },
-        {
-          "id": "1847244843",
-          "author": "Aisha Jordan",
-          "description": "When you first bring home a baby plant, you have all kinds of hopes and dreams for it. You can see its full, lush future potential—but in order to get there, it’s going to require a little training. The act of “training” plants—also known as husbandry—is the care and strengthening of plants. Certain techniques (wires,…\nRead more...",
-          "link": "https://lifehacker.com/how-to-train-your-plants-so-they-grow-better-1847244843",
-          "publishedOn": "2021-07-07T17:30:00.000Z",
-          "wordCount": 881,
-          "title": "How to 'Train' Your Plants So They Grow Better"
-        },
-        {
-          "id": "1847244700",
-          "author": "Claire Lower",
-          "description": "Unlike commercially produced, processed food and beverages, eggs can vary in appearance and composition quite a bit. They come out of a chicken, not a factory, which means these variations are to be expected, not only from chicken to chicken, but from egg to egg. I once bought a carton of eggs that had 11 double…\nRead more...",
-          "link": "https://lifehacker.com/are-cloudy-egg-whites-safe-to-eat-1847244700",
-          "publishedOn": "2021-07-07T17:00:00.000Z",
-          "wordCount": 451,
-          "title": "Are Cloudy Egg Whites Safe to Eat?"
-        },
-        {
-          "id": "1846238544",
-          "author": "Mike Winters",
-          "description": "The Biden administration has amended some rules, making it easier to get funeral costs reimbursed for people who have lost family members due to COVID-19. This means if your application was already rejected, you still have a chance to get up to $9,000 in funeral costs paid for by Federal Emergency Management Agency…\nRead more...",
-          "link": "https://lifehacker.com/how-fema-can-cover-pandemic-related-funeral-costs-1846238544",
-          "publishedOn": "2021-07-07T16:30:00.000Z",
-          "wordCount": 494,
-          "title": "How to Get Your Family Member's COVID-Related Funeral Costs Covered"
-        },
-        {
-          "id": "1847242135",
-          "author": "Rachel Fairbank",
-          "description": "Running injuries are common. So common, in fact, that an estimated 50 percent of runners get injured every year, with some experts thinking the actual number may be even higher than that. Common injuries include stress fractures, IT band injuries, and runner’s knee. And in the past year, a lot of people have changed…\nRead more...",
-          "link": "https://lifehacker.com/how-to-take-a-holistic-approach-to-preventing-running-i-1847242135",
-          "publishedOn": "2021-07-07T15:30:00.000Z",
-          "wordCount": 1110,
-          "title": "How to Take a Holistic Approach to Preventing Running Injuries"
-        },
-        {
-          "id": "1847237707",
-          "author": "Sam Blum",
-          "description": "My mind is constantly chirping—and closing my eyes and breathing deeply  doesn’t lead to tranquility, let alone anything nearing bliss. Rather, this is when all the bad thoughts start bubbling up to the surface, inducing what I can only imagine is the sheer opposite of nirvana.\n\nRead more...",
-          "link": "https://lifehacker.com/if-you-hate-meditating-try-these-alternatives-1847237707",
-          "publishedOn": "2021-07-07T15:00:00.000Z",
-          "wordCount": 938,
-          "title": "If You Hate Meditating, Try These Alternatives"
-        },
-        {
-          "id": "1847240958",
-          "author": "Aisha Jordan",
-          "description": "We’re already halfway through 2021, and this year, we’ve really leaned in on how to better operate our households. We’re learning to be better gardeners, better cleaners of all the things, and better users of foil, paper towels, and dryer sheets. As we enter the back half of the year, let’s revisit the best household…\nRead more...",
-          "link": "https://lifehacker.com/18-of-our-best-household-hacks-of-2021-so-far-1847240958",
-          "publishedOn": "2021-07-07T14:30:00.000Z",
-          "wordCount": 1493,
-          "title": "18 of Our Best Household Hacks of 2021 So Far"
-        },
-        {
-          "id": "1844115725",
-          "author": "Khamosh Pathak",
-          "description": "Depending on your job, chances are you’re spending hours on Slack. It’s become “where work happens,” like their tagline says. But you might not feel at home with the stock Slack configuration, and there are plenty of ways to make it your own? Here’s how to personalize your Slack account, from adding custom emojis, to…\nRead more...",
-          "link": "https://lifehacker.com/9-slack-customizations-you-should-try-to-make-work-easi-1844115725",
-          "publishedOn": "2021-07-07T14:00:00.000Z",
-          "wordCount": 1186,
-          "title": "9 Slack Customizations You Should Try to Make Work Easier (or More Fun)"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=485725",
+          "id": "https://hackaday.com/?p=485891",
           "author": "Lewin Day",
-          "description": "With the rise of big-name smartwatches in the marketplace, there are also a smattering of lower-end offerings. The M6 fitness band is one of them, and [Raphael] set about hacking …read more",
-          "link": "https://hackaday.com/2021/07/08/reverse-engineering-a-very-cheap-fitness-band/",
-          "publishedOn": "2021-07-08T23:00:21.000Z",
-          "wordCount": 1143,
-          "title": "Reverse Engineering A Very Cheap Fitness Band"
+          "description": "A regular car horn is fine, but lacks finesse for more subtle communication. For example, some car horns aren’t particularly adept at short indicatory honks, and can only blare loudly …read more",
+          "link": "https://hackaday.com/2021/07/09/custom-car-horn-makes-many-sounds/",
+          "publishedOn": "2021-07-09T23:00:59.000Z",
+          "wordCount": 1177,
+          "title": "Custom Car Horn Makes Many Sounds"
         },
         {
-          "id": "https://hackaday.com/?p=485796",
-          "author": "Tom Nardi",
-          "description": "Finding unpopulated pads on a circuit board is often a sign that the device in question has some untapped potential. These blank spots on the board could be left over …read more",
-          "link": "https://hackaday.com/2021/07/08/hacked-on-so-dimm-slot-was-worth-a-shot/",
-          "publishedOn": "2021-07-08T20:00:27.000Z",
-          "wordCount": 1924,
-          "title": "Hacked on SO-DIMM Slot was Worth a Shot"
-        },
-        {
-          "id": "https://hackaday.com/?p=485265",
-          "author": "Tom Nardi",
-          "description": "Tech companies like Google and Microsoft have been working on augmented reality (AR) wearables that can superimpose images over your field of view, blurring the line between the real and …read more",
-          "link": "https://hackaday.com/2021/07/08/laser-augmented-reality-glasses-show-you-the-way/",
-          "publishedOn": "2021-07-08T18:30:00.000Z",
-          "wordCount": 2733,
-          "title": "Laser Augmented Reality Glasses Show You The Way"
-        },
-        {
-          "id": "https://hackaday.com/?p=480762",
-          "author": "Al Williams",
-          "description": "The advent of the microcontroller changed just about everything. Modern gadgets often have a screen-based interface that may hide dozens or hundreds of functions that would have been impractical and …read more",
-          "link": "https://hackaday.com/2021/07/08/tech-hidden-in-plain-sight-cruise-control/",
-          "publishedOn": "2021-07-08T17:01:31.000Z",
-          "wordCount": 2439,
-          "title": "Tech Hidden in Plain Sight: Cruise Control"
-        },
-        {
-          "id": "https://hackaday.com/?p=484686",
-          "author": "Jenny List",
-          "description": "The Game Boy Camera is probably one of the most limited-specification digital cameras to have been mass-marketed, yet it occupies a special position in the hearts of many because despite …read more",
-          "link": "https://hackaday.com/2021/07/08/bringing-the-game-boy-camera-into-the-21st-century/",
-          "publishedOn": "2021-07-08T15:30:00.000Z",
-          "wordCount": 1325,
-          "title": "Bringing The Game Boy Camera Into The 21st Century"
-        },
-        {
-          "id": "https://hackaday.com/?p=480492",
+          "id": "https://hackaday.com/?p=485882",
           "author": "Lewin Day",
-          "description": "Land speed racing is a pursuit of ultimate speed above all else. Most cars typically run on huge, flat salt pans, and racers run flat out for miles in a …read more",
-          "link": "https://hackaday.com/2021/07/08/electric-land-speed-racing-can-be-lightning-fast/",
-          "publishedOn": "2021-07-08T14:00:41.000Z",
-          "wordCount": 2129,
-          "title": "Electric Land Speed Racing Can Be Lightning Fast"
+          "description": "Sometimes, walking even a short distance can grow boring if it’s a part of your regular routine. [Alexandre Chappel] found himself in just such a position, so elected to quickly …read more",
+          "link": "https://hackaday.com/2021/07/09/3d-printed-parts-make-for-a-quick-electric-scooter-build/",
+          "publishedOn": "2021-07-09T20:00:36.000Z",
+          "wordCount": 1164,
+          "title": "3D Printed Parts Make for a Quick Electric Scooter Build"
         },
         {
-          "id": "https://hackaday.com/?p=485639",
+          "id": "https://hackaday.com/?p=485203",
+          "author": "Tom Nardi",
+          "description": "Handling tiny surface mount components and inspecting PCBs is a lot easier with a nice stereo microscope, but because of their cost and bulk, most hobbyists have to do without. …read more",
+          "link": "https://hackaday.com/2021/07/09/raspberry-pi-cameras-stand-in-for-stereo-microscope/",
+          "publishedOn": "2021-07-09T18:30:00.000Z",
+          "wordCount": 1543,
+          "title": "Raspberry Pi Cameras Stand in for Stereo Microscope"
+        },
+        {
+          "id": "https://hackaday.com/?p=482085",
+          "author": "Maya Posch",
+          "description": "Even as we bask in the knowledge that our neighboring planet Mars is currently home to a multitude of still functional landers, a triplet of rovers and with an ever-growing …read more",
+          "link": "https://hackaday.com/2021/07/09/checking-up-on-earths-sister-planet-nasas-upcoming-venus-missions/",
+          "publishedOn": "2021-07-09T17:01:32.000Z",
+          "wordCount": 3406,
+          "title": "Checking Up On Earth’s Sister Planet: NASA’s Upcoming Venus Missions"
+        },
+        {
+          "id": "https://hackaday.com/?p=486045&preview=true&preview_id=486045",
           "author": "Dan Maloney",
-          "description": "Never underestimate the ingenuity of the demoscene. The self-imposed limitations lead to incredible creativity, and, the range of devices they manage to get their demos running on never ceases to …read more",
-          "link": "https://hackaday.com/2021/07/08/c64-demo-no-c64/",
-          "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 1637,
-          "title": "C64 Demo, No C64"
+          "description": "Hackaday editors Elliot Williams and Mike Szczys dive into a week of exceptional hacks. Tip-top of the list has to be the precision measuring instrument that uses a cable spooling …read more",
+          "link": "https://hackaday.com/2021/07/09/hackaday-podcast-126-cable-3d-scanner-tesla-charger-robot-ultrasonic-anemometer-and-a-zoetrope/",
+          "publishedOn": "2021-07-09T16:01:48.000Z",
+          "wordCount": 1227,
+          "title": "Hackaday Podcast 126: Cable 3D-Scanner, Tesla Charger Robot, Ultrasonic Anemometer, and a Zoetrope"
+        },
+        {
+          "id": "https://hackaday.com/?p=485216",
+          "author": "Danie Conradie",
+          "description": "Flying wings are popular options for fixed-wing FPV flying, but they have one rather annoying characteristic: yaw wag. The flying wing will wobble on the yaw axis while flying, and …read more",
+          "link": "https://hackaday.com/2021/07/09/eliminate-vertical-stabiliser-with-arduplane/",
+          "publishedOn": "2021-07-09T15:30:00.000Z",
+          "wordCount": 1281,
+          "title": "Eliminate Vertical Stabiliser with ArduPlane"
+        },
+        {
+          "id": "https://hackaday.com/?p=485862",
+          "author": "Jonathan Bennett",
+          "description": "For the second time, Microsoft has attempted and failed to patch the PrintNightmare vulnerability. Tracked initially as CVE-2021-1675, and the second RCE as CVE-2021-34527. We warned you about this last …read more",
+          "link": "https://hackaday.com/2021/07/09/this-week-in-security-print-nightmare-continues-ransomware-goes-bigger-and-atm-jackpots/",
+          "publishedOn": "2021-07-09T14:00:23.000Z",
+          "wordCount": 3117,
+          "title": "This Week in Security: Print Nightmare Continues, Ransomware Goes Bigger, And ATM Jackpots!"
         }
       ]
     },
@@ -524,6 +524,15 @@
       "feedUrl": "https://makezine.com/rss",
       "siteUrl": "https://makezine.com",
       "articles": [
+        {
+          "id": "https://makezine.com/2021/07/08/3d-modeling-for-makers/",
+          "author": null,
+          "description": "Lydia Sloan Cline is the author of Fusion 360 for Makers, which is out in a new second edition. She teaches 3D design and fabrication at Johnson County Community College in Overland Park, Kansas, where she began as a drafting professor with a degree in Architecture. In this episode of Make:cast, Patrick DiJusto, Make: Books […]\nThe post 3D Modeling for Makers appeared first on Make: DIY Projects and Ideas for Makers.",
+          "link": "https://makezine.com/2021/07/08/3d-modeling-for-makers/",
+          "publishedOn": "2021-07-09T05:52:53.000Z",
+          "wordCount": 4020,
+          "title": "3D Modeling for Makers"
+        },
         {
           "id": "https://makezine.com/2021/07/06/maker-spotlight-stefan-hermann-of-cnc-kitchen/",
           "author": null,
@@ -557,7 +566,7 @@
           "description": "Follow along as an artist shares the process of recreating the Fell Beast form the Lord Of The Rings\nThe post The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/28/the-making-of-lord-of-the-rings-inspired-fellbeast-head/",
           "publishedOn": "2021-06-28T15:00:00.000Z",
-          "wordCount": 2277,
+          "wordCount": 2278,
           "title": "The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head"
         },
         {
@@ -604,15 +613,6 @@
           "publishedOn": "2021-06-17T15:44:08.000Z",
           "wordCount": 1190,
           "title": "Where to Get Started in Digital Sculpting for 3D Printing"
-        },
-        {
-          "id": "https://makezine.com/2021/06/17/maker-spotlight-ben-davidson/",
-          "author": null,
-          "description": "Name  Ben Davidson Where are you located?  Plymouth, WI What is your day job?  Mechanical engineer www.Grabot.Tech What kinds of stuff do you make?  I make two armed robots, that can be simply controlled with RC.  How did you get started making stuff? As a kid I was always playing with Legos. I have improved […]\nThe post Maker Spotlight: Ben Davidson appeared first on Make: DIY Projects and Ideas for Makers.",
-          "link": "https://makezine.com/2021/06/17/maker-spotlight-ben-davidson/",
-          "publishedOn": "2021-06-17T14:19:00.000Z",
-          "wordCount": 1327,
-          "title": "Maker Spotlight: Ben Davidson"
         }
       ]
     },
@@ -621,6 +621,51 @@
       "feedUrl": "https://www.theguardian.com/us/technology/rss",
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/10/huawei-finance-chief-faces-setback-in-fight-against-us-extradition",
+          "author": "Staff and agencies in Vancouver",
+          "description": "Vancouver judge denies bid by Meng Wanzhou to add over 300 HSBC documents to her legal battle\nA Canadian judge has denied an application by Meng Wanzhou, the Huawei chief financial officer, to add documents her legal team received from HSBC as evidence to her US extradition case, the judge announced on Friday.\nMeng, 49, is facing extradition from Canada to the US on charges of bank fraud for allegedly misleading HSBC about Huawei’s business dealings in Iran, potentially causing the bank to break US sanctions. She has been held under house arrest in Vancouver since December 2018, when she was first detained.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/10/huawei-finance-chief-faces-setback-in-fight-against-us-extradition",
+          "publishedOn": "2021-07-09T22:58:49.000Z",
+          "wordCount": 522,
+          "title": "Huawei finance chief faces setback in fight against US extradition"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/jul/09/didi-the-latest-casualty-as-china-tackles-techs-barbaric-growth",
+          "author": "Vincent Ni China affairs correspondent",
+          "description": "Analysis: multiple state agencies have been drafting rules to regulate China’s booming, anarchic tech sector\nChina’s biggest ride-hailing company, Didi, is the latest casualty of Beijing’s effort to rein in upstart tech companies that had been left to their own devices in the absence of proper regulation.\nThe Cyberspace Administration of China’s ban on Didi listing its app on mobile app stores in China, only days after the company floated on the New York stock exchange, prompted a sharp selloff of Didi’s shares. The debacle has angered investors after it was reported that Chinese authorities had for months cautioned Didi against rushing into a US listing owing to data security concerns.\n Continue reading...",
+          "link": "https://www.theguardian.com/business/2021/jul/09/didi-the-latest-casualty-as-china-tackles-techs-barbaric-growth",
+          "publishedOn": "2021-07-09T11:57:52.000Z",
+          "wordCount": 905,
+          "title": "Didi the latest casualty as China tackles tech’s ‘barbaric growth’"
+        },
+        {
+          "id": "https://www.theguardian.com/culture/2021/jul/09/difficult-games-super-meat-boy-spelunky-dark-souls-returnal-cuphead-sekiro",
+          "author": "Keza MacDonald",
+          "description": "Roguelike shooters, punishing platformers and brutal, sword-heavy RPGs … not all great games have to be a walk in the park\n\nModern Toss on twiddling their thumbs\n\nIf you want to try and enjoy beautiful 1930s-style animation while being so frustrated that you nearly throw your controller at the wall, Cuphead is your game. It’s a run-and-gun cartoon caper that looks non-threatening but is actually evil. I had nightmares about one of its bosses (the transforming wedding-cake castle), but when I beat it I felt like an actual god.\nConsoles, Mac, PC\n Continue reading...",
+          "link": "https://www.theguardian.com/culture/2021/jul/09/difficult-games-super-meat-boy-spelunky-dark-souls-returnal-cuphead-sekiro",
+          "publishedOn": "2021-07-09T08:00:42.000Z",
+          "wordCount": 862,
+          "title": "From Cuphead to Super Meat Boy: 10 of the most fiendishly difficult games"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/jul/09/wild-tales-of-animal-trading-podcasts-of-the-week",
+          "author": "Hannah J Davies, Hannah Verdier and Elena Morresi",
+          "description": "The Natural History Museum’s new podcast covers poaching, smuggling and more. Plus: To Live and Die in LA returns, and Atlas Obscura offers instant wanderlust\nWild Crimes\nAs the Natural History Museum’s Tori Herridge informs us, wildlife crime is the fourth most lucrative illegal industry in the world, after narcotics, human trafficking and arms dealing. The first episode of this engaging podcast on the subject, helmed by Herridge and her colleague Khalil Thirlaway, considers the demand for pangolins, for the production of everything from wine to shoes. Episode two focuses on reptile smuggling, and episode three on the black market eel trade, with instalments on ivory, bushmeat, fossils and more on the way\nHannah J Davies\n Continue reading...",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/jul/09/wild-tales-of-animal-trading-podcasts-of-the-week",
+          "publishedOn": "2021-07-09T05:00:39.000Z",
+          "wordCount": 693,
+          "title": "Wild tales of illegal animal trading – podcasts of the week"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/jul/09/currency-and-control-why-china-wants-to-undermine-bitcoin",
+          "author": "Martin Farrer",
+          "description": "Beijing’s crackdown on cryptocurrencies has captured headlines, while behind the scenes its reserve bank set up its own digital currency\n\nFew would dispute that China’s recent crackdown on cryptocurrency trading and mining has contributed to the recent plunge in the value of bitcoin and other cryptos.\nBut while the argument rages about whether the volatility of cryptos is a sign of fundamental weakness or merely a bump along the road, the initiatives coming out of Beijing are being seen by experts as a sign of China’s attempts to incubate its own fledgling e-currency and reboot the international financial system.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/jul/09/currency-and-control-why-china-wants-to-undermine-bitcoin",
+          "publishedOn": "2021-07-09T00:38:18.000Z",
+          "wordCount": 1345,
+          "title": "Currency and control: why China wants to undermine bitcoin"
+        },
         {
           "id": "https://www.theguardian.com/technology/2021/jul/08/cryptocurrency-firm-circle-to-float-in-us-in-45bn-merger-deal-usd-coin",
           "author": "Mark Sweney",
@@ -631,21 +676,12 @@
           "title": "Cryptocurrency firm Circle to float in US in $4.5bn merger deal"
         },
         {
-          "id": "https://www.theguardian.com/us-news/2021/jul/07/will-trumps-big-tech-lawsuits-succeed-experts-say-chances-are-slim",
-          "author": "Kari Paul",
-          "description": "Legal scholars suggest former president’s complaint may bring the attention he craves but doesn’t present a serious legal argument\nDonald Trump may have filed lawsuits against Facebook, Twitter and YouTube, claiming he and other conservatives have been censored – but legal scholars say his case is probably doomed to fail. \nThe former president was suspended from Twitter, Facebook and YouTube after the 6 January Capitol attack over fears he would incite further violence. Trump on Wednesday filed class-action lawsuits in federal court in Miami against the three companies, arguing these suspensions violated the first amendment, despite the fact that the companies are private and therefore subject to different rules.\n“Trump has the first amendment argument exactly wrong,” said Paul Barrett, the deputy director of the NYU Stern Center for Business and Human Rights. “The first amendment applies to government censorship or speech regulation. It does not stop private sector corporations from regulating content on their platforms.”\n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/jul/07/will-trumps-big-tech-lawsuits-succeed-experts-say-chances-are-slim",
-          "publishedOn": "2021-07-07T21:32:52.000Z",
-          "wordCount": 906,
-          "title": "Will Trump’s big tech lawsuits succeed? Experts say chances are slim"
-        },
-        {
           "id": "https://www.theguardian.com/culture/2021/jul/08/montaigne-the-10-funniest-things-i-have-ever-seen-on-the-internet",
           "author": "Montaigne",
-          "description": "We ask Australian comedians to tell us where the funny stuff is online. Montaigne is not a comedian, but she does spent a lot of time on the internet\nHello! I’m Montaigne and I’m a singer-songwriter. I represented Australia at Eurovision this year (and, technically, last year as well). I’m currently writing songs for an indie video game and preparing to release new music, and I have just announced a tour. \nWhen I’m not doing these sorts of things, I’m on the internet. That’s right. I’m a little internet grub. More than anything, I love things that make me laugh. The internet: it makes me laugh. Here are some things that have made me bust my frickin’ guts.\n Continue reading...",
+          "description": "We ask Australian comedians to tell us where the funny stuff is online. Montaigne is not a comedian, but she does spend a lot of time on the internet\nHello! I’m Montaigne and I’m a singer-songwriter. I represented Australia at Eurovision this year (and, technically, last year as well). I’m currently writing songs for an indie video game and preparing to release new music, and I have just announced a tour. \nWhen I’m not doing these sorts of things, I’m on the internet. That’s right. I’m a little internet grub. More than anything, I love things that make me laugh. The internet: it makes me laugh. Here are some things that have made me bust my frickin’ guts.\n Continue reading...",
           "link": "https://www.theguardian.com/culture/2021/jul/08/montaigne-the-10-funniest-things-i-have-ever-seen-on-the-internet",
           "publishedOn": "2021-07-07T17:30:39.000Z",
-          "wordCount": 983,
+          "wordCount": 991,
           "title": "Montaigne: the 10 funniest things I have ever seen (on the internet)"
         },
         {
@@ -748,15 +784,6 @@
           "title": "Venu 2 review: can Garmin make a good smartwatch?"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/jul/04/this-space-race-has-its-downside-rocketwoman-wally-funk-joins-crew-for-jeff-bezoss-ego-trip",
-          "author": "Ed Cumming",
-          "description": "The veteran US pilot is set to become the oldest woman in space – the only snag is she has to go with the Amazon billionaire \nYou have to feel for the American pilot Wally Funk. You would sympathise with anyone with that name, but she has had a particularly mixed week. On one hand, at 82, she is set to finally fulfil her life’s ambition and travel into space. Funk was one of the most promising female candidates for the Mercury 13 programme in the 1960s, but was denied a spot because of her gender. Right stuff, wrong parts. On Thursday, the Amazon founder, Jeff Bezos, announced on Instagram that Wally would become the oldest person in space as one of the four passengers on New Shepard, the rocket being launched by his company Blue Origin on 20 July. “I didn’t think I’d ever get to go up,” Funk said in an interview.\nThe obvious downside, which she was too polite to mention, is that she has to ride with Bezos, his brother and one other, in a kind of UberPool from hell. She ought to have been more specific to the genie. Midlife does strange things to men, and so does being a billionaire. The combination leads to some odd outcomes. Not content with building his own rockets, Jeff, as he approaches 60, has decided to start riding them as well. Towers and yachts are so passé. Private space travel is the thing. Elon Musk is at it, too, and presumably a load of guys in China.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/04/this-space-race-has-its-downside-rocketwoman-wally-funk-joins-crew-for-jeff-bezoss-ego-trip",
-          "publishedOn": "2021-07-04T09:00:17.000Z",
-          "wordCount": 991,
-          "title": "This space race has its downside… Rocketwoman Wally Funk joins crew for Jeff Bezos’s ego trip"
-        },
-        {
           "id": "https://www.theguardian.com/tv-and-radio/2021/jul/03/pieces-of-britney-review-elon-musk-the-evening-rocket-human-resources-the-essay-caribbean-voices-the-kindness-experiment",
           "author": "Miranda Sawyer",
           "description": "Radio 4 series on Britney Spears’s troubles and Elon Musk’s space ambitions highlight society’s double standards\nPieces of Britney (Radio 4) | BBC Sounds\nElon Musk: The Evening Rocket (Radio 4) | BBC Sounds\nHuman Resources Broccoli Productions | Spotify\nThe Essay: Caribbean Voices (Radio 3) | BBC Sounds\nThe Kindness Experiment (Radio 4) | BBC Sounds\nBritney Spears has been in the news a lot over the past few weeks. Her recent court plea to be released from legal conservatorship was horrible and shocking; and also rejected. Judge Brenda Penny ruled last Wednesday that the current situation – where Britney’s father Jamie is a co-conservator, even though he’s ill – should stay in place. Pain, when expressed by a woman, is often disbelieved and ignored.\n Continue reading...",
@@ -766,13 +793,13 @@
           "title": "The week in audio: Pieces of Britney; Elon Musk: The Evening Rocket; Human Resources and more"
         },
         {
-          "id": "https://www.theguardian.com/business/2021/jul/03/only-batteries-have-the-power-to-save-british-carmaking",
-          "author": "Gwyn Topham",
-          "description": "Nissan’s ‘gigafactory’ in Sunderland must be the first of many sites if the UK is to compete in the electric vehicle era\nThe British government’s £100m-plus commitment to secure Nissan’s battery gigafactory for Sunderland has been like gadget-shopping on Amazon writ large: splurging on some new technology that has suddenly become essential – and then being immediately prompted to buy another six.\nThis time, though, duplicating the spending looks more sensible. More gigafactories – or plain old big battery factories – are not essential for the UK to transition to using electric vehicles (EVs). But they certainly will be if Britain hopes to keep making, selling and exporting its own cars.\n Continue reading...",
-          "link": "https://www.theguardian.com/business/2021/jul/03/only-batteries-have-the-power-to-save-british-carmaking",
-          "publishedOn": "2021-07-03T15:00:55.000Z",
-          "wordCount": 996,
-          "title": "Only batteries have the power to save British carmaking"
+          "id": "https://www.theguardian.com/technology/commentisfree/2021/jul/03/enjoy-the-restored-night-watch-but-dont-ignore-the-machine-behind-the-rembrandt",
+          "author": "John Naughton",
+          "description": "The computer restoration of this masterpiece illustrates both the benefits and the dangers of AI\nIn the late 1970s I lived and worked briefly in the Netherlands. Often, on Sundays, I would travel to Amsterdam, go to the morning concert in the Spiegelzaal of the Concertgebouw, and afterwards walk over to the Rijksmuseum, Holland’s national gallery, and spend a couple of hours there. The museum is a wonderful storehouse of Dutch art and there was always much to explore. But on nearly every visit I found myself being drawn back to one of Rembrandt’s most famous pictures – The Night Watch – which I guess is to the Rijksmuseum what the Mona Lisa is to the Louvre.\nIts official title is Militia Company of District II under the Command of Captain Frans Banninck Cocq. It came to be called The Night Watch because by the end of the 18th century it had darkened considerably through the accumulation of layers of dirt and varnish, leading to the belief that the painted scene had occurred after dusk.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/commentisfree/2021/jul/03/enjoy-the-restored-night-watch-but-dont-ignore-the-machine-behind-the-rembrandt",
+          "publishedOn": "2021-07-03T15:00:56.000Z",
+          "wordCount": 1174,
+          "title": "Enjoy the restored Night Watch, but don’t ignore the machine behind the Rembrandt"
         },
         {
           "id": "https://www.theguardian.com/games/2021/jul/03/umurangi-generation-review-photography-hide-and-seek-maori",
@@ -782,15 +809,6 @@
           "publishedOn": "2021-07-03T12:00:51.000Z",
           "wordCount": 514,
           "title": "Umurangi Generation review – chic photographic hide-and-seek"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos",
-          "author": "Rupert Neate Wealth correspondent and Sarah Butler",
-          "description": "The elevation of the man behind the Cloud while Jeff Bezos relinquishes day-to-day control, comes at a critical time for Amazon \nAndy Jassy made a powerful – and painful – first impression on the billionaire Amazon founder Jeff Bezos soon after he joined the then start-up bookseller in 1997.\nDuring a rambunctious game of “broomball” – a cross between lacrosse and football that another Amazon executive invented and is still overly competitively played at the company – Jassy, then a fresh-faced recruit from Harvard Business School, accidentally hit Bezos over the head with a kayak paddle.\n Continue reading...",
-          "link": "https://www.theguardian.com/business/2021/jul/03/who-is-andy-jassy-new-amazon-ceo-jeff-bezos",
-          "publishedOn": "2021-07-03T05:00:44.000Z",
-          "wordCount": 1492,
-          "title": "Andy Jassy steps out of the shadows – so who exactly is Amazon’s new CEO?"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya",
@@ -856,15 +874,6 @@
           "title": "Amazon crushed the Alabama union drive – can the Teamsters do better?"
         },
         {
-          "id": "https://www.theguardian.com/games/2021/jun/24/e3-2021-20-best-games",
-          "author": "Keith Stuart",
-          "description": "This year’s all-digital video game expo involved a deluge of livestreams showcasing upcoming excitements. Here are our picks\nThe chaotic mini-game series is making a really welcome return, this time featuring two-player co-op. The new vignette challenges range from avoiding bird plops to tweaking someone’s nipple hair. Classic Wario.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jun/24/e3-2021-20-best-games",
-          "publishedOn": "2021-06-24T08:00:51.000Z",
-          "wordCount": 1242,
-          "title": "E3 2021: 20 games to watch"
-        },
-        {
           "id": "https://www.theguardian.com/film/2021/jun/23/sweat-review-the-loneliness-of-the-social-media-influencer-magdalena-kolesnik",
           "author": "Peter Bradshaw",
           "description": "Magnus von Horn’s contrived Polish drama about a fitness guru promises more in shock and character than it delivers\nIn theory, it should be possible to create a drama about a social media influencer and motivational fitness celebrity that isn’t all about the hidden loneliness and shame of her shallow existence. It should be possible to show such a person being a huge hit in public and perfectly content in private. But this movie from Poland-based Swedish director Magnus von Horn pretty much goes for route one, and despite some interesting touches, it promises much more in terms of shock and character insight than it ever really delivers, with some contrived and unconvincing plot transitions.\nSylwia (Magdalena Koleśnik) has 600,000 followers for the Instagram account on which she obsessively posts, detailing every aspect of her day as a successful single woman, running colossally popular fitness events with her beefcake male assistant Klaudiusz (Julian Świeżewski). He clearly has a major thing for her, though at one crucial moment he shows a very implausible kind of restraint. She is living in a sleek apartment with her adorable dog, Jackson; there’s a new fitness DVD out and everything seems to be going well.\n Continue reading...",
@@ -872,15 +881,6 @@
           "publishedOn": "2021-06-23T13:00:28.000Z",
           "wordCount": 528,
           "title": "Sweat review – the loneliness of the social media influencer"
-        },
-        {
-          "id": "https://www.theguardian.com/games/2021/jun/23/the-15-greatest-video-games-of-the-1990s-ranked",
-          "author": "Keza MacDonald and Keith Stuart",
-          "description": "It was the decade Sonic the Hedgehog, the original PlayStation, the Nintendo 64 and so much more entered the world – here are the 15 best games of this golden age of gaming\nOf all LucasArts’ memorable, quip-fuelled point and click adventures – from dark afterlife comedy Grim Fandango to the surrealist Day of the Tentacle – it’s Monkey Island 2 that gets the most love nowadays, and justifiably so. The puzzles were just on the right side of deliberately obscure, the characters were strange and colourful, and the music unforgettable. And that ending still sparks discussion, 30 years on.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jun/23/the-15-greatest-video-games-of-the-1990s-ranked",
-          "publishedOn": "2021-06-23T10:45:25.000Z",
-          "wordCount": 1728,
-          "title": "The 15 greatest video games of the 1990s – ranked!"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/jun/23/nfts-and-me-meet-the-people-trying-to-sell-their-memes-for-millions",
