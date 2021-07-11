@@ -1,18 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-10T00:32:41.564Z</id>
+    <id>urn:2021-07-11T00:36:17.616Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T00:32:41.564Z</updated>
+    <updated>2021-07-11T00:36:17.616Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Custom Car Horn Makes Many Sounds]]></title>
-        <id>https://hackaday.com/?p=485891</id>
-        <link href="https://hackaday.com/2021/07/09/custom-car-horn-makes-many-sounds/"/>
-        <updated>2021-07-09T23:00:59.000Z</updated>
-        <summary type="html"><![CDATA[A regular car horn is fine, but lacks finesse for more subtle communication. For example, some car horns aren’t particularly adept at short indicatory honks, and can only blare loudly …read more]]></summary>
+        <title type="html"><![CDATA[Is It A Cyberdeck Or A Vintage Toshiba?]]></title>
+        <id>https://hackaday.com/?p=485284</id>
+        <link href="https://hackaday.com/2021/07/10/is-it-a-cyberdeck-or-a-vintage-toshiba/"/>
+        <updated>2021-07-10T23:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Cyberdecks, the portable computers notable for a freely expressed form factor, owe much to post-apocalyptic sci-fi. But they are not always the most practical devices. There’s a reason that all …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skin-Mounted Wearable Bend Sensor Gets Close and Personal]]></title>
+        <id>https://hackaday.com/?p=485145</id>
+        <link href="https://hackaday.com/2021/07/10/skin-mounted-wearable-bend-sensor-gets-close-and-personal/"/>
+        <updated>2021-07-10T20:01:31.000Z</updated>
+        <summary type="html"><![CDATA[[Mikst] has been working on wearable electronics and sensors for a long time, and shared the results of a different kind of bend sensor that fits directly onto the skin. …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cold Call a Job Recruiter (and Why You Should)]]></title>
+        <id>1847259887</id>
+        <link href="https://lifehacker.com/how-to-cold-call-a-job-recruiter-and-why-you-should-1847259887"/>
+        <updated>2021-07-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest Bureau of Labor Statistics report says the U.S. added 850,000 jobs in June, and who knows—one of those could be your dream job! Or your dream job could be one that hasn’t been made up yet, but might be, if the decision-makers at the right company only knew about you, your skills, and your goals.
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clean Reusable Straws (Because Yours Are Probably Gross)]]></title>
+        <id>1847263628</id>
+        <link href="https://lifehacker.com/how-to-clean-reusable-straws-because-yours-are-probabl-1847263628"/>
+        <updated>2021-07-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When people make the switch to reusable straws, it is usually with the best intentions—specifically, cutting down on the amount of landfill garbage they produce everyday. They’re great the first time you use them, but before long, the entire set is sitting at bottom of the sink, and you’re out of clean straws.
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Big Ol’ Powerful Wheelbarrow]]></title>
+        <id>https://hackaday.com/?p=485885</id>
+        <link href="https://hackaday.com/2021/07/10/building-a-big-ol-powerful-wheelbarrow/"/>
+        <updated>2021-07-10T17:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you’ve gotta haul big heavy loads around a wide area. Regular wheelbarrows are fine, but it can quickly grow tiring when one has to make multiple trips. [Workshop from …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Take Screenshots on the Xbox Series X|S Outside of Gameplay]]></title>
+        <id>1847257809</id>
+        <link href="https://lifehacker.com/how-to-take-screenshots-on-the-xbox-series-x-s-outside-1847257809"/>
+        <updated>2021-07-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gaming on the Xbox Series X|S is a hoot and a half, but there is one thing about the console that’s made me want to tear my hair out: It doesn’t let you quickly take screenshots outside of gameplay. If you want to show off your home screen or take a few screenshots of your settings pages, the Xbox just doesn’t make it…
+Read more...]]></summary>
+        <author>
+            <name>Pranay Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Force Restart Any iPhone or iPad]]></title>
+        <id>1847257706</id>
+        <link href="https://lifehacker.com/how-to-force-restart-any-iphone-or-ipad-1847257706"/>
+        <updated>2021-07-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If your iPhone or iPad is frozen or not recognizing touchscreen inputs, a forced restart may be necessary to get it working again. The force restart method allows you to shut down and reboot the iPhone without using the touchscreen.
+
+Read more...]]></summary>
+        <author>
+            <name>Pranay Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How bitcoin and Putin are enabling the ransomware crime spree | John Naughton]]></title>
+        <id>https://www.theguardian.com/commentisfree/2021/jul/10/how-bitcoin-and-putin-are-enabling-the-ransomware-spree</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/jul/10/how-bitcoin-and-putin-are-enabling-the-ransomware-spree"/>
+        <updated>2021-07-10T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[A combination of cyber attackers’ increased sophistication, the availability of cryptocurrencies and the activities of Russian security agencies has created a perfect storm
+I’ve just visited the Kaseya website. “We Are Kaseya,” it burbles cheerfully. “Providing you with best-in-breed technologies that allow you to efficiently manage, secure and back up IT under a single pane of glass.
+“Technology,” it continues, “is the backbone of all modern business. Small to mid-size businesses deserve powerful security and IT management tools that are efficient, cost-effective, and secure. Enter Kaseya. We exist to help multi-function IT professionals get the most out of their IT tool stack.”
+ Continue reading...]]></summary>
+        <author>
+            <name>John Naughton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earn $1,500 to Go Camping for 3 Nights and Rate Your Sleep Quality]]></title>
+        <id>1847263612</id>
+        <link href="https://lifehacker.com/earn-1-500-to-go-camping-for-3-nights-and-rate-your-sl-1847263612"/>
+        <updated>2021-07-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the rise of glamping and other high-end, not-at-all-roughing-it experiences, our concept of camping has changed a lot. But there are some people who genuinely enjoy going through all the hassle of setting up a tent for the night (or a few nights), unrolling a sleeping bag, and sleeping on the ground. If you fall…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can’t Fix What You Can’t Measure]]></title>
+        <id>https://hackaday.com/?p=486187</id>
+        <link href="https://hackaday.com/2021/07/10/you-cant-fix-what-you-cant-measure/"/>
+        <updated>2021-07-10T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year, as my Corona Hobby™, I took up RC plane flying. I started out with discus-launched gliders, and honestly that’s still my main love, but there’s only so much …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If Your Chicken Is Part of the 9 Million Pound Recall]]></title>
+        <id>1847263547</id>
+        <link href="https://lifehacker.com/how-to-tell-if-your-chicken-is-part-of-the-9-million-po-1847263547"/>
+        <updated>2021-07-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fully cooked, ready-to-eat chicken may be a convenient way to add some protein to a meal, but if you have any in your fridge right now, you’re going to want to check the label. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Let Go of Parental Guilt and Forgive Yourself]]></title>
+        <id>1847255690</id>
+        <link href="https://lifehacker.com/how-to-let-go-of-parental-guilt-and-forgive-yourself-1847255690"/>
+        <updated>2021-07-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a moment (or several moments) in every parent’s life they wish they could take back. It could be as simple as the first time you ever raised your voice and caused your child to cry, the thoughtless thing you said that hurt their feelings, or the preventable accident that resulted in a trip to the emergency…
+Read more...]]></summary>
+        <author>
+            <name>Jason Keil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractal Vise Holds Odd-Shaped Objects Tight]]></title>
+        <id>https://hackaday.com/?p=485889</id>
+        <link href="https://hackaday.com/2021/07/10/fractal-vise-holds-odd-shaped-objects-tight/"/>
+        <updated>2021-07-10T11:01:56.000Z</updated>
+        <summary type="html"><![CDATA[A regular vice is great if you want to clamp rectangular objects, but it can fall down a little with more complex shapes. Inspired by an ancient vise [Chris Borge] …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vancouver judge’s decision over Huawei finance chief may deepen US-China row]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/10/vancouver-judges-decision-over-huawei-finance-chief-may-deepen-us-china-row</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/10/vancouver-judges-decision-over-huawei-finance-chief-may-deepen-us-china-row"/>
+        <updated>2021-07-10T10:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Judge refuses to admit new evidence that might have helped Meng Wanzhou avoid extradition to US
+The prospect of a deepening diplomatic row between the US and China has grown after a Canadian judge refused to admit new evidence that might have helped the Huawei chief financial officer, Meng Wanzhou, avoid extradition to the US.
+The arrest of Meng, the daughter of the Chinese telecommunication company’s billionaire founder, has prompted a sharp deterioration in relations between Canada, the US and China. Soon after Meng’s detention in Vancouver in December 2018, China arrested two Canadians in China: Michael Spavor and Michael Kovrig.
+ Continue reading...]]></summary>
+        <author>
+            <name>Patrick Wintour Diplomatic editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinTok: how TikTok is helping young people use cash wisely]]></title>
+        <id>https://www.theguardian.com/money/2021/jul/10/fintok-how-tiktok-is-helping-young-people-use-cash-wisely</id>
+        <link href="https://www.theguardian.com/money/2021/jul/10/fintok-how-tiktok-is-helping-young-people-use-cash-wisely"/>
+        <updated>2021-07-10T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[It’s not just jokes and emojis – the video-sharing platform can help users learn how to manage money
+Sea shanties and viral dance trends have helped make TikTok a hit since the start of the pandemic. In 2020, the social media app, which allows users to create and share one or more 60-second films soundtracked with music clips, surpassed 2bn global downloads.
+In the financial world, TikTok has a reputation for promoting volatile cryptocurrencies and activist investing – interest in Dogecoin and GameStop has been fuelled by the platform. But, beyond the jokes and rocket emojis being shared by some users, there is a wealth of practical personal finance videos that are teaching young people how to use their money better.
+ Continue reading...]]></summary>
+        <author>
+            <name>Ellie House</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Where else can I make a month’s rent in two days?’: the unlikely stars of OnlyFans]]></title>
+        <id>https://www.theguardian.com/media/2021/jul/10/where-else-can-i-make-a-months-rent-in-two-days-the-unlikely-stars-of-onlyfans</id>
+        <link href="https://www.theguardian.com/media/2021/jul/10/where-else-can-i-make-a-months-rent-in-two-days-the-unlikely-stars-of-onlyfans"/>
+        <updated>2021-07-10T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Clarita needed to put herself through nursing school; Lex wanted to boost his income as a labourer – now they are erotic influencers on the subscriber site
+In many ways, Lex Lederman, 28, is a classic American family man. He owns a farm in New Hampshire, where he lives with his wife and three children (plus a sizable company of chickens, pigs and geese). He’s teaching himself home renovation (plumbing, electrics, how to lay floors) and regularly helps out with homeless food charities, refugee relief, and the local high school football team. But this lifestyle has only become possible since he quit his construction job for a full-time career on OnlyFans – the content subscription service where he uploads erotic pictures and videos for his predominantly gay male fanbase.
+One of the biggest tech success stories of the last few years, OnlyFans was founded by British entrepreneur Tim Stokely in September 2016. “You could see the explosion of influencer marketing, but the influencers were getting paid via ad campaigns and product endorsements,” he explained in an interview earlier this year. “Our thinking was always, OK, what if you could build a platform where it’s similar to existing on social media, but with the key difference being the payment button?” Stokely is now worth an estimated $120m (£86m).
+ Continue reading...]]></summary>
+        <author>
+            <name>Emma Garland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up Close and Personal With Some Busted Avionics]]></title>
+        <id>https://hackaday.com/?p=486137</id>
+        <link href="https://hackaday.com/2021/07/10/up-close-and-personal-with-some-busted-avionics/"/>
+        <updated>2021-07-10T08:01:39.000Z</updated>
+        <summary type="html"><![CDATA[When he found this broken Narco DME 890 that was headed for the trash, [Yeo Kheng Meng] did what any self-respecting hardware hacker would do: he took it back to …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard Branson’s quest: to boldly go where no billionaire has gone before]]></title>
+        <id>https://www.theguardian.com/science/2021/jul/10/richard-branson-virgin-galactic-flight-billionaire-space-tourism-race-jeff-bezos</id>
+        <link href="https://www.theguardian.com/science/2021/jul/10/richard-branson-virgin-galactic-flight-billionaire-space-tourism-race-jeff-bezos"/>
+        <updated>2021-07-10T06:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Successful flight on Virgin Galactic craft would mark the next phase of space tourism race with Jeff Bezos
+It does not often rain in Las Cruces, New Mexico. Nevertheless, Sir Richard Branson is likely to feel nervous as he checks the weather forecast on Sunday morning: if there are blue skies ahead then the British entrepreneur is likely to become the richest person ever to venture into space.
+Branson and his team – two pilots and three other “mission specialists” – will strap into the spacecraft, the VSS Unity. If all goes well Branson and co will be propelled 50 miles above the Earth’s surface, the point considered by Nasa, the US space agency, to mark the end of the Earth’s atmosphere.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jasper Jolly and Gwyn Topham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Automation for Fans of Quick-and-Dirty Solutions]]></title>
+        <id>https://hackaday.com/?p=485670</id>
+        <link href="https://hackaday.com/2021/07/09/a-home-automation-solution-for-fans-of-quick-and-dirty-solutions/"/>
+        <updated>2021-07-10T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[At Hackaday, we celebrate all kinds of projects, but we’ll have to admit that the polished and professional-looking builds tend to catch our eye a lot more than perhaps they …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -58,16 +261,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Parts Make for a Quick Electric Scooter Build]]></title>
-        <id>https://hackaday.com/?p=485882</id>
-        <link href="https://hackaday.com/2021/07/09/3d-printed-parts-make-for-a-quick-electric-scooter-build/"/>
-        <updated>2021-07-09T20:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes, walking even a short distance can grow boring if it’s a part of your regular routine. [Alexandre Chappel] found himself in just such a position, so elected to quickly …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
         </author>
     </entry>
     <entry>
@@ -126,16 +319,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi Cameras Stand in for Stereo Microscope]]></title>
-        <id>https://hackaday.com/?p=485203</id>
-        <link href="https://hackaday.com/2021/07/09/raspberry-pi-cameras-stand-in-for-stereo-microscope/"/>
-        <updated>2021-07-09T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Handling tiny surface mount components and inspecting PCBs is a lot easier with a nice stereo microscope, but because of their cost and bulk, most hobbyists have to do without. …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[24 of the Best Comic Book Adaptations That Aren't Marvel or DC]]></title>
         <id>1847258633</id>
         <link href="https://lifehacker.com/24-of-the-best-comic-book-adaptations-that-arent-marvel-1847258633"/>
@@ -155,16 +338,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking Up On Earth’s Sister Planet: NASA’s Upcoming Venus Missions]]></title>
-        <id>https://hackaday.com/?p=482085</id>
-        <link href="https://hackaday.com/2021/07/09/checking-up-on-earths-sister-planet-nasas-upcoming-venus-missions/"/>
-        <updated>2021-07-09T17:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Even as we bask in the knowledge that our neighboring planet Mars is currently home to a multitude of still functional landers, a triplet of rovers and with an ever-growing …read more]]></summary>
-        <author>
-            <name>Maya Posch</name>
         </author>
     </entry>
     <entry>
@@ -190,16 +363,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackaday Podcast 126: Cable 3D-Scanner, Tesla Charger Robot, Ultrasonic Anemometer, and a Zoetrope]]></title>
-        <id>https://hackaday.com/?p=486045&amp;preview=true&amp;preview_id=486045</id>
-        <link href="https://hackaday.com/2021/07/09/hackaday-podcast-126-cable-3d-scanner-tesla-charger-robot-ultrasonic-anemometer-and-a-zoetrope/"/>
-        <updated>2021-07-09T16:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Hackaday editors Elliot Williams and Mike Szczys dive into a week of exceptional hacks. Tip-top of the list has to be the precision measuring instrument that uses a cable spooling …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What to Do When You See Your Ex on a Date]]></title>
         <id>1847257072</id>
         <link href="https://lifehacker.com/what-to-do-when-you-see-your-ex-on-a-date-1847257072"/>
@@ -222,16 +385,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eliminate Vertical Stabiliser with ArduPlane]]></title>
-        <id>https://hackaday.com/?p=485216</id>
-        <link href="https://hackaday.com/2021/07/09/eliminate-vertical-stabiliser-with-arduplane/"/>
-        <updated>2021-07-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Flying wings are popular options for fixed-wing FPV flying, but they have one rather annoying characteristic: yaw wag. The flying wing will wobble on the yaw axis while flying, and …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Out-of-Touch Adults' Guide To Kid Culture: Could We Really Colonize Venus?]]></title>
         <id>1847249246</id>
         <link href="https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-could-we-1847249246"/>
@@ -251,16 +404,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Read more...]]></summary>
         <author>
             <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week in Security: Print Nightmare Continues, Ransomware Goes Bigger, And ATM Jackpots!]]></title>
-        <id>https://hackaday.com/?p=485862</id>
-        <link href="https://hackaday.com/2021/07/09/this-week-in-security-print-nightmare-continues-ransomware-goes-bigger-and-atm-jackpots/"/>
-        <updated>2021-07-09T14:00:23.000Z</updated>
-        <summary type="html"><![CDATA[For the second time, Microsoft has attempted and failed to patch the PrintNightmare vulnerability. Tracked initially as CVE-2021-1675, and the second RCE as CVE-2021-34527. We warned you about this last …read more]]></summary>
-        <author>
-            <name>Jonathan Bennett</name>
         </author>
     </entry>
     <entry>
@@ -294,19 +437,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Didi the latest casualty as China tackles tech’s ‘barbaric growth’]]></title>
-        <id>https://www.theguardian.com/business/2021/jul/09/didi-the-latest-casualty-as-china-tackles-techs-barbaric-growth</id>
-        <link href="https://www.theguardian.com/business/2021/jul/09/didi-the-latest-casualty-as-china-tackles-techs-barbaric-growth"/>
-        <updated>2021-07-09T11:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Analysis: multiple state agencies have been drafting rules to regulate China’s booming, anarchic tech sector
-China’s biggest ride-hailing company, Didi, is the latest casualty of Beijing’s effort to rein in upstart tech companies that had been left to their own devices in the absence of proper regulation.
-The Cyberspace Administration of China’s ban on Didi listing its app on mobile app stores in China, only days after the company floated on the New York stock exchange, prompted a sharp selloff of Didi’s shares. The debacle has angered investors after it was reported that Chinese authorities had for months cautioned Didi against rushing into a US listing owing to data security concerns.
- Continue reading...]]></summary>
-        <author>
-            <name>Vincent Ni China affairs correspondent</name>
         </author>
     </entry>
     <entry>
@@ -445,84 +575,6 @@ But while the argument rages about whether the volatility of cryptos is a sign o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Grow Vines on Your Pergola]]></title>
-        <id>1847253136</id>
-        <link href="https://lifehacker.com/how-to-grow-vines-on-your-pergola-1847253136"/>
-        <updated>2021-07-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An outdoor space is a bonus wherever you live, especially if you have the room to create some outdoor seating. Structures like a pergola provide protection from the sun and lend a certain bit of style to your yard—but they can bring more of both if you cover them in creeping vines. 
-These tall, often wooden structures…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 of Our Best Fitness Hacks of 2021 So Far]]></title>
-        <id>1847254893</id>
-        <link href="https://lifehacker.com/11-of-our-best-fitness-hacks-of-2021-so-far-1847254893"/>
-        <updated>2021-07-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re only halfway into the year, but there’s been a lot to talk about in the fitness world. Whether you’re returning to the gym, getting serious for the first time, or just chugging along with a consistent routine, we’ve had plenty of fitness advice for you. Here’s a highlight reel of the best of it this year—so far.
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Understand Astrology, Even If You Don't Believe In It]]></title>
-        <id>1847252102</id>
-        <link href="https://lifehacker.com/why-you-should-understand-astrology-even-if-you-think-1847252102"/>
-        <updated>2021-07-08T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I never look to the sky for advice, or thought that planetary alignment on my birthday—July 5, 1989—helps explain why I struggle with anxiety and like wrestling and playing the drums. I don’t think those things are preordained by the cosmos, but you might be led to believe otherwise if you are really into astrology. 
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Just Got More Protections From Unscrupulous Lenders Trying to Foreclose on Your Home]]></title>
-        <id>1847253500</id>
-        <link href="https://lifehacker.com/you-just-got-more-protections-from-unscrupulous-lenders-1847253500"/>
-        <updated>2021-07-08T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With millions of homeowners behind on their mortgage payments, and a looming foreclosure moratorium that expires July 31, the Consumer Financial Protection Bureau (CFPB) has added some new protections to help borrowers keep their homes. However, since lenders don’t always follow the rules, you’ll want to know what…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Passport for the First Time]]></title>
-        <id>1843395448</id>
-        <link href="https://lifehacker.com/how-to-get-a-passport-for-the-first-time-1843395448"/>
-        <updated>2021-07-08T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the first rites of passage for any traveler is getting your passport. And while some people have been traveling internationally since they were little, plenty of others have never had a passport and don’t know how to get the process started. This information is for them. (Please note: The procedures described…
-Read more...]]></summary>
-        <author>
-            <name>Imani Bashir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do Now That Those 'PrintNightmare' Windows Patches Didn't Work [Updated]]]></title>
-        <id>1847221653</id>
-        <link href="https://lifehacker.com/how-to-avoid-windows-printnightmare-security-threat-1847221653"/>
-        <updated>2021-07-08T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft recently released emergency patches to fix a major zero-day security flaw in Windows’ Print Spooler code dubbed “PrintNightmare,” but they didn’t fix the problem. Security researchers discovered the vulnerability is still present on several versions of Windows even after the patch (via TechRadar), leaving…
-Read more...]]></summary>
-        <author>
-            <name>Brendan Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perk Up a Sad, Stale Croissant in Your Air Fryer]]></title>
-        <id>1847252762</id>
-        <link href="https://lifehacker.com/perk-up-a-sad-stale-croissant-in-your-air-fryer-1847252762"/>
-        <updated>2021-07-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is something very alluring about the large, plastic-domed containers of croissants you see at the grocery store and Costco, but I rarely give in to their buttery siren song. It’s just too stressful! But last week, I saw a 12-pack on sale for a mere three (3) American dollars, and I could resist no longer. I…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cryptocurrency firm Circle to float in US in $4.5bn merger deal]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/08/cryptocurrency-firm-circle-to-float-in-us-in-45bn-merger-deal-usd-coin</id>
         <link href="https://www.theguardian.com/technology/2021/jul/08/cryptocurrency-firm-circle-to-float-in-us-in-45bn-merger-deal-usd-coin"/>
@@ -597,16 +649,16 @@ The post Female -vs- Male Squash Flowers: How To Tell The Difference appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Montaigne: the 10 funniest things I have ever seen (on the internet)]]></title>
-        <id>https://www.theguardian.com/culture/2021/jul/08/montaigne-the-10-funniest-things-i-have-ever-seen-on-the-internet</id>
-        <link href="https://www.theguardian.com/culture/2021/jul/08/montaigne-the-10-funniest-things-i-have-ever-seen-on-the-internet"/>
-        <updated>2021-07-07T17:30:39.000Z</updated>
-        <summary type="html"><![CDATA[We ask Australian comedians to tell us where the funny stuff is online. Montaigne is not a comedian, but she does spend a lot of time on the internet
-Hello! I’m Montaigne and I’m a singer-songwriter. I represented Australia at Eurovision this year (and, technically, last year as well). I’m currently writing songs for an indie video game and preparing to release new music, and I have just announced a tour. 
-When I’m not doing these sorts of things, I’m on the internet. That’s right. I’m a little internet grub. More than anything, I love things that make me laugh. The internet: it makes me laugh. Here are some things that have made me bust my frickin’ guts.
+        <title type="html"><![CDATA[US urged to investigate deceptive Facebook ads tied to rightwing group]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/07/facebook-ads-turning-point-usa-rally-forge</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/07/facebook-ads-turning-point-usa-rally-forge"/>
+        <updated>2021-07-07T15:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Watchdog calls for inquiry after Guardian investigation reveals ‘Green party’ ads were placed by conservative marketing firm
+A campaign finance watchdog group has requested that the justice department open a criminal investigation into the figures behind a series of deceptive Facebook ads that promoted Green party candidates in the 2018 midterm elections.
+A Guardian investigation recently revealed that the ads were placed by a major conservative marketing firm, contradicting an inquiry by the Federal Election Commission (FEC), which accepted the statement of Evan Muhlstein that he was responsible for the ads and had failed to comply with FEC reporting requirements due to “inexperience”.
  Continue reading...]]></summary>
         <author>
-            <name>Montaigne</name>
+            <name>Julia Carrie Wong</name>
         </author>
     </entry>
     <entry>
@@ -643,19 +695,6 @@ The Thompson Twins Adventure Game came cover-mounted on a 1984 issue of the belo
  Continue reading...]]></summary>
         <author>
             <name>Will Freeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who’s behind the Kaseya ransomware attack – and why is it so dangerous?]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-attack-explained-russia-hackers</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-attack-explained-russia-hackers"/>
-        <updated>2021-07-07T05:00:24.000Z</updated>
-        <summary type="html"><![CDATA[The breach has affected hundreds of businesses around the world, and experts fear the worst is yet to come
-Hackers last week infiltrated a Florida-based information technology firm and deployed a ransomware attack, seizing troves of data and demanding $70m in payment for its return.
-The hack of the Kaseya firm, which is already being called “the biggest ransomware attack on record”, has affected hundreds of businesses globally, including supermarkets in Sweden and schools in New Zealand.
- Continue reading...]]></summary>
-        <author>
-            <name>Kari Paul in San Francisco</name>
         </author>
     </entry>
     <entry>
@@ -722,20 +761,6 @@ An upgraded model of Nintendo’s successful console has been rumoured for the p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘I can’t remember feeling as excited about the future’: redesigning space travel for women]]></title>
-        <id>https://www.theguardian.com/careers/2021/jul/06/i-cant-remember-feeling-as-excited-about-the-future-redesigning-space-travel-for-women</id>
-        <link href="https://www.theguardian.com/careers/2021/jul/06/i-cant-remember-feeling-as-excited-about-the-future-redesigning-space-travel-for-women"/>
-        <updated>2021-07-06T15:15:25.000Z</updated>
-        <summary type="html"><![CDATA[The drive for more women and greater diversity in the space sector will lead to new ideas and innovations, from spacesuits to toilets and beyond
-
-“Remember when Nasa sent a woman to space for only six days and they gave her 100 tampons and asked will that be enough?” So goes last year’s viral TikTok referring to astronaut Sally Ride being asked by Nasa engineers in 1983 whether 100 tampons would be sufficient for her week-long stay in space (she was not actually sent with them).
-Recalling the incident some years later, Ride, America’s first woman astronaut, said: “There were probably some other, similar sorts of issues, just because they had never thought about what kind of personal equipment a female astronaut would take.”
- Continue reading...]]></summary>
-        <author>
-            <name>Kieran Yates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maker Spotlight: Stefan Hermann of CNC Kitchen]]></title>
         <id>https://makezine.com/2021/07/06/maker-spotlight-stefan-hermann-of-cnc-kitchen/</id>
         <link href="https://makezine.com/2021/07/06/maker-spotlight-stefan-hermann-of-cnc-kitchen/"/>
@@ -760,18 +785,6 @@ Between 800 and 1,500 businesses around the world have been affected by a ransom
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tom Barker obituary]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/05/tom-barker-obituary"/>
-        <updated>2021-07-05T14:29:48.000Z</updated>
-        <summary type="html"><![CDATA[My grandfather Tom Barker, who has died of cancer aged 84, was a pivotal figure in mechanical engineering. He collaborated with some of the world’s best architects, putting heat, sound, light and air at the forefront of design. As director of Ove Arup & Partners (now Arup Group), the global engineering company, he was known for his work on the Pompidou Centre in Paris and the Lloyd’s building in London, among many others.
-Tom led Arup’s engineering group for 26 years, designing for key projects such as the Menil Collection museum in Houston, Texas, and Kansai international airport in Osaka, Japan, with Peter Rice. 
- Continue reading...]]></summary>
-        <author>
-            <name>Phoebe Barker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Venu 2 review: can Garmin make a good smartwatch?]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch</id>
         <link href="https://www.theguardian.com/technology/2021/jul/05/venu-2-review-can-garmin-make-a-good-smartwatch"/>
@@ -782,6 +795,19 @@ The Venu 2 comes in either 40mm or 45mm models, costs from £349.99 ($399.99/A$6
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs Consumer technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden announces investigation into international ransomware attack]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"/>
+        <updated>2021-07-03T21:43:15.000Z</updated>
+        <summary type="html"><![CDATA[President addresses hack of Kaseya software that has affected hundreds of US businesses and shut down Swedish shops
+Joe Biden said on Saturday he had directed US intelligence agencies to investigate a sophisticated ransomware attack that hit hundreds of American businesses as the Fourth of July holiday weekend began and aroused suspicions of Russian gang involvement.
+ Related: Joe Biden cherry-picks audience to promote bipartisan infrastructure deal 
+ Continue reading...]]></summary>
+        <author>
+            <name>Guardian staff and agencies</name>
         </author>
     </entry>
     <entry>
@@ -825,6 +851,19 @@ The world is rendered in jagged polygons straight out of a late-90s PlayStation 
  Continue reading...]]></summary>
         <author>
             <name>Simon Parkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s next for Jeff Bezos? Space, climate and media may all figure]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure"/>
+        <updated>2021-07-03T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[As he hands over top job at Amazon, Bezos will remain largest shareholder and ‘has never had more energy’
+A quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos is preparing to loosen his grip on his $1.7tn (£1.2tn) company. Few employees in the sphere conservatories at Amazon’s sprawling Seattle campus headquarters reckon Bezos will relinquish that much of his iron grip on the company’s big decisions when Andy Jassy succeeds him as CEO on Monday. After all, Bezos will become executive chairman of Amazon’s board and remains the company’s biggest shareholder. But Bezos, 57, told his 1.3 million employees (whom he refers to as “fellow Amazonians”) that “as much as I still tap dance into the office, I’m excited about this transition”.
+“I’ve never had more energy, and this isn’t about retiring,” he said. “I intend to focus my energies and attention on new products and early initiatives … I’m super passionate about the impact I think these organisations can have.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Rupert Neate Wealth correspondent</name>
         </author>
     </entry>
     <entry>
@@ -1170,45 +1209,6 @@ Videos documenting his most recent “straight line mission” across Scotland a
  Continue reading...]]></summary>
         <author>
             <name>Rachel Hall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealed: rightwing firm posed as leftist group on Facebook to divide Democrats]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/11/facebook-ads-turning-point-usa-rally-forge</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/11/facebook-ads-turning-point-usa-rally-forge"/>
-        <updated>2021-06-11T10:00:12.000Z</updated>
-        <summary type="html"><![CDATA[FEC investigation failed to uncover link to Rally Forge, a firm with close ties to Turning Point USA
-A digital marketing firm closely linked to the pro-Trump youth group Turning Point USA was responsible for a series of deceptive Facebook ads promoting Green party candidates during the 2018 US midterm elections, the Guardian can reveal.
-In an apparent attempt to split the Democratic vote in a number of close races, the ads purported to come from an organization called America Progress Now (APN) and used socialist memes and rhetoric to urge leftwing voters to support Green party candidates.
- Continue reading...]]></summary>
-        <author>
-            <name>Julia Carrie Wong in San Francisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Startup Wife by Tahmima Anam review – a deft take on tech times]]></title>
-        <id>https://www.theguardian.com/books/2021/jun/11/the-startup-wife-by-tahmima-anam-review-a-deft-take-on-tech-times</id>
-        <link href="https://www.theguardian.com/books/2021/jun/11/the-startup-wife-by-tahmima-anam-review-a-deft-take-on-tech-times"/>
-        <updated>2021-06-11T08:00:13.000Z</updated>
-        <summary type="html"><![CDATA[A witty investigation into the misogyny and bro culture of the world of startups and social media apps
-From John Carreyrou’s award-winning Bad Blood: Secrets and Lies in a Silicon Valley Startup to Reeves Wiedeman’s WeWork shakedown Billion Dollar Loser, the real-life stories coming out of startup land are so far-fetched that you could be forgiven for thinking there’s no ground left for invention.
-So what role can fiction play in this world with no boundaries – between home and work, love and business, purpose and profit? Tahmima Anam’s fourth novel attempts to answer this by taking inspiration from her experience as executive director of ROLI, a music technology startup founded by her husband.
- Continue reading...]]></summary>
-        <author>
-            <name>Sam Baker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Act giving AFP powers to monitor An0m devices did not become law until after FBI operation began]]></title>
-        <id>https://www.theguardian.com/australia-news/2021/jun/11/act-giving-afp-powers-to-monitor-an0m-devices-did-not-become-law-until-after-fbi-operation-began</id>
-        <link href="https://www.theguardian.com/australia-news/2021/jun/11/act-giving-afp-powers-to-monitor-an0m-devices-did-not-become-law-until-after-fbi-operation-began"/>
-        <updated>2021-06-10T17:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Police say they used ‘appropriate legislative powers’ during Operation Ironside but a lawyer representing people charged says legal concerns remain
-The Australian federal police have clarified the legal basis for a wide-ranging operation that ensnared hundreds of people using compromised encrypted devices developed by an FBI informant.
-The An0m devices were released in October 2018 by a convicted narcotics importer who was working for the FBI.
- Continue reading...]]></summary>
-        <author>
-            <name>Nino Bucci</name>
         </author>
     </entry>
 </feed>
