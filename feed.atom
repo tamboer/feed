@@ -1,28 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T00:36:17.616Z</id>
+    <id>urn:2021-07-12T00:33:18.677Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T00:36:17.616Z</updated>
+    <updated>2021-07-12T00:33:18.677Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Is It A Cyberdeck Or A Vintage Toshiba?]]></title>
-        <id>https://hackaday.com/?p=485284</id>
-        <link href="https://hackaday.com/2021/07/10/is-it-a-cyberdeck-or-a-vintage-toshiba/"/>
-        <updated>2021-07-10T23:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Cyberdecks, the portable computers notable for a freely expressed form factor, owe much to post-apocalyptic sci-fi. But they are not always the most practical devices. There’s a reason that all …read more]]></summary>
+        <title type="html"><![CDATA[Hackaday Links: July 11, 2021]]></title>
+        <id>https://hackaday.com/?p=485642&amp;preview=true&amp;preview_id=485642</id>
+        <link href="https://hackaday.com/2021/07/11/hackaday-links-july-11-2021/"/>
+        <updated>2021-07-11T23:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Well, at least the acronym will stay the same. It looks like black is the new blue for Windows 11, as the BSOD screen gets its first makeover in years. …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Audio for Microcontrollers Doesn’t Come Much Simpler Than a WART]]></title>
+        <id>https://hackaday.com/?p=484585</id>
+        <link href="https://hackaday.com/2021/07/11/digital-audio-for-microcontrollers-doesnt-come-much-simpler-than-a-wart/"/>
+        <updated>2021-07-11T20:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Adding an audio channel to your microcontroller project can mean a pile of extra components and a ton of processing power, as a compressed stream must be retrieved and sent …read more]]></summary>
         <author>
             <name>Jenny List</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skin-Mounted Wearable Bend Sensor Gets Close and Personal]]></title>
-        <id>https://hackaday.com/?p=485145</id>
-        <link href="https://hackaday.com/2021/07/10/skin-mounted-wearable-bend-sensor-gets-close-and-personal/"/>
-        <updated>2021-07-10T20:01:31.000Z</updated>
-        <summary type="html"><![CDATA[[Mikst] has been working on wearable electronics and sensors for a long time, and shared the results of a different kind of bend sensor that fits directly onto the skin. …read more]]></summary>
+        <title type="html"><![CDATA[‘Gonna be a trainwreck’: can an Asian diaspora Facebook group be good TV?]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2021/jul/12/gonna-be-a-trainwreck-can-an-asian-diaspora-facebook-group-be-good-tv</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2021/jul/12/gonna-be-a-trainwreck-can-an-asian-diaspora-facebook-group-be-good-tv"/>
+        <updated>2021-07-11T17:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Subtle Asian Traits series faces the challenge of adapting an internet phenomenon and questions of cultural representation
+When the moderators of Subtle Asian Traits announced in June that the Facebook group would be spun into an American TV series, the news was met with a flurry of cynical comments by its members.
+The private group, with nearly 2 million members, labels itself as “a community that celebrates the similarities and differences within the subtle traits of Asian culture and sub-cultures”.
+ Continue reading...]]></summary>
         <author>
-            <name>Donald Papp</name>
+            <name>Donna Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorized Camera Slider Gives Your Shots Style]]></title>
+        <id>https://hackaday.com/?p=486270</id>
+        <link href="https://hackaday.com/2021/07/11/motorized-camera-slider-gives-your-shots-style/"/>
+        <updated>2021-07-11T17:01:55.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all seen those smooth panning shots, which combined with some public domain beats, are a hallmark of the modern YouTube tech video. Recreating that style in your own productions …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Download YouTube Subtitles for Transcripts of Your Favorite Tutorials]]></title>
+        <id>1847265562</id>
+        <link href="https://lifehacker.com/how-to-download-youtube-subtitles-for-transcripts-of-yo-1847265562"/>
+        <updated>2021-07-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you’re taking a course on YouTube or watching a recipe video, there’ll be times when you’ll want to save the spoken content in text so that you can refer to it later...but typing everything yourself is too much of a headache. When you’re stuck in this situation, you can do two things: You can use YouTube’s…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bounce Back After a Job Rejection and Land the Right Job]]></title>
+        <id>1847264673</id>
+        <link href="https://lifehacker.com/how-to-bounce-back-after-a-job-rejection-and-land-the-r-1847264673"/>
+        <updated>2021-07-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you found this article, you probably just went through a series of job interviews somewhere, thought you got along well with the hiring managers and were not only qualified, but a great fit for the company’s culture, then got a devastating—and maybe even inexplicable—rejection.
+
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Figure Out Your Face Shape (and Why You Should)]]></title>
+        <id>1847264877</id>
+        <link href="https://lifehacker.com/how-to-figure-out-your-face-shape-and-why-you-should-1847264877"/>
+        <updated>2021-07-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve come across references to face shape, it was likely while shopping for glasses, or looking up haircuts—both of which come with recommendations based on the shape of a person’s face. But what if your face shape isn’t obvious? And what if it doesn’t fall neatly into one specific category? Here’s what you need…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning into Medical Implants with the RTL-SDR]]></title>
+        <id>https://hackaday.com/?p=485823</id>
+        <link href="https://hackaday.com/2021/07/11/tuning-into-medical-implants-with-the-rtl-sdr/"/>
+        <updated>2021-07-11T14:01:08.000Z</updated>
+        <summary type="html"><![CDATA[With a bit of luck, you’ll live your whole life without needing an implanted medical device. But if you do end up getting the news that your doctor will be …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Cutting Garden for Endless Bouquets]]></title>
+        <id>1847264873</id>
+        <link href="https://lifehacker.com/how-to-create-your-own-cutting-garden-for-endless-bouqu-1847264873"/>
+        <updated>2021-07-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As rewarding as it is to care for a houseplant and watch it change and grow, there’s something special about how a bouquet of fresh flowers brightens a room. And while arrangements of cut flowers are typically given for special occasions, sometimes it’s nice to treat yourself to one with some of your favorite blooms.…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use This Site to Find the Closest Beaches With the Best Amenities]]></title>
+        <id>1847264866</id>
+        <link href="https://lifehacker.com/use-this-site-to-find-the-closest-beaches-with-the-best-1847264866"/>
+        <updated>2021-07-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the best parts of traveling  is getting to discover new places. Sure, there are the well-known attractions you’ll find at the top of TripAdvisor’s “Things to Do” section, but there is plenty more out there—if you know where to look—and beaches are no exception.
+
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discount Microfluidics from a $9 Spree at the Dollar Store]]></title>
+        <id>https://hackaday.com/?p=485873</id>
+        <link href="https://hackaday.com/2021/07/11/discount-microfluidics-from-a-9-spree-at-the-dollar-store/"/>
+        <updated>2021-07-11T11:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Microfluidics — working with tiny volumes of fluids in tiny channels — isn’t something you’d think would be inexpensive. Unless you read [Alexander Bissells’] post on how he created microfluidic …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But Does It Run TOOM?]]></title>
+        <id>https://hackaday.com/?p=485559</id>
+        <link href="https://hackaday.com/2021/07/11/but-does-it-run-toom/"/>
+        <updated>2021-07-11T08:01:14.000Z</updated>
+        <summary type="html"><![CDATA[id Software’s iconic 1993 first-person shooter game Doom was the game to play on your 486 (or fast 386) and was for many their first introduction to immersive 3D environments …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can facial analysis technology create a child-safe internet?]]></title>
+        <id>https://www.theguardian.com/politics/2021/jul/11/proof-of-age-verification-online-facial-analysis-data-protection-act</id>
+        <link href="https://www.theguardian.com/politics/2021/jul/11/proof-of-age-verification-online-facial-analysis-data-protection-act"/>
+        <updated>2021-07-11T06:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Determining a person’s age online seems like an intractable problem. But new technology and laws could be on the brink of solving it
+Suppose you pulled out your phone this morning to post a pic to your favourite social network – let’s call it Twinstabooktok – and were asked for a selfie before you could log on. The picture you submitted wouldn’t be sent anywhere, the service assured you: instead, it would use state-of-the-art machine-learning techniques to work out your age. In all likelihood, once you’ve submitted the scan, you can continue on your merry way. If the service guessed wrong, you could appeal, though that might take a bit longer.
+The upside of all of this? The social network would be able to know that you were an adult user and provide you with an experience largely free of parental controls and paternalist moderation, while children who tried to sign up would be given a restricted version of the same experience.
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wing Can Expand To Fly Really Slow for Short Take-Off and Landing]]></title>
+        <id>https://hackaday.com/?p=485538</id>
+        <link href="https://hackaday.com/2021/07/10/wing-can-expand-to-fly-really-slow-for-short-take-off-and-landing/"/>
+        <updated>2021-07-11T05:01:53.000Z</updated>
+        <summary type="html"><![CDATA[[Mike Patey] had made a name for himself by building high-performance experimental aircraft. In his latest project, he added a transforming wing that can extend its chord by up to …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Cyber-attack’ hits Iran’s transport ministry and railways]]></title>
+        <id>https://www.theguardian.com/world/2021/jul/11/cyber-attack-hits-irans-transport-ministry-and-railways</id>
+        <link href="https://www.theguardian.com/world/2021/jul/11/cyber-attack-hits-irans-transport-ministry-and-railways"/>
+        <updated>2021-07-11T00:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Message boards in train stations show cancellations though rail operator denies disruptions
+Websites of Iran’s transport and urbanisation ministry went out of service on Saturday after a “cyber-disruption” in computer systems, the official IRNA news agency reported.
+On Friday, Iran’s railways also appeared to come under cyber-attack, with messages about alleged train delays or cancellations posted on display boards at stations across the country. Electronic tracking of trains across Iran reportedly failed.
+ Continue reading...]]></summary>
+        <author>
+            <name>Staff and agencies</name>
         </author>
     </entry>
     <entry>
@@ -45,16 +191,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Big Ol’ Powerful Wheelbarrow]]></title>
-        <id>https://hackaday.com/?p=485885</id>
-        <link href="https://hackaday.com/2021/07/10/building-a-big-ol-powerful-wheelbarrow/"/>
-        <updated>2021-07-10T17:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you’ve gotta haul big heavy loads around a wide area. Regular wheelbarrows are fine, but it can quickly grow tiring when one has to make multiple trips. [Workshop from …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
         </author>
     </entry>
     <entry>
@@ -81,19 +217,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How bitcoin and Putin are enabling the ransomware crime spree | John Naughton]]></title>
-        <id>https://www.theguardian.com/commentisfree/2021/jul/10/how-bitcoin-and-putin-are-enabling-the-ransomware-spree</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/jul/10/how-bitcoin-and-putin-are-enabling-the-ransomware-spree"/>
-        <updated>2021-07-10T15:00:19.000Z</updated>
-        <summary type="html"><![CDATA[A combination of cyber attackers’ increased sophistication, the availability of cryptocurrencies and the activities of Russian security agencies has created a perfect storm
-I’ve just visited the Kaseya website. “We Are Kaseya,” it burbles cheerfully. “Providing you with best-in-breed technologies that allow you to efficiently manage, secure and back up IT under a single pane of glass.
-“Technology,” it continues, “is the backbone of all modern business. Small to mid-size businesses deserve powerful security and IT management tools that are efficient, cost-effective, and secure. Enter Kaseya. We exist to help multi-function IT professionals get the most out of their IT tool stack.”
- Continue reading...]]></summary>
-        <author>
-            <name>John Naughton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Earn $1,500 to Go Camping for 3 Nights and Rate Your Sleep Quality]]></title>
         <id>1847263612</id>
         <link href="https://lifehacker.com/earn-1-500-to-go-camping-for-3-nights-and-rate-your-sl-1847263612"/>
@@ -102,16 +225,6 @@ I’ve just visited the Kaseya website. “We Are Kaseya,” it burbles cheerful
 Read more...]]></summary>
         <author>
             <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can’t Fix What You Can’t Measure]]></title>
-        <id>https://hackaday.com/?p=486187</id>
-        <link href="https://hackaday.com/2021/07/10/you-cant-fix-what-you-cant-measure/"/>
-        <updated>2021-07-10T14:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year, as my Corona Hobby™, I took up RC plane flying. I started out with discus-launched gliders, and honestly that’s still my main love, but there’s only so much …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
         </author>
     </entry>
     <entry>
@@ -137,16 +250,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fractal Vise Holds Odd-Shaped Objects Tight]]></title>
-        <id>https://hackaday.com/?p=485889</id>
-        <link href="https://hackaday.com/2021/07/10/fractal-vise-holds-odd-shaped-objects-tight/"/>
-        <updated>2021-07-10T11:01:56.000Z</updated>
-        <summary type="html"><![CDATA[A regular vice is great if you want to clamp rectangular objects, but it can fall down a little with more complex shapes. Inspired by an ancient vise [Chris Borge] …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vancouver judge’s decision over Huawei finance chief may deepen US-China row]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/10/vancouver-judges-decision-over-huawei-finance-chief-may-deepen-us-china-row</id>
         <link href="https://www.theguardian.com/technology/2021/jul/10/vancouver-judges-decision-over-huawei-finance-chief-may-deepen-us-china-row"/>
@@ -157,19 +260,6 @@ The arrest of Meng, the daughter of the Chinese telecommunication company’s bi
  Continue reading...]]></summary>
         <author>
             <name>Patrick Wintour Diplomatic editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FinTok: how TikTok is helping young people use cash wisely]]></title>
-        <id>https://www.theguardian.com/money/2021/jul/10/fintok-how-tiktok-is-helping-young-people-use-cash-wisely</id>
-        <link href="https://www.theguardian.com/money/2021/jul/10/fintok-how-tiktok-is-helping-young-people-use-cash-wisely"/>
-        <updated>2021-07-10T10:00:15.000Z</updated>
-        <summary type="html"><![CDATA[It’s not just jokes and emojis – the video-sharing platform can help users learn how to manage money
-Sea shanties and viral dance trends have helped make TikTok a hit since the start of the pandemic. In 2020, the social media app, which allows users to create and share one or more 60-second films soundtracked with music clips, surpassed 2bn global downloads.
-In the financial world, TikTok has a reputation for promoting volatile cryptocurrencies and activist investing – interest in Dogecoin and GameStop has been fuelled by the platform. But, beyond the jokes and rocket emojis being shared by some users, there is a wealth of practical personal finance videos that are teaching young people how to use their money better.
- Continue reading...]]></summary>
-        <author>
-            <name>Ellie House</name>
         </author>
     </entry>
     <entry>
@@ -186,16 +276,6 @@ One of the biggest tech success stories of the last few years, OnlyFans was foun
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Up Close and Personal With Some Busted Avionics]]></title>
-        <id>https://hackaday.com/?p=486137</id>
-        <link href="https://hackaday.com/2021/07/10/up-close-and-personal-with-some-busted-avionics/"/>
-        <updated>2021-07-10T08:01:39.000Z</updated>
-        <summary type="html"><![CDATA[When he found this broken Narco DME 890 that was headed for the trash, [Yeo Kheng Meng] did what any self-respecting hardware hacker would do: he took it back to …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Richard Branson’s quest: to boldly go where no billionaire has gone before]]></title>
         <id>https://www.theguardian.com/science/2021/jul/10/richard-branson-virgin-galactic-flight-billionaire-space-tourism-race-jeff-bezos</id>
         <link href="https://www.theguardian.com/science/2021/jul/10/richard-branson-virgin-galactic-flight-billionaire-space-tourism-race-jeff-bezos"/>
@@ -206,16 +286,6 @@ Branson and his team – two pilots and three other “mission specialists” �
  Continue reading...]]></summary>
         <author>
             <name>Jasper Jolly and Gwyn Topham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Automation for Fans of Quick-and-Dirty Solutions]]></title>
-        <id>https://hackaday.com/?p=485670</id>
-        <link href="https://hackaday.com/2021/07/09/a-home-automation-solution-for-fans-of-quick-and-dirty-solutions/"/>
-        <updated>2021-07-10T05:00:04.000Z</updated>
-        <summary type="html"><![CDATA[At Hackaday, we celebrate all kinds of projects, but we’ll have to admit that the polished and professional-looking builds tend to catch our eye a lot more than perhaps they …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -382,61 +452,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Joel Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Out-of-Touch Adults' Guide To Kid Culture: Could We Really Colonize Venus?]]></title>
-        <id>1847249246</id>
-        <link href="https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-could-we-1847249246"/>
-        <updated>2021-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve tested the global youth-culture internet and the results have come back positive: Everything is looking up this week. We’re even talking about colonizing Venus, which is cool...if not impossible. 
-
-Read more...]]></summary>
-        <author>
-            <name>Stephen Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Kind of Burnt Out Are You? (And Why It Matters)]]></title>
-        <id>1847256205</id>
-        <link href="https://lifehacker.com/what-kind-of-burnt-out-are-you-and-why-it-matters-1847256205"/>
-        <updated>2021-07-09T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 of Our Best Parenting Hacks of 2021 So Far]]></title>
-        <id>1847220889</id>
-        <link href="https://lifehacker.com/16-of-our-best-parenting-hacks-of-2021-so-far-1847220889"/>
-        <updated>2021-07-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I can’t be the only one who blinked hard at the calendar in July, wondering where the hell the first half of 2021 had gone. After spending the better part of 2020 wanting the whole year to vanish off the space-time continuum, it’s a little surreal to watch time speed up again as life around us normalizes. Even so,…
-Read more...]]></summary>
-        <author>
-            <name>Meghan Moravcik Walbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Unlimited Vacation Days Is a Scam]]></title>
-        <id>1847255661</id>
-        <link href="https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661"/>
-        <updated>2021-07-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Increasingly, companies include unlimited paid time off as part of their job offers, as it’s an enticement popular with millennials and Gen Z workers. But you’ll want to think twice about whether it’s really all that great—studies show that workers often take less time off with unlimited vacation days. Why would that…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Exactly Should You Pepper a Steak?]]></title>
-        <id>1847254928</id>
-        <link href="https://lifehacker.com/when-exactly-should-you-pepper-a-steak-1847254928"/>
-        <updated>2021-07-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the exception of salt, pepper is the most common and ubiquitous seasoning in American cooking.  The berries themselves vary wildly in both color and flavor, but when and how you grind and cook them also has a big impact on their flavor.  (Growing up, my sister called pre-ground black pepper “hot salt,” though it…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
         </author>
     </entry>
     <entry>
@@ -662,19 +677,6 @@ A Guardian investigation recently revealed that the ads were placed by a major c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can you hear the Hum? The mystery noise that says a lot about modern life]]></title>
-        <id>https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life</id>
-        <link href="https://www.theguardian.com/books/2021/jul/07/the-hum-mystery-noise-says-a-lot-about-modern-life"/>
-        <updated>2021-07-07T11:00:31.000Z</updated>
-        <summary type="html"><![CDATA[The insistent low-frequency sound has been heard from Bristol to Swansea and ascribed to everything from horny fish to 5G – but the enigma itself is telling
-Maybe you hear it. A low frequency hum, almost a vibration, just on the threshold of human hearing. It’s not particularly loud. In fact, you might not have even noticed it yet – but once you do, you can’t stop hearing it. It sounds like a truck, idling on the street in front your house. Or the atmospheric din of an airplane flying overhead, that never gets further away. You can hear it when you’re outside, but it seems louder indoors, and particularly at night, when you’re lying in bed. Maybe it keeps you awake. Maybe it causes you headaches, dizziness, even nosebleeds.
-If you do hear it, you’re among the roughly 4% of the world’s population affected by “the Hum”, a frequently reported but little understood global phenomenon. The earliest reliable reports of the Hum date from the UK in the mid-1970s, most notably from Bristol, when letters began appearing in the Bristol Evening Post about a low rumble heard by dozens of residents throughout the city. What began as an irritating if innocuous noise eventually drove many who heard it to distraction, and was said to be linked to two suicides. A prevailing theory was that the Bristol Hum originated from large industrial fans used at a warehouse in nearby Avonmouth. But according to some Bristolians the Hum persists to this day, despite the warehouse having long been decommissioned.
- Continue reading...]]></summary>
-        <author>
-            <name>Jordan Tannahill</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gauteng government takes vaccination drive to SASSA queues]]></title>
         <id>https://www.groundup.org.za/article/gauteng-government-takes-vaccination-drive-sassa-queues/</id>
         <link href="https://www.groundup.org.za/article/gauteng-government-takes-vaccination-drive-sassa-queues/"/>
@@ -695,6 +697,19 @@ The Thompson Twins Adventure Game came cover-mounted on a 1984 issue of the belo
  Continue reading...]]></summary>
         <author>
             <name>Will Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s behind the Kaseya ransomware attack – and why is it so dangerous?]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-attack-explained-russia-hackers</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-attack-explained-russia-hackers"/>
+        <updated>2021-07-07T05:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The breach has affected hundreds of businesses around the world, and experts fear the worst is yet to come
+Hackers last week infiltrated a Florida-based information technology firm and deployed a ransomware attack, seizing troves of data and demanding $70m in payment for its return.
+The hack of the Kaseya firm, which is already being called “the biggest ransomware attack on record”, has affected hundreds of businesses globally, including supermarkets in Sweden and schools in New Zealand.
+ Continue reading...]]></summary>
+        <author>
+            <name>Kari Paul in San Francisco</name>
         </author>
     </entry>
     <entry>
@@ -769,19 +784,6 @@ An upgraded model of Nintendo’s successful console has been rumoured for the p
 The post Maker Spotlight: Stefan Hermann of CNC Kitchen appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware hackers demand $70m after attack on US software firm Kaseya]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-hackers-attack</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-hackers-attack"/>
-        <updated>2021-07-06T14:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Between 800 and 1,500 businesses around the world, including supermarkets and dentists’ offices, affected by attack
-Between 800 and 1,500 businesses around the world have been affected by a ransomware attack centered on the US information technology firm Kaseya, its chief executive said on Monday.
- Related: Republicans’ effort to deny the Capitol attack is working – and it’s dangerous 
- Continue reading...]]></summary>
-        <author>
-            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -1193,22 +1195,6 @@ Lindy Cameron, chief executive of the National Cyber Security Centre, will say i
  Continue reading...]]></summary>
         <author>
             <name>Dan Sabbagh Defence and security editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straight story? The YouTuber taking a direct route to success]]></title>
-        <id>https://www.theguardian.com/technology/2021/jun/11/straight-story-the-youtuber-taking-a-direct-route-to-success</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/11/straight-story-the-youtuber-taking-a-direct-route-to-success"/>
-        <updated>2021-06-11T17:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Tom Davies has 925,000 subscribers who watch his attempts to cross countries without making a turn
-
-When Tom Davies and his stepbrother, Greg, were growing up on the edge of Aldridge, a town in the West Midlands, they would pick a point in the distance, a TV mast for instance, and make their way straight there, even if it meant clambering through quarries, sneaking across railway tracks and running away from angry farmers.
-Now Davies has channelled this childhood taste for adventure into a YouTube series following his attempts to traverse entire countries in a direct line, based on GPS tracking.
-The scrapes he finds himself in along the way, from almost drowning in swollen rivers and slashing his hand on barbed wire in Wales to a run-in with the police in Scotland, combined with his laid-back humour (he describes Norway as “Wales on steroids”), have garnered him a huge fanbase, with 925,000 subscribers to his channel.
-Videos documenting his most recent “straight line mission” across Scotland are currently racking up hundreds of thousands of views, with the next episode set to go live on Sunday – and each one could be his last as obstacles threaten to cut short his journey..
- Continue reading...]]></summary>
-        <author>
-            <name>Rachel Hall</name>
         </author>
     </entry>
 </feed>
