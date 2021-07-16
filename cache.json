@@ -6,12 +6,82 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/community-members-protect-immigrant-owned-spaza-shops-brakpan/",
+          "author": null,
+          "description": "What will our children eat if this looting does not stop? asks resident",
+          "link": "https://www.groundup.org.za/article/community-members-protect-immigrant-owned-spaza-shops-brakpan/",
+          "publishedOn": "2021-07-15T10:29:00.000Z",
+          "wordCount": 1194,
+          "title": "Brakpan community members protect immigrant-owned spaza shops",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Kimberly%20Mutandiro/ahmed_brakpan_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/durban-volunteers-take-back-their-community-mass-clean-ups/",
+          "author": null,
+          "description": "“People are here knowing there is nothing to gain personally. They are doing it for the Umlazi community”",
+          "link": "https://www.groundup.org.za/article/durban-volunteers-take-back-their-community-mass-clean-ups/",
+          "publishedOn": "2021-07-15T09:59:00.000Z",
+          "wordCount": 885,
+          "title": "Durban volunteers and workers clean up en masse",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/durban_clean_up_1_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/transport-department-to-shutdown-problematic-ranks-and-routes-should-taxi-violence-continue/",
+          "author": null,
+          "description": "More people killed and several others injured this week in ongoing feud over taxi routes",
+          "link": "https://www.groundup.org.za/article/transport-department-to-shutdown-problematic-ranks-and-routes-should-taxi-violence-continue/",
+          "publishedOn": "2021-07-15T09:02:00.000Z",
+          "wordCount": 869,
+          "title": "Transport department to shut down “problematic” ranks and routes if taxi violence continues",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/Taxi-7119HR_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/city-resumes-garbage-collection-khayelitsha-after-weeks-rubbish-piling/",
+          "author": null,
+          "description": "A tender appeal interrupted garbage collection for over two weeks",
+          "link": "https://www.groundup.org.za/article/city-resumes-garbage-collection-khayelitsha-after-weeks-rubbish-piling/",
+          "publishedOn": "2021-07-15T08:57:44.000Z",
+          "wordCount": 815,
+          "title": "Garbage collection resumes in Khayelitsha after weeks of rubbish piling up",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Vincent%20Lali/rr_rubbish_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/declaring-state-emergency-explained/",
+          "author": null,
+          "description": "Some people have been calling for a State of Emergency to be declared because of civil unrest in the country",
+          "link": "https://www.groundup.org.za/article/declaring-state-emergency-explained/",
+          "publishedOn": "2021-07-15T08:27:00.000Z",
+          "wordCount": 1290,
+          "title": "Declaring a State of Emergency explained",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/scales-of-justice_extra_large.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/food-supply-675000-people-cut-after-durban-food-bank-looted/",
           "author": null,
           "description": "FoodForward SA closes branches nationwide because of insecurity",
           "link": "https://www.groundup.org.za/article/food-supply-675000-people-cut-after-durban-food-bank-looted/",
           "publishedOn": "2021-07-14T14:44:00.000Z",
-          "wordCount": 974,
+          "wordCount": 963,
           "title": "Food supply to 675,000 people cut off after Durban food bank ransacked",
           "enclosure": {
             "length": "26343",
@@ -25,7 +95,7 @@
           "description": "Cash paypoints across the country have been closed due to the unrest",
           "link": "https://www.groundup.org.za/article/many-stores-and-atms-destroyed-during-looting-kzn-and-gatueng-its-unclear-how-sassa-beneficiaries-will-be-paid-next-month/",
           "publishedOn": "2021-07-14T14:38:21.000Z",
-          "wordCount": 952,
+          "wordCount": 938,
           "title": "Fears that some SASSA beneficiaries will not get paid next month",
           "enclosure": {
             "length": "26343",
@@ -39,7 +109,7 @@
           "description": "The RebuildSA Facebook group was created on Tuesday",
           "link": "https://www.groundup.org.za/article/27000-people-rush-join-volunteer-group-after-looting/",
           "publishedOn": "2021-07-14T13:47:10.000Z",
-          "wordCount": 1124,
+          "wordCount": 1128,
           "title": "27,000 people join project to rebuild after looting",
           "enclosure": {
             "length": "26343",
@@ -53,7 +123,7 @@
           "description": "A convoy of taxis made its way through several townships in Kariega on Wednesday, urging people to refrain from looting",
           "link": "https://www.groundup.org.za/article/if-you-loot-you-will-meet-the-long-arm-of-the-law-after-we-catch-you-warns-taxi-operators/",
           "publishedOn": "2021-07-14T13:15:00.000Z",
-          "wordCount": 883,
+          "wordCount": 886,
           "title": "“If you loot, you will meet the long arm of the law after we catch you” warn taxi operators",
           "enclosure": {
             "length": "26343",
@@ -67,7 +137,7 @@
           "description": "Most Tsakane shops have been gutted",
           "link": "https://www.groundup.org.za/article/stealing-wrong-hungry-people-can-do-anything-says-brakpan-resident/",
           "publishedOn": "2021-07-14T09:11:44.000Z",
-          "wordCount": 1224,
+          "wordCount": 1227,
           "title": "“It’s hunger, my sister,” says Brakpan looter",
           "enclosure": {
             "length": "26343",
@@ -81,7 +151,7 @@
           "description": "“What was not taken, was broken,” says doctor",
           "link": "https://www.groundup.org.za/article/gauteng-clinics-looted-and-destroyed/",
           "publishedOn": "2021-07-13T15:12:07.000Z",
-          "wordCount": 911,
+          "wordCount": 898,
           "title": "Gauteng clinics looted and destroyed",
           "enclosure": {
             "length": "26343",
@@ -95,7 +165,7 @@
           "description": "Gqeberha residents mobilise to protect shopping mall",
           "link": "https://www.groundup.org.za/article/eastern-cape-citizenry-come-out-against-attempts-stoke-pro-zuma-unrest/",
           "publishedOn": "2021-07-13T14:30:35.000Z",
-          "wordCount": 1265,
+          "wordCount": 1274,
           "title": "Eastern Cape taxi bosses vow to stop looters",
           "enclosure": {
             "length": "26343",
@@ -123,7 +193,7 @@
           "description": "Officials accused of exploiting asylum seekers’ desperation at the Pretoria refugee centre",
           "link": "https://www.groundup.org.za/article/refugees-frustrated-home-affairs-online-renewal-system/",
           "publishedOn": "2021-07-13T11:52:00.000Z",
-          "wordCount": 1734,
+          "wordCount": 1754,
           "title": "Refugees frustrated by Home Affairs online renewal system",
           "enclosure": {
             "length": "26343",
@@ -137,82 +207,12 @@
           "description": "Municipality puts in rocks, families remove them",
           "link": "https://www.groundup.org.za/article/housing-crisis-lead-shacks-being-erected-along-road-and-under-bridge/",
           "publishedOn": "2021-07-13T09:25:00.000Z",
-          "wordCount": 825,
+          "wordCount": 842,
           "title": "Shack dwellers under Potsdam Bridge play cat and mouse with City",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/photographers/Peter%20Luhanga/potsdamroadreserve_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/alexandra-a-ticking-time-bomb-finds-inquiry-into-2019-violent-unrest/",
-          "author": null,
-          "description": "As protest returns to Alexandra, activists say nothing has changed after 2019 protests",
-          "link": "https://www.groundup.org.za/article/alexandra-a-ticking-time-bomb-finds-inquiry-into-2019-violent-unrest/",
-          "publishedOn": "2021-07-13T08:59:30.000Z",
-          "wordCount": 1461,
-          "title": "Alexandra was already “a ticking time-bomb” says SAHRC report",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Zoe%20Postman/AlexProtest-ZoePostman-20190408MG_20190408_121013_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/i-dont-know-what-i-did-to-deserve-this-says-looted-alexandra-shop-owner/",
-          "author": null,
-          "description": "Sporadic looting and protests continue in Alexandra, Johannesburg",
-          "link": "https://www.groundup.org.za/article/i-dont-know-what-i-did-to-deserve-this-says-looted-alexandra-shop-owner/",
-          "publishedOn": "2021-07-12T15:32:12.000Z",
-          "wordCount": 1091,
-          "title": "“I don’t know what I did to deserve this” says looted shop owner",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/masego_mafata/img_5130_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/health-services-kzn-struggle-function-amidst-violent-protests/",
-          "author": null,
-          "description": "Ambulances grounded, hospitals on skeleton staff, vaccination programme halted and clinics close in eThekwini",
-          "link": "https://www.groundup.org.za/article/health-services-kzn-struggle-function-amidst-violent-protests/",
-          "publishedOn": "2021-07-12T15:29:17.000Z",
-          "wordCount": 1094,
-          "title": "Health services in KZN struggle to function amidst looting and violent unrest",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/kwamashu_icebolethu_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/dozens-kariega-spaza-shops-closed-amid-deadly-incidents-violence-and-looting-mostly-foreign-owned-stores/",
-          "author": null,
-          "description": "At least four people have been killed in separate incidents at different spaza shops in KwaNobuhle since Friday",
-          "link": "https://www.groundup.org.za/article/dozens-kariega-spaza-shops-closed-amid-deadly-incidents-violence-and-looting-mostly-foreign-owned-stores/",
-          "publishedOn": "2021-07-12T14:59:14.000Z",
-          "wordCount": 996,
-          "title": "Dozens of Kariega spaza shops closed after incidents of deadly violence and looting",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Thamsanqa%20Mbovane/kwanobuhle_looting_12072021_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/new-land-court-bill-seeks-address-slow-processing-land-claims/",
-          "author": null,
-          "description": "The bill would establish two new courts: a Land Court and Land Court of Appeal",
-          "link": "https://www.groundup.org.za/article/new-land-court-bill-seeks-address-slow-processing-land-claims/",
-          "publishedOn": "2021-07-12T10:02:00.000Z",
-          "wordCount": 1351,
-          "title": "New Land Court Bill seeks to address slow processing of land claims",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/lv-judge-female-web_extra_large.jpg"
           }
         }
       ]
@@ -223,12 +223,147 @@
       "siteUrl": "https://lifehacker.com",
       "articles": [
         {
+          "id": "1847301581",
+          "author": "Brendan Hesse",
+          "description": "If your iPhone or iPad has been running slower than normal, all it might need is a clearing the device’s browser cache for a quick performance boost. Every browser app stores a cache of website data like cookies, saved login info, images, and more. This helps pages load faster the next time you visit, and it lets you…\nRead more...",
+          "link": "https://lifehacker.com/how-to-make-your-iphone-or-ipad-faster-by-clearing-its-1847301581",
+          "publishedOn": "2021-07-15T20:00:00.000Z",
+          "wordCount": 654,
+          "title": "How to Make Your iPhone or iPad Faster by Clearing Its Browser Caches"
+        },
+        {
+          "id": "1847301129",
+          "author": "Aisha Jordan",
+          "description": "After we shared how to unshrink your clothes, we were asked if it was possible with pants—so, naturally, we went to find out. Adjusting your pants’ waistline is especially helpful if you’re someone like me, whose waist tends to sit right in between most factory-grade sizes. Of course, you can work with a tailor to get…\nRead more...",
+          "link": "https://lifehacker.com/how-to-stretch-the-waistline-of-your-pants-for-a-little-1847301129",
+          "publishedOn": "2021-07-15T19:30:00.000Z",
+          "wordCount": 662,
+          "title": "How to Stretch the Waistline of Your Pants for a Little Extra Room"
+        },
+        {
+          "id": "1847298471",
+          "author": "Beth Skwarecki",
+          "description": "Running can be as simple as putting one foot in front of the other, but if you do a lot of running you’ll discover things about yourself and your sport that you wouldn’t have guessed at the beginning. Recently a redditor asked for a shortcut to some of that secret knowledge: “Experienced runners: what’s something you…\nRead more...",
+          "link": "https://lifehacker.com/16-things-every-beginner-runner-should-know-according-1847298471",
+          "publishedOn": "2021-07-15T19:00:00.000Z",
+          "wordCount": 1356,
+          "title": "16 Things Every Beginner Runner Should Know, According to Reddit"
+        },
+        {
+          "id": "1847299965",
+          "author": "Mike Winters",
+          "description": "You can make easy money taking online surveys, but they typically don’t pay more than a few bucks an hour, way less than you’d get with a part-time job paying minimum wage. Still, as a diversion, it pays better than scrolling through Twitter, especially if you’re stuck waiting somewhere like the airport or DMV. \nRead more...",
+          "link": "https://lifehacker.com/replace-your-mindless-scrolling-with-something-thatll-a-1847299965",
+          "publishedOn": "2021-07-15T18:30:00.000Z",
+          "wordCount": 461,
+          "title": "Replace Your Mindless Scrolling With Something That'll At Least Pay You a Little"
+        },
+        {
+          "id": "1847289994",
+          "author": "Ross Johnson",
+          "description": "To our 2021 eyes, the original Space Jam was pretty modest in its ambitions: Reinvent the Looney Tunes and Merrie Melodies characters by teaming them up with fictionalized versions of real NBA stars like Michael Jordan. That, of course, was before Warner Brothers owned about 33% of everything  ever conceived of by…\nRead more...",
+          "link": "https://lifehacker.com/18-movies-that-are-basically-ip-orgies-1847289994",
+          "publishedOn": "2021-07-15T18:00:00.000Z",
+          "wordCount": 2926,
+          "title": "18 Movies That Are Basically 'IP Orgies'"
+        },
+        {
+          "id": "1837217175",
+          "author": "Joel Kahn",
+          "description": "Vacuums suck! Or rather, problems arise when they stop sucking.\nRead more...",
+          "link": "https://lifehacker.com/get-the-most-out-of-your-vacuum-cleaner-with-these-tric-1837217175",
+          "publishedOn": "2021-07-15T17:30:00.000Z",
+          "wordCount": 466,
+          "title": "Get The Most Out of Your Vacuum Cleaner With These Tricks"
+        },
+        {
+          "id": "1847299642",
+          "author": "Claire Lower",
+          "description": "Coming from a catfish-eating family, I never had much use for salmon until I moved to the Pacific Northwest. The two fishes couldn’t be more different in texture, flavor, or styles of preparation, but finally, at nearly 35 years of age, I figured out my favorite way to make salmon, and it involves the air fryer.\nRead more...",
+          "link": "https://lifehacker.com/you-should-air-fry-some-salmon-1847299642",
+          "publishedOn": "2021-07-15T17:00:00.000Z",
+          "wordCount": 479,
+          "title": "You Should Air Fry Some Salmon"
+        },
+        {
+          "id": "1847298509",
+          "author": "Aisha Jordan",
+          "description": "A small tile project like a backsplash can be a DIY project—as long as you have the right tools. However, tiling jobs—including that backsplash project—often call for a wet saw to accurately (and safely) cut the tile. A wet saw provides a steady stream of water over the blade to create smooth cuts and reduce the level…\nRead more...",
+          "link": "https://lifehacker.com/how-to-cut-tile-without-a-wet-saw-1847298509",
+          "publishedOn": "2021-07-15T16:30:00.000Z",
+          "wordCount": 818,
+          "title": "How to Cut Tile Without a Wet Saw"
+        },
+        {
+          "id": "1847297801",
+          "author": "Elizabeth Yuko",
+          "description": "Temperatures across the country continue to climb, and people are spending more time outdoors—so naturally, there’s a recall of sunscreen products from pharma giant Johnson & Johnson. Specifically, it’s for five of the company’s aerosol sunscreens from their Neutrogena and Aveeno brands, the Food and Drug…\nRead more...",
+          "link": "https://lifehacker.com/throw-away-these-recalled-sunscreens-that-contain-a-car-1847297801",
+          "publishedOn": "2021-07-15T16:00:00.000Z",
+          "wordCount": 378,
+          "title": "Throw Away These Recalled Sunscreens That Contain a Carcinogen"
+        },
+        {
+          "id": "1847296742",
+          "author": "Khamosh Pathak",
+          "description": "After the design overhaul of Firefox 89, the version 90 update is comparatively timid. But it focuses on two important things—privacy and tracker blocking. If you’re a fan of Firefox and its continued mission of protecting your privacy and automatically blocking trackers, you’ll like this update.\n\nRead more...",
+          "link": "https://lifehacker.com/the-best-features-in-firefox-90-worth-knowing-about-1847296742",
+          "publishedOn": "2021-07-15T15:30:00.000Z",
+          "wordCount": 509,
+          "title": "The Best Features in Firefox 90 Worth Knowing About"
+        },
+        {
+          "id": "1847297662",
+          "author": "Pranay Parab",
+          "description": "Every time you head out to a new location, there’s a good chance you instinctively pull up Google Maps to help guide you there—there’s no better tool out there for navigation and traffic updates. But even if you use it practically every day, there’s a good chance that you haven’t made the most of some of its better …\nRead more...",
+          "link": "https://lifehacker.com/11-clever-google-maps-settings-everyone-should-be-using-1847297662",
+          "publishedOn": "2021-07-15T15:00:00.000Z",
+          "wordCount": 1349,
+          "title": "11 Clever Google Maps Settings Everyone Should Be Using"
+        },
+        {
+          "id": "1847296126",
+          "author": "Rachel Fairbank",
+          "description": "In the past year, as more people have been working from home, physical therapists have been seeing an increase in patients with “dead butt syndrome,” or DBS for short, which is pain, numbness, and tingling in the butt, which can often extend to the lower back and legs. If you’ve ever stood up after sitting for a while…\nRead more...",
+          "link": "https://lifehacker.com/save-yourself-from-dead-butt-syndrome-1847296126",
+          "publishedOn": "2021-07-15T14:30:00.000Z",
+          "wordCount": 729,
+          "title": "Save Yourself From 'Dead Butt Syndrome'"
+        },
+        {
+          "id": "1847294009",
+          "author": "Emily Long",
+          "description": "If you’ve ever received an email from your bank, accountant, lawyer, or doctor (or any number of other professionals), you’ve also likely seen a disclaimer at the bottom of the message regarding confidentiality. It may have read something like this:\nRead more...",
+          "link": "https://lifehacker.com/do-those-email-confidentiality-disclaimers-really-mean-1847294009",
+          "publishedOn": "2021-07-15T14:00:00.000Z",
+          "wordCount": 573,
+          "title": "Do Those Email Confidentiality 'Disclaimers' Really Mean Anything?"
+        },
+        {
+          "id": "1847294373",
+          "author": "Mike Winters",
+          "description": "With the real estate market superheated right now, some homes are selling within days, with cash offers well over the asking price. What that means, though—if you’re looking to sell and you think your house will sell quickly—is that you have a better chance negotiating a lower commission with your real estate agent.…\nRead more...",
+          "link": "https://lifehacker.com/why-you-should-negotiate-your-real-estate-agents-commis-1847294373",
+          "publishedOn": "2021-07-15T13:30:00.000Z",
+          "wordCount": 832,
+          "title": "Why You Should Negotiate Your Real Estate Agent's Commission in a Hot Market"
+        },
+        {
+          "id": "1847295033",
+          "author": "Claire Lower",
+          "description": "I love peaches—I could eat a peach for hours!—but I do not love removing the stubborn, literally clinging stone from the center of the fruit. Fortunately, I follow some very smart people on social media, and those people often have solutions to everyday annoyances such as these. (I honestly hate to be all “You’ve been…\nRead more...",
+          "link": "https://lifehacker.com/youve-probably-been-pitting-peaches-wrong-this-whole-ti-1847295033",
+          "publishedOn": "2021-07-15T13:00:00.000Z",
+          "wordCount": 376,
+          "title": "You've Probably Been Pitting Peaches Wrong This Whole Time"
+        },
+        {
           "id": "1847293340",
           "author": "Brendan Hesse",
           "description": "After years of annoying Joy-Con drift issues plaguing Nintendo Switch consoles, there may finally be a permanent fix.\n\nRead more...",
           "link": "https://lifehacker.com/how-to-finally-fix-your-drifting-nintendo-joy-con-on-yo-1847293340",
           "publishedOn": "2021-07-14T20:30:00.000Z",
-          "wordCount": 857,
+          "wordCount": 825,
           "title": "How to Finally Fix Your Drifting Nintendo Joy-Con on Your Own"
         },
         {
@@ -237,7 +372,7 @@
           "description": "Switching up your yard usually means ripping up the grass, tilling, and fertilizing the soil to prep for new vegetation, but why not just cover it up? Sheet mulching uses a simple form of composting to repurpose your lawn by revitalizing the soil and building nutrients for new plants. Using cardboard, green compost,…\nRead more...",
           "link": "https://lifehacker.com/how-to-sheet-mulch-your-lawn-without-digging-up-your-gr-1847293115",
           "publishedOn": "2021-07-14T20:00:00.000Z",
-          "wordCount": 604,
+          "wordCount": 590,
           "title": "How to Sheet Mulch Your Lawn Without Digging Up Your Grass"
         },
         {
@@ -246,7 +381,7 @@
           "description": "In this article, I will not tell you how to get rid of your hip dips. However, if you are here because you want to get rid of your hip dips, this is essential reading. Because hip dips, as a bodily flaw, are 100% bullshit.\nRead more...",
           "link": "https://lifehacker.com/hip-dips-are-the-latest-bullshit-body-insecurity-and-y-1847290054",
           "publishedOn": "2021-07-14T19:30:00.000Z",
-          "wordCount": 1223,
+          "wordCount": 1191,
           "title": "Hip Dips Are the Latest Body Insecurity (and You Can't Fill Them In)"
         },
         {
@@ -255,7 +390,7 @@
           "description": "If you’re accustomed to swiping through a sea of profiles on Tinder, Hinge, Bumble, or any of the major dating apps, the process of searching for a decent match can be exhausting. But while an app’s instant affirmation might be encouraging, it might be better to slow things down once you do meet someone you like.\nRead more...",
           "link": "https://lifehacker.com/try-slow-dating-if-youre-sick-of-puddle-deep-partners-1847291231",
           "publishedOn": "2021-07-14T19:00:00.000Z",
-          "wordCount": 652,
+          "wordCount": 661,
           "title": "Try \"Slow Dating\" If You're Sick of Puddle-Deep Partners"
         },
         {
@@ -264,7 +399,7 @@
           "description": "Any excuse to eat ice cream is as good as any other, so why not take advantage of National Ice Cream Day this Sunday, July 18? Here’s a look at who’s offering discounts or free ice cream this weekend.\nRead more...",
           "link": "https://lifehacker.com/where-to-get-free-ice-cream-for-national-ice-cream-day-1847291823",
           "publishedOn": "2021-07-14T18:30:00.000Z",
-          "wordCount": 510,
+          "wordCount": 479,
           "title": "Where to Get Free Ice Cream for National Ice Cream Day"
         },
         {
@@ -273,7 +408,7 @@
           "description": "Dads are catching up to moms in their hunger for advice on being successful in both the workplace and within their family roles. And with a wide variety of podcasts more readily available these days, fathers (or dads-to-be) have plenty of options for shows about how to better step up and make the most of fatherhood.\nRead more...",
           "link": "https://lifehacker.com/9-of-the-best-podcasts-that-every-dad-should-listen-to-1847283825",
           "publishedOn": "2021-07-14T18:00:00.000Z",
-          "wordCount": 1044,
+          "wordCount": 989,
           "title": "9 of the Best Podcasts Every Dad Should Listen To"
         },
         {
@@ -282,7 +417,7 @@
           "description": "It’s not easy to quit Instagram—and you probably don’t even want to completely quit the app. The memes, updates, and reels are important to you, after all. But many of us could do with spending a little less time on Instagram.\n\nRead more...",
           "link": "https://lifehacker.com/you-can-make-instagram-less-addicting-if-you-want-1847288680",
           "publishedOn": "2021-07-14T17:30:00.000Z",
-          "wordCount": 762,
+          "wordCount": 761,
           "title": "You Can Make Instagram Less Addicting, If You Want"
         },
         {
@@ -291,7 +426,7 @@
           "description": "Whipping your own cream is not a hard task, but it does require a certain amount of equipment, and that equipment requires washing, which makes whipping cream mildly inconvenient in the middle of the day or after a big dinner—the two moments I happen to crave espresso con panna (espresso topped with whipped cream).\nRead more...",
           "link": "https://lifehacker.com/the-best-reason-to-keep-whipped-cream-in-your-fridge-at-1847291151",
           "publishedOn": "2021-07-14T17:00:00.000Z",
-          "wordCount": 491,
+          "wordCount": 464,
           "title": "The Best Reason to Keep Whipped Cream in Your Fridge at All Times (Besides That One, You Pervert)"
         },
         {
@@ -300,7 +435,7 @@
           "description": "It’s possible you have a few photos on your iPhone or iPad that you’d rather not stumble upon—or have anyone else stumble upon, such as a picture of your ex, a troubling memory, or other, uh, unmentionables. If you’re not ready to delete or offload them, but you don’t want them seen by the wrong eyes, you can hide…\nRead more...",
           "link": "https://lifehacker.com/how-to-hide-nudes-personal-data-and-pictures-of-your-1847288475",
           "publishedOn": "2021-07-14T16:30:00.000Z",
-          "wordCount": 1005,
+          "wordCount": 1004,
           "title": "How to Hide Nudes, Personal Data, and Pictures of Your Ex on an iPhone or iPad"
         },
         {
@@ -309,143 +444,8 @@
           "description": "Not everyone has organized address books, mostly because we end up saving someone’s email address in one contact and their phone number in another. If you recently realized that yours is a mess and preventing you from finding what you need quickly, you can use Google Contacts’ Merge & Fix tool to bring some order to…\nRead more...",
           "link": "https://lifehacker.com/delete-your-duplicate-google-contacts-because-its-easi-1847288364",
           "publishedOn": "2021-07-14T16:00:00.000Z",
-          "wordCount": 509,
+          "wordCount": 486,
           "title": "Delete Your Duplicate Google Contacts, Because It's Easier Than You Think"
-        },
-        {
-          "id": "1847287498",
-          "author": "Rachel Fairbank",
-          "description": "Most people have at least one flaky person in their life, whether it’s a friend, family member, or co-worker. These are the people who promise to come to something, only to forget or cancel at the last moment. There are a number of reasons why people are flaky, but the common seems to be that most of them have a hard…\nRead more...",
-          "link": "https://lifehacker.com/the-best-way-to-deal-with-a-flaky-friend-1847287498",
-          "publishedOn": "2021-07-14T15:30:00.000Z",
-          "wordCount": 1019,
-          "title": "The Best Way to Deal With a Flaky Friend"
-        },
-        {
-          "id": "1847286328",
-          "author": "Brendan Hesse",
-          "description": "Google just released a new Google Drive desktop app for Windows and Mac to replace the Backup and Sync and Drive File Stream tools, which are shutting down on October 1. Google recommends all users migrate to the Drive desktop app by September to avoid any syncing interruptions, but don’t lament the loss of those…\nRead more...",
-          "link": "https://lifehacker.com/all-the-features-worth-knowing-about-in-the-new-google-1847286328",
-          "publishedOn": "2021-07-14T15:00:00.000Z",
-          "wordCount": 676,
-          "title": "All the Features Worth Knowing About in the New Google Drive for Windows and Mac"
-        },
-        {
-          "id": "1847285040",
-          "author": "Sam Blum",
-          "description": "Depression bears an association to bleak weather, but melancholy isn’t always associated with the colder seasons. In fact, Seasonal Affective Disorder (SAD) doesn’t only strike in the winter; it can still rear itself when the weather is warm and sunny—and it might even hit certain people harder in the summer months. \nRead more...",
-          "link": "https://lifehacker.com/summer-seasonal-affective-disorder-is-real-and-heres-h-1847285040",
-          "publishedOn": "2021-07-14T14:30:00.000Z",
-          "wordCount": 726,
-          "title": "Summer Seasonal Affective Disorder Is Real (and Here's How to Manage It)"
-        },
-        {
-          "id": "1847285765",
-          "author": "Mike Winters",
-          "description": "As gas prices continue to climb beyond $3 a gallon this summer, you might be thinking about ways to offset your monthly gas expenses. With costs expected to climb further—possibly past $3.30 before we reach fall—it looks like won’t see relief anytime soon. In the meantime, we have some tips that might help ease the…\nRead more...",
-          "link": "https://lifehacker.com/7-ways-to-save-money-at-the-pump-as-gas-prices-climb-1847285765",
-          "publishedOn": "2021-07-14T14:00:00.000Z",
-          "wordCount": 804,
-          "title": "7 Ways to Save Money at the Pump As Gas Prices Climb"
-        },
-        {
-          "id": "1847281896",
-          "author": "Aisha Jordan",
-          "description": "Sprouts are versatile little plants you can add to bread, salads, and sandwiches; they offer a range of tastes from subtle to even spicy; and they can keep your glucose levels low. They can be an acquired texture in a meal (with some being stringy or crunchy) but the wide variety of sprouts allows you to be selective.…\nRead more...",
-          "link": "https://lifehacker.com/grow-your-own-sprouts-in-a-mason-jar-1847281896",
-          "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 768,
-          "title": "Grow Your Own Sprouts in a Mason Jar"
-        },
-        {
-          "id": "1847286309",
-          "author": "Claire Lower",
-          "description": "Not everyone agrees on the “best” way to cook a mushroom, but I think everyone understands that a good mushroom is a concentrated, well browned version of its fresh self. This may inspire you to bathe your ‘shrooms in butter—after all, the milk proteins brown quite beautifully—but the real secret to perfectly browned…\nRead more...",
-          "link": "https://lifehacker.com/hold-the-fat-while-cooking-mushrooms-to-brown-them-bett-1847286309",
-          "publishedOn": "2021-07-14T13:00:00.000Z",
-          "wordCount": 608,
-          "title": "Hold the Fat While Cooking Mushrooms to Brown Them Better"
-        },
-        {
-          "id": "1847283558",
-          "author": "Brendan Hesse",
-          "description": "The Windows 11 beta recently got its first big version update, but it brought a major change that some users aren’t happy with: You can no longer revert back to the classic Windows start menu layout. Instead, Windows 11 users are now forced to use the redesigned start menu and taskbar, which sits centered at the…\nRead more...",
-          "link": "https://lifehacker.com/how-to-go-back-to-windows-10-if-you-regret-installing-w-1847283558",
-          "publishedOn": "2021-07-13T20:00:00.000Z",
-          "wordCount": 807,
-          "title": "How to Go Back to Windows 10 If You Regret Installing Windows 11"
-        },
-        {
-          "id": "1847283732",
-          "author": "Beth Skwarecki",
-          "description": "Some people who got the Johnson & Johnson/Janssen COVID-19 vaccine (the one-dose vaccine) have developed a condition known as Guillain-Barré syndrome. It’s happened often enough that the FDA has asked them to add a note about this to the patient fact sheet, but it’s still not considered to change the risk/benefit…\nRead more...",
-          "link": "https://lifehacker.com/what-you-should-know-about-guillain-barre-syndrome-and-1847283732",
-          "publishedOn": "2021-07-13T19:30:00.000Z",
-          "wordCount": 846,
-          "title": "What You Should Know About Guillain-Barré Syndrome and COVID Vaccines"
-        },
-        {
-          "id": "1847283408",
-          "author": "Mike Winters",
-          "description": "A recent study reveals that color can be a big factor in resale value of a car—with a three-year depreciation rate that can vary  25% between colors. What’s most surprising is that oddball colors, like yellow or orange, actually do better overall compared to traditionally “safe” colors like black or grey. But should a…\nRead more...",
-          "link": "https://lifehacker.com/how-color-can-affect-your-car-s-resale-value-and-why-y-1847283408",
-          "publishedOn": "2021-07-13T19:00:00.000Z",
-          "wordCount": 854,
-          "title": "How Color Can Affect Your Car’s Resale Value (and Why Yellow Resells Better Than Black)"
-        },
-        {
-          "id": "1847281069",
-          "author": "Sam Blum",
-          "description": "Celestial events are often momentary, which is why the most determined stargazers will stay up at odd hours and even venture out into uncomfortable conditions to catch a glimpse of the ephemeral wonders. But every summer, the Perseid meteor shower darts across the evening sky for more than a month, leaving even the…\nRead more...",
-          "link": "https://lifehacker.com/how-to-watch-the-perseid-meteor-shower-rain-over-us-thi-1847281069",
-          "publishedOn": "2021-07-13T18:30:00.000Z",
-          "wordCount": 627,
-          "title": "How to Watch the Perseid Meteor Shower Rain Over Us This Summer"
-        },
-        {
-          "id": "1847282928",
-          "author": "Claire Lower",
-          "description": "Cream of tartar is an incredibly useful ingredient. With it, you can stabilize whipped cream, make your own baking powder, and cook up extra-fluffy scrambled eggs. There is, however, a fairly widespread misunderstanding of what it is.\nRead more...",
-          "link": "https://lifehacker.com/the-difference-between-cream-of-tartar-and-tartaric-aci-1847282928",
-          "publishedOn": "2021-07-13T18:00:00.000Z",
-          "wordCount": 669,
-          "title": "The Difference Between Cream of Tartar and Tartaric Acid"
-        },
-        {
-          "id": "1847277061",
-          "author": "Aisha Jordan",
-          "description": "After your shirt comes out of the dryer in a kid’s size, you might think to toss it as your newest cleaning rag. Fortunately, there’s a good chance you can save your shrunken clothes—the process takes about an hour, and all you need is some household hair products and a towel. Here’s how to revive your accidental crop…\nRead more...",
-          "link": "https://lifehacker.com/you-can-unshrink-your-shrunken-clothes-1847277061",
-          "publishedOn": "2021-07-13T17:30:00.000Z",
-          "wordCount": 639,
-          "title": "You Can Unshrink Your Shrunken Clothes"
-        },
-        {
-          "id": "1847280291",
-          "author": "Pranay Parab",
-          "description": "Even in standby mode, your gaming console could be consuming as much as 25 times the minimum energy it needs—and this could silently be inflating your energy bills. Idle power drain is less environmentally friendly, too, which is another reason to check—and fix—your console’s power consumption. Environment advocacy…\nRead more...",
-          "link": "https://lifehacker.com/how-to-stop-your-gaming-console-from-jacking-up-your-en-1847280291",
-          "publishedOn": "2021-07-13T17:00:00.000Z",
-          "wordCount": 869,
-          "title": "How to Stop Your Gaming Console From Jacking up Your Energy Bill"
-        },
-        {
-          "id": "1847268445",
-          "author": "Khamosh Pathak",
-          "description": "The prices of flagship smartphones keep climbing higher and higher. At this point, if you want to buy the latest and greatest, you need to shell out more than a thousand dollars. But before you do that, it’s a good idea to take a look at refurbished smartphones. Refurbished smartphones—especially those sold straight…\nRead more...",
-          "link": "https://lifehacker.com/the-dos-and-donts-of-buying-a-refurbished-smartphone-1847268445",
-          "publishedOn": "2021-07-13T16:30:00.000Z",
-          "wordCount": 1062,
-          "title": "The Do's and Don'ts of Buying a Refurbished Smartphone"
-        },
-        {
-          "id": "1847279080",
-          "author": "Rachel Fairbank",
-          "description": "Many of us, at one time or another, will need therapy to get through rough times. However, therapy isn’t a one-size-fits-all category, nor is every therapist the right fit for every patient. There are a number of different therapies available, everything from cognitive behavioral therapy to EMDR to psychodynamic. \nRead more...",
-          "link": "https://lifehacker.com/the-different-types-of-therapy-and-how-they-work-1847279080",
-          "publishedOn": "2021-07-13T16:00:00.000Z",
-          "wordCount": 884,
-          "title": "The Different Types of Therapy (and How They Work)"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=486748",
-          "author": "Maya Posch",
-          "description": "When it comes to designing enclosures which aren’t simple boxes or other basic shapes, the design process tends to get somewhat tedious and involved as the number of measurements to …read more",
-          "link": "https://hackaday.com/2021/07/14/design-a-custom-enclosure-using-modelling-clay-and-photogrammetry/",
-          "publishedOn": "2021-07-14T23:00:48.000Z",
-          "wordCount": 1169,
-          "title": "Design A Custom Enclosure Using Modelling Clay And Photogrammetry"
+          "id": "https://hackaday.com/?p=486707",
+          "author": "Dan Maloney",
+          "description": "We’ve all seen electronic components that have been coaxed into releasing their small amount of Magic Smoke, which of course is what makes the thing work in the first place. …read more",
+          "link": "https://hackaday.com/2021/07/15/overdriving-vacuum-tubes-and-releasing-the-magic-light-within/",
+          "publishedOn": "2021-07-15T23:00:24.000Z",
+          "wordCount": 1332,
+          "title": "Overdriving Vacuum Tubes and Releasing the Magic Light Within"
         },
         {
-          "id": "https://hackaday.com/?p=486731",
+          "id": "https://hackaday.com/?p=486982",
           "author": "Tom Nardi",
-          "description": "Looking for a digital recreation of the classic analog volume unit (VU) meter? If you’ve got an Arduino, a few passive components, and a SSD1306 OLED, then [mircemk] might have …read more",
-          "link": "https://hackaday.com/2021/07/14/analog-style-vu-meter-with-arduino-and-oled-display/",
-          "publishedOn": "2021-07-14T20:00:55.000Z",
-          "wordCount": 1340,
-          "title": "Analog Style VU Meter with Arduino and OLED Display"
+          "description": "With cheap RC hardware, powerful motors, and high-capacity battery packs, getting something to fly has never been easier. It also helps that, whether you’re into fixed-wing craft or multirotors, there’s …read more",
+          "link": "https://hackaday.com/2021/07/15/foam-f-35-learns-to-hover/",
+          "publishedOn": "2021-07-15T20:00:47.000Z",
+          "wordCount": 1327,
+          "title": "Foam F-35 Learns to Hover"
         },
         {
-          "id": "https://hackaday.com/?p=486883",
-          "author": "Jenny List",
-          "description": "A significant event in the history of technology happened yesterday, and it passed so quietly that we almost missed it. The last few remaining NTSC transmitters in the USA finally …read more",
-          "link": "https://hackaday.com/2021/07/14/end-of-an-era-ntsc-finally-goes-dark-in-america/",
-          "publishedOn": "2021-07-14T18:31:34.000Z",
-          "wordCount": 3472,
-          "title": "End Of An Era: NTSC Finally Goes Dark In America"
+          "id": "https://hackaday.com/?p=486230",
+          "author": "Kristina Panos",
+          "description": "One way of communicating with autistic and non-verbal people is through the use of a Picture Exchange Communication System or PECS board, which they can use to point out what …read more",
+          "link": "https://hackaday.com/2021/07/15/diy-pecs-board-uses-pictures-to-communicate/",
+          "publishedOn": "2021-07-15T18:30:00.000Z",
+          "wordCount": 1458,
+          "title": "DIY PECS Board Uses Pictures to Communicate"
         },
         {
-          "id": "https://hackaday.com/?p=482837",
+          "id": "https://hackaday.com/?p=485040",
           "author": "Lewin Day",
-          "description": "Spend enough time on the automotive classifieds and you’ll end up finding a deal that’s too good to pass up. The latest of these in one’s own case was a …read more",
-          "link": "https://hackaday.com/2021/07/14/the-case-of-the-mysterious-driveline-noise/",
-          "publishedOn": "2021-07-14T17:00:52.000Z",
-          "wordCount": 3441,
-          "title": "The Case of the Mysterious Driveline Noise"
+          "description": "Electric vehicles have become a mainstay in the global automotive marketplace, taking on their gasoline rivals and steadily chewing out their own slice of market share, year after year. Government …read more",
+          "link": "https://hackaday.com/2021/07/15/recycling-will-be-key-to-the-electric-vehicle-future/",
+          "publishedOn": "2021-07-15T17:00:00.000Z",
+          "wordCount": 7459,
+          "title": "Recycling Will Be Key To The Electric Vehicle Future"
         },
         {
-          "id": "https://hackaday.com/?p=484997",
-          "author": "Donald Papp",
-          "description": "In lamp design, bulbs are usually given generous clearances because they get hot during use. LED bulbs however give off comparatively little heat, which opens a few new doors. [Mark …read more",
-          "link": "https://hackaday.com/2021/07/14/big-3d-printed-lamp-tries-some-new-features/",
-          "publishedOn": "2021-07-14T15:30:00.000Z",
-          "wordCount": 1649,
-          "title": "Big 3D-Printed Lamp Tries Some New Features"
+          "id": "https://hackaday.com/?p=486117",
+          "author": "Dan Maloney",
+          "description": "We don’t normally embrace the supernatural here at Hackaday, but when the topic turns to the radio frequency world, Arthur C. Clarke’s maxim about sufficiently advanced technology being akin to …read more",
+          "link": "https://hackaday.com/2021/07/15/new-video-series-learning-antenna-basics-with-karen-rucker/",
+          "publishedOn": "2021-07-15T16:01:53.000Z",
+          "wordCount": 1746,
+          "title": "New Video Series: Learning Antenna Basics with Karen Rucker"
         },
         {
-          "id": "https://hackaday.com/?p=485436",
-          "author": "Jonathan Bennett",
-          "description": "There’s a lot happening in the world of Pi. Just when we thought the Raspberry Pi Foundation were going to take a break, they announced a new PoE+ HAT (Hardware …read more",
-          "link": "https://hackaday.com/2021/07/14/hands-on-with-the-raspberry-pi-poe-hat/",
-          "publishedOn": "2021-07-14T14:01:07.000Z",
-          "wordCount": 4086,
-          "title": "Hands On With the Raspberry Pi POE+ HAT"
+          "id": "https://hackaday.com/?p=486847",
+          "author": "Adam Zeloof",
+          "description": "The vast majority of us are satisfied with a standard, base ten display for representing time. Fewer of us like to be a bit old-fashioned and use a dial with …read more",
+          "link": "https://hackaday.com/2021/07/15/a-perfect-clock-for-any-hackers-ohm/",
+          "publishedOn": "2021-07-15T15:30:00.000Z",
+          "wordCount": 1824,
+          "title": "A Perfect Clock For Any Hacker’s Ohm"
         },
         {
-          "id": "https://hackaday.com/?p=486718",
-          "author": "Tom Nardi",
-          "description": "The idea of a tritium power cell is pretty straightforward: stick enough of the tiny glowing tubes to a photovoltaic panel and your DIY “nuclear battery” will generate energy for …read more",
-          "link": "https://hackaday.com/2021/07/14/tetris-handheld-powered-by-tritium-cell-eventually/",
-          "publishedOn": "2021-07-14T11:00:00.000Z",
-          "wordCount": 2202,
-          "title": "Tetris Handheld Powered By Tritium Cell, Eventually"
+          "id": "https://hackaday.com/?p=484504",
+          "author": "Dan Maloney",
+          "description": "Gripped as we are at the time of this writing by a historic heatwave, it’s hard for those of us in the western United States to picture a time when …read more",
+          "link": "https://hackaday.com/2021/07/15/black-starts-how-the-grid-gets-restarted/",
+          "publishedOn": "2021-07-15T14:01:24.000Z",
+          "wordCount": 4435,
+          "title": "Black Starts: How the Grid Gets Restarted"
         }
       ]
     },
@@ -530,7 +530,7 @@
           "description": "Lydia Sloan Cline is the author of Fusion 360 for Makers, which is out in a new second edition. She teaches 3D design and fabrication at Johnson County Community College in Overland Park, Kansas, where she began as a drafting professor with a degree in Architecture. In this episode of Make:cast, Patrick DiJusto, Make: Books […]\nThe post 3D Modeling for Makers appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/07/08/3d-modeling-for-makers/",
           "publishedOn": "2021-07-09T05:52:53.000Z",
-          "wordCount": 4020,
+          "wordCount": 3993,
           "title": "3D Modeling for Makers"
         },
         {
@@ -539,7 +539,7 @@
           "description": "First and last name Stefan Hermann Where are you located?  Germany What is your day job?  Metal Additive Manufacturing Research Engineer Youtube Channel | Patreon What kinds of stuff do you make?  3D Printing Stuff, Material Tests and 3D Printing Research How did you get started making stuff?  Bought a book about Arduino, purchased a […]\nThe post Maker Spotlight: Stefan Hermann of CNC Kitchen appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/07/06/maker-spotlight-stefan-hermann-of-cnc-kitchen/",
           "publishedOn": "2021-07-06T15:00:00.000Z",
-          "wordCount": 1436,
+          "wordCount": 1398,
           "title": "Maker Spotlight: Stefan Hermann of CNC Kitchen"
         },
         {
@@ -548,7 +548,7 @@
           "description": "In 2020, Dr. Andreea Gorbatai and two co-authors published a research paper in the journal Organization Science titled: “Making Space for Emotions: Empathy, Contagion, and Legitmacy’s Double-Edged Sword.” It’s about the maker movement and what holds it together. It turns out, it’s not skills and tools as much as it is emotions and empathy — […]\nThe post Emotion and Empathy Are Glue for Makers appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/07/01/emotion-and-empathy-are-glue-for-makers/",
           "publishedOn": "2021-07-01T18:33:51.000Z",
-          "wordCount": 8718,
+          "wordCount": 8688,
           "title": "Emotion and Empathy Are Glue for Makers"
         },
         {
@@ -557,7 +557,7 @@
           "description": "The CNC Kitchen channel, run by Stefan, is a treasure trove of tests and real data surrounding many 3d printing topics\nThe post If You’re Into 3D Printing, You Need To Be Watching CNC Kitchen appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/29/if-youre-into-3d-printing-you-need-to-be-watching-cnc-kitchen/",
           "publishedOn": "2021-06-29T15:04:49.000Z",
-          "wordCount": 1339,
+          "wordCount": 1306,
           "title": "If You’re Into 3D Printing, You Need To Be Watching CNC Kitchen"
         },
         {
@@ -566,7 +566,7 @@
           "description": "Follow along as an artist shares the process of recreating the Fell Beast form the Lord Of The Rings\nThe post The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/28/the-making-of-lord-of-the-rings-inspired-fellbeast-head/",
           "publishedOn": "2021-06-28T15:00:00.000Z",
-          "wordCount": 2278,
+          "wordCount": 2235,
           "title": "The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head"
         },
         {
@@ -575,7 +575,7 @@
           "description": "The growth of makerspaces in education was interrupted by the shutdown of schools, libraries, and museums over the last year.  Now, as students return to in-person learning, there is an even greater need for maker educators who can provide hands-on making and project-based learning experiences. In addition, making is a practice that can be learned […]\nThe post Get Tickets Now For The Make: Education Forum appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/24/get-tickets-now-for-the-make-education-forum/",
           "publishedOn": "2021-06-24T18:18:26.000Z",
-          "wordCount": 1206,
+          "wordCount": 1181,
           "title": "Get Tickets Now For The Make: Education Forum"
         },
         {
@@ -584,7 +584,7 @@
           "description": "When we announced our Star Wars themed contest, along with NVIDIA, we knew we were going to be in for a difficult time deciding on a winner. There are so many great projects out there with incredible documentation and stunning results! We were not let down by the entries. If you haven’t checked them out […]\nThe post Announcing The Winners Of Our “May The 4th” Cosplay and Droid Contest appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/23/announcing-the-winners-of-our-may-the-4th-cosplay-and-droid-contest/",
           "publishedOn": "2021-06-23T14:46:29.000Z",
-          "wordCount": 1503,
+          "wordCount": 1458,
           "title": "Announcing The Winners Of Our “May The 4th” Cosplay and Droid Contest"
         },
         {
@@ -593,7 +593,7 @@
           "description": "In May 2021 the Open Source Hardware Association (OSHWA) certified a wide variety of hardware as open source.  we will have a certified variety collection of Open Source Hardwares, Let’s take a look! (And remember, certification is a free and easy way to show that your hardware complies with the open source hardware definition.) First, […]\nThe post Open Source Hardware Certifications for May 2021 appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/21/open-source-hardware-certifications-for-may-2021/",
           "publishedOn": "2021-06-21T15:00:00.000Z",
-          "wordCount": 1859,
+          "wordCount": 1835,
           "title": "Open Source Hardware Certifications for May 2021"
         },
         {
@@ -602,7 +602,7 @@
           "description": "First and last name Michael Albert Where are you located?  White Plains, New York What is your day job?  Pop Artist/Owner of Sir Real brand of Natural Foods Do you attend a makerspace/fablab/hackerspace?  Not usually, but I’m looking forward to the Mead Library’s Maker Faire Sheboygan this weekend. Website | Pinterest | Art site What […]\nThe post Maker Spotlight: Michael Albert appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/18/maker-spotlight-michael-albert/",
           "publishedOn": "2021-06-18T15:30:00.000Z",
-          "wordCount": 1283,
+          "wordCount": 1248,
           "title": "Maker Spotlight: Michael Albert"
         },
         {
@@ -611,7 +611,7 @@
           "description": "Digital sculpting isn’t as hard as it looks. At least, getting started isn’t that hard. You’ll still have to put in some serious time to get GOOD, but don’t let that scare you off. You may be surprised by how easily you can get something to be proud of, even as an absolute beginner. There […]\nThe post Where to Get Started in Digital Sculpting for 3D Printing appeared first on Make: DIY Projects and Ideas for Makers.",
           "link": "https://makezine.com/2021/06/17/where-to-get-started-in-digital-sculpting-for-3d-printing/",
           "publishedOn": "2021-06-17T15:44:08.000Z",
-          "wordCount": 1190,
+          "wordCount": 1159,
           "title": "Where to Get Started in Digital Sculpting for 3D Printing"
         }
       ]
@@ -621,6 +621,87 @@
       "feedUrl": "https://www.theguardian.com/us/technology/rss",
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/16/google-maps-suggests-potentially-fatal-routes-up-ben-nevis-say-mountain-charities",
+          "author": "Press Association",
+          "description": "Organisations in Scotland say they have tried to contact Google about the dangers but received no reply  \nScottish mountaineering charities have criticised Google for suggesting routes up Ben Nevis and other mountains they say are “potentially fatal” and direct people over a cliff.\nThe John Muir Trust, which looks after the upper reaches of the UK’s highest mountain, said attempts to contact the company over the issue had been met with silence.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/16/google-maps-suggests-potentially-fatal-routes-up-ben-nevis-say-mountain-charities",
+          "publishedOn": "2021-07-15T23:28:33.000Z",
+          "wordCount": 718,
+          "title": "Google Maps suggests ‘potentially fatal’ routes up Ben Nevis, say mountain charities"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/15/jeff-bezos-space-flight-guest-new-shepard",
+          "author": "Maya Yang",
+          "description": "Anonymous person will be replaced by 18-year-old recent high school graduate on New Shepard spacecraft\nThe anonymous winner of a ticket to join billionaire Jeff Bezos in space next week will no longer board the New Shepard spacecraft due to “scheduling conflicts”, Bezos’s Blue Origin company announced on Thursday.\nThe winner, who paid $29.7m to join one of the world’s richest men in space, will instead be replaced by Oliver Daemen, a recent high school graduate. The 18-year-old took a gap year in 2020 to obtain his private pilot’s license and plans to study physics and innovation management at the Netherlands-based University of Utrecht in September.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/15/jeff-bezos-space-flight-guest-new-shepard",
+          "publishedOn": "2021-07-15T21:31:25.000Z",
+          "wordCount": 566,
+          "title": "Winner who paid $30m for space flight with Bezos won’t go due to ‘scheduling conflicts’"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/15/facebook-iran-based-hackers-us-military-personnel",
+          "author": "Reuters",
+          "description": "• Social media company takes down 200 accounts\n• ‘Hallmarks of a well-resourced and persistent operation’\nFacebook said on Thursday it had taken down about 200 accounts run by a group of hackers in Iran as part of a cyber-spying operation that targeted mostly US military personnel and people working at defense and aerospace companies.\nThe social media company said the group, dubbed “Tortoiseshell” by security experts, used fake online personas to connect with targets, build trust – sometimes over the course of several months – and drive them to other sites, where they were tricked into clicking malicious links that would infect their devices with spying malware.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/15/facebook-iran-based-hackers-us-military-personnel",
+          "publishedOn": "2021-07-15T19:32:58.000Z",
+          "wordCount": 722,
+          "title": "Facebook says Iran-based hackers used site to target US military personnel"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/jul/15/the-person-to-weaken-america-what-the-kremlin-papers-said-about-trump",
+          "author": "Luke Harding and Dan Sabbagh",
+          "description": "Documents appear to show how Russian intelligence worked to install their preferred candidate as president\nPapers appear to show Putin’s plot to put Trump in White House\nIn January 2016, America was coming to terms with what had previously seemed incredible. Barring an unforeseen event, Donald J Trump was on course to become the Republican party’s presidential candidate. Some welcomed this giddy prospect, while others in the Republican establishment recoiled in horror.\nThe man himself oozed confidence. “I have a feeling it’s going to work out, actually,” he told his rival Ted Cruz, at a Fox News debate. By 22 January, the polls had Trump well ahead, as a snowstorm nudged towards Washington.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/jul/15/the-person-to-weaken-america-what-the-kremlin-papers-said-about-trump",
+          "publishedOn": "2021-07-15T17:05:31.000Z",
+          "wordCount": 1759,
+          "title": "The person to ‘weaken’ America: what the Kremlin papers said about Trump"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/15/spyware-company-impersonates-activist-groups-black-lives-matter",
+          "author": "Sam Levin in Los Angeles",
+          "description": "Researchers say web domains masquerading as activist, health and media groups are used by governments to hack targets\nAn Israeli company that sells spyware to governments is linked to fake Black Lives Matter and Amnesty International websites that are used to hack targets, according to a new report.\nResearchers from the Citizen Lab at the University of Toronto, who worked with Microsoft, issued a report on Thursday about the potential targets of Candiru, a Tel Aviv-based firm marketing “untraceable” spyware that can infect and monitor computers and phones.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/15/spyware-company-impersonates-activist-groups-black-lives-matter",
+          "publishedOn": "2021-07-15T15:18:23.000Z",
+          "wordCount": 1277,
+          "title": "Israeli spyware firm linked to fake Black Lives Matter and Amnesty websites – report"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/15/aladdin-bahrani-obituary",
+          "author": "Linda McClelland",
+          "description": "My father, Aladdin Bahrani, who has died aged 91, spent many years working as a senior engineer in his birthplace, Iraq, before becoming professor of manufacturing engineering at Queen’s University in Belfast, where he had trained just after the second world war.\nThe eldest of 10 children, he was born in Baghdad, to Mohammed Saleem Bahrani, a landowner and farmer, and Bahija Abdul Hussan Al Shamma, a housewife. Once he had finished his schooling at Baghdad College, he left Iraq on a government scholarship to study engineering at Queen’s University from 1948 to 1953, graduating with a science master’s and meeting a young Belfast woman, Margaret Sawrey, who became his wife in 1952.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/15/aladdin-bahrani-obituary",
+          "publishedOn": "2021-07-15T10:57:03.000Z",
+          "wordCount": 616,
+          "title": "Aladdin Bahrani obituary"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/jul/15/sony-wf-1000xm4-review-the-best-sounding-noise-cancelling-earbuds",
+          "author": "Samuel Gibbs Consumer technology editor",
+          "description": "Comfortable and long lasting with good case and brilliant audio but ultimately disposable\nSony’s latest top-of-the-range noise-cancelling earbuds are a cut above the previous generation and the competition.\nCosting £250 ($279.99/A$449.99), the WF-1000XM4 are premium true wireless earbuds that go toe to toe with the likes of the Apple AirPods Pro, Jabra Elite 85t and Samsung Galaxy Buds Pro.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/jul/15/sony-wf-1000xm4-review-the-best-sounding-noise-cancelling-earbuds",
+          "publishedOn": "2021-07-15T06:00:34.000Z",
+          "wordCount": 1561,
+          "title": "Sony WF-1000XM4 review: the best-sounding noise-cancelling earbuds"
+        },
+        {
+          "id": "https://www.theguardian.com/news/2021/jul/15/china-video-game-censorship-tencent-netease-blizzard",
+          "author": "Oliver Holmes",
+          "description": "China’s video game market is the world’s biggest. International developers want in on it – but its rules on what is acceptable are growing increasingly harsh. Is it worth the compromise?\nIn the years after it was founded in 1999, the Swedish video game company Paradox Interactive quietly built a reputation for developing some of the best, and most hardcore, strategy games on the market. “Deep, endless, complex, unyielding games,” is how Shams Jorjani, the company’s chief business development officer, describes Paradox’s offerings. Most of its biggest hits, such as the middle ages-themed Crusader Kings, or Sengoku, in which you play as a 16th-century Japanese noble, were loosely based on history.\nBut in 2016, Paradox decided to try something a little different. Its new game, Stellaris, was a work of sprawling science fiction, set 200 years in the future. In this virtual universe, players could explore richly detailed galaxies, command their own fusion-powered starship fleets and fight with extraterrestrials to expand their space empires. Gamers could choose to play as the human race, or one of many alien species. (My personal favourite dresses in a lavish golden cape and has a head like an otter’s, with soft reddish-brown fur, dark eyes and a black snout. Another type of alien is a sentient crystal that eats rocks.)\n Continue reading...",
+          "link": "https://www.theguardian.com/news/2021/jul/15/china-video-game-censorship-tencent-netease-blizzard",
+          "publishedOn": "2021-07-15T05:00:33.000Z",
+          "wordCount": 5408,
+          "title": "No cults, no politics, no ghouls: how China censors the video game world"
+        },
+        {
+          "id": "https://www.theguardian.com/games/2021/jul/14/the-legend-of-zelda-skyward-sword-hd-review-nintendo-switch",
+          "author": "Matthew Castle",
+          "description": "Nintendo Switch; Nintendo\nThis remastered game from the Wii-era remains a wildly imaginative and magical experience created by Nintendo’s brainiest puzzle architects\nIn 2011, when Nintendo reforged The Legend of Zelda around the waggling of a Wii remote in Skyward Sword, there was a sense that the developer had lost sight of the wood for the trees; that in focusing so tightly on gyroscopic sword-waving, the game lost some of the series’ adventurous scope. But now that motion controls are widely accepted, or at least less pressed to argue their case, this HD remake seems more comfortable in its own skin. The hand-swinging sword combat benefits from the Switch controllers’ tighter tracking, and new button controls accommodate players who are reluctant to shift from a horizontal couch position.\nMotion control detractors may claim that Nintendo is conceding something here, but this is still a Hyrule built around the drama of a directional slash. Slobbering plants can be sliced along horizontal and vertical jawlines, and the glowing seams on robotic totem poles beckon like the “tear here” line on a family bag of sweets. Swinging one hand to cut and jabbing the other to parry with a shield is powerful play-acting, and nudging the control stick can’t help but feel timid by comparison. It left me wistful for the Wii, the pluck of a bow string transporting me back to Wii Sports Resort; a harp-strum dredging up memories of smiling politely through Wii Music recitals. It’s a shame that Nintendo has dialled back on motion controls just as the technology matured.\n Continue reading...",
+          "link": "https://www.theguardian.com/games/2021/jul/14/the-legend-of-zelda-skyward-sword-hd-review-nintendo-switch",
+          "publishedOn": "2021-07-14T13:00:13.000Z",
+          "wordCount": 970,
+          "title": "The Legend of Zelda: Skyward Sword HD review – still a cut above"
+        },
         {
           "id": "https://www.theguardian.com/technology/2021/jul/14/welcome-to-guardian-techscape-will-ai-make-centaurs-of-us-all",
           "author": "Alex Hern",
@@ -640,24 +721,6 @@
           "title": "New Zealand Uber drivers launch class action against ride share company"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/jul/14/reddit-defends-how-it-tackles-misinformation-as-it-opens-australian-office",
-          "author": "Josh Taylor",
-          "description": "Social news aggregator has had to grapple with growing calls to deal with misinformation and conspiracy theories on platform\nThe head of social news aggregator Reddit has argued its own community and administrators are the best moderator against misinformation, as the company plans to open an office in Australia for the first time.\nIn the past year since the onset of the Covid-19 pandemic, misinformation on social media platforms has been under close scrutiny. Much of the focus has been on Twitter, Facebook and YouTube, while Reddit has escaped the spotlight.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/14/reddit-defends-how-it-tackles-misinformation-as-it-opens-australian-office",
-          "publishedOn": "2021-07-14T06:14:38.000Z",
-          "wordCount": 1278,
-          "title": "Reddit defends how it tackles misinformation as it opens Australian office"
-        },
-        {
-          "id": "https://www.theguardian.com/artanddesign/gallery/2021/jul/14/silicon-valley-hawkeye-in-pictures",
-          "author": null,
-          "description": "For his eighth birthday in 1959 David Pace was given a Brownie Hawkeye camera. The young boy photographed family, church, work, and school in the region of California that would become the tech giants’ home \n Continue reading...",
-          "link": "https://www.theguardian.com/artanddesign/gallery/2021/jul/14/silicon-valley-hawkeye-in-pictures",
-          "publishedOn": "2021-07-14T06:00:05.000Z",
-          "wordCount": 931,
-          "title": "Silicon Valley before the silicon: a boy’s own story – in pictures"
-        },
-        {
           "id": "https://www.theguardian.com/technology/2021/jul/13/ransomware-gang-revils-websites-become-unreachable",
           "author": "Reuters",
           "description": "Outage means victims of Russia-linked cybercrime ring cannot pay ransom and can remain unnamed\nWebsites run by the ransomware gang REvil suddenly became unreachable on Tuesday.\nRansomware gang websites can be unreliable, and it was unclear whether the site’s disappearance was a momentary fluke or whether the hackers had been taken offline.\n Continue reading...",
@@ -674,15 +737,6 @@
           "publishedOn": "2021-07-13T13:58:45.000Z",
           "wordCount": 756,
           "title": "Tech chiefs called in to No 10 over racist posts to England players"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jul/13/google-fined-500m-by-frances-antitrust-watchdog-over-copyright",
-          "author": "Reuters",
-          "description": "Tech company must come up with proposals for how it would compensate agencies for use of their news\nFrance’s antitrust watchdog has fined Google €500m (£428m) for failing to comply with the regulator’s orders on how to conduct talks with the country’s news publishers in a row over copyright.\nThe fine comes amid international pressure on online platforms such as Google and Facebook to share more revenue with news outlets.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/13/google-fined-500m-by-frances-antitrust-watchdog-over-copyright",
-          "publishedOn": "2021-07-13T11:47:26.000Z",
-          "wordCount": 595,
-          "title": "Google fined €500m by France’s antitrust watchdog over copyright"
         },
         {
           "id": "https://www.theguardian.com/lifeandstyle/2021/jul/13/why-are-companies-always-experiencing-higher-than-normal-call-volumes",
@@ -710,15 +764,6 @@
           "publishedOn": "2021-07-13T02:58:47.000Z",
           "wordCount": 727,
           "title": "How to photograph the moon on your phone or camera, and the best settings to use"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jul/12/investigate-amazon-over-pandemic-price-gouging-says-unite",
-          "author": "Rob Davies",
-          "description": "UK union complains to competition watchdog that retailer profited from high prices on hand sanitiser and masks\nThe Unite union has lodged an official competition complaint against Amazon, alleging the online retailer profited from pandemic-related “price gouging” on products such as hand sanitiser and face masks.\nIn a 41-page letter, seen by the Guardian, lawyers for Unite accuse Amazon of “exploitative abuse of its dominance” and call on the UK Competition and Markets Authority (CMA) to launch an investigation.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/12/investigate-amazon-over-pandemic-price-gouging-says-unite",
-          "publishedOn": "2021-07-12T18:11:52.000Z",
-          "wordCount": 609,
-          "title": "Investigate Amazon over pandemic ‘price gouging’, says Unite"
         },
         {
           "id": "https://www.theguardian.com/business/2021/jul/12/to-obscurity-and-beyond-did-richard-branson-really-make-it-into-space",
@@ -755,15 +800,6 @@
           "publishedOn": "2021-07-11T17:30:52.000Z",
           "wordCount": 1289,
           "title": "‘Gonna be a trainwreck’: can an Asian diaspora Facebook group be good TV?"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/jul/11/proof-of-age-verification-online-facial-analysis-data-protection-act",
-          "author": "Alex Hern",
-          "description": "Determining a person’s age online seems like an intractable problem. But new technology and laws could be on the brink of solving it\nSuppose you pulled out your phone this morning to post a pic to your favourite social network – let’s call it Twinstabooktok – and were asked for a selfie before you could log on. The picture you submitted wouldn’t be sent anywhere, the service assured you: instead, it would use state-of-the-art machine-learning techniques to work out your age. In all likelihood, once you’ve submitted the scan, you can continue on your merry way. If the service guessed wrong, you could appeal, though that might take a bit longer.\nThe upside of all of this? The social network would be able to know that you were an adult user and provide you with an experience largely free of parental controls and paternalist moderation, while children who tried to sign up would be given a restricted version of the same experience.\n Continue reading...",
-          "link": "https://www.theguardian.com/politics/2021/jul/11/proof-of-age-verification-online-facial-analysis-data-protection-act",
-          "publishedOn": "2021-07-11T06:00:38.000Z",
-          "wordCount": 2194,
-          "title": "Can facial analysis technology create a child-safe internet?"
         },
         {
           "id": "https://www.theguardian.com/world/2021/jul/11/cyber-attack-hits-irans-transport-ministry-and-railways",
@@ -829,15 +865,6 @@
           "title": "The Story of Film: A New Generation review – invigorating study of 21st century cinema"
         },
         {
-          "id": "https://www.theguardian.com/games/2021/jul/06/new-nintendo-switch-oled-model-announced",
-          "author": "Keza MacDonald",
-          "description": "The upgraded OLED model will have a bigger screen and more storage for games\nNintendo has announced a new version of the Nintendo Switch, due out on 8 October this year. The Nintendo Switch OLED model will have a larger and brighter 7in screen, a wide kickstand for tabletop play, enhanced audio in handheld mode and 64GB of storage for games. Like the 2017 Nintendo Switch, it can be slotted into a dock for playing on a TV at home, or taken out and played as a handheld console. The TV dock will also have a wired LAN port, an important addition for those who like to play competitively online.\nAn upgraded model of Nintendo’s successful console has been rumoured for the past year, and was at one point expected to be announced during E3 last June. It will be available on the same day as Metroid Dread, the most anticipated game in Nintendo’s 2021 lineup.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jul/06/new-nintendo-switch-oled-model-announced",
-          "publishedOn": "2021-07-06T15:35:11.000Z",
-          "wordCount": 479,
-          "title": "New Nintendo Switch model announced for October"
-        },
-        {
           "id": "https://www.theguardian.com/technology/2021/jul/06/kaseya-ransomware-hackers-attack",
           "author": "Reuters",
           "description": "Between 800 and 1,500 businesses around the world, including supermarkets and dentists’ offices, affected by attack\nBetween 800 and 1,500 businesses around the world have been affected by a ransomware attack centered on the US information technology firm Kaseya, its chief executive said on Monday.\n Related: Republicans’ effort to deny the Capitol attack is working – and it’s dangerous \n Continue reading...",
@@ -892,15 +919,6 @@
           "title": "Enjoy the restored Night Watch, but don’t ignore the machine behind the Rembrandt"
         },
         {
-          "id": "https://www.theguardian.com/games/2021/jul/03/umurangi-generation-review-photography-hide-and-seek-maori",
-          "author": "Simon Parkin",
-          "description": "In this compelling game, your mission is to locate and photograph a series of images in a Māori-influenced world under occupation\nMany contemporary video games include a “photo mode” to enable the player to pause the action, position a virtual camera and take a snapshot of a scene (and then, the designers surely hope, post the results online, enabling grassroots marketing). Few make photography the entire point of the enterprise, however. Nintendo’s recent Pokémon Snap asked us to capture images of its mythic animals doing noteworthy things on safari-style tours, before grading the results. Umurangi Generation, another rare example of the genre, is less interested in making value judgments about your virtual photography (“Art is subjective,” the game’s tutorial assures); instead, you are whisked to a series of highly stylised scenes and given 10 minutes to collect a set of specific shots to a tight brief: seven birds, two boomboxes, a mountain, and so on.\nThe world is rendered in jagged polygons straight out of a late-90s PlayStation game (early-era 3D has now replaced 80s pixel art as the throwback trend in games), lending each image produced a nu-vintage appeal. Framing and focusing shots is elegantly straightforward, as is switching between lenses. You can jump, crouch, rotate the frame and, using three sliders, adjust the colour, tint and exposure within seconds.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jul/03/umurangi-generation-review-photography-hide-and-seek-maori",
-          "publishedOn": "2021-07-03T12:00:51.000Z",
-          "wordCount": 514,
-          "title": "Umurangi Generation review – chic photographic hide-and-seek"
-        },
-        {
           "id": "https://www.theguardian.com/technology/2021/jul/03/whats-next-for-jeff-bezos-space-climate-and-media-may-all-figure",
           "author": "Rupert Neate Wealth correspondent",
           "description": "As he hands over top job at Amazon, Bezos will remain largest shareholder and ‘has never had more energy’\nA quarter of a century after he founded Amazon in a Seattle garage, Jeff Bezos is preparing to loosen his grip on his $1.7tn (£1.2tn) company. Few employees in the sphere conservatories at Amazon’s sprawling Seattle campus headquarters reckon Bezos will relinquish that much of his iron grip on the company’s big decisions when Andy Jassy succeeds him as CEO on Monday. After all, Bezos will become executive chairman of Amazon’s board and remains the company’s biggest shareholder. But Bezos, 57, told his 1.3 million employees (whom he refers to as “fellow Amazonians”) that “as much as I still tap dance into the office, I’m excited about this transition”.\n“I’ve never had more energy, and this isn’t about retiring,” he said. “I intend to focus my energies and attention on new products and early initiatives … I’m super passionate about the impact I think these organisations can have.”\n Continue reading...",
@@ -908,15 +926,6 @@
           "publishedOn": "2021-07-03T05:00:43.000Z",
           "wordCount": 822,
           "title": "What’s next for Jeff Bezos? Space, climate and media may all figure"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya",
-          "author": "Guardian staff and agencies",
-          "description": "The US cybersecurity agency said it was investigating the attack after an incident at the Miami-based IT firm Kaseya\nHundreds of American businesses have been hit by a ransomware attack ahead of the Fourth of July holiday weekend, according to the cybersecurity company Huntress Labs.\nHuntress Labs said on Friday that 200 American businesses were hit after an incident at the Miami-based IT firm Kaseya, potentially marking the latest in a line of hacks destabilizing US companies.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jul/02/latest-ransomware-attack-american-businesses-kaseya",
-          "publishedOn": "2021-07-03T00:01:09.000Z",
-          "wordCount": 644,
-          "title": "Latest ransomware attack appears to hit hundreds of American businesses"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/jul/02/fire-hd-10-plus-2021-review-amazons-top-budget-tablet-upgraded",
@@ -980,24 +989,6 @@
           "publishedOn": "2021-06-17T10:00:31.000Z",
           "wordCount": 1135,
           "title": "How remote work opened the floodgates to ransomware"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick",
-          "author": "Erin McCormick in San Francisco",
-          "description": "The California startup leads a global push toward lab-grown meat. But experts question its bold claims\nIn December of last year, a handful of diners sat down to a futuristic meal at 1880, a members-only restaurant in Singapore. The star ingredient was “no-kill” chicken – raised not on a farm but in a laboratory bioreactor. Attendees snacked on lab-grown nuggets paired with crispy maple waffles, bao buns, and black bean puree.\nFor the California entrepreneur Josh Tetrick, it was a breakthrough. His company, Eat Just, had become the first in the world to sell the product after receiving approval from Singapore authorities. Headlines hailed a landmark step in the quest to end animal agriculture, upend the meat industry and redefine our diets.\n Continue reading...",
-          "link": "https://www.theguardian.com/food/2021/jun/16/eat-just-no-kill-meat-chicken-josh-tetrick",
-          "publishedOn": "2021-06-16T10:00:02.000Z",
-          "wordCount": 3192,
-          "title": "Eat Just is racing to put ‘no-kill meat’ on your plate. Is it too good to be true?"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition",
-          "author": "Samuel Gibbs Consumer technology editor",
-          "description": "Premium PC with new choice of faster chips, eight-hour battery, great keyboard and face recognition \nMicrosoft’s sleek and stylish Surface Laptop is back for its fourth generation with faster performance and a greater variety of chips.\nThe Surface Laptop 4 is available with either a 13.5in or a 15in screen and starts at £999 in the UK, $999 in the US or $1,599 in Australia sitting above the Surface Laptop Go as Microsoft’s mainstream premium notebook, competing with the similarly priced Dell XPS 13 and Apple MacBook Air, among others.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/jun/16/microsoft-surface-laptop-4-review-windows-10-battery-keyboard-face-recognition",
-          "publishedOn": "2021-06-16T06:00:22.000Z",
-          "wordCount": 1398,
-          "title": "Microsoft Surface Laptop 4 review: Windows 10 as it is meant to be"
         }
       ]
     },
@@ -1036,7 +1027,7 @@
           "description": "Pollinating squash by hand is easy, will ensure higher yields, and doesn’t take much time. In this post, I will explain why your baby squash keep falling off, and discuss the processes of hand pollinating the flowers step-by-step. One of the biggest struggles that newbies face when growing vegetables for the first time is havingContinue Reading\nThe post How To Pollinate Squash By Hand For Maximum Production appeared first on Get Busy Gardening.",
           "link": "https://getbusygardening.com/pollinating-squash/",
           "publishedOn": "2021-07-06T16:27:55.000Z",
-          "wordCount": 2231,
+          "wordCount": 3014,
           "title": "How To Pollinate Squash By Hand For Maximum Production"
         },
         {
