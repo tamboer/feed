@@ -1,28 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-18T00:34:31.475Z</id>
+    <id>urn:2021-07-19T00:34:08.408Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:34:31.475Z</updated>
+    <updated>2021-07-19T00:34:08.408Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[CNC Saves Water Cooling Setup]]></title>
-        <id>https://hackaday.com/?p=486947</id>
-        <link href="https://hackaday.com/2021/07/17/cnc-saves-water-cooling-setup/"/>
-        <updated>2021-07-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A classic problem. You have a new CPU and a 15-year old water cooling system. Of course, the bracket doesn’t fit. Time to buy a new cooler? Not if you …read more]]></summary>
+        <title type="html"><![CDATA[Hackaday Links: July 18, 2021]]></title>
+        <id>https://hackaday.com/?p=486789&amp;preview=true&amp;preview_id=486789</id>
+        <link href="https://hackaday.com/2021/07/18/hackaday-links-july-18-2021/"/>
+        <updated>2021-07-18T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Tell the world that something is in short supply, and you can bet that people will start reacting to that news in the ways that make the most sense to …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faulty Electrolytic Caps Don’t Always Look Bad]]></title>
+        <id>https://hackaday.com/?p=487320</id>
+        <link href="https://hackaday.com/2021/07/18/faulty-electrolytic-caps-dont-always-look-bad/"/>
+        <updated>2021-07-18T20:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Old electrolytic capacitors are notorious for not working like they used to, but what exactly does a bad capacitor look like, and what kinds of problems can it cause? Usually …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIDI Mouse Makes Marvelous Music]]></title>
+        <id>https://hackaday.com/?p=487357</id>
+        <link href="https://hackaday.com/2021/07/18/midi-mouse-makes-marvelous-music/"/>
+        <updated>2021-07-18T17:00:27.000Z</updated>
+        <summary type="html"><![CDATA[It’s an old misconception that digital musicians just use a mouse and keyboard for their art. This is often far from the truth, as many computer music artists have a …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Your Toilet Tank From Sweating]]></title>
+        <id>1847313005</id>
+        <link href="https://lifehacker.com/how-to-stop-your-toilet-tank-from-sweating-1847313005"/>
+        <updated>2021-07-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Along with all the fun in the sun and taking advantage of the extended evening daylight, summer also means sweat. Sure, sweating isn’t limited to June, July, and August, but when the temperatures climb, so too does the tendency to turn into a sweaty mess.
+
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Good at Being an Instagram Influencer]]></title>
+        <id>1847307664</id>
+        <link href="https://lifehacker.com/how-to-get-good-at-being-an-instagram-influencer-1847307664"/>
+        <updated>2021-07-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instagram influencers get a lot of flak, but they also get a lot of money and opportunities in the real world—when they’re good at the job. To reach a level of goodness, you need lots of followers, but there’s more to it than that. You want brand deals? You want a nice blue checkmark? You need to keep your followers…
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Answer These 15 Yes-or-No Questions to Help Evaluate the State of Your Relationship]]></title>
+        <id>1847312998</id>
+        <link href="https://lifehacker.com/answer-these-15-yes-or-no-questions-to-help-evaluate-th-1847312998"/>
+        <updated>2021-07-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s really easy to judge other people’s relationships. In fact, we may not even realize when we’re doing it. But when you spend time with a couple, their dynamic usually becomes apparent relatively quickly, to the point where you may think you can identify their specific problems.
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hidden Sounds Of The Past]]></title>
+        <id>https://hackaday.com/?p=487429</id>
+        <link href="https://hackaday.com/2021/07/18/the-hidden-sounds-of-the-past/"/>
+        <updated>2021-07-18T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[If you stop to think, the number of pre-recorded voices and sounds you might hear on an average day might number in the hundreds. Everything from subway announcements, alerts on …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your First Real Estate Investment]]></title>
+        <id>1847307721</id>
+        <link href="https://lifehacker.com/how-to-make-your-first-real-estate-investment-1847307721"/>
+        <updated>2021-07-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So, it’s time to make your first real estate investment. Whether you’re buying yourself a condo or house, or looking to flip one for profit, you’re taking a big step. We asked experts for some advice.
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Care for the Trees in Your Yard]]></title>
+        <id>1847313011</id>
+        <link href="https://lifehacker.com/how-to-care-for-the-trees-in-your-yard-1847313011"/>
+        <updated>2021-07-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even if you spend a decent amount of time, money, and effort keeping your garden, lawn, and/or other parts of your landscape looking good, you may be leaving out some of your yard’s largest residents: Trees. It can be easy to forget about trees, especially when they were already on your property when you moved in.
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How data could save Earth from climate change]]></title>
+        <id>https://www.theguardian.com/environment/2021/jul/18/how-data-could-save-earth-from-climate-change</id>
+        <link href="https://www.theguardian.com/environment/2021/jul/18/how-data-could-save-earth-from-climate-change"/>
+        <updated>2021-07-18T12:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Using a name inspired by Indonesian farmers, Subak will share information and fund hi-tech solutions to fight global heating
+As monikers go, Subak may seem an odd choice for a new organisation that aims to accelerate hi-tech efforts to combat the climate crisis. The name is Indonesian, it transpires, and refers to an ancient agricultural system that allows farmers to co-ordinate their efforts when irrigating and growing crops.
+“Subak allows farmers to carefully synchronise their use of water and so maximise rice production,” said Bryony Worthington, founder and board member of the new, not-for-profit climate action group. “And that is exactly what we are going to do – with data. By sharing and channelling data, we can maximise our efforts to combat carbon emissions and global warming. Data is going to be the new water, in other words.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Robin McKie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeWalt Literal Hack Upgrades Battery]]></title>
+        <id>https://hackaday.com/?p=487404</id>
+        <link href="https://hackaday.com/2021/07/18/dewalt-literal-hack-upgrades-battery/"/>
+        <updated>2021-07-18T11:00:25.000Z</updated>
+        <summary type="html"><![CDATA[There are several important decisions you make in your life: Coke or Pepsi; vi or emacs; PC or Mac. But, lately, you need to pick a battery ecosystem for your …read more]]></summary>
         <author>
             <name>Al Williams</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reinvented Retro Contest Winners Announced]]></title>
-        <id>https://hackaday.com/?p=487126</id>
-        <link href="https://hackaday.com/2021/07/17/reinvented-retro-contest-winners-announced/"/>
-        <updated>2021-07-17T20:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Good news, everyone! The results of the Reinvented Retro contest are in, and the creators of these three groovy projects have each won a $200 online shopping spree to Digi-Key. …read more]]></summary>
+        <title type="html"><![CDATA[Secrets and pies: the battle to get lab-grown meat on the menu]]></title>
+        <id>https://www.theguardian.com/science/2021/jul/18/secrets-and-pies-the-battle-to-get-lab-grown-meat-on-the-menu</id>
+        <link href="https://www.theguardian.com/science/2021/jul/18/secrets-and-pies-the-battle-to-get-lab-grown-meat-on-the-menu"/>
+        <updated>2021-07-18T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Sustainable alternatives to livestock farming are being held back by patents, a reluctance to share research and lack of government support
+Not a week goes by without Elliot Swartz receiving at least one request from researchers asking him where they can find cell lines (a cell culture developed from a single cell) for use in cellular agriculture – an essential tool for creating lab-grown meat. “One of the most important things that cell lines offer is that they enable researchers to just get started in this new field,” says Swartz, who works in New York as a senior scientist at the Good Food Institute (GFI) – a nonprofit focused on advancing cellular agriculture and bringing its products to our shelves and stomachs as quickly as possible. Helping researchers is a core part of his role. In the case of cell lines, however, there’s very little he can do.
+Swartz’s response to the researchers is unfortunately always the same: at the moment, publicly available cell lines relevant for cellular agriculture don’t really exist. That doesn’t mean that they’re nowhere to be found. Upside Foods (previously Memphis Meats) has submitted several patents to protect cell lines it has developed, and companies such as Cell Farm Food Tech have built a business around selling cell lines for profit. Keeping discoveries behind closed doors is a pattern of behaviour found in private companies across the industry, which many believe is slowing down innovation.
+ Continue reading...]]></summary>
         <author>
-            <name>Kristina Panos</name>
+            <name>Jack McGovan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino Cable Tracer Helps Diagnose Broken USB Cables]]></title>
+        <id>https://hackaday.com/?p=485890</id>
+        <link href="https://hackaday.com/2021/07/18/arduino-cable-tracer-helps-diagnose-broken-usb-cables/"/>
+        <updated>2021-07-18T08:00:49.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all found ourselves swimming amongst too many similar-looking USB cables over the years. Some have all the conductors and functionality, some are weird power-only oddballs, and some charge our …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control an IRL Home From Minecraft]]></title>
+        <id>https://hackaday.com/?p=486449</id>
+        <link href="https://hackaday.com/2021/07/17/control-an-irl-home-from-minecraft/"/>
+        <updated>2021-07-18T05:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Minecraft seems to be a game in which anything is possible, both in the virtual world and in the real one. As a sandbox-style game, we’ve seen all kinds of …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
         </author>
     </entry>
     <entry>
@@ -47,16 +179,6 @@ Spooner runs his lightweight battery casing technology firm Vaulta from a shared
 Read more...]]></summary>
         <author>
             <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tales from the Global Chip Shortage: Smoothieboard]]></title>
-        <id>https://hackaday.com/?p=487001</id>
-        <link href="https://hackaday.com/2021/07/17/tales-from-the-global-chip-shortage-smoothieboard/"/>
-        <updated>2021-07-17T17:01:48.000Z</updated>
-        <summary type="html"><![CDATA[The semiconductor shortage sparked by the pandemic is showing no signs of slowing down. Although auto manufacturers were some of the first affected, the shortage has now spread and is …read more]]></summary>
-        <author>
-            <name>Stephen Ogier</name>
         </author>
     </entry>
     <entry>
@@ -106,16 +228,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Source is Choice]]></title>
-        <id>https://hackaday.com/?p=487243</id>
-        <link href="https://hackaday.com/2021/07/17/open-source-is-choice/"/>
-        <updated>2021-07-17T14:00:25.000Z</updated>
-        <summary type="html"><![CDATA[If you haven’t been following along with the licensing kerfuffle surrounding the open-source Audacity audio editing software, take a sec to read Tom Nardi’s piece and get up to speed. …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Get Paid $1,000 to See Which TV Shows You Actually Learn From]]></title>
         <id>1847303183</id>
         <link href="https://lifehacker.com/get-paid-1-000-to-see-which-tv-shows-you-actually-lear-1847303183"/>
@@ -135,16 +247,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Lindsey Ellefson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soviet Scientific Calculator Gives Up Its Cold War-Era Secrets]]></title>
-        <id>https://hackaday.com/?p=486453</id>
-        <link href="https://hackaday.com/2021/07/17/soviet-scientific-calculator-gives-up-its-cold-war-era-secrets/"/>
-        <updated>2021-07-17T11:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Say what you want about Soviet technology, but you’ve got to admit there was a certain style to Cold War-era electronics. Things were perhaps not as streamlined and sleek as …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -175,16 +277,6 @@ The term “chill” has come up a lot during this past week in which I – one 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding Fractals in the 1930’s]]></title>
-        <id>https://hackaday.com/?p=486825</id>
-        <link href="https://hackaday.com/2021/07/17/finding-fractals-in-the-1930s/"/>
-        <updated>2021-07-17T08:01:18.000Z</updated>
-        <summary type="html"><![CDATA[The mesmerizing properties of fractals are surprising as their visual complexity often arises from simple equations. [CodeParade] set out to show how simple a fractal is by creating them using …read more]]></summary>
-        <author>
-            <name>Matthew Carlson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Social Warming by Charles Arthur review – a coolly prosecutorial look at social media]]></title>
         <id>https://www.theguardian.com/books/2021/jul/17/social-warming-by-charles-arthur-review-a-coolly-prosecutorial-look-at-social-media</id>
         <link href="https://www.theguardian.com/books/2021/jul/17/social-warming-by-charles-arthur-review-a-coolly-prosecutorial-look-at-social-media"/>
@@ -195,16 +287,6 @@ But as Charles Arthur’s coolly prosecutorial book shows, social-media algorith
  Continue reading...]]></summary>
         <author>
             <name>Steven Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing Joy-Con Drift with Recycle Bin Parts]]></title>
-        <id>https://hackaday.com/?p=487248</id>
-        <link href="https://hackaday.com/2021/07/16/fixing-joy-con-drift-with-recycle-bin-parts/"/>
-        <updated>2021-07-17T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Have you seen this yet? YouTuber [VK’s Channel] claims to have a permanent fix for Joy-Con drift — the tendency for Nintendo Switch controllers to behave as though they’re being …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
         </author>
     </entry>
     <entry>
@@ -457,19 +539,6 @@ Mission accomplished, the two taikonauts – China’s astronauts – clambered 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Van Tulleken brothers chew the fat on obesity – podcasts of the week]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2021/jul/16/the-van-tulleken-brothers-chew-the-fat-on-obesity-podcasts-of-the-week</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2021/jul/16/the-van-tulleken-brothers-chew-the-fat-on-obesity-podcasts-of-the-week"/>
-        <updated>2021-07-16T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[TV doctors Chris and Xand consider the drastic differences in their weight – and health. Plus: Slate’s One Year takes us back to 1977, and more mind-changing action in You’re Wrong About 
-A Thorough Examination With Drs Chris and Xand
-The Van Tulleken brothers’ new podcast investigates why Xand is obese and Chris isn’t, despite the fact the TV doctors are identical twins. It’s a situation that came to a head after they both caught Covid, and Xand developed a heart condition. They start by looking back on their childhood meals, before exploring the effects of Xand’s stressful year living in America. There’s much myth-busting, with the overriding message that obesity is not a simple issue to understand and tackle. Hannah Verdier
- Continue reading...]]></summary>
-        <author>
-            <name>Hannah Verdier, Hannah J Davies and Ella Mumby</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soup kitchens in Makhanda struggle to keep up as demand doubles]]></title>
         <id>https://www.groundup.org.za/article/soup-kitchens-makahanda-struggling-keep-number-people-coming-food-doubles/</id>
         <link href="https://www.groundup.org.za/article/soup-kitchens-makahanda-struggling-keep-number-people-coming-food-doubles/"/>
@@ -515,61 +584,6 @@ The social media company said the group, dubbed “Tortoiseshell” by security 
  Continue reading...]]></summary>
         <author>
             <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stretch the Waistline of Your Pants for a Little Extra Room]]></title>
-        <id>1847301129</id>
-        <link href="https://lifehacker.com/how-to-stretch-the-waistline-of-your-pants-for-a-little-1847301129"/>
-        <updated>2021-07-15T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After we shared how to unshrink your clothes, we were asked if it was possible with pants—so, naturally, we went to find out. Adjusting your pants’ waistline is especially helpful if you’re someone like me, whose waist tends to sit right in between most factory-grade sizes. Of course, you can work with a tailor to get…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 Things Every Beginner Runner Should Know, According to Reddit]]></title>
-        <id>1847298471</id>
-        <link href="https://lifehacker.com/16-things-every-beginner-runner-should-know-according-1847298471"/>
-        <updated>2021-07-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Running can be as simple as putting one foot in front of the other, but if you do a lot of running you’ll discover things about yourself and your sport that you wouldn’t have guessed at the beginning. Recently a redditor asked for a shortcut to some of that secret knowledge: “Experienced runners: what’s something you…
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replace Your Mindless Scrolling With Something That'll At Least Pay You a Little]]></title>
-        <id>1847299965</id>
-        <link href="https://lifehacker.com/replace-your-mindless-scrolling-with-something-thatll-a-1847299965"/>
-        <updated>2021-07-15T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You can make easy money taking online surveys, but they typically don’t pay more than a few bucks an hour, way less than you’d get with a part-time job paying minimum wage. Still, as a diversion, it pays better than scrolling through Twitter, especially if you’re stuck waiting somewhere like the airport or DMV. 
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 Movies That Are Basically 'IP Orgies']]></title>
-        <id>1847289994</id>
-        <link href="https://lifehacker.com/18-movies-that-are-basically-ip-orgies-1847289994"/>
-        <updated>2021-07-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To our 2021 eyes, the original Space Jam was pretty modest in its ambitions: Reinvent the Looney Tunes and Merrie Melodies characters by teaming them up with fictionalized versions of real NBA stars like Michael Jordan. That, of course, was before Warner Brothers owned about 33% of everything  ever conceived of by…
-Read more...]]></summary>
-        <author>
-            <name>Ross Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get The Most Out of Your Vacuum Cleaner With These Tricks]]></title>
-        <id>1837217175</id>
-        <link href="https://lifehacker.com/get-the-most-out-of-your-vacuum-cleaner-with-these-tric-1837217175"/>
-        <updated>2021-07-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Vacuums suck! Or rather, problems arise when they stop sucking.
-Read more...]]></summary>
-        <author>
-            <name>Joel Kahn</name>
         </author>
     </entry>
     <entry>
@@ -1219,17 +1233,6 @@ The new Bluetooth earbuds take a cue from Google’s cheaper but great A-Series 
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs Consumer technology editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maker Spotlight: Michael Albert]]></title>
-        <id>https://makezine.com/2021/06/18/maker-spotlight-michael-albert/</id>
-        <link href="https://makezine.com/2021/06/18/maker-spotlight-michael-albert/"/>
-        <updated>2021-06-18T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[First and last name Michael Albert Where are you located?  White Plains, New York What is your day job?  Pop Artist/Owner of Sir Real brand of Natural Foods Do you attend a makerspace/fablab/hackerspace?  Not usually, but I’m looking forward to the Mead Library’s Maker Faire Sheboygan this weekend. Website | Pinterest | Art site What […]
-The post Maker Spotlight: Michael Albert appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
-        <author>
-            <name>Make: DIY Projects and Ideas for Makers</name>
         </author>
     </entry>
 </feed>
