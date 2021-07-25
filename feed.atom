@@ -1,16 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-24T00:32:27.683Z</id>
+    <id>urn:2021-07-25T00:35:55.391Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T00:32:27.683Z</updated>
+    <updated>2021-07-25T00:35:55.392Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[A Nerf Ball Turret Complete With FPV]]></title>
-        <id>https://hackaday.com/?p=487721</id>
-        <link href="https://hackaday.com/2021/07/23/a-nerf-ball-turret-complete-with-fpv/"/>
-        <updated>2021-07-23T23:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Sentry turrets have long been a feature of science fiction films and video games. These days, there’s nothing stopping you from building your own. [otjones99] has done just that, with …read more]]></summary>
+        <title type="html"><![CDATA[Monowheel Balancing Robot Can’t Turn (Yet)]]></title>
+        <id>https://hackaday.com/?p=487706</id>
+        <link href="https://hackaday.com/2021/07/24/monowheel-balancing-robot-cant-turn-yet/"/>
+        <updated>2021-07-24T23:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Self-balancing robots have become a common hobby project, and they usually require two wheels to work. [James Bruton] has managed to single wheel balancing robot by adding gyroscopic stabilization. [James] …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walk the First 3D-Printed Bridge and Be Counted]]></title>
+        <id>https://hackaday.com/?p=487921</id>
+        <link href="https://hackaday.com/2021/07/24/walk-the-first-3d-printed-bridge-and-be-counted/"/>
+        <updated>2021-07-24T20:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Way back in 2018, we brought you news of a 3D-printed stainless steel pedestrian bridge being planned to span a Dutch canal in Amsterdam. Now it’s finally in place and …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 iPhone photography awards – in pictures]]></title>
+        <id>https://www.theguardian.com/technology/gallery/2021/jul/25/2021-iphone-photography-awards-in-pictures</id>
+        <link href="https://www.theguardian.com/technology/gallery/2021/jul/25/2021-iphone-photography-awards-in-pictures"/>
+        <updated>2021-07-24T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The 14th annual iPhone photography awards offer glimpses of beauty, hope and the endurance of the human spirit. Out of thousands of submissions, photojournalist Istvan Kerekes of Hungary was named the grand prize winner for his image Transylvanian Shepherds. In it, two rugged shepherds traverse an equally rugged industrial landscape, bearing a pair of lambs in their arms.
+ Continue reading...]]></summary>
+        <author>
+            <name>Technology | The Guardian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Alexa's Voice on Amazon Echo, Finally]]></title>
+        <id>1847355030</id>
+        <link href="https://lifehacker.com/how-to-change-alexas-voice-on-amazon-echo-finally-1847355030"/>
+        <updated>2021-07-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since its inception, Amazon Echo has featured a titular, feminine voice that became the identity that we all associate with the voice assistant. After all these years, Amazon is finally letting users try out a new, masculine voice. Plus, you can even try out celebrity voices like Samuel L. Jackson, Shaquille O’Neal,…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Paid $5,000 to Play Video Games, Stream TV Shows, or Shop Online]]></title>
+        <id>1847354091</id>
+        <link href="https://lifehacker.com/get-paid-5-000-to-play-video-games-stream-tv-shows-o-1847354091"/>
+        <updated>2021-07-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone has taken a few minutes (or hours) of time during their workday to get some personal stuff done. But what if you had an entire week to spend doing whatever you want online—and got paid to do it? One company is hiring someone to do just that. Here’s what to know about the position, and how to apply.
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid Awkward Video Conference Situations With PIR and Arduino]]></title>
+        <id>https://hackaday.com/?p=487942</id>
+        <link href="https://hackaday.com/2021/07/24/avoid-awkward-video-conference-situations-with-pir-and-arduino/"/>
+        <updated>2021-07-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Working from home with regular video meetings has its challenges, especially if you add kids to the mix. To help avoid embarrassing situations, [Charitha Jayaweera] created Present!, a USB device …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Exactly What You Want at a Botox Appointment]]></title>
+        <id>1847353579</id>
+        <link href="https://lifehacker.com/how-to-get-exactly-what-you-want-at-a-botox-appointment-1847353579"/>
+        <updated>2021-07-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you see someone with facial injectables you don’t like, there’s something you need to remember (besides the fact that your opinion on someone else’s aesthetic enhancements isn’t relevant): For everyone with exaggerated filler or too-frozen Botox you spot in the wild, there are dozens more people walking around…
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Dish Soap and/or a Garden Hose to Locate Leaks in an Air Mattress]]></title>
+        <id>1847354067</id>
+        <link href="https://lifehacker.com/use-dish-soap-and-or-a-garden-hose-to-locate-leaks-in-a-1847354067"/>
+        <updated>2021-07-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of sleeping on low-quality air mattresses, you finally decided to invest in a good one. Maybe it even has special features—like a built-in air pump, or being thicker. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to Desolder Gracefully]]></title>
+        <id>https://hackaday.com/?p=488379</id>
+        <link href="https://hackaday.com/2021/07/24/learning-to-desolder-gracefully/"/>
+        <updated>2021-07-24T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[When you’re just learning to sketch, you use graphite. Why? It’s cheap, great at training you to recognize different shades, and most of all, it’s erasable. When you’re learning, you’re …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Land a Job in Radio]]></title>
+        <id>1847350298</id>
+        <link href="https://lifehacker.com/how-to-land-a-job-in-radio-1847350298"/>
+        <updated>2021-07-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The radio can really put you in a good mood. From upbeat songs to delightfully low-budget local ads, there’s always something to enjoy—so it’s understandable if you’ve ever wondered how you can be one of the people who make that enjoyable experience happen. So, if you want to break into the radio industry, we have a…
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between French and English Lavender, and Which to Plant in Your Garden]]></title>
+        <id>1847354061</id>
+        <link href="https://lifehacker.com/the-difference-between-french-and-english-lavender-and-1847354061"/>
+        <updated>2021-07-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not only does lavender look great on display in bouquets, it also has a clean, pleasant scent that many people enjoy and find calming. And if you’ve ever purchased fresh lavender, you know that it can be pretty pricey. So if you’d like to have an endless supply of the fragrant plant, you may want to grow lavender in…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP8266 Adds WiFi Logging to IKEA’s Air Quality Sensor]]></title>
+        <id>https://hackaday.com/?p=488239</id>
+        <link href="https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/"/>
+        <updated>2021-07-24T11:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Introduced back in June, the IKEA VINDRIKTNING is a $12 USD sensor that uses colored LEDs to indicate the relative air quality in your home depending on how many particles …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sucks to be him! How Henry the vacuum cleaner became an accidental design icon]]></title>
+        <id>https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon"/>
+        <updated>2021-07-24T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Henry is a fixture in millions of homes – including 10 Downing Street – despite almost no advertising. Meet the man behind a curiously British success story
+In March this year, photos of the government’s glitzy new briefing room, where Boris Johnson’s new media chief was set to host daily press conferences, leaked to the media. The centrepiece of a “presidential” approach to communications, it was already controversial for its cost to taxpayers of £2.6m. With its gaudy blue backdrop, giant union flags and imposing podium, it looked like the stage for a US political or legal TV show: The West Wing with a touch of Judge Judy.
+What the briefing room needed was something to suck the pomposity out of it. What it needed, it turned out, was a cameo appearance from a 620-watt anthropomorphic vacuum cleaner. The stocky red and black appliance was barely visible in the wings, stage left, yet instantly recognisable. Turned away from the podium, his chrome wand propped casually against a varnished dado rail, the Henry vacuum cleaner looked almost as if he were rolling his eyes.
+ Continue reading...]]></summary>
+        <author>
+            <name>Simon Usborne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Flipper Zero Hacker Multitool Gets Made and Tested]]></title>
+        <id>https://hackaday.com/?p=486551</id>
+        <link href="https://hackaday.com/2021/07/24/how-the-flipper-zero-hacker-multitool-gets-made-and-tested/"/>
+        <updated>2021-07-24T08:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Flipper Zero is an open-source multitool for hackers, and [Pavel] recently shared details on what goes into the production and testing of these devices. Each unit contains four separate PCBs, and …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart security: how to keep your home safe while you’re away]]></title>
+        <id>https://www.theguardian.com/money/2021/jul/24/smart-security-how-to-keep-your-home-safe-while-youre-away</id>
+        <link href="https://www.theguardian.com/money/2021/jul/24/smart-security-how-to-keep-your-home-safe-while-youre-away"/>
+        <updated>2021-07-24T08:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Tech options to deter would-be intruders, and let you monitor your house from anywhere
+With the prospect of trips out and holidays finally on the cards, over the next few weeks many of us will be leaving our houses unattended for the first time in months. So now is the time to think about making your home a bit more secure.
+In addition to the basics, there is a range of DIY tech that may help to deter would-be intruders and allow you to keep an eye on your home from almost anywhere in the world.
+ Continue reading...]]></summary>
+        <author>
+            <name>Samuel Gibbs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joker Monitor Keeps an Eye on Hazardous Gas Levels]]></title>
+        <id>https://hackaday.com/?p=487710</id>
+        <link href="https://hackaday.com/2021/07/23/joker-monitor-keeps-an-eye-on-hazardous-gas-levels/"/>
+        <updated>2021-07-24T05:00:33.000Z</updated>
+        <summary type="html"><![CDATA[The Joker is a popular character in the Batman franchise, and at times uses poisonous gases as part of his criminal repertoire. That inspired this fun project by [kutluhan_aktar], which aims to …read more]]></summary>
         <author>
             <name>Lewin Day</name>
         </author>
@@ -36,16 +199,6 @@ That isn’t…
 Read more...]]></summary>
         <author>
             <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm Researchers Announce the PlasticArm]]></title>
-        <id>https://hackaday.com/?p=488278</id>
-        <link href="https://hackaday.com/2021/07/23/arm-researchers-announce-the-plasticarm/"/>
-        <updated>2021-07-23T20:00:34.000Z</updated>
-        <summary type="html"><![CDATA[If the Cortex family of embedded microprocessors aren’t flexible enough for your designs, an article published this week (click here for the PDF version) in the journal Nature might be of interest. …read more]]></summary>
-        <author>
-            <name>Chris Lott</name>
         </author>
     </entry>
     <entry>
@@ -79,16 +232,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Privacy Policy Gets Audacity Back on Track]]></title>
-        <id>https://hackaday.com/?p=488349</id>
-        <link href="https://hackaday.com/2021/07/23/new-privacy-policy-gets-audacity-back-on-track/"/>
-        <updated>2021-07-23T18:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Regular readers will likely be aware of the considerable debate over changes being made to the free and open source audio editor Audacity by the project’s new owners, Muse Group. …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
         </author>
     </entry>
     <entry>
@@ -137,16 +280,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are Hackers Being Let Down In Education?]]></title>
-        <id>https://hackaday.com/?p=484862</id>
-        <link href="https://hackaday.com/2021/07/23/are-hackers-being-let-down-in-education/"/>
-        <updated>2021-07-23T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[In my work for Hackaday over the years I have been privileged to interact with some of the most creative people I have ever met, I have travelled far more …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pick the Tomatoes at the Bottom of Your Plant First]]></title>
         <id>1847350384</id>
         <link href="https://lifehacker.com/pick-the-tomatoes-at-the-bottom-of-your-plant-first-1847350384"/>
@@ -181,16 +314,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hackaday Podcast 128: 3D-Printing Injection Molds, Squiggly Audio Tape, Curvy Mirrors, and Space Cadets]]></title>
-        <id>https://hackaday.com/?p=488174&amp;preview=true&amp;preview_id=488174</id>
-        <link href="https://hackaday.com/2021/07/23/hackaday-podcast-128-3d-printing-injection-molds-squiggly-audio-tape-curvy-mirrors-and-space-cadets/"/>
-        <updated>2021-07-23T16:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Hackaday editors Elliot Williams and Mike Szczys bubble sort the best hardware hacks so you don’t miss ’em. This week we’re smitten by the perfection of a telephone tape loop …read more]]></summary>
-        <author>
-            <name>Mike Szczys</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Edit Your 'Continue Watching' List on Every Major Streaming Service]]></title>
         <id>1847348242</id>
         <link href="https://lifehacker.com/how-to-edit-your-continue-watching-list-on-every-major-1847348242"/>
@@ -213,16 +336,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed Roller Coaster Looks Pretty Darn Fun]]></title>
-        <id>https://hackaday.com/?p=488117</id>
-        <link href="https://hackaday.com/2021/07/23/3d-printed-roller-coaster-looks-pretty-darn-fun/"/>
-        <updated>2021-07-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rollercoasters are great fun if you can deal with the exhilaration without throwing up or otherwise screaming until you pass out. Of course, the big outdoors ones are a little …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Start Dating Again If You're Unvaccinated]]></title>
         <id>1847343349</id>
         <link href="https://lifehacker.com/how-to-start-dating-again-if-youre-unvaccinated-1847343349"/>
@@ -231,16 +344,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Lindsey Ellefson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week in Security: NSO, Print Spooler, and a Mysterious Decryptor]]></title>
-        <id>https://hackaday.com/?p=488001</id>
-        <link href="https://hackaday.com/2021/07/23/this-week-in-security-nso-print-spooler-and-a-mysterious-decryptor/"/>
-        <updated>2021-07-23T14:00:11.000Z</updated>
-        <summary type="html"><![CDATA[The NSO Group has been in the news again recently, with multiple stories reporting on their Pegasus spyware product. The research and reporting spearheaded by Amnesty International is collectively known …read more]]></summary>
-        <author>
-            <name>Jonathan Bennett</name>
         </author>
     </entry>
     <entry>
@@ -344,19 +447,6 @@ In an exchange of public letters in 2019, they told Amnesty International and ot
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12 Bytes by Jeanette Winterson review – how we got here and where we might go next]]></title>
-        <id>https://www.theguardian.com/books/2021/jul/23/12-bytes-by-jeanette-winterson-review-how-we-got-here-and-where-we-might-go-next</id>
-        <link href="https://www.theguardian.com/books/2021/jul/23/12-bytes-by-jeanette-winterson-review-how-we-got-here-and-where-we-might-go-next"/>
-        <updated>2021-07-23T08:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Twelve essays drawing on years of research into artificial intelligence ask challenging questions about humanity, art, religion and the way we live and love
-In Mary Shelley’s 1818 novel Frankenstein, a scientist creates life and is horrified by what he has done. Two centuries on, synthetic life, albeit in a far simpler form, has been created in a dish. What Shelley imagined has only now become possible. But as Jeanette Winterson points out in this essay collection, the achievements of science and technology always start out as fiction. Not everything that can be imagined can be realised, but nothing can be realised if it hasn’t been imagined first.
-Take artificial intelligence. For now AI is a tool that we train to address specific tasks such as predicting the next Covid wave, but plenty of people have imagined that it could be something categorically different: a multitasking problem-solver whose capacity to understand and learn is equal or superior to ours. Many labs are working on this concept, which is called artificial general intelligence (AGI), and it could be a reality within decades. That’s how far imagination in technology has brought us. What can the artistic imagination add?
- Continue reading...]]></summary>
-        <author>
-            <name>Laura Spinney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How male celebs really feel about their bodies – podcasts of the week]]></title>
         <id>https://www.theguardian.com/tv-and-radio/2021/jul/23/how-male-celebs-really-feel-about-their-bodies-podcasts-of-the-week</id>
         <link href="https://www.theguardian.com/tv-and-radio/2021/jul/23/how-male-celebs-really-feel-about-their-bodies-podcasts-of-the-week"/>
@@ -379,19 +469,6 @@ Mark Steel’s new podcast sees the comic pose that very question to his guests,
         <summary type="html"><![CDATA[Community soup kitchens say the number of people coming for food has increased in recent months]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pegasus project part 5: the fightback against private spyware begins]]></title>
-        <id>https://www.theguardian.com/news/audio/2021/jul/23/the-pegasus-project-part-5-the-fightback-against-private-spyware-begins</id>
-        <link href="https://www.theguardian.com/news/audio/2021/jul/23/the-pegasus-project-part-5-the-fightback-against-private-spyware-begins"/>
-        <updated>2021-07-23T02:00:41.000Z</updated>
-        <summary type="html"><![CDATA[After a week of stories about the abuse of private spyware by governments around the world, Michael Safi rounds off our mini-series by looking at the global impact of the Pegasus project and what could change as a result
-All this week Guardian journalists across the world have been reporting on a massive data leak: more than 50,000 phone numbers that, it is believed, have been identified as those of people of interest by clients of the spyware company NSO Group. 
-The leak has made people realise that without us really noticing, the world changed. There are now 3.8bn smartphones globally. They hear our most intimate conversations, hold our deepest secrets – each one can be a microphone and a camera, waiting to be switched on.
- Continue reading...]]></summary>
-        <author>
-            <name>Presented by Michael Safi with Angelique Chrisafis and Shaun Walker; produced by Joshua Kelly, Ned Carter Miles and Axel Kacoutié; executive producers Phil Maynard and Nicole Jackson</name>
         </author>
     </entry>
     <entry>
@@ -419,63 +496,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Watch 'Ted Lasso' for Free on PlayStation 5]]></title>
-        <id>1847345316</id>
-        <link href="https://lifehacker.com/how-to-watch-ted-lasso-for-free-on-playstation-5-1847345316"/>
-        <updated>2021-07-22T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The second season of Apple TV’s fan-favorite comedy, Ted Lasso, premieres tomorrow, July 23 on Apple TV+. Ted Lasso is one of those rare TV series beloved by fans and critics alike within its first season, one that everyone swears you “have to watch” even though it’s exclusive to a premium streaming service many…
-Read more...]]></summary>
-        <author>
-            <name>Brendan Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Do When Your Partner Spends All Day on the Couch]]></title>
-        <id>1847342728</id>
-        <link href="https://lifehacker.com/what-to-do-when-your-partner-spends-all-day-on-the-couc-1847342728"/>
-        <updated>2021-07-22T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not all advice need be professional. Sometimes your problems merit a bit of unvarnished honesty from a dude equipped with nothing more than a computer and a conscience. Luckily for you, I’m that guy. Welcome back to Tough Love. (If you’d like to seek my advice, email me at sblum@lifehacker.com)
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Switch to Synthetic Grass]]></title>
-        <id>1847344335</id>
-        <link href="https://lifehacker.com/why-you-should-switch-to-synthetic-grass-1847344335"/>
-        <updated>2021-07-22T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[With aeration, watering, mowing, and weeding, it can be a lot of work to keep a pristine grass lawn. But there are alternatives to traditional grass, like desert-style landscaping that takes minimal attention and watering, or rain gardens that have plants and shrubs designed to collect rainwater and filter toxins. 
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WTF Is Going on With Federal Student Loan Assistance?]]></title>
-        <id>1847344545</id>
-        <link href="https://lifehacker.com/wtf-is-going-on-with-federal-student-loan-assistance-1847344545"/>
-        <updated>2021-07-22T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With the federal student loan forbearance period expiring in October, most borrowers will have to start paying off their student loans for the first time since March 2020—if that deadline stands. But will the moratorium be extended again? Here’s a look at the latest on student loan forgiveness.
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Tasty Ways You Should Be Eating Tomatoes]]></title>
-        <id>1847343803</id>
-        <link href="https://lifehacker.com/12-tasty-ways-you-should-be-eating-tomatoes-1847343803"/>
-        <updated>2021-07-22T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s (almost) the most wonderful time of the year—tomato season. This year I’m growing my own, and I am incredibly excited. 
-Tomato season is brief and fleeting, however, so it’s best to go into it with a plan to maximize the potential of your seasonal haul. Though it’s my first year growing these little love apples, I…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Online banking and gaming services hit by internet outage]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/22/online-banking-and-gaming-services-hit-by-internet-outage</id>
         <link href="https://www.theguardian.com/technology/2021/jul/22/online-banking-and-gaming-services-hit-by-internet-outage"/>
@@ -486,30 +506,6 @@ Major online banking services – including Barclays, TSB, the Bank of Scotland,
  Continue reading...]]></summary>
         <author>
             <name>PA Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New on Paramount+ in August 2021]]></title>
-        <id>1847344403</id>
-        <link href="https://lifehacker.com/whats-new-on-paramount-plus-in-august-2021-1847344403"/>
-        <updated>2021-07-22T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in February of this year, during a brief hotel stay, I made the mistake of granting my 4-year-old son unfettered access to the television. This meant that he spent the greater part of a day watching Nickelodeon, a network very invested in creating the next generation of PAW Patrol enthusiasts, as judged by the…
-Read more...]]></summary>
-        <author>
-            <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israel to examine whether spyware export rules should be tightened]]></title>
-        <id>https://www.theguardian.com/news/2021/jul/22/israel-examine-spyware-export-rules-should-be-tightened-nso-group-pegasus</id>
-        <link href="https://www.theguardian.com/news/2021/jul/22/israel-examine-spyware-export-rules-should-be-tightened-nso-group-pegasus"/>
-        <updated>2021-07-22T15:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Commission to review claims NSO’s Pegasus was misused by customers to target journalists and activists
-An Israeli commission reviewing allegations that NSO Group’s Pegasus spyware was misused by its customers to target journalists and human rights activists will examine whether rules on Israel’s export of cyberweapons such as Pegasus should be tightened, a senior MP has said.
-The move came as the French president, Emmanuel Macron, convened an emergency cybersecurity meeting after reports his mobile phone and those of government ministers appeared in the leaked list. An official in Macron’s Elysee Palace said that the president’s phone and phone numbers had been changed.
- Continue reading...]]></summary>
-        <author>
-            <name>Peter Beaumont and Philip Oltermann</name>
         </author>
     </entry>
     <entry>
@@ -625,19 +621,6 @@ Musk sent the price of bitcoin into freefall in May when he said that Tesla woul
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Briton arrested over high-profile Twitter account hacks]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/21/briton-arrested-over-high-profile-twitter-account-hacks</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/21/briton-arrested-over-high-profile-twitter-account-hacks"/>
-        <updated>2021-07-21T18:21:16.000Z</updated>
-        <summary type="html"><![CDATA[22-year-old faces multiple charges in connection with attacks on accounts of politicians and celebrities
-A 22-year-old British citizen has been arrested in Spain in connection with a July 2020 Twitter hack that compromised the accounts of high-profile politicians and celebrities, the US Justice Department said on Wednesday.
-It named the British man as Joseph James O’Connor and said he faced multiple charges. He was also accused in a criminal complaint of computer intrusions related to takeovers of TikTok and Snapchat accounts, including one incident involving sextortion, as well as cyberstalking a 16-year-old juvenile.
- Continue reading...]]></summary>
-        <author>
-            <name>Reuters in Washington</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Minister of Justice’s law firm bungled lottery corruption probe]]></title>
         <id>https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/</id>
         <link href="https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/"/>
@@ -704,6 +687,19 @@ You will, by now, have heard about Pegasus. It’s the brand name for a family o
         <summary type="html"><![CDATA[Minister and MECs to provide detailed plans within a month]]></summary>
         <author>
             <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘A systemic failure’: vaccine misinformation remains rampant on Facebook, experts say]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/21/facebook-misinformation-vaccines</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/21/facebook-misinformation-vaccines"/>
+        <updated>2021-07-21T10:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Misinformation ‘superspreader’ accounts found still active even as vaccination rates flag and cases rise in US
+Facebook is under fire once again over the proliferation of vaccine misinformation on its platform, after Joe Biden said tech giants such as Facebook are “killing people” for failing to tackle the problem.
+The White House has also zeroed in on the “disinformation dozen”: accounts that have been shown to be responsible for the bulk of anti-vaccine misinformation on social media platforms.
+ Continue reading...]]></summary>
+        <author>
+            <name>Kari Paul in San Francisco</name>
         </author>
     </entry>
     <entry>
@@ -1216,17 +1212,6 @@ The problem with having had the fast-forward button suddenly propel us into an u
  Continue reading...]]></summary>
         <author>
             <name>John Naughton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Tickets Now For The Make: Education Forum]]></title>
-        <id>https://makezine.com/2021/06/24/get-tickets-now-for-the-make-education-forum/</id>
-        <link href="https://makezine.com/2021/06/24/get-tickets-now-for-the-make-education-forum/"/>
-        <updated>2021-06-24T18:18:26.000Z</updated>
-        <summary type="html"><![CDATA[The growth of makerspaces in education was interrupted by the shutdown of schools, libraries, and museums over the last year.  Now, as students return to in-person learning, there is an even greater need for maker educators who can provide hands-on making and project-based learning experiences. In addition, making is a practice that can be learned […]
-The post Get Tickets Now For The Make: Education Forum appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
-        <author>
-            <name>Make: DIY Projects and Ideas for Makers</name>
         </author>
     </entry>
 </feed>
