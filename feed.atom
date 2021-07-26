@@ -1,28 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-25T00:35:55.391Z</id>
+    <id>urn:2021-07-26T00:33:32.194Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:35:55.392Z</updated>
+    <updated>2021-07-26T00:33:32.194Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Monowheel Balancing Robot Can’t Turn (Yet)]]></title>
-        <id>https://hackaday.com/?p=487706</id>
-        <link href="https://hackaday.com/2021/07/24/monowheel-balancing-robot-cant-turn-yet/"/>
-        <updated>2021-07-24T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Self-balancing robots have become a common hobby project, and they usually require two wheels to work. [James Bruton] has managed to single wheel balancing robot by adding gyroscopic stabilization. [James] …read more]]></summary>
+        <title type="html"><![CDATA[Hackaday Links: July 25, 2021]]></title>
+        <id>https://hackaday.com/?p=487864&amp;preview=true&amp;preview_id=487864</id>
+        <link href="https://hackaday.com/2021/07/25/hackaday-links-july-25-2021/"/>
+        <updated>2021-07-25T23:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Everyone makes mistakes in their job, but very few of us get the chance to make a one-character mistake with the potential to brick millions of devices. But that’s what …read more]]></summary>
         <author>
-            <name>Danie Conradie</name>
+            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Walk the First 3D-Printed Bridge and Be Counted]]></title>
-        <id>https://hackaday.com/?p=487921</id>
-        <link href="https://hackaday.com/2021/07/24/walk-the-first-3d-printed-bridge-and-be-counted/"/>
-        <updated>2021-07-24T20:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Way back in 2018, we brought you news of a 3D-printed stainless steel pedestrian bridge being planned to span a Dutch canal in Amsterdam. Now it’s finally in place and …read more]]></summary>
+        <title type="html"><![CDATA[Portable GPS Time Server Powered by the ESP8266]]></title>
+        <id>https://hackaday.com/?p=488069</id>
+        <link href="https://hackaday.com/2021/07/25/portable-gps-time-server-powered-by-the-esp8266/"/>
+        <updated>2021-07-25T20:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Most Hackaday readers will be familiar with the idea of a network time server; a magical box nestled away in some distant data center that runs the Network Time Protocol …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Make Coffee When You’re Tired? Let a Robot Do It for You]]></title>
+        <id>https://hackaday.com/?p=486761</id>
+        <link href="https://hackaday.com/2021/07/25/why-make-coffee-when-youre-tired-let-a-robot-do-it-for-you/"/>
+        <updated>2021-07-25T17:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Like us, [Alberto] doesn’t compromise when it comes to a good cup of coffee. We figure that if he went to an office in the Before Times, he was the …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Jump-Start an Electric Car That has a Dead Battery]]></title>
+        <id>1847355623</id>
+        <link href="https://lifehacker.com/how-to-jump-start-an-electric-car-that-has-a-dead-batte-1847355623"/>
+        <updated>2021-07-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re new to electric vehicles—or are starting to research options for an upcoming purchase—you may not know that in addition to the high-voltage battery pack that supplies power to the motor, they also use the same 12-volt batteries that gas-powered vehicles do. And, yes, these 12-volt batteries can lose their…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use This Free App to Create a Shareable Travel Journal With Minimal Effort]]></title>
+        <id>1847355580</id>
+        <link href="https://lifehacker.com/use-this-free-app-to-create-a-shareable-travel-journal-1847355580"/>
+        <updated>2021-07-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you’re finally on your long-awaited (and likely previously canceled) vacation, you may face a conundrum. On the one hand, you want to document your trip—both for yourself, and so your friends and family can see and enjoy your travels. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Macron ‘pushes for Israeli inquiry’ into NSO spyware concerns]]></title>
+        <id>https://www.theguardian.com/world/2021/jul/25/emmanuel-macron-pushes-for-israeli-inquiry-into-nso-spyware-concerns</id>
+        <link href="https://www.theguardian.com/world/2021/jul/25/emmanuel-macron-pushes-for-israeli-inquiry-into-nso-spyware-concerns"/>
+        <updated>2021-07-25T14:26:45.000Z</updated>
+        <summary type="html"><![CDATA[French president reportedly spoke to Naftali Bennett to ensure ‘proper investigation’ after Pegasus project
+Emmanuel Macron has reportedly spoken to the Israeli prime minister, Naftali Bennett, to ensure that the Israeli government is “properly investigating” allegations that the French president could have been targeted with Israeli-made spyware by Morocco’s security services.
+In a phone call, Macron expressed concern that his phone and those of most of his cabinet could have been infected with Pegasus, hacking software developed by the Israeli surveillance firm NSO Group, which enables operators of the tool to extract messages, photos and emails, record calls and secretly activate microphones from infected devices.
+ Continue reading...]]></summary>
+        <author>
+            <name>Bethan McKernan Middle East correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Coil Winder Gets it Done with Simple Hardware and Software]]></title>
+        <id>https://hackaday.com/?p=488032</id>
+        <link href="https://hackaday.com/2021/07/25/automatic-coil-winder-gets-it-done-with-simple-hardware-and-software/"/>
+        <updated>2021-07-25T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[We’ve grown to expect seeing mechatronics project incorporate a standard complement of components, things like stepper motors, Arduinos, lead screws, timing belts and pulleys, and aluminum extrusions. So when a …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell a Friend Their Partner Sucks]]></title>
+        <id>1847353703</id>
+        <link href="https://lifehacker.com/how-to-tell-a-friend-their-partner-sucks-1847353703"/>
+        <updated>2021-07-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Is your best friend dating an asshole? At some point, your best friend is gonna date an asshole. These are the facts, unless you’re extremely lucky, and these facts suck. It hurts to see someone you care about dating someone who is terrible, especially if they don’t see that yet.
+
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrencies could lead to ‘limitless’ losses for UK government]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/25/cryptocurrencies-could-lead-to-limitless-losses-for-uk-government</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/25/cryptocurrencies-could-lead-to-limitless-losses-for-uk-government"/>
+        <updated>2021-07-25T13:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Experts warn of danger of untraceable funds if companies accepting payments in cryptos go bust
+The government could face “limitless” losses as a result of businesses that accept payments in untaxed and untraceable cryptocurrencies going bust, an insolvency expert has warned.
+A growing number of companies, including the ethical cosmetics firm Lush and office-sharing firm WeWork, have begun taking payments for goods and services in cryptocurrencies such as bitcoin, alongside debit payments, credit or cash.
+ Continue reading...]]></summary>
+        <author>
+            <name>Kalyeena Makortoff Banking correspondent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Survive a Multigenerational Family Vacation]]></title>
+        <id>1847355632</id>
+        <link href="https://lifehacker.com/how-to-survive-a-multigenerational-family-vacation-1847355632"/>
+        <updated>2021-07-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After spending so much time apart thanks to COVID travel restrictions, this summer’s family reunions have taken on new meaning. In some cases, families have decided to take these reunions on the road, and make it a multigenerational family vacation. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiet Wings, with Shape Memory Alloy]]></title>
+        <id>https://hackaday.com/?p=487565</id>
+        <link href="https://hackaday.com/2021/07/25/quiet-wings-with-shape-memory-alloy/"/>
+        <updated>2021-07-25T11:00:52.000Z</updated>
+        <summary type="html"><![CDATA[It’s a fact of operating an aircraft, that the make noise. If you’re an aviator you might want to quiet your craft to avoid annoying people nearby, or you might …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeanette Winterson: ‘The male push is to discard the planet: all the boys are going off into space’]]></title>
+        <id>https://www.theguardian.com/books/2021/jul/25/jeanette-winterson-the-male-push-is-to-discard-the-planet-all-the-boys-are-going-off-into-space</id>
+        <link href="https://www.theguardian.com/books/2021/jul/25/jeanette-winterson-the-male-push-is-to-discard-the-planet-all-the-boys-are-going-off-into-space"/>
+        <updated>2021-07-25T10:00:49.000Z</updated>
+        <summary type="html"><![CDATA[The writer’s new essay collection covers 200 years of women and science, from Mary Shelley to AI. She discusses burning books and the ensuing Twitter storm, the end of her marriage, and why a move into politics could be next
+There’s a disconcerting silence outside Jeanette Winterson’s London pied-a-terre. It’s the morning after the night before, when she travelled across London after dinner with her publisher to scenes of football fans setting the city alight with their cup final fervour. “It was uproar,” she says, “We saw cars on fire.” Her flat is in the East End district of Spitalfields in a Georgian house, which she bought 25 years ago, complete with a little shop that she ran for years as an organic grocer and tea room until the rates got too high, and she let it out to an upmarket chocolatier.
+It’s as if a scene from Dickens’s The Old Curiosity Shop has been dropped into a satire about prosperity Britain: the quaint old shopfront is still intact, while outside it a lifesize sculpture of a rowing boat full of people sits surreally in the middle of the street, and a little further along, a herd of large bronze elephants frolics. These public artworks only arrived a few weeks ago, Winterson explains, as part of a grand plan to pedestrianise the area, and make it more buzzy, just at the moment that the sort of well-heeled office workers who bought upmarket chocolates are abandoning it owing to the Covid pandemic.
+ Continue reading...]]></summary>
+        <author>
+            <name>Claire Armitstead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dominate Video Calls with Game Boy Camera Webcam]]></title>
+        <id>https://hackaday.com/?p=488372</id>
+        <link href="https://hackaday.com/2021/07/25/dominate-video-calls-with-game-boy-camera-webcam/"/>
+        <updated>2021-07-25T08:00:43.000Z</updated>
+        <summary type="html"><![CDATA[We can’t promise it will all be positive, but there’s no question you’ll be getting plenty of attention when you join a video call using the Game Boy Camera. Assuming …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Tip Helps with Powder Coating Perfection on Difficult Parts]]></title>
+        <id>https://hackaday.com/?p=487442</id>
+        <link href="https://hackaday.com/2021/07/24/simple-tip-helps-with-powder-coating-perfection-on-difficult-parts/"/>
+        <updated>2021-07-25T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[To say that that the commercially available garden path lights commonly available at dollar stores are cheap is a vast overstatement of their true worthlessness. These solar-powered lights are so …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -59,16 +193,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoid Awkward Video Conference Situations With PIR and Arduino]]></title>
-        <id>https://hackaday.com/?p=487942</id>
-        <link href="https://hackaday.com/2021/07/24/avoid-awkward-video-conference-situations-with-pir-and-arduino/"/>
-        <updated>2021-07-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Working from home with regular video meetings has its challenges, especially if you add kids to the mix. To help avoid embarrassing situations, [Charitha Jayaweera] created Present!, a USB device …read more]]></summary>
-        <author>
-            <name>Danie Conradie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Get Exactly What You Want at a Botox Appointment]]></title>
         <id>1847353579</id>
         <link href="https://lifehacker.com/how-to-get-exactly-what-you-want-at-a-botox-appointment-1847353579"/>
@@ -88,16 +212,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to Desolder Gracefully]]></title>
-        <id>https://hackaday.com/?p=488379</id>
-        <link href="https://hackaday.com/2021/07/24/learning-to-desolder-gracefully/"/>
-        <updated>2021-07-24T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[When you’re just learning to sketch, you use graphite. Why? It’s cheap, great at training you to recognize different shades, and most of all, it’s erasable. When you’re learning, you’re …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
         </author>
     </entry>
     <entry>
@@ -123,16 +237,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESP8266 Adds WiFi Logging to IKEA’s Air Quality Sensor]]></title>
-        <id>https://hackaday.com/?p=488239</id>
-        <link href="https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/"/>
-        <updated>2021-07-24T11:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Introduced back in June, the IKEA VINDRIKTNING is a $12 USD sensor that uses colored LEDs to indicate the relative air quality in your home depending on how many particles …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sucks to be him! How Henry the vacuum cleaner became an accidental design icon]]></title>
         <id>https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon</id>
         <link href="https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon"/>
@@ -146,16 +250,6 @@ What the briefing room needed was something to suck the pomposity out of it. Wha
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Flipper Zero Hacker Multitool Gets Made and Tested]]></title>
-        <id>https://hackaday.com/?p=486551</id>
-        <link href="https://hackaday.com/2021/07/24/how-the-flipper-zero-hacker-multitool-gets-made-and-tested/"/>
-        <updated>2021-07-24T08:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Flipper Zero is an open-source multitool for hackers, and [Pavel] recently shared details on what goes into the production and testing of these devices. Each unit contains four separate PCBs, and …read more]]></summary>
-        <author>
-            <name>Donald Papp</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smart security: how to keep your home safe while you’re away]]></title>
         <id>https://www.theguardian.com/money/2021/jul/24/smart-security-how-to-keep-your-home-safe-while-youre-away</id>
         <link href="https://www.theguardian.com/money/2021/jul/24/smart-security-how-to-keep-your-home-safe-while-youre-away"/>
@@ -166,16 +260,6 @@ In addition to the basics, there is a range of DIY tech that may help to deter w
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joker Monitor Keeps an Eye on Hazardous Gas Levels]]></title>
-        <id>https://hackaday.com/?p=487710</id>
-        <link href="https://hackaday.com/2021/07/23/joker-monitor-keeps-an-eye-on-hazardous-gas-levels/"/>
-        <updated>2021-07-24T05:00:33.000Z</updated>
-        <summary type="html"><![CDATA[The Joker is a popular character in the Batman franchise, and at times uses poisonous gases as part of his criminal repertoire. That inspired this fun project by [kutluhan_aktar], which aims to …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
         </author>
     </entry>
     <entry>
@@ -347,29 +431,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Avoid an Airline's Manipulative 'Seat Selection' Fee]]></title>
-        <id>1847345736</id>
-        <link href="https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736"/>
-        <updated>2021-07-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While many airlines have done away with change and cancellation fees, there’s still a sneaky “seat selection” fee that you’re not meant to notice when you choose your seat. However, you can avoid it altogether—here’s how.
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stream the Olympics for Free]]></title>
-        <id>1847345397</id>
-        <link href="https://lifehacker.com/how-to-stream-the-olympics-for-free-1847345397"/>
-        <updated>2021-07-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The 2020 Olympics—which are taking place in 2021—have gotten off to a questionable start, beginning officially today against a backdrop of athletes testing positive for COVID-19 and a climate of unrest as many Japanese citizens have expressed that they don’t want the Games to continue.
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Demonstrations and inquiries: the global impact of the Pegasus project]]></title>
         <id>https://www.theguardian.com/news/2021/jul/23/demonstrations-and-inquiries-the-global-impact-of-the-pegasus-project</id>
         <link href="https://www.theguardian.com/news/2021/jul/23/demonstrations-and-inquiries-the-global-impact-of-the-pegasus-project"/>
@@ -380,17 +441,6 @@ Here, Guardian reporters pull together the impact of the investigation, which ha
  Continue reading...]]></summary>
         <author>
             <name>Reporting team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is the Safest, Easiest Way to Remove an Avocado Pit]]></title>
-        <id>1847345765</id>
-        <link href="https://lifehacker.com/this-is-the-safest-easiest-way-to-remove-an-avocado-pi-1847345765"/>
-        <updated>2021-07-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple approaches one can take to remove the round, slippery pit from the creamy flesh of an avocado. You can squeeze everything—pit and all—out into a bowl, but that only works if you need mashed avocado. If you want pretty wedges or slices for aesthetic toast, though, you need to get that thing out…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
         </author>
     </entry>
     <entry>
@@ -447,21 +497,6 @@ In an exchange of public letters in 2019, they told Amnesty International and ot
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How male celebs really feel about their bodies – podcasts of the week]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2021/jul/23/how-male-celebs-really-feel-about-their-bodies-podcasts-of-the-week</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2021/jul/23/how-male-celebs-really-feel-about-their-bodies-podcasts-of-the-week"/>
-        <updated>2021-07-23T05:00:45.000Z</updated>
-        <summary type="html"><![CDATA[New podcast Manatomy encourages famous men from Chris Hoy to Tim Minchin to open up about their insecurities. Plus: Mark Steel and Marina Hyde
-Manatomy
-Danny Wallace and Phil Hilton’s podcast about men and their appearance goes beyond the usual “dad bod” conversation, as a range of celebrities reveal their insecurities and triumphs. Guests include Sir Chris Hoy, Tim Minchin and Jason Manford. First up is Jameela Jamil, who is particularly good value when covering the dad-as-idiot TV trope as well as recounting seeing actors paint on their six packs. She doesn’t hold back on her mission to prevent men facing the same body pressures as women have. Hannah Verdier
-What The F*** Is Going On …? with Mark Steel
-Mark Steel’s new podcast sees the comic pose that very question to his guests, with government u-turns and culture wars providing him with much to rant and rave about (a monologue on anti-vaxxers, “who drink water that’s come through pipes that have been there since Queen Victoria” and take illegal drugs, is particularly astute). Steel’s son Elliot, 25, offers a ‘youth’ perspective, while Peep Show’s Isy Suttie and Guardian columnist Owen Jones are among those who join him as he speaks gruff truth to power. Hannah J Davies
- Continue reading...]]></summary>
-        <author>
-            <name>Hannah Verdier, Hannah J Davies and Danielle Stephens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Serving from the pot, you pray that the food is enough”]]></title>
         <id>https://www.groundup.org.za/article/serving-from-the-pot-you-pray-that-the-food-is-enough/</id>
         <link href="https://www.groundup.org.za/article/serving-from-the-pot-you-pray-that-the-food-is-enough/"/>
@@ -482,17 +517,6 @@ Nineteen days after the initial attack over the Fourth of July weekend, the Flor
  Continue reading...]]></summary>
         <author>
             <name>Kari Paul and agencies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to Use a Barbell (and When a Smith Machine Is Fine)]]></title>
-        <id>1847345550</id>
-        <link href="https://lifehacker.com/when-to-use-a-barbell-and-when-a-smith-machine-is-fine-1847345550"/>
-        <updated>2021-07-22T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Smith machine is probably the most polarizing piece of gym equipment. Every cheap commercial gym has one, and it’s many folks’ introduction to squats and other barbell lifts. But it’s not a barbell, or anything close to one, and hardcore gym bros scoff at it. 
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
         </author>
     </entry>
     <entry>
@@ -573,6 +597,19 @@ The post The Star Wars Cantina Bar Creature Project: ‘Hammerhead’ appeared f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Revealed: the people who signed up to the Magacoin Trump cryptocurrency]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/22/magacoin-pro-trump-cryptocurrency-attracts-over-1000-people-to-sign-up"/>
+        <updated>2021-07-22T06:00:17.000Z</updated>
+        <summary type="html"><![CDATA[It bills itself as the ‘digital currency for the MAGA community’ but data shows most of the magacoin is allocated to its self-styled creator
+More than 1,000 people have so far signed up to the pro-Trump cryptocurrency magacoin, including conservative media personalities and Republican figures, the Guardian can reveal.
+The news comes after poor security configuration in a website associated with magacoin exposed the email addresses, passwords, cryptocurrency wallet addresses and IP addresses of users who have bought in to what its promoters describe as the “digital currency for the MAGA community”.
+ Continue reading...]]></summary>
+        <author>
+            <name>Jason Wilson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Covid-19 vaccines: Current challenge is not supply but using the available vaccines]]></title>
         <id>https://www.groundup.org.za/article/covid-19-vaccines-our-biggest-problem-not-supply-using-available-vaccines/</id>
         <link href="https://www.groundup.org.za/article/covid-19-vaccines-our-biggest-problem-not-supply-using-available-vaccines/"/>
@@ -608,19 +645,6 @@ Hundreds of Uber and Lyft drivers have joined other app-based workers across the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla likely to start accepting bitcoin as payment again, says Elon Musk]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/22/tesla-likely-to-start-accepting-bitcoin-as-payment-again-says-elon-musk</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/22/tesla-likely-to-start-accepting-bitcoin-as-payment-again-says-elon-musk"/>
-        <updated>2021-07-21T23:34:01.000Z</updated>
-        <summary type="html"><![CDATA[The founder of the electric carmaker says coins are mined using at least 50% renewable power, sending the price up sharply
-Tesla will most likely restart accepting bitcoin as payment once it conducts due diligence on the amount of renewable energy used to mine the currency, the founder and boss of the electric carmaker, Elon Musk, has said.
-Musk sent the price of bitcoin into freefall in May when he said that Tesla would stop accepting the cryptocurrency for payment because it the so-called mining of the coins used too much fossil fuel-generated electricity.
- Continue reading...]]></summary>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Minister of Justice’s law firm bungled lottery corruption probe]]></title>
         <id>https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/</id>
         <link href="https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/"/>
@@ -628,22 +652,6 @@ Musk sent the price of bitcoin into freefall in May when he said that Tesla woul
         <summary type="html"><![CDATA[Reports submitted by Ndobela Lamola Inc are full of forged documents]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swiping right on jabs: dating app adds Covid vaccine badges in Australia]]></title>
-        <id>https://www.theguardian.com/lifeandstyle/2021/jul/22/swiping-right-on-jabs-dating-app-adds-covid-vaccine-badges-in-australia</id>
-        <link href="https://www.theguardian.com/lifeandstyle/2021/jul/22/swiping-right-on-jabs-dating-app-adds-covid-vaccine-badges-in-australia"/>
-        <updated>2021-07-21T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Popular overseas, vaccine badges are rolling out locally on online dating platforms like Bumble. But with access to a Covid jab still a concern, one CEO urges caution 
-
-Australia’s vaccine tracker: are you eligible for the jab?
-
-Single Australians looking for sex or love will soon stand out from the competition if they’ve been vaccinated against Covid-19.
-Dating app Bumble announced it will roll out a new feature this week enabling users in Australia and New Zealand to add a “vaccination badge” to their profile if they’ve received a Covid-19 jab. Competitor Tinder says it looks forward to “making [vaccine] badges available soon” in Australia too.
- Continue reading...]]></summary>
-        <author>
-            <name>Katie Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -655,18 +663,6 @@ Dating app Bumble announced it will roll out a new feature this week enabling us
 The post This Gameboy Runs on Nuclear Power appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Apple’s walled garden is no match for Pegasus spyware]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/21/why-apples-walled-garden-is-no-match-for-pegasus-spyware</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/21/why-apples-walled-garden-is-no-match-for-pegasus-spyware"/>
-        <updated>2021-07-21T10:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Up for discussion in the Guardian tech newsletter: Spotlight on Apple security … shake-up in the video game market … online age verification … and space tourism
-You will, by now, have heard about Pegasus. It’s the brand name for a family of spyware tools sold by the NSO Group, an Israeli outfit of hackers-for-hire who sell their wares to intelligence agencies, law enforcement, and militaries around the world. 
- Continue reading...]]></summary>
-        <author>
-            <name>Alex Hern</name>
         </author>
     </entry>
     <entry>
