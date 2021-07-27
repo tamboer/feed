@@ -1,38 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-26T00:33:32.194Z</id>
+    <id>urn:2021-07-27T00:35:08.855Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-26T00:33:32.194Z</updated>
+    <updated>2021-07-27T00:35:08.855Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Hackaday Links: July 25, 2021]]></title>
-        <id>https://hackaday.com/?p=487864&amp;preview=true&amp;preview_id=487864</id>
-        <link href="https://hackaday.com/2021/07/25/hackaday-links-july-25-2021/"/>
-        <updated>2021-07-25T23:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Everyone makes mistakes in their job, but very few of us get the chance to make a one-character mistake with the potential to brick millions of devices. But that’s what …read more]]></summary>
+        <title type="html"><![CDATA[Building An Electronic Tester For Measuring Arrow Stiffness]]></title>
+        <id>https://hackaday.com/?p=487713</id>
+        <link href="https://hackaday.com/2021/07/26/building-an-electronic-tester-for-measuring-arrow-stiffness/"/>
+        <updated>2021-07-26T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[When shooting archery, if you want to be accurate, you need arrows of uniform specification and quality. One important part of this is making sure each arrow has a spine …read more]]></summary>
         <author>
-            <name>Dan Maloney</name>
+            <name>Lewin Day</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portable GPS Time Server Powered by the ESP8266]]></title>
-        <id>https://hackaday.com/?p=488069</id>
-        <link href="https://hackaday.com/2021/07/25/portable-gps-time-server-powered-by-the-esp8266/"/>
-        <updated>2021-07-25T20:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Most Hackaday readers will be familiar with the idea of a network time server; a magical box nestled away in some distant data center that runs the Network Time Protocol …read more]]></summary>
+        <title type="html"><![CDATA[Tesla second-quarter profits top $1bn even as it struggles to handle demand]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/26/tesla-profits-second-quarter-demand-chip-shortage</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/26/tesla-profits-second-quarter-demand-chip-shortage"/>
+        <updated>2021-07-26T21:56:59.000Z</updated>
+        <summary type="html"><![CDATA[A global shortfall of semiconductors has affected the Tesla supply chain as well as car manufacturers across the world
+Tesla made a profit of more than $1bn in the last three months even as it struggled to keep up with demand for electric cars in the face of a global chip shortage.
+The company announced Monday that it has made a profit of $1.14bn in its second quarter, 10 times what it made a year ago and its eighth quarter of back-to-back profits.
+ Continue reading...]]></summary>
+        <author>
+            <name>Dominic Rushe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Back Up and Restore Your PlayStation 5 Data]]></title>
+        <id>1847364876</id>
+        <link href="https://lifehacker.com/how-to-backup-and-restore-your-playstation-5-data-1847364876"/>
+        <updated>2021-07-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Backing up your PC, smartphone, and other devices ensures you can recover your data in the event of a crash, sudden power outage, or total hardware failure—but not many people considering doing the same for their game consoles. Luckily, the PlayStation 5 makes it easy to back up your files to an external USB device,…
+Read more...]]></summary>
+        <author>
+            <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Learned About Weightlifting From Two Olympic Competitors]]></title>
+        <id>1847294339</id>
+        <link href="https://lifehacker.com/what-i-learned-about-weightlifting-from-two-olympic-com-1847294339"/>
+        <updated>2021-07-26T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Explosively lifting a giant barbell over your head  takes strength, technique, and a certain fearlessness. I’ve been training this sport—Olympic style weightlifting—for about two years now, and it seems like I find something new to learn about it every day. Recently, I had a chance to ask two members of the US Olympic…
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WiFiWart Boots Linux, Moves To Next Design Phase]]></title>
+        <id>https://hackaday.com/?p=488213</id>
+        <link href="https://hackaday.com/2021/07/26/wifiwart-boots-linux-moves-to-next-design-phase/"/>
+        <updated>2021-07-26T20:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few months we’ve been keeping an eye on WiFiWart, an ambitious project to develop a Linux single-board computer (SBC) small enough to fit inside a USB wall …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Make Coffee When You’re Tired? Let a Robot Do It for You]]></title>
-        <id>https://hackaday.com/?p=486761</id>
-        <link href="https://hackaday.com/2021/07/25/why-make-coffee-when-youre-tired-let-a-robot-do-it-for-you/"/>
-        <updated>2021-07-25T17:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Like us, [Alberto] doesn’t compromise when it comes to a good cup of coffee. We figure that if he went to an office in the Before Times, he was the …read more]]></summary>
+        <title type="html"><![CDATA[Are Bone Conduction Headphones Worth the Hype?]]></title>
+        <id>1847360844</id>
+        <link href="https://lifehacker.com/are-bone-conduction-headphones-worth-the-hype-1847360844"/>
+        <updated>2021-07-26T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Would you try a pair of headphones that rests on your cheekbones and sends audio to your ears through your bones? This is possible through a technology called “bone conduction,” and it’s most used in consumer headphones. These products aren’t too expensive and may be a good alternative for people who don’t enjoy using…
+Read more...]]></summary>
         <author>
-            <name>Kristina Panos</name>
+            <name>Pranay Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Houseplants Actually Filter Your Air?]]></title>
+        <id>1847363465</id>
+        <link href="https://lifehacker.com/do-houseplants-actually-filter-your-air-1847363465"/>
+        <updated>2021-07-26T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Plants are pretty wonderful, providing us with food, shade, and breathable air, but they aren’t magical. Yes, rainforests are vital for our ecosystem because they filter carbon out of the air and create oxygen—but any notion that houseplants can be used to filter toxins out of the air in our homes is, as this report…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Getting Ripped Off by Hotel Fees]]></title>
+        <id>1847363798</id>
+        <link href="https://lifehacker.com/how-to-stop-getting-ripped-off-by-hotel-fees-1847363798"/>
+        <updated>2021-07-26T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Hotels are already expensive, so the last thing you need are sneaky fees adding unexpected costs to your travel budget. Hotel fees aren’t always something you can avoid—especially at popular resort destinations—but you shouldn’t be surprised by them, either. With that in mind, here’s a look at some commonly tacked-on…
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Don't Need Makeup-Remover to Remove Your Makeup]]></title>
+        <id>1847363458</id>
+        <link href="https://lifehacker.com/you-dont-need-makeup-remover-to-remove-your-makeup-1847363458"/>
+        <updated>2021-07-26T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The worst part of wearing makeup is taking it off at the end of the day. Single-use makeup wipes and cotton pads are as expensive as they are wasteful, but most people see them as a necessary evil. Assuming your cleanser can’t remove makeup on its own, you need something that does. But here’s the thing: No matter what…
+Read more...]]></summary>
+        <author>
+            <name>A.A. Newton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Quadruped Uses Many Servos]]></title>
+        <id>https://hackaday.com/?p=487711</id>
+        <link href="https://hackaday.com/2021/07/26/little-quadruped-uses-many-servos/"/>
+        <updated>2021-07-26T18:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Walking robots were once the purview of major corporations spending huge dollars on research programs. Now, they’re something you can experiment with at home. [Technovation] has been doing just that …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Pooped Your Pants During A Run, Now What?]]></title>
+        <id>1847362571</id>
+        <link href="https://lifehacker.com/you-shit-your-pants-during-a-run-now-what-1847362571"/>
+        <updated>2021-07-26T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve been a runner for a while, there’s a good chance that, at one point or another, you’ve had to take an emergency pit stop to poop while on a long run. If you were lucky, there was a bathroom nearby. If you weren’t... well, let’s never speak about that again.
+
+Read more...]]></summary>
+        <author>
+            <name>Rachel Fairbank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Better Salad]]></title>
+        <id>1847362554</id>
+        <link href="https://lifehacker.com/how-to-build-a-better-salad-1847362554"/>
+        <updated>2021-07-26T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Leaves are a big, if not the main, component of a salad, but the other stuff is what makes it fun. But you know what’s not fun? Adding all of your tasty toppings, crispy bits, and proteins, only to have them fall to the bottom of the bowl when you toss the salad in an attempt to distribute them. This is not a…
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Unique Text Sizes for Different Apps in iOS 15]]></title>
+        <id>1847355175</id>
+        <link href="https://lifehacker.com/how-to-set-unique-text-sizes-for-different-apps-in-ios-1847355175"/>
+        <updated>2021-07-26T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The iPhone has a great accessibility feature that’s been adopted by many popular apps—Dynamic Type, which lets you increase or decrease the text size for the OS and all supported apps, is a prime example. Starting in iOS 15 and iPadOS 15, you’ll be able to specify the text size for each app (and even the home screen)…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Fu: Superpowers for Mere Mortals]]></title>
+        <id>https://hackaday.com/?p=486464</id>
+        <link href="https://hackaday.com/2021/07/26/linux-fu-superpowers-for-mere-mortals/"/>
+        <updated>2021-07-26T17:00:09.000Z</updated>
+        <summary type="html"><![CDATA[You can hardly mention the sudo command without recalling the hilarious XKCD strip about making sandwiches. It does seem like sudo is the magic power to make a Linux system …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Fake Pockets Might Not Be Fake After All]]></title>
+        <id>1847361906</id>
+        <link href="https://lifehacker.com/your-fake-pockets-might-not-be-fake-after-all-1847361906"/>
+        <updated>2021-07-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I still remember the time I was in a parking lot after work, absentmindedly shoving my hand into a fake blazer pocket, when I realized there was a hole in the stitching. Great, I thought, there’s still no place to put my phone and now I have a hole in my blazer. I fiddled with the loose thread and realized that’s not…
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Alexa's Voice on Amazon Echo, Finally [Updated]]]></title>
+        <id>1847355030</id>
+        <link href="https://lifehacker.com/how-to-change-alexas-voice-on-amazon-echo-finally-1847355030"/>
+        <updated>2021-07-26T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Since its inception, Amazon Echo has featured a titular, feminine voice that became the identity that we all associate with the voice assistant. After all these years, Amazon is finally letting users switch to a new, masculine voice—and even refer to it by a new name by changing the wake word to a new option, Ziggy.…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Finally Look Better on Video Calls Using an iPad Pro]]></title>
+        <id>1847361024</id>
+        <link href="https://lifehacker.com/how-to-finally-look-better-on-video-calls-using-an-ipad-1847361024"/>
+        <updated>2021-07-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Though it feels like we’ve been Zooming and FaceTiming and using Google Hangouts for an eternity, most of us have still not figured out how to look good on a video call. Luckily, a new feature on iPad Pro called Center Stage has launched, and without much effort, it can make you look just a little bit better on camera.
+Read more...]]></summary>
+        <author>
+            <name>Joel Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm 'Listen Like You Mean It' Author Ximena Vengoechea, and This Is How I Work]]></title>
+        <id>1847358610</id>
+        <link href="https://lifehacker.com/im-listen-like-you-mean-it-author-ximena-vengoechea-an-1847358610"/>
+        <updated>2021-07-26T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ximena Vengoechea has done a lot of listening. Keeping her ears and mind attuned to the needs of others is something of a calling for her not only in her work as a user researcher at some of the biggest names in the technology industry, but as a person navigating the constant stimuli of modern life. Her book Listen…
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build With Acrylic Using the Tools You Have]]></title>
+        <id>https://hackaday.com/?p=488247</id>
+        <link href="https://hackaday.com/2021/07/26/how-to-build-with-acrylic-using-the-tools-you-have/"/>
+        <updated>2021-07-26T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[In a perfect world, we’d all have laser cutters and could pop intricate designs out of acrylic sheets with just a few clicks of the mouse. But in reality, most …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Tell If Your Pillow Is Dead]]></title>
+        <id>1847351627</id>
+        <link href="https://lifehacker.com/how-to-tell-if-your-pillow-is-dead-1847351627"/>
+        <updated>2021-07-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a restful night’s sleep depends on several factors—and the pillow itself is a biggie. Pillows provide support for the alignment of your spine, and they are a necessary factor in one’s slumber comfort. The thickness and firmness of the pillow you need or prefer will very from person to person, but any pillow…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 15-Year Quest to Make the Ultimate DIY Coffee Roaster]]></title>
+        <id>https://makezine.com/2021/07/26/my-15-year-quest-to-make-the-ultimate-diy-coffee-roaster/</id>
+        <link href="https://makezine.com/2021/07/26/my-15-year-quest-to-make-the-ultimate-diy-coffee-roaster/"/>
+        <updated>2021-07-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One man's 15-year quest to build — and rebuild, and rebuild — the ultimate DIY coffee roaster
+The post My 15-Year Quest to Make the Ultimate DIY Coffee Roaster appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
+        <author>
+            <name>Make: DIY Projects and Ideas for Makers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Iced Coffee Needs Some Citrus Soda]]></title>
+        <id>1847361312</id>
+        <link href="https://lifehacker.com/your-iced-coffee-needs-some-citrus-soda-1847361312"/>
+        <updated>2021-07-26T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the time of summer when the heat can go from barely tolerable to unbearably hot, with no respite to be found. Although most of my regular food and drinks can be swapped out for lighter, more summer-appropriate options, my daily coffee presents a quandary. 
+Read more...]]></summary>
+        <author>
+            <name>Rachel Fairbank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA Therapeutics And Fighting Diseases By Working With The Immune System]]></title>
+        <id>https://hackaday.com/?p=484064</id>
+        <link href="https://hackaday.com/2021/07/26/rna-therapeutics-and-fighting-diseases-by-working-with-the-immune-system/"/>
+        <updated>2021-07-26T14:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Before the SARS-CoV-2 pandemic took hold, few people were aware of the existence of mRNA vaccines. Yet after months of vaccinations from Moderna and BioNTech and clear indications of robust …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deal With a Work Bully]]></title>
+        <id>1847353554</id>
+        <link href="https://lifehacker.com/how-to-deal-with-a-work-bully-1847353554"/>
+        <updated>2021-07-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a work bully? Don’t be embarrassed if you do. Unnecessarily mean and aggressive peers are typically associated with high school, but don’t fool yourself: There are cruel adults out there, too, and you could easily end up working with one.
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to school spoiled by Cape Town taxi war]]></title>
+        <id>https://www.groundup.org.za/article/return-school-spoiled-cape-town-taxi-war/</id>
+        <link href="https://www.groundup.org.za/article/return-school-spoiled-cape-town-taxi-war/"/>
+        <updated>2021-07-26T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Western Cape MEC suspends Bellville – Paarl taxi route for two months]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensure You'll Be Approved for a Credit Limit Increase Before You Apply]]></title>
+        <id>1847352723</id>
+        <link href="https://lifehacker.com/ensure-youll-be-approved-for-a-credit-limit-increase-be-1847352723"/>
+        <updated>2021-07-26T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a bit of a Catch 22 when it comes to applying for a credit card limit increase: A higher limit can boost your credit score, but asking for an increase can also hurt your credit score, temporarily. And if the lender rejects your request? You just dinged your credit score for no reason—which can be literally the…
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put Mayo on Both Pieces of Bread, You Weirdos]]></title>
+        <id>1847351385</id>
+        <link href="https://lifehacker.com/put-mayo-on-both-pieces-of-bread-you-weirdos-1847351385"/>
+        <updated>2021-07-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most people are shy about mayonnaise, but not me. I’m loud, if not downright obnoxious about it. It’s no secret that I am very white (and sort of Southern), and my enthusiasm for the pale complected, emulsified condiment comes to me quite naturally. (We match!) I have many mayo hacks, but the first, original mayo hack…
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winters are the worst nightmare for us, says homeless man in Springs]]></title>
+        <id>https://www.groundup.org.za/article/winters-are-worst-nightmare-us-says-homeless-man-springs/</id>
+        <link href="https://www.groundup.org.za/article/winters-are-worst-nightmare-us-says-homeless-man-springs/"/>
+        <updated>2021-07-26T12:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Last week temperatures dropped to minus 7ºC]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Some Close Air Support With A Nerf Drone]]></title>
+        <id>https://hackaday.com/?p=488292</id>
+        <link href="https://hackaday.com/2021/07/26/get-some-close-air-support-with-a-nerf-drone/"/>
+        <updated>2021-07-26T11:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Working from home has the major advantage of spending more time with loved ones, but it all that time can sometimes lead to friction. [Cory] found that Nerf battles with …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19: Unions should push harder for teachers to get vaccinated]]></title>
+        <id>https://www.groundup.org.za/article/covid-19-unions-should-ensure-teachers-must-get-vaccinated-against/</id>
+        <link href="https://www.groundup.org.za/article/covid-19-unions-should-ensure-teachers-must-get-vaccinated-against/"/>
+        <updated>2021-07-26T10:33:18.000Z</updated>
+        <summary type="html"><![CDATA[It’s almost never a reasonable choice to not get vaccinated]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lottery COO back at work after 17-month “leave of absence”]]></title>
+        <id>https://www.groundup.org.za/article/lotteries-commission-coo-back-at-work-after-17-month-leave-of-absence/</id>
+        <link href="https://www.groundup.org.za/article/lotteries-commission-coo-back-at-work-after-17-month-leave-of-absence/"/>
+        <updated>2021-07-26T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Audit firm SkX has so far been paid R9.65 million to investigate alleged Lottery corruption]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gauteng informal traders feel the aftermath of July unrest]]></title>
+        <id>https://www.groundup.org.za/article/gauteng-informal-traders-feel-aftermath-july-unrest/</id>
+        <link href="https://www.groundup.org.za/article/gauteng-informal-traders-feel-aftermath-july-unrest/"/>
+        <updated>2021-07-26T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[“We are not making money and our fridges at home are empty. We can’t carry on like this,” says Kwa Mai Mai Market food seller]]></summary>
+        <author>
+            <name>GroundUp News</name>
         </author>
     </entry>
     <entry>
@@ -68,16 +381,6 @@ In a phone call, Macron expressed concern that his phone and those of most of hi
  Continue reading...]]></summary>
         <author>
             <name>Bethan McKernan Middle East correspondent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic Coil Winder Gets it Done with Simple Hardware and Software]]></title>
-        <id>https://hackaday.com/?p=488032</id>
-        <link href="https://hackaday.com/2021/07/25/automatic-coil-winder-gets-it-done-with-simple-hardware-and-software/"/>
-        <updated>2021-07-25T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[We’ve grown to expect seeing mechatronics project incorporate a standard complement of components, things like stepper motors, Arduinos, lead screws, timing belts and pulleys, and aluminum extrusions. So when a …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
         </author>
     </entry>
     <entry>
@@ -117,16 +420,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quiet Wings, with Shape Memory Alloy]]></title>
-        <id>https://hackaday.com/?p=487565</id>
-        <link href="https://hackaday.com/2021/07/25/quiet-wings-with-shape-memory-alloy/"/>
-        <updated>2021-07-25T11:00:52.000Z</updated>
-        <summary type="html"><![CDATA[It’s a fact of operating an aircraft, that the make noise. If you’re an aviator you might want to quiet your craft to avoid annoying people nearby, or you might …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jeanette Winterson: ‘The male push is to discard the planet: all the boys are going off into space’]]></title>
         <id>https://www.theguardian.com/books/2021/jul/25/jeanette-winterson-the-male-push-is-to-discard-the-planet-all-the-boys-are-going-off-into-space</id>
         <link href="https://www.theguardian.com/books/2021/jul/25/jeanette-winterson-the-male-push-is-to-discard-the-planet-all-the-boys-are-going-off-into-space"/>
@@ -140,26 +433,6 @@ It’s as if a scene from Dickens’s The Old Curiosity Shop has been dropped in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dominate Video Calls with Game Boy Camera Webcam]]></title>
-        <id>https://hackaday.com/?p=488372</id>
-        <link href="https://hackaday.com/2021/07/25/dominate-video-calls-with-game-boy-camera-webcam/"/>
-        <updated>2021-07-25T08:00:43.000Z</updated>
-        <summary type="html"><![CDATA[We can’t promise it will all be positive, but there’s no question you’ll be getting plenty of attention when you join a video call using the Game Boy Camera. Assuming …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Tip Helps with Powder Coating Perfection on Difficult Parts]]></title>
-        <id>https://hackaday.com/?p=487442</id>
-        <link href="https://hackaday.com/2021/07/24/simple-tip-helps-with-powder-coating-perfection-on-difficult-parts/"/>
-        <updated>2021-07-25T05:00:59.000Z</updated>
-        <summary type="html"><![CDATA[To say that that the commercially available garden path lights commonly available at dollar stores are cheap is a vast overstatement of their true worthlessness. These solar-powered lights are so …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 iPhone photography awards – in pictures]]></title>
         <id>https://www.theguardian.com/technology/gallery/2021/jul/25/2021-iphone-photography-awards-in-pictures</id>
         <link href="https://www.theguardian.com/technology/gallery/2021/jul/25/2021-iphone-photography-awards-in-pictures"/>
@@ -168,17 +441,6 @@ It’s as if a scene from Dickens’s The Old Curiosity Shop has been dropped in
  Continue reading...]]></summary>
         <author>
             <name>Technology | The Guardian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Alexa's Voice on Amazon Echo, Finally]]></title>
-        <id>1847355030</id>
-        <link href="https://lifehacker.com/how-to-change-alexas-voice-on-amazon-echo-finally-1847355030"/>
-        <updated>2021-07-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since its inception, Amazon Echo has featured a titular, feminine voice that became the identity that we all associate with the voice assistant. After all these years, Amazon is finally letting users try out a new, masculine voice. Plus, you can even try out celebrity voices like Samuel L. Jackson, Shaquille O’Neal,…
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
         </author>
     </entry>
     <entry>
@@ -215,28 +477,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Land a Job in Radio]]></title>
-        <id>1847350298</id>
-        <link href="https://lifehacker.com/how-to-land-a-job-in-radio-1847350298"/>
-        <updated>2021-07-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The radio can really put you in a good mood. From upbeat songs to delightfully low-budget local ads, there’s always something to enjoy—so it’s understandable if you’ve ever wondered how you can be one of the people who make that enjoyable experience happen. So, if you want to break into the radio industry, we have a…
-Read more...]]></summary>
-        <author>
-            <name>Lindsey Ellefson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Difference Between French and English Lavender, and Which to Plant in Your Garden]]></title>
-        <id>1847354061</id>
-        <link href="https://lifehacker.com/the-difference-between-french-and-english-lavender-and-1847354061"/>
-        <updated>2021-07-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not only does lavender look great on display in bouquets, it also has a clean, pleasant scent that many people enjoy and find calming. And if you’ve ever purchased fresh lavender, you know that it can be pretty pricey. So if you’d like to have an endless supply of the fragrant plant, you may want to grow lavender in…
-Read more...]]></summary>
-        <author>
-            <name>Elizabeth Yuko</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sucks to be him! How Henry the vacuum cleaner became an accidental design icon]]></title>
         <id>https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon</id>
         <link href="https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon"/>
@@ -260,174 +500,6 @@ In addition to the basics, there is a range of DIY tech that may help to deter w
  Continue reading...]]></summary>
         <author>
             <name>Samuel Gibbs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Get a Good Workout With Virtual Reality?]]></title>
-        <id>1847351527</id>
-        <link href="https://lifehacker.com/can-you-get-a-good-workout-with-virtual-reality-1847351527"/>
-        <updated>2021-07-23T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Virtual reality headsets have come a long way since the first time I saw a VR “arcade” pop up in a mall in the 1990s. (I never played, although I was curious; five bucks a game was like a whole week’s allowance.) Now you can strap on a headset and walk around your living room, with options ranging from dancing games…
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Apps Every Movie Lover Needs]]></title>
-        <id>1847352175</id>
-        <link href="https://lifehacker.com/7-apps-every-movie-lover-needs-1847352175"/>
-        <updated>2021-07-23T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve never been very good at cultivating hobbies (whereas my brother-in-law is into creating his own baking extracts, I am into refreshing Twitter), but I do like watching movies, and the internet has made it possible for sitting on my ass in front of HBO Max to feel like a genuine leisure time pursuit. 
-That isn’t…
-Read more...]]></summary>
-        <author>
-            <name>Joel Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get 25% Off Your Federally-Backed Mortgage]]></title>
-        <id>1847351589</id>
-        <link href="https://lifehacker.com/how-to-get-25-off-your-federally-backed-mortgage-1847351589"/>
-        <updated>2021-07-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With a moratorium on foreclosures ending July 31, a new White House policy aims to stave off a wave of dispossessed homes by reducing monthly premiums by 25% for borrowers struggling to pay off their federally backed mortgages. Here’s what you need to know about getting that discount—whether you’re currently in…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix a Drawstring in Under Two Minutes]]></title>
-        <id>1847351171</id>
-        <link href="https://lifehacker.com/how-to-fix-a-drawstring-in-under-two-minutes-1847351171"/>
-        <updated>2021-07-23T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The humble drawstring makes so many things possible—namely, cinching the hood of your sweatshirt, or keeping your swim trunks from falling off when you get out of the pool. But if that string gets yoinked out, it can be a major pain in the ass to get it back in. Unless, that is, you have a charging cable handy. 
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Screw Into Plaster Walls Without Crumbling Them to Pieces]]></title>
-        <id>1847346732</id>
-        <link href="https://lifehacker.com/how-to-screw-into-plaster-walls-without-crumbling-them-1847346732"/>
-        <updated>2021-07-23T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Plaster was the construction standard up until the 1940s, when drywall burst onto the market. Before then, it was a popular choice for wall construction given its pliability, fitting around corners and in small spaces where materials like brick couldn’t. Its malleability comes with a downside, though, as plaster can’t…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Five Types of Personal Boundaries (and How to Set Them)]]></title>
-        <id>1847349639</id>
-        <link href="https://lifehacker.com/the-five-types-of-personal-boundaries-and-how-to-set-t-1847349639"/>
-        <updated>2021-07-23T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to think of “personal boundaries” as a subjective set of preferences. But while that’s true in a limited sense, a more meaningful examination of our own boundaries help give us an idea of how to implement them more effectively in our lives—especially when they’re being compromised.
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pour Your Paper Plane Over Crushed Ice]]></title>
-        <id>1847345193</id>
-        <link href="https://lifehacker.com/pour-your-paper-plane-over-crushed-ice-1847345193"/>
-        <updated>2021-07-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, my little happy hour enjoyers. I wanted to let you know that after four years and over 200 cocktails, I’m going to be taking a little break from this column. The truth is that I’m just not drinking as much as I used to, and my enthusiasm for cocktails has dwindled. That’s not fair to y’all, so I’m turning…
-Read more...]]></summary>
-        <author>
-            <name>Devojka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Listen to Lossless Audio on Apple Music]]></title>
-        <id>1847349371</id>
-        <link href="https://lifehacker.com/how-to-listen-to-lossless-audio-on-apple-music-1847349371"/>
-        <updated>2021-07-23T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music allows you to listen to some songs and albums in lossless audio quality, which—as the name suggests—are extremely high quality audio files. And because you don’t have to pay extra for the feature (it’s included with the $9.99 per month plan), if you have the right audio gear, trying it out is a bit of a…
-Read more...]]></summary>
-        <author>
-            <name>Pranay Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Spruce Up Your Bathroom for Less Than $100]]></title>
-        <id>1847346001</id>
-        <link href="https://lifehacker.com/how-to-spruce-up-your-bathroom-for-less-than-100-1847346001"/>
-        <updated>2021-07-23T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Bathrooms are notorious for being one of the most expensive rooms in a home to renovate. Between tiling, plumbing, storage, and fixtures, the costs can add up faster than you’d probably like. However, if you want to enhance the look of your bathroom without spending big bucks on a full-scale renovation, a few minor…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick the Tomatoes at the Bottom of Your Plant First]]></title>
-        <id>1847350384</id>
-        <link href="https://lifehacker.com/pick-the-tomatoes-at-the-bottom-of-your-plant-first-1847350384"/>
-        <updated>2021-07-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is year is my first year as a gardener. I think it’s going well, especially when you consider I have a history of killing every house plant I have ever attempted to keep alive (even air plants). Soon I will have nurtured into existence corn, tomatoes, and a truly absurd amount of tomatillos, and I am excited. 
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Beta Firmware on Your AirPods Pro (and Why You Should)]]></title>
-        <id>1847348495</id>
-        <link href="https://lifehacker.com/how-to-install-beta-firmware-on-your-airpods-pro-and-w-1847348495"/>
-        <updated>2021-07-23T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of the iPhone, iPad, and Mac, AirPods Pro have joined the ranks of Apple devices getting beta updates. Apple will now release regular beta updates for AirPods Pro that can be installed by anyone using an Apple Developer account.
-
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Need to Lift Weights If You Play a Sport]]></title>
-        <id>1847339070</id>
-        <link href="https://lifehacker.com/why-you-need-to-lift-weights-if-you-play-a-sport-1847339070"/>
-        <updated>2021-07-23T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s no secret that professional athletes hit the weight room hard. If you search YouTube for your favorite (male) athlete’s name, plus “workout” or “gym,” you can probably find video evidence of them crushing a 495-pound deadlift or pressing huge kettlebells like they’re nothing. But that kind of training is overkill…
-Read more...]]></summary>
-        <author>
-            <name>A.A. Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Edit Your 'Continue Watching' List on Every Major Streaming Service]]></title>
-        <id>1847348242</id>
-        <link href="https://lifehacker.com/how-to-edit-your-continue-watching-list-on-every-major-1847348242"/>
-        <updated>2021-07-23T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The “continue watching” section is the first thing you see when you open your favorite streaming service, and it often has a helpful list of series that you want to keep streaming...but it can also be filled with shows that you’ve given up on, or shows that you have completed but still show up because you didn’t…
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Laundry Stripping a Bunch of Baloney?]]></title>
-        <id>1847347750</id>
-        <link href="https://lifehacker.com/is-laundry-stripping-a-bunch-of-baloney-1847347750"/>
-        <updated>2021-07-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Laundry stripping is a method of removing detergent buildup, as well as any fabric softeners, body oils, or hard-water minerals that have built up in your clothes over time. Although laundry stripping is a long-standing technique, it’s been in the spotlight again due to some viral social media videos. And although t…
-Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start Dating Again If You're Unvaccinated]]></title>
-        <id>1847343349</id>
-        <link href="https://lifehacker.com/how-to-start-dating-again-if-youre-unvaccinated-1847343349"/>
-        <updated>2021-07-23T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The post-vax slutty summer is happening all around us, but some participants aren’t actually post-vax. The vaccine has been free and widely available for months now, but about half the population still isn’t vaccinated against COVID-19. A portion of those unvaccinated people is still interested in dating and if you’re…
-Read more...]]></summary>
-        <author>
-            <name>Lindsey Ellefson</name>
         </author>
     </entry>
     <entry>
@@ -543,19 +615,6 @@ Major online banking services – including Barclays, TSB, the Bank of Scotland,
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI firm DeepMind puts database of the building blocks of life online]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online"/>
-        <updated>2021-07-22T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers
-Last year the artificial intelligence group DeepMind cracked a mystery that has flummoxed scientists for decades: stripping bare the structure of proteins, the building blocks of life. Now, having amassed a database of nearly all human protein structures, the company is making the resource available online free for researchers to use.
-The key to understanding our basic biological machinery is its architecture. The chains of amino acids that comprise proteins twist and turn to make the most confounding of 3D shapes. It is this elaborate form that explains protein function; from enzymes that are crucial to metabolism to antibodies that fight infectious attacks.
- Continue reading...]]></summary>
-        <author>
-            <name>Natalie Grover Science correspondent</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Star Wars Cantina Bar Creature Project: ‘Hammerhead’]]></title>
         <id>https://makezine.com/2021/07/22/the-star-wars-cantina-bar-creature-project-hammerhead/</id>
         <link href="https://makezine.com/2021/07/22/the-star-wars-cantina-bar-creature-project-hammerhead/"/>
@@ -645,13 +704,16 @@ Hundreds of Uber and Lyft drivers have joined other app-based workers across the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minister of Justice’s law firm bungled lottery corruption probe]]></title>
-        <id>https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/</id>
-        <link href="https://www.groundup.org.za/article/minister-of-justices-law-firm-bungled-lottery-corruption-probe/"/>
-        <updated>2021-07-21T17:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Reports submitted by Ndobela Lamola Inc are full of forged documents]]></summary>
+        <title type="html"><![CDATA[Briton arrested over high-profile Twitter account hacks]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/21/briton-arrested-over-high-profile-twitter-account-hacks</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/21/briton-arrested-over-high-profile-twitter-account-hacks"/>
+        <updated>2021-07-21T18:21:16.000Z</updated>
+        <summary type="html"><![CDATA[22-year-old faces multiple charges in connection with attacks on accounts of politicians and celebrities
+A 22-year-old British citizen has been arrested in Spain in connection with a July 2020 Twitter hack that compromised the accounts of high-profile politicians and celebrities, the US Justice Department said on Wednesday.
+It named the British man as Joseph James O’Connor and said he faced multiple charges. He was also accused in a criminal complaint of computer intrusions related to takeovers of TikTok and Snapchat accounts, including one incident involving sextortion, as well as cyberstalking a 16-year-old juvenile.
+ Continue reading...]]></summary>
         <author>
-            <name>GroundUp News</name>
+            <name>Reuters in Washington</name>
         </author>
     </entry>
     <entry>
@@ -666,26 +728,6 @@ The post This Gameboy Runs on Nuclear Power appeared first on Make: DIY Projects
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When will the taxi violence end, asks Cape Town commuter desperate to get to work]]></title>
-        <id>https://www.groundup.org.za/article/when-will-taxi-violence-end-cape-town-ask-commuters-desperate-get-work/</id>
-        <link href="https://www.groundup.org.za/article/when-will-taxi-violence-end-cape-town-ask-commuters-desperate-get-work/"/>
-        <updated>2021-07-21T10:11:48.000Z</updated>
-        <summary type="html"><![CDATA[The government must step in and stop the strike, otherwise we will lose our jobs, says store cashier]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learners must get meals during Covid-19 pandemic, court orders]]></title>
-        <id>https://www.groundup.org.za/article/learners-must-get-meals-during-covid-19-pandemic-court-orders/</id>
-        <link href="https://www.groundup.org.za/article/learners-must-get-meals-during-covid-19-pandemic-court-orders/"/>
-        <updated>2021-07-21T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Minister and MECs to provide detailed plans within a month]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘A systemic failure’: vaccine misinformation remains rampant on Facebook, experts say]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/21/facebook-misinformation-vaccines</id>
         <link href="https://www.theguardian.com/technology/2021/jul/21/facebook-misinformation-vaccines"/>
@@ -696,26 +738,6 @@ The White House has also zeroed in on the “disinformation dozen”: accounts t
  Continue reading...]]></summary>
         <author>
             <name>Kari Paul in San Francisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life Esidimeni repeatedly warned health department, inquest hears]]></title>
-        <id>https://www.groundup.org.za/article/life-esidimeni-repeatedly-warned-health-department-disastrous-consequences-inquest-hears/</id>
-        <link href="https://www.groundup.org.za/article/life-esidimeni-repeatedly-warned-health-department-disastrous-consequences-inquest-hears/"/>
-        <updated>2021-07-21T09:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Former managing director describes transfer of patients by health department as “hurried”, “haphazard” and not conforming to discharge procedures]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This school for children with special needs was stripped bare by looters. Now the learners won’t even get meals]]></title>
-        <id>https://www.groundup.org.za/article/special-needs-school-pillaged-by-looters-cant-reopen-next-week-or-feed-learners/</id>
-        <link href="https://www.groundup.org.za/article/special-needs-school-pillaged-by-looters-cant-reopen-next-week-or-feed-learners/"/>
-        <updated>2021-07-21T09:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Golden Steps school in KwaZulu-Natal will not be able to re-open after the break]]></summary>
-        <author>
-            <name>GroundUp News</name>
         </author>
     </entry>
     <entry>
@@ -965,19 +987,6 @@ The post How To Prune Basil The Right Way appeared first on Get Busy Gardening.]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ransomware gang REvil's websites become unreachable]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/13/ransomware-gang-revils-websites-become-unreachable</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/13/ransomware-gang-revils-websites-become-unreachable"/>
-        <updated>2021-07-13T17:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Outage means victims of Russia-linked cybercrime ring cannot pay ransom and can remain unnamed
-Websites run by the ransomware gang REvil suddenly became unreachable on Tuesday.
-Ransomware gang websites can be unreliable, and it was unclear whether the site’s disappearance was a momentary fluke or whether the hackers had been taken offline.
- Continue reading...]]></summary>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Phil Spencer on the future of Xbox: we still want to take risks with games]]></title>
         <id>https://www.theguardian.com/games/2021/jul/13/phil-spencer-future-of-microsoft-xbox-risks-narrative-games</id>
         <link href="https://www.theguardian.com/games/2021/jul/13/phil-spencer-future-of-microsoft-xbox-risks-narrative-games"/>
@@ -1195,19 +1204,6 @@ The post If You’re Into 3D Printing, You Need To Be Watching CNC Kitchen appea
 The post The Making Of ‘Lord of the Rings’ inspired ‘Fellbeast’ Head appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memo to corporate leaders post-Covid: the disruption to businesses has only just begun | John Naughton]]></title>
-        <id>https://www.theguardian.com/commentisfree/2021/jun/26/memo-to-corporate-leaders-post-covid-the-disruption-to-businesses-has-only-just-begun</id>
-        <link href="https://www.theguardian.com/commentisfree/2021/jun/26/memo-to-corporate-leaders-post-covid-the-disruption-to-businesses-has-only-just-begun"/>
-        <updated>2021-06-26T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Managerial hierarchies must learn the true lessons of the pandemic if they are to survive and thrive
-Pandemics, the historian Yuval Noah Harari has observed, have a way of accelerating history. Just ask the founders of Zoom. Only two years ago, we were all thinking that it would take at least another decade before video-conferencing became an integral part of the way we work in organisations. Then along comes Covid and in three weeks we’re all happily Zooming (or unhappily in the case of Handforth parish council). And now we’re more or less acclimatised or, at any rate, resigned to the idea that remote meetings might be here to stay.
-The problem with having had the fast-forward button suddenly propel us into an unexpected place, though, is that we find ourselves unmoored. We start wondering about what lies ahead as the immediate threat of the virus recedes. What will our post-pandemic future be like? In relation to work, three main possibilities are currently taking up all the airtime: continuing to work from home (WFH); a hybrid mode in which we spend some time in the office but also two or three days WFH; and a return to ye olde days commuting to the office to gather round the water cooler and pretend to be doing something useful.
- Continue reading...]]></summary>
-        <author>
-            <name>John Naughton</name>
         </author>
     </entry>
 </feed>
