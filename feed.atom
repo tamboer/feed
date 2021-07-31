@@ -1,31 +1,378 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-30T00:34:49.648Z</id>
+    <id>urn:2021-07-31T00:33:25.222Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-30T00:34:49.648Z</updated>
+    <updated>2021-07-31T00:33:25.222Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Create Large Scale Domino Art With A Robot]]></title>
-        <id>https://hackaday.com/?p=488639</id>
-        <link href="https://hackaday.com/2021/07/29/create-large-scale-domino-art-with-a-robot/"/>
-        <updated>2021-07-29T23:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Creating large domino art displays is a long and nerve-racking process, where bumping a single domino can mean starting from scratch. To automate the process of creating these displays, a …read more]]></summary>
+        <title type="html"><![CDATA[Step ‘n Snack Fanny Pack Motivates with M&Ms]]></title>
+        <id>https://hackaday.com/?p=488168</id>
+        <link href="https://hackaday.com/2021/07/30/step-n-snack-fanny-pack-motivates-with-mms/"/>
+        <updated>2021-07-30T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[[Sam March] has made a lot of different kinds of things, many of which have appeared on these very pages. Nowadays he wants to get the viewers more involved in …read more]]></summary>
         <author>
-            <name>Danie Conradie</name>
+            <name>Kristina Panos</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google becomes latest tech firm to delay reopening as Delta variant spreads]]></title>
+        <title type="html"><![CDATA[7 of the Best VR Games That Will Actually Give You a Great Workout]]></title>
+        <id>1847397399</id>
+        <link href="https://lifehacker.com/7-of-the-best-vr-games-that-will-actually-give-you-a-gr-1847397399"/>
+        <updated>2021-07-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When we last left the Lifehacker Fitness Challenge, I was donning a VR headset and clearing out a space to play. I’ve now tried a bunch of different fitness apps and I have opinions. Here are my picks for some of the best ways to get your sweat on in virtual reality.
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Aerate Your Lawn (and Why You Should)]]></title>
+        <id>1847397131</id>
+        <link href="https://lifehacker.com/how-to-aerate-your-lawn-and-why-you-should-1847397131"/>
+        <updated>2021-07-30T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Depending on where you live—and your mentality about yard appearance—lawns can be hard work. If you don’t want to go the artificial route (which has its own environmental and physical challenges), there are other ways to make lighter work of lawn care. There are lots of little steps you can take to keep your lawn lush…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Finally Block Someone in Google Drive]]></title>
+        <id>1847397167</id>
+        <link href="https://lifehacker.com/how-to-finally-block-someone-in-google-drive-1847397167"/>
+        <updated>2021-07-30T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Drive is finally rolling out its long-awaited “block user” option. While it was previously possible to remove users from a shared document or prevent them from downloading and sharing files they collaborate on, you can now block all interactions directly in Drive.
+
+Read more...]]></summary>
+        <author>
+            <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Australia fix its CovidSafe app and turn the pandemic into a ‘pingdemic’?]]></title>
+        <id>https://www.theguardian.com/world/2021/jul/31/can-australia-fix-its-covidsafe-app-and-turn-the-pandemic-into-a-pingdemic</id>
+        <link href="https://www.theguardian.com/world/2021/jul/31/can-australia-fix-its-covidsafe-app-and-turn-the-pandemic-into-a-pingdemic"/>
+        <updated>2021-07-30T20:00:12.000Z</updated>
+        <summary type="html"><![CDATA[The Australian government is refusing to adopt technology used overseas that could speed up notification of close contacts
+The federal government is in discussions to tweak its CovidSafe app to pick up more fleeting contacts due to the more infectious Delta variant, but is refusing to adopt technology used overseas that could speed up notification of close contacts.
+As England and Wales experience what is being called a “pingdemic” – with more than 600,000 isolation alerts sent to users of its NHS app in one week earlier this month – Australia’s CovidSafe app has managed to identify just 17 close contacts who were not picked up by other means since it launched in April last year.
+ Continue reading...]]></summary>
+        <author>
+            <name>Josh Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charger Caddy Shows What 3D Printers Were Meant For]]></title>
+        <id>https://hackaday.com/?p=489494</id>
+        <link href="https://hackaday.com/2021/07/30/charger-caddy-shows-what-3d-printers-were-meant-for/"/>
+        <updated>2021-07-30T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[As computers became more popular in the late 80s and into the 90s, they vastly changed their environments. Of course the technological changes were obvious, but plenty of other things …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fake Like You Know What's Going on In the Olympics]]></title>
+        <id>1847395267</id>
+        <link href="https://lifehacker.com/how-to-fake-like-you-know-whats-going-on-in-the-olympic-1847395267"/>
+        <updated>2021-07-30T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know the summer Olympics include competitions in canoeing, BMX racing, handball, trampoline, and judo? Maybe you didn’t, but fans of those sports definitely do, and you might encounter those big brains and need to play along.
+
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make This Cocktail in Memoriam of the Perfect Peach]]></title>
+        <id>1847390856</id>
+        <link href="https://lifehacker.com/make-this-cocktail-in-memoriam-of-the-perfect-peach-1847390856"/>
+        <updated>2021-07-30T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Peaches are a great source of consternation for me. I am convinced that the last good peach I ate was consumed during my childhood, in 2001 or 2002, somewhere in the neighborhood of Kisela Voda in Skopje, Macedonia. Most likely, it was one I had picked from a neighbor’s tree on my way from one grandmother’s house to…
+Read more...]]></summary>
+        <author>
+            <name>Devojka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber and Google are latest among tech firms to delay reopening as Delta variant spreads]]></title>
         <id>https://www.theguardian.com/technology/2021/jul/29/google-delay-reopening-covid-delta-vaccine</id>
         <link href="https://www.theguardian.com/technology/2021/jul/29/google-delay-reopening-covid-delta-vaccine"/>
-        <updated>2021-07-29T21:22:58.000Z</updated>
-        <summary type="html"><![CDATA[The company also announced a vaccine mandate for employees who return in person for the new mid-October target date
-Google has backtracked on plans to welcome most workers back to its sprawling campus in September, becoming the latest Silicon Valley company to delay reopening amid a surge in Covid cases.
-The company announced Wednesday it is postponing a return to the office until mid-October and rolling out a policy that will eventually require everyone who returns in person to be vaccinated.
+        <updated>2021-07-30T19:11:18.000Z</updated>
+        <summary type="html"><![CDATA[The companies also announced a vaccine mandate for all employees who will eventually return to offices
+Major tech firms are reversing plans to return to in-office work in coming weeks, as Covid cases in the US rise due to the emergence of a highly transmissible variant of the virus.
+Uber, Twitter, Google, Apple and Netflix have delayed planned returns to in-person work recently, while other companies have announced employees can continue remote working indefinitely. The changes come amid the spread of the Delta variant, which now accounts for more than 80% of new coronavirus cases in the US.
  Continue reading...]]></summary>
         <author>
             <name>Kari Paul and agencies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Back-to-School Shopping Is More Expensive This Year (and How to Spend Less)]]></title>
+        <id>1847395834</id>
+        <link href="https://lifehacker.com/why-back-to-school-shopping-is-more-expensive-this-year-1847395834"/>
+        <updated>2021-07-30T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welp, parents, it looks like you’ll need to leave even more room in your budget for school supplies this year: According to the National Retail Federation, families will spend an average of $849 on supplies in 2021, $59 more than last year, due to pandemic-related supply chain issues. Here’s a look at what you can…
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 of the Weirdest Dog Behaviors (and Why They Do It)]]></title>
+        <id>1847393786</id>
+        <link href="https://lifehacker.com/6-of-the-weirdest-dog-behaviors-and-why-they-do-it-1847393786"/>
+        <updated>2021-07-30T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To observe a dog is to bear witness to a great many animal mysteries, such as why do dogs sniff other dogs’ butts, and why does my dog pee multiple times during the same walk?
+
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build A Barebones 68000]]></title>
+        <id>https://hackaday.com/?p=488322</id>
+        <link href="https://hackaday.com/2021/07/30/build-a-barebones-68000/"/>
+        <updated>2021-07-30T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The 68000 chip was ubiquitous in the computing world well past its heyday in the 1980s. It was used as the basis for many PCs and video game consoles, and …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Picturesque Waterfalls You Can Visit Without a Passport]]></title>
+        <id>1847394042</id>
+        <link href="https://lifehacker.com/12-picturesque-waterfalls-you-can-visit-without-a-passp-1847394042"/>
+        <updated>2021-07-30T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this summer, we wrote about the 15 U.S. islands you should visit. Now, we’re turning our attention to the magnificent waterfalls our country has to offer—and that you should experience at least once in your life. There are actually tens of thousands of waterfalls across the United States—some are large wonders…
+Read more...]]></summary>
+        <author>
+            <name>Aisha Jordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Contagious Is Delta, Really?]]></title>
+        <id>1847394390</id>
+        <link href="https://lifehacker.com/how-contagious-is-delta-really-1847394390"/>
+        <updated>2021-07-30T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Delta is more contagious than the original COVID-19 virus, and it’s even more contagious than the other variants of concern. That’s why the CDC has recently recommended masking up in some situations even if you’re vaccinated—as many public health experts have been urging ever since Delta started spreading.
+Read more...]]></summary>
+        <author>
+            <name>Beth Skwarecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fresh Paint or Patina of Ages, That’s The Antique Question]]></title>
+        <id>https://hackaday.com/?p=453099</id>
+        <link href="https://hackaday.com/2021/07/30/fresh-paint-or-patina-of-ages-thats-the-antique-question/"/>
+        <updated>2021-07-30T17:01:49.000Z</updated>
+        <summary type="html"><![CDATA[The world of antique furniture and the world of hackers rarely coincide, and perhaps the allure of the latest tech is greater for most of us than that of a …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 Tasty Things You Should Be Doing With Corn]]></title>
+        <id>1847388269</id>
+        <link href="https://lifehacker.com/11-tasty-things-you-should-be-doing-with-corn-1847388269"/>
+        <updated>2021-07-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To say I enjoy eating corn would be to grossly downplay the truth. I love corn, and I eat a lot of it during the summer. I will eat it raw. I will eat it pickled. I will eat it steamed, and grilled, and sautéed. 
+Read more...]]></summary>
+        <author>
+            <name>Claire Lower</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Hidden Search Tabs Feature in Chrome, Safari, and Firefox]]></title>
+        <id>1847392502</id>
+        <link href="https://lifehacker.com/how-to-use-the-hidden-search-tabs-feature-in-chrome-sa-1847392502"/>
+        <updated>2021-07-30T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s easy to get lost in a sea of open tabs between multiple browser windows—sometimes even with the same website in multiple tabs. Instead, use the built-in search tabs feature in your browser to keep things organized. You’ll find this feature in all major browsers like Chrome, Safari, and Firefox. And while the new…
+Read more...]]></summary>
+        <author>
+            <name>Khamosh Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Podcast 129: Super Clever 3D Printing, Jigs and Registration Things, 90s Car Audio, and Smooth LED Fades]]></title>
+        <id>https://hackaday.com/?p=489514&amp;preview=true&amp;preview_id=489514</id>
+        <link href="https://hackaday.com/2021/07/30/hackaday-podcast-129-super-clever-3d-printing-jigs-and-registration-things-90s-car-audio-and-smooth-led-fades/"/>
+        <updated>2021-07-30T16:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Hackaday editors Mike Szczys and Elliot Williams have found a critical mass of projects this week that wouldn’t be possible without 3D printers. There’s an absolutely astounding model roller coaster …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Adjust or Disable the Keyboard Backlight on Your MacBook]]></title>
+        <id>1847392413</id>
+        <link href="https://lifehacker.com/you-can-adjust-or-disable-the-keyboard-backlight-on-you-1847392413"/>
+        <updated>2021-07-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most MacBooks have a backlit keyboard—that white light underneath that lets you see the keys when it’s dark. By default, the keyboard backlight is set to turn on automatically when your MacBook detects low-light conditions, and the brightness level is adjusted automatically.
+
+Read more...]]></summary>
+        <author>
+            <name>Pranay Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Date Someone Who's Out of Your League]]></title>
+        <id>1847386013</id>
+        <link href="https://lifehacker.com/how-to-date-someone-whos-out-of-your-league-1847386013"/>
+        <updated>2021-07-30T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, did your phone just ding? It sounded like a match. Congrats! But oh, what’s this? The match is someone super hot you swiped right on with the assumption they’d never actually swipe right back?
+Read more...]]></summary>
+        <author>
+            <name>Lindsey Ellefson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Constitutional Court rules that Jon Qwelane did commit hate speech]]></title>
+        <id>https://www.groundup.org.za/article/constitutional-court-rules-ambassador-committed-hate-speech/</id>
+        <link href="https://www.groundup.org.za/article/constitutional-court-rules-ambassador-committed-hate-speech/"/>
+        <updated>2021-07-30T15:24:48.000Z</updated>
+        <summary type="html"><![CDATA[But the Supreme Court of Appeal decision on the vagueness of the hate speech law has been upheld. Parliament has been given 24 months to rectify it]]></summary>
+        <author>
+            <name>GroundUp News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New on Amazon Prime Video in August 2021]]></title>
+        <id>1847390895</id>
+        <link href="https://lifehacker.com/whats-new-on-amazon-prime-video-in-august-2021-1847390895"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adam Driver’s next role is a far cry from Kylo Ren. In Annette, the new artsy film from French director Leos Carax (the revelatory Holy Motors, which you should  watch right now; it’s streaming for free), he plays a toxic, controlling husband to a woman played by Marion Cotillard; their bond grows yet more tenuous…
+Read more...]]></summary>
+        <author>
+            <name>Joel Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Sauna for On-The-Go Relaxation]]></title>
+        <id>https://hackaday.com/?p=489312</id>
+        <link href="https://hackaday.com/2021/07/30/mobile-sauna-for-on-the-go-relaxation/"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While it might be nice to imagine owning a cabin in the woods to escape from society, complete with an outdoor sauna to take in the scenic views of nature, …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn Your Pet Into A Loki Variant With This Quick Tutorial]]></title>
+        <id>https://makezine.com/2021/07/30/turn-your-pet-into-a-loki-variant-with-this-quick-tutorial/</id>
+        <link href="https://makezine.com/2021/07/30/turn-your-pet-into-a-loki-variant-with-this-quick-tutorial/"/>
+        <updated>2021-07-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This template will help you make Loki's crown, fit for a pet! Perfect for your little loki variant
+The post Turn Your Pet Into A Loki Variant With This Quick Tutorial appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
+        <author>
+            <name>Make: DIY Projects and Ideas for Makers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Unnecessary Sequels That Are Better Than You Think]]></title>
+        <id>1847384766</id>
+        <link href="https://lifehacker.com/15-unnecessary-sequels-that-are-better-than-you-think-1847384766"/>
+        <updated>2021-07-30T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sequels are rarely necessary, but that doesn’t mean we won’t watch them, hoping that a follow-up will refine and expand a story in a way that fulfills the promise of the original, rather than letting it down. Any movie fan can list the great and successful sequels, but this is something a bit different.
+
+Read more...]]></summary>
+        <author>
+            <name>Ross Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Security: Fail2RCE, TPM Sniffing, Fishy Leaks, and Decompiling]]></title>
+        <id>https://hackaday.com/?p=489327</id>
+        <link href="https://hackaday.com/2021/07/30/this-week-in-security-fail2rce-tpm-sniffing-fishy-leaks-and-decompiling/"/>
+        <updated>2021-07-30T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Fail2ban is a great tool for dynamically blocking IP addresses that show bad behavior, like making repeated login attempts. It was just announced that a vulnerability could allow an attacker …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Simple Syrup in Less Than a Minute]]></title>
+        <id>1847389720</id>
+        <link href="https://lifehacker.com/how-to-make-simple-syrup-in-less-than-a-minute-1847389720"/>
+        <updated>2021-07-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Simple syrup is nice to have on hand for the times when you feel like making a cocktail at home—but buying it from the store seems kind of wasteful when it’s nothing more than sugar and water. Making your own syrup on the stovetop has its own drawbacks, though (namely that you have to wait for it to heat up and cool…
+Read more...]]></summary>
+        <author>
+            <name>Rachel Fairbank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Bills You Shouldn’t Set to Autopay (and Why You Shouldn't)]]></title>
+        <id>1847391209</id>
+        <link href="https://lifehacker.com/7-bills-you-shouldn-t-set-to-autopay-and-why-you-shoul-1847391209"/>
+        <updated>2021-07-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Setting up your bank account to automatically pay your bills is easy, convenient, and it seems like the right thing to do. After all, you don’t want to accidentally forget payments and face late penalties or have your service cut off, right?
+
+Read more...]]></summary>
+        <author>
+            <name>Mike Winters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The One Question You Should Be Asking in Job Interviews Right Now]]></title>
+        <id>1847386470</id>
+        <link href="https://lifehacker.com/the-one-question-you-should-be-asking-in-job-interviews-1847386470"/>
+        <updated>2021-07-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite the enduring pandemic, companies are luring workers back to the office, even as COVID-19 cases surge in parts of the country and vaccination efforts have largely stalled. Still, the whole transition back to the office after more than a year of working remotely is a big issue for anyone in the corporate world,…
+Read more...]]></summary>
+        <author>
+            <name>Sam Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m sorry Dave I’m afraid I invented that: Australian court finds AI systems can be recognised under patent law]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law"/>
+        <updated>2021-07-30T08:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Federal court judge says allowing artificial intelligence systems, as well as humans, to be inventors is ‘consistent with promoting innovation’
+An artificial intelligence system is capable of being an “inventor” under Australian patent law, the federal court has ruled, in a decision that could have wider intellectual property implications.
+University of Surrey professor Ryan Abbott has launched more than a dozen patent applications across the globe, including in the UK, US, New Zealand and Australia, on behalf of US-based Dr Stephen Thaler. They seek to have Thaler’s artificial intelligence device known as Dabus (a device for the autonomous bootstrapping of unified sentience) listed as the inventor.
+ Continue reading...]]></summary>
+        <author>
+            <name>Josh Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Book Pro 360 review: flexible laptop with beautiful OLED screen]]></title>
+        <id>https://www.theguardian.com/technology/2021/jul/30/samsung-galaxy-book-pro-360-review-flexible-laptop-oled-screen</id>
+        <link href="https://www.theguardian.com/technology/2021/jul/30/samsung-galaxy-book-pro-360-review-flexible-laptop-oled-screen"/>
+        <updated>2021-07-30T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Latest thin, light and adaptable Windows 10 machine looks great, is fast and has a nine-hour battery
+Samsung’s latest Galaxy Book Pro is a fast and versatile Windows 10 laptop that has a gorgeous-looking OLED screen.
+Available as a standard laptop costing from £1,099 ($999) or one with a screen that folds back on itself called the Galaxy Book Pro 360 for an extra £100 ($200). It is the successor to 2020’s Galaxy Book Flex and follows a similar theme: good 13.3in screen, 360-degree folding hinge and thin metal body available in a distinctive royal blue colour.
+ Continue reading...]]></summary>
+        <author>
+            <name>Samuel Gibbs Consumer technology editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was a serial arsonist hiding in plain sight? – podcasts of the week]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2021/jul/30/was-a-serial-arsonist-hiding-in-plain-sight-podcasts-of-the-week</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2021/jul/30/was-a-serial-arsonist-hiding-in-plain-sight-podcasts-of-the-week"/>
+        <updated>2021-07-30T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Firebug investigates whether a work of fiction was in fact a criminal confession. Plus: Gen Z influencers vent in Pressed, and a high-profile witness speaks out 
+Firebug
+True-crime podcasting turns to the hot stuff with the story of a man who wrote a novel in the 90s about a sad loner who starts fires across California to get kicks. It is described as “not a great work of fiction”, but investigators fear it might be a real-life confession from a serial arsonist. Film-maker Kary Antholis goes on the trail in true radio drama style, complete with the word “incendiary” to describe the action and typewriter sound effects, but can he shed light on the firestarter and satisfy crime fans? Hannah Verdier
+ Continue reading...]]></summary>
+        <author>
+            <name>Hannah Verdier and Danielle Stephens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cape Town sports clubs suspend sailing, canoeing, and rowing due to pollution]]></title>
+        <id>https://www.groundup.org.za/article/cape-town-sports-clubs-suspend-sailing-canoeing-and-rowing-due-pollution/</id>
+        <link href="https://www.groundup.org.za/article/cape-town-sports-clubs-suspend-sailing-canoeing-and-rowing-due-pollution/"/>
+        <updated>2021-07-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zeekoevlei, Zandvlei and Rietvlei closed; sewage spills blamed]]></summary>
+        <author>
+            <name>GroundUp News</name>
         </author>
     </entry>
     <entry>
@@ -76,16 +423,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinewood Derby Scale Measures CG]]></title>
-        <id>https://hackaday.com/?p=489301</id>
-        <link href="https://hackaday.com/2021/07/29/pinewood-derby-scale-measures-cg/"/>
-        <updated>2021-07-29T20:00:13.000Z</updated>
-        <summary type="html"><![CDATA[If you suffer from nostalgia, you might remember carving a block of wood into a car, adding some wheels, and racing it against other contestants in a pinewood derby. Today’s …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Check How Much Life Your iPhone Battery Has Left]]></title>
         <id>1847386877</id>
         <link href="https://lifehacker.com/how-to-check-how-much-life-your-iphone-battery-has-left-1847386877"/>
@@ -130,125 +467,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bright Bike Light Might Make Them Back Off]]></title>
-        <id>https://hackaday.com/?p=486599</id>
-        <link href="https://hackaday.com/2021/07/29/bright-bike-light-might-make-them-back-off/"/>
-        <updated>2021-07-29T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[[Tegwyn☠Twmffat] recently got a job as a part-time bike courier and has come to realize just how dangerous it can be to mix leg-powered transportation with various sizes of engine-driven …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should I Break Up With My Annoying (But Longtime) Friend?]]></title>
-        <id>1847380516</id>
-        <link href="https://lifehacker.com/should-i-break-up-with-my-annoying-but-longtime-frien-1847380516"/>
-        <updated>2021-07-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not all advice need be professional. Sometimes your problems merit a bit of unvarnished honesty from a dude equipped with nothing more than a computer and a conscience. Luckily for you, I’m that guy. Welcome back to Tough Love. (If you’d like to seek my advice, email me at sblum@lifehacker.com)
-
-Read more...]]></summary>
-        <author>
-            <name>Sam Blum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Perfect Instagram Shot]]></title>
-        <id>1847381427</id>
-        <link href="https://lifehacker.com/how-to-get-the-perfect-instagram-shot-1847381427"/>
-        <updated>2021-07-29T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Why does it seem like everyone you follow on Instagram knows exactly how to pose and find their light to get the best selfie or photo? Realistically, you know they probably took dozens—or hundreds—of snaps to get the one they posted, but it feels like they all know some cheat codes you don’t.
-Read more...]]></summary>
-        <author>
-            <name>Lindsey Ellefson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fail of the Week: The Metal Hot End Upgrade]]></title>
-        <id>https://hackaday.com/?p=484468</id>
-        <link href="https://hackaday.com/2021/07/29/fail-of-the-week-the-metal-hot-end-upgrade/"/>
-        <updated>2021-07-29T17:01:29.000Z</updated>
-        <summary type="html"><![CDATA[My son, Patrick, has observed on more than one occasion that I do not like 3D printing. That may sound odd, because I built a printer back in 2012 and …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Make Your Own Corn Milk (and Cook With It)]]></title>
-        <id>1847386655</id>
-        <link href="https://lifehacker.com/you-can-make-your-own-corn-milk-1847386655"/>
-        <updated>2021-07-29T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you know me, you know I love corn a whole lot. This year, for the first time, I grew my own corn and, though it is a little smaller than the ears you see at the grocery store, it is still sweet and juicy, and I wanted to extract as much flavor as possible from these sweet cobs of mine. So I made some corn milk.
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Stop Videos From Autoplaying All Over the Internet]]></title>
-        <id>1847384173</id>
-        <link href="https://lifehacker.com/how-to-stop-videos-from-autoplaying-all-over-the-intern-1847384173"/>
-        <updated>2021-07-29T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Universally speaking, autoplay videos are annoying. On social media, they can suck you in, and the next thing you know, you’ve spent an hour scrolling through videos. On websites, they get in the way, following you around the page and covering up the text of an article.
-
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Video Series: Raspberry Pi Pico and RP2040 Deep Dive with Uri Shaked]]></title>
-        <id>https://hackaday.com/?p=486601</id>
-        <link href="https://hackaday.com/2021/07/29/new-video-series-raspberry-pi-pico-and-rp2040-deep-dive-with-uri-shaked/"/>
-        <updated>2021-07-29T16:01:10.000Z</updated>
-        <summary type="html"><![CDATA[In case you’ve been living under a rock that doesn’t have internet access, the Raspberry Pi Foundation got into the silicon sales and microcontroller game all at once this year …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Preserve Seeds to Plant Next Year]]></title>
-        <id>1847382460</id>
-        <link href="https://lifehacker.com/how-to-preserve-seeds-to-plant-next-year-1847382460"/>
-        <updated>2021-07-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The end of the warmer months can be depressing for the avid gardener. Thankfully, seeds from past blooms give hope for future plantings. But seeds don’t last forever, and the older they get, the less viable they are. How you store your seeds can extend or decrease the seed’s lifespan. Here’s how to preserve your seeds…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Simone Biles Can Teach Our Children About Mental Health]]></title>
-        <id>1847384249</id>
-        <link href="https://lifehacker.com/what-simone-biles-can-teach-our-children-about-mental-h-1847384249"/>
-        <updated>2021-07-29T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If our children are old enough to be watching the Olympics with us, there’s a good chance they have already seen a fair amount of coverage and the reactions—both good and bad—surrounding Simone Biles’ decision to withdraw from the competition due to mental health concerns. And that decision presents us with an…
-Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D-Printed Tooling Enables DIY Electrochemical Machining]]></title>
-        <id>https://hackaday.com/?p=486945</id>
-        <link href="https://hackaday.com/2021/07/29/3d-printed-tooling-enables-diy-electrochemical-machining/"/>
-        <updated>2021-07-29T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to turning a raw block of metal into a useful part, most processes are pretty dramatic. Sharp and tough tools are slammed into raw stock to remove …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remodel Your Kitchen in the Cheapest Possible Way]]></title>
-        <id>1847381171</id>
-        <link href="https://lifehacker.com/how-to-remodel-your-kitchen-in-the-cheapest-possible-wa-1847381171"/>
-        <updated>2021-07-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Full-scale kitchen remodels can take months of labor and tens of thousands of dollars or more. But giving your kitchen a little refresh doesn’t have to take all that work and all of your money. While you save up for the big kitchen gut job, you can make several subtle, inexpensive changes that will help bring your…
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Acrylic Tips And Tricks For Designers, Architects, & Makers]]></title>
         <id>https://makezine.com/2021/07/29/acrylic-tips-and-tricks-for-designers-architects-makers/</id>
         <link href="https://makezine.com/2021/07/29/acrylic-tips-and-tricks-for-designers-architects-makers/"/>
@@ -277,49 +495,6 @@ There were 43% fewer downloads of the NHS Covid-19 app in the week ending 30 Jun
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Buy a Bundt Pan, Make Your Own]]></title>
-        <id>1847379734</id>
-        <link href="https://lifehacker.com/dont-buy-a-bundt-pan-make-your-own-1847379734"/>
-        <updated>2021-07-29T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are someone who enjoys baking once in a while, a Bundt pan is one of those kitchen items that seems important—but only very occasionally. The other 364 days of the year, it is a space-sucker, especially if you have a small kitchen. There are only so many pound cakes one can bake,  and although a frozen slice of…
-Read more...]]></summary>
-        <author>
-            <name>Rachel Fairbank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Know Audio: Amplifiers And Distortion]]></title>
-        <id>https://hackaday.com/?p=483994</id>
-        <link href="https://hackaday.com/2021/07/29/know-audio-amplifiers-and-distortion/"/>
-        <updated>2021-07-29T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[As we’ve traced our no-nonsense path through the world of Hi-Fi audio, we’ve started with the listener, understood the limitations of the human ear, and thence proceeded to the loudspeaker. …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kids Don't Always Have to Share]]></title>
-        <id>1847378137</id>
-        <link href="https://lifehacker.com/kids-dont-always-have-to-share-1847378137"/>
-        <updated>2021-07-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My two-year-old started crying minutes after my oldest son unwrapped his birthday presents. He wanted to play with his brother’s newest haul of toys as soon as they came out of their boxes, but his sibling firmly refused his requests. And while I was disappointed that my oldest child didn’t want to share, I couldn’t…
-Read more...]]></summary>
-        <author>
-            <name>Jason Keil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Talk to an Actual Person at Your Airline]]></title>
-        <id>1847381248</id>
-        <link href="https://lifehacker.com/how-to-talk-to-an-actual-person-at-your-airline-1847381248"/>
-        <updated>2021-07-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you tried to speaking with a customer service representative from an airline lately? A perfect storm of post-pandemic demand, scheduling changes, and staff shortages has resulted in frustrated customers waiting for hours on the phone to speak to an actual human. Fortunately, there are methods that can speed up…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cape Town has reached Transport Day Zero. This is why]]></title>
         <id>https://www.groundup.org.za/article/not-just-taxi-wars-blame-cape-towns-public-transport-crisis/</id>
         <link href="https://www.groundup.org.za/article/not-just-taxi-wars-blame-cape-towns-public-transport-crisis/"/>
@@ -337,30 +512,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Municipality says the issue was due to a leak and should be repaired by Friday]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You're Probably Overcooking Your Corn]]></title>
-        <id>1847379490</id>
-        <link href="https://lifehacker.com/youre-probably-overcooking-your-corn-1847379490"/>
-        <updated>2021-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello, it’s me, your friendly internet corn truther, here to tell you that you are probably overcooking your corn on the cob. If you’ve been reading me for any real length of time, you know that I love to shout about how you don’t even have to cook corn, but sometimes people like their corn hot, so that the butter…
-Read more...]]></summary>
-        <author>
-            <name>Claire Lower</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli authorities inspect NSO Group offices after Pegasus revelations]]></title>
-        <id>https://www.theguardian.com/news/2021/jul/29/israeli-authorities-inspect-nso-group-offices-after-pegasus-revelations</id>
-        <link href="https://www.theguardian.com/news/2021/jul/29/israeli-authorities-inspect-nso-group-offices-after-pegasus-revelations"/>
-        <updated>2021-07-29T11:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Officials visit offices near Tel Aviv as Israeli defence minister meets French  counterpart in Paris
-Israeli authorities have inspected the offices of the surveillance outfit NSO Group in response to the Pegasus project investigation into abuses of the company’s spyware by several government clients.
-Officials from the defence ministry visited the company’s offices near Tel Aviv on Wednesday, at the same time as the defence minister, Benny Gantz, arrived for a pre-arranged visit to Paris in which the Pegasus revelations were discussed with his French counterpart.
- Continue reading...]]></summary>
-        <author>
-            <name>Bethan McKernan Middle East correspondent</name>
         </author>
     </entry>
     <entry>
@@ -394,19 +545,6 @@ Back then, the effects of trauma weren’t exactly unknown, but they weren’t m
  Continue reading...]]></summary>
         <author>
             <name>Rhiannon Lucy Cosslett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEOs told to ‘think before they tweet’ after Just Eat spat with Uber]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/29/ceos-told-to-think-before-they-tweet-after-just-eat-twitter-spat</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/29/ceos-told-to-think-before-they-tweet-after-just-eat-twitter-spat"/>
-        <updated>2021-07-29T06:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Boss’s Twitter rant against Uber Eats risks backfiring, as experts warn online outbursts can damage companies’ reputation
-Chief executives are being warned to “think twice before they tweet” after the boss of takeaway company Just Eat Takeaway was told his Twitter spat with Uber threatened to undermine the firm’s reputation.
-Jitse Groen this week became the latest in a growing list of chief executives to be rebuked by customers, investors and even regulators over ill-judged tweets.
- Continue reading...]]></summary>
-        <author>
-            <name>Rupert Neate</name>
         </author>
     </entry>
     <entry>
@@ -445,84 +583,6 @@ Facebook saw its fastest growth this quarter since 2016, the company revealed in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is a Deload, and When Do You Need One?]]></title>
-        <id>1847380901</id>
-        <link href="https://lifehacker.com/what-is-a-deload-and-when-do-you-need-one-1847380901"/>
-        <updated>2021-07-28T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Even among professional athletes, nobody works out at 100% effort every single week. There are times to rest and recover, often for a week or more, and you and I can apply this principle to our routines, as well. 
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show Up to Your Next Virtual Meeting As a Pixar Character]]></title>
-        <id>1847379414</id>
-        <link href="https://lifehacker.com/show-up-to-your-next-virtual-meeting-as-a-pixar-charact-1847379414"/>
-        <updated>2021-07-28T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen, we’ve all spent way too much time on video calls in the last year-plus, but we’re hanging on to whatever we can to make our time on Zoom (or Teams, or Google Meet) tolerable, if not a little bit fun. With the Delta variant on the rise, it’s obviously time to turn yourself into a cartoon character.
-
-Read more...]]></summary>
-        <author>
-            <name>Emily Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Cold Borscht Summer]]></title>
-        <id>1847379531</id>
-        <link href="https://lifehacker.com/welcome-to-cold-borsch-summer-1847379531"/>
-        <updated>2021-07-28T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Sweaty Season is fully upon us once again, and unfortunately, it’s not going anywhere anytime soon. Turning on the stove may be a dealbreaker, but let’s face it: You can only eat so much salad before you need something more substantial. 
-Read more...]]></summary>
-        <author>
-            <name>A.A. Newton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Can You Back Out of Buying a Home Without Losing Your Earnest Money?]]></title>
-        <id>1847379501</id>
-        <link href="https://lifehacker.com/when-can-you-back-out-of-buying-a-home-without-losing-y-1847379501"/>
-        <updated>2021-07-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can you back out of an accepted, signed offer to buy a home? After all, a lot can happen during the closing period in any sale—losing your job, a medical emergency, a divorce—that might require you to change your plans. The good news is,  yes, it’s possible to rescind a signed offer—but when you do it will determine…
-Read more...]]></summary>
-        <author>
-            <name>Mike Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Ways to Eat Cheap, Healthy, and Lazy, According to Reddit]]></title>
-        <id>1847379166</id>
-        <link href="https://lifehacker.com/how-to-eat-cheap-healthy-and-lazy-according-to-reddi-1847379166"/>
-        <updated>2021-07-28T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When we last visited r/eatcheapandhealthy, we found a treasure trove of cold lunches that are full of veggies and protein and won’t break the bank. Today, we’re taking a look at their best tips for lazy meals, some just as simple as two or three ingredients. “I’m talking about LITERAL one-step (or two-step) meals a…
-Read more...]]></summary>
-        <author>
-            <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid Unnecessary Distractions in iOS 15 With 'Notification Summary']]></title>
-        <id>1847376058</id>
-        <link href="https://lifehacker.com/avoid-unnecessary-distractions-in-ios-15-with-notificat-1847376058"/>
-        <updated>2021-07-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every year, Apple adds new features to the iPhone and iPad operating systems to make notifications a bit more manageable. iOS 15 is no different. This time around, Apple has removed the old Delivery Quietly feature and is replacing it with Notification Summary, which gives you even more control over how and when your…
-Read more...]]></summary>
-        <author>
-            <name>Khamosh Pathak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 of the Most Twisted Movie Premises Ever]]></title>
-        <id>1847377322</id>
-        <link href="https://lifehacker.com/20-of-the-most-fucked-up-film-premises-ever-1847377322"/>
-        <updated>2021-07-28T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The trailer for Lamb, the forthcoming freaky horror psychodrama from A24 and director Valdimar Jóhannsson, dropped yesterday, and if you’re on social media at all, there’s a good chance you’ve seen it, or at least encountered people’s horrified, if bemused, reactions to it. Which make a lot of sense once you’ve…
-Read more...]]></summary>
-        <author>
-            <name>Ross Johnson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New social housing development launched in Cape Town]]></title>
         <id>https://www.groundup.org.za/article/new-social-housing-development-launched-cape-town/</id>
         <link href="https://www.groundup.org.za/article/new-social-housing-development-launched-cape-town/"/>
@@ -530,21 +590,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Latest phase of Bothasig Gardens will provide 314 homes to lower income families]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Disinfo kills’: protesters demand Facebook act to stop vaccine falsehoods]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/28/facebook-protest-vaccine-disinformation</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/28/facebook-protest-vaccine-disinformation"/>
-        <updated>2021-07-28T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Activists place body bags at company’s Washington HQ
-False information on vaccines shared widely on network
-
-Activists descended on Facebook’s Washington headquarters on Wednesday to demand the company take stronger action against vaccine falsehoods spreading on its platform, covering the area in front of Facebook’s office with body bags that read “disinfo kills”.
- Related: ‘A systemic failure’: vaccine misinformation remains rampant on Facebook, experts say  
- Continue reading...]]></summary>
-        <author>
-            <name>Kari Paul in San Francisco</name>
         </author>
     </entry>
     <entry>
@@ -654,18 +699,6 @@ Facebook announced on Wednesday that, starting in a few weeks, Instagram will st
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google, Apple and Microsoft report record-breaking profits]]></title>
-        <id>https://www.theguardian.com/technology/2021/jul/27/google-apple-and-microsoft-to-report-record-breaking-profits</id>
-        <link href="https://www.theguardian.com/technology/2021/jul/27/google-apple-and-microsoft-to-report-record-breaking-profits"/>
-        <updated>2021-07-27T20:54:35.000Z</updated>
-        <summary type="html"><![CDATA[‘Perfect positive storm’ for big tech as pandemic fuels huge quarterly sales and stock market gains
-Google, Apple and Microsoft reported record-breaking quarterly sales and profits on Tuesday night as the firms continue to benefit from a pandemic that has created a “perfect positive storm” for big tech.
- Continue reading...]]></summary>
-        <author>
-            <name>Rupert Neate and Dominic Rushe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maker Classes in August: All Things 3D Printing, Robotics, and Games!]]></title>
         <id>https://makezine.com/2021/07/27/maker-classes-in-august-all-things-3d-printing-robotics-and-games/</id>
         <link href="https://makezine.com/2021/07/27/maker-classes-in-august-all-things-3d-printing-robotics-and-games/"/>
@@ -674,19 +707,6 @@ Google, Apple and Microsoft reported record-breaking quarterly sales and profits
 The post Maker Classes in August: All Things 3D Printing, Robotics, and Games! appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagina tunnels and sneaker closets: the escapist appeal of celebrity house tours]]></title>
-        <id>https://www.theguardian.com/culture/2021/jul/28/vagina-tunnels-and-sneaker-closets-the-escapist-appeal-of-celebrity-house-tours</id>
-        <link href="https://www.theguardian.com/culture/2021/jul/28/vagina-tunnels-and-sneaker-closets-the-escapist-appeal-of-celebrity-house-tours"/>
-        <updated>2021-07-27T17:30:41.000Z</updated>
-        <summary type="html"><![CDATA[In new column Internet wormhole, Guardian Australia writers take you to their favourite corner of the web. First up: an inviting – and voyeuristic – YouTube series
-Looking back to early pandemic times, it was probably Architectural Digest’s video tour of Dakota Johnson’s Hollywood home that nudged me down the YouTube hole of celebrity house tours.
-Like many millennials my Instagram feed is at any given moment peppered with aspirational content from sites like The Design Files and a stream of homogenous pastel-hued influencers. But sitting housebound with my partner and cat in our rented, single bedroom flat, the Fifty Shades of Grey star’s whimsical tour of her tastefully decorated mid century Hollywood home and kitchen stocked with unreasonable quantities of limes (“I love limes, they’re great and I like to present them like this in my house,” she explained) offered a welcome hit of late night escapism from the more foreboding stuff unfolding across the internet in March 2020.
- Continue reading...]]></summary>
-        <author>
-            <name>Walter Marsh</name>
         </author>
     </entry>
     <entry>
@@ -750,26 +770,6 @@ The post Tutorial: Painting The Mandalorian Armorer Helmet appeared first on Mak
 The post My 15-Year Quest to Make the Ultimate DIY Coffee Roaster appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
         <author>
             <name>Make: DIY Projects and Ideas for Makers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to school spoiled by Cape Town taxi war]]></title>
-        <id>https://www.groundup.org.za/article/return-school-spoiled-cape-town-taxi-war/</id>
-        <link href="https://www.groundup.org.za/article/return-school-spoiled-cape-town-taxi-war/"/>
-        <updated>2021-07-26T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Western Cape MEC suspends Bellville – Paarl taxi route for two months]]></summary>
-        <author>
-            <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winters are the worst nightmare for us, says homeless man in Springs]]></title>
-        <id>https://www.groundup.org.za/article/winters-are-worst-nightmare-us-says-homeless-man-springs/</id>
-        <link href="https://www.groundup.org.za/article/winters-are-worst-nightmare-us-says-homeless-man-springs/"/>
-        <updated>2021-07-26T12:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Last week temperatures dropped to minus 7ºC]]></summary>
-        <author>
-            <name>GroundUp News</name>
         </author>
     </entry>
     <entry>
@@ -1114,17 +1114,6 @@ There comes a moment in every good gangster movie when all of the villains come 
  Continue reading...]]></summary>
         <author>
             <name>Hamilton Nolan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Modeling for Makers]]></title>
-        <id>https://makezine.com/2021/07/08/3d-modeling-for-makers/</id>
-        <link href="https://makezine.com/2021/07/08/3d-modeling-for-makers/"/>
-        <updated>2021-07-09T05:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Lydia Sloan Cline is the author of Fusion 360 for Makers, which is out in a new second edition. She teaches 3D design and fabrication at Johnson County Community College in Overland Park, Kansas, where she began as a drafting professor with a degree in Architecture. In this episode of Make:cast, Patrick DiJusto, Make: Books […]
-The post 3D Modeling for Makers appeared first on Make: DIY Projects and Ideas for Makers.]]></summary>
-        <author>
-            <name>Make: DIY Projects and Ideas for Makers</name>
         </author>
     </entry>
     <entry>
