@@ -6,12 +6,96 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/ccma-dismisses-33-spar-workers-gqeberha-violating-picket-rules/",
+          "author": null,
+          "description": "Commissioner finds workers guilty of “gross misconduct” and violating a court interdict",
+          "link": "https://www.groundup.org.za/article/ccma-dismisses-33-spar-workers-gqeberha-violating-picket-rules/",
+          "publishedOn": "2021-08-05T12:21:52.000Z",
+          "wordCount": 806,
+          "title": "CCMA upholds dismissal of Spar workers in Gqeberha for violating picket rules",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Joseph%20Chirume/dismissed_spar_workers_5082021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/immigrant-fire-victims-denied-building-materials-and-land-durban/",
+          "author": null,
+          "description": "While South African families in Briardene pick up their lives, immigrants have been excluded from rebuilding efforts",
+          "link": "https://www.groundup.org.za/article/immigrant-fire-victims-denied-building-materials-and-land-durban/",
+          "publishedOn": "2021-08-05T09:39:52.000Z",
+          "wordCount": 1342,
+          "title": "Immigrant fire victims denied building materials and land in Durban",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/briardene_rebuilding_3_extra_large.jpeg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/community-torch-municipal-office-injure-pr-councillor-after-shacks-demolished/",
+          "author": null,
+          "description": "“I was relaxing on my couch when they arrived with their crowbars. They just tore apart my shack” says Gqeberha mother of four",
+          "link": "https://www.groundup.org.za/article/community-torch-municipal-office-injure-pr-councillor-after-shacks-demolished/",
+          "publishedOn": "2021-08-05T09:18:25.000Z",
+          "wordCount": 1050,
+          "title": "Community torch municipal office after shacks demolished",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Mkhuseli%20Sizani/missonvale_councillors_office_burnt_5082021_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/xolobeni-there-future-eco-tourism/",
+          "author": null,
+          "description": "“We are not anti-development” say opponents of mine and toll road",
+          "link": "https://www.groundup.org.za/article/xolobeni-there-future-eco-tourism/",
+          "publishedOn": "2021-08-05T09:14:13.000Z",
+          "wordCount": 1683,
+          "title": "Wild Coast: is there a future in eco-tourism?",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/xolobeni_daniel/xolobeniwaterfall-danielsteyn-20210728_huge.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/volunteers-revamping-markets-looted-soweto/",
+          "author": null,
+          "description": "“It was scary to see this area go from busy to what felt like a ghost town overnight”",
+          "link": "https://www.groundup.org.za/article/volunteers-revamping-markets-looted-soweto/",
+          "publishedOn": "2021-08-05T04:00:00.000Z",
+          "wordCount": 1353,
+          "title": "Volunteers are fixing looted Soweto markets",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/masego_mafata/mampho_lesoana_extra_large.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/shallow-pool-faeces-and-rubble-centre-building-occupied-families/",
+          "author": null,
+          "description": "Gugulethu ward councillor acknowledges building is falling apart but can’t help occupants because it’s privately owned",
+          "link": "https://www.groundup.org.za/article/shallow-pool-faeces-and-rubble-centre-building-occupied-families/",
+          "publishedOn": "2021-08-05T04:00:00.000Z",
+          "wordCount": 1068,
+          "title": "Families living in filth in abandoned building",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/gugulethuhostel/gugulethu-20210728-img_0164hr_extra_large.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/unrest-july-2021-more-r100-million-damages-schools-kzn-and-gauteng/",
           "author": null,
           "description": "Education department says this worsened its backlog on repairing over a thousand schools vandalised during lockdown",
           "link": "https://www.groundup.org.za/article/unrest-july-2021-more-r100-million-damages-schools-kzn-and-gauteng/",
           "publishedOn": "2021-08-04T09:48:32.000Z",
-          "wordCount": 1185,
+          "wordCount": 1190,
           "title": "July riots caused more than R100 million in damage to schools in KZN and Gauteng",
           "enclosure": {
             "length": "26343",
@@ -25,7 +109,7 @@
           "description": "International Pentecost Holiness Church members undressed Karabo Ndlovu to conduct a gender test",
           "link": "https://www.groundup.org.za/article/court-orders-church-pay-transgender-woman-r600000-damages/",
           "publishedOn": "2021-08-04T09:19:35.000Z",
-          "wordCount": 1026,
+          "wordCount": 1034,
           "title": "Court orders church to pay transgender woman R600,000 in damages",
           "enclosure": {
             "length": "26343",
@@ -39,7 +123,7 @@
           "description": "Kurland residents want electricity problem fixed",
           "link": "https://www.groundup.org.za/article/plettenberg-bay-protesters-close-n2/",
           "publishedOn": "2021-08-04T09:02:28.000Z",
-          "wordCount": 865,
+          "wordCount": 867,
           "title": "Plettenberg Bay protesters close N2",
           "enclosure": {
             "length": "26343",
@@ -53,7 +137,7 @@
           "description": "Two family members and the pet dog shot with rubber bullets",
           "link": "https://www.groundup.org.za/article/kzn-family-accuse-police-brutally-assaulting-them-and-taking-goods-were-not-looted/",
           "publishedOn": "2021-08-04T08:04:35.000Z",
-          "wordCount": 994,
+          "wordCount": 995,
           "title": "KZN family says police assaulted them and took goods that were not looted",
           "enclosure": {
             "length": "26343",
@@ -67,7 +151,7 @@
           "description": "Many stay on the job",
           "link": "https://www.groundup.org.za/article/cops-who-rape-are-rarely-disciplined-data-reveals/",
           "publishedOn": "2021-08-04T03:50:00.000Z",
-          "wordCount": 2171,
+          "wordCount": 2172,
           "title": "Cops who rape are rarely disciplined, data reveals",
           "enclosure": {
             "length": "26343",
@@ -81,7 +165,7 @@
           "description": "Except on the contested route where negotiations between CATA and CODETA are still underway",
           "link": "https://www.groundup.org.za/article/taxis-return-to-normal-on-cape-town-roads/",
           "publishedOn": "2021-08-03T14:24:00.000Z",
-          "wordCount": 989,
+          "wordCount": 983,
           "title": "Taxis return to “normal” on Cape Town roads",
           "enclosure": {
             "length": "26343",
@@ -95,7 +179,7 @@
           "description": "Bheki Cele gives account of what sparked the violence according to police",
           "link": "https://www.groundup.org.za/article/unrest-july-2021-grim-details-deaths-phoenix/",
           "publishedOn": "2021-08-03T13:12:57.000Z",
-          "wordCount": 1316,
+          "wordCount": 1314,
           "title": "Unrest July 2021: Grim details of deaths in Phoenix",
           "enclosure": {
             "length": "26343",
@@ -109,7 +193,7 @@
           "description": "“The youth should stop spreading lies on social media about the vaccine. It has not killed me. Instead, I feel safe”",
           "link": "https://www.groundup.org.za/article/elderly-going-second-covid-vaccine-jab-gqeberha-have-message-youth/",
           "publishedOn": "2021-08-03T12:45:00.000Z",
-          "wordCount": 920,
+          "wordCount": 918,
           "title": "Elderly getting Covid vaccine have message for young people",
           "enclosure": {
             "length": "26343",
@@ -123,96 +207,12 @@
           "description": "“It is common knowledge that there are regular sewerage spills into Zandvlei”",
           "link": "https://www.groundup.org.za/article/open-letter-city-cape-town-fix-our-vleis/",
           "publishedOn": "2021-08-03T09:07:27.000Z",
-          "wordCount": 1440,
+          "wordCount": 1432,
           "title": "Open letter to City of Cape Town: Fix our vleis!",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/Unknown%20photographer/zandvlei_extra_large.jpeg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/commuters-small-businesses-paying-price-taxi-violence-cape-town/",
-          "author": null,
-          "description": "End of taxi war in sight?",
-          "link": "https://www.groundup.org.za/article/commuters-small-businesses-paying-price-taxi-violence-cape-town/",
-          "publishedOn": "2021-08-02T14:10:10.000Z",
-          "wordCount": 1311,
-          "title": "Commuters, small businesses paying the price for Cape Town’s taxi violence",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/transport-20210720-img_9642hr_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/how-africans-and-indians-are-trying-bring-peace-phoenix/",
-          "author": null,
-          "description": "As KZN mops up after unrest, communities try to unite",
-          "link": "https://www.groundup.org.za/article/how-africans-and-indians-are-trying-bring-peace-phoenix/",
-          "publishedOn": "2021-08-02T13:37:28.000Z",
-          "wordCount": 1860,
-          "title": "How Africans and Indians are trying to bring peace to Phoenix",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/mlungisi_mbele/663a2768_huge.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/people-who-have-been-waiting-list-1996-may-finally-see-house-valhala/",
-          "author": null,
-          "description": "The Valhalla Park Housing Project began in 2016. The first houses are almost finished",
-          "link": "https://www.groundup.org.za/article/people-who-have-been-waiting-list-1996-may-finally-see-house-valhala/",
-          "publishedOn": "2021-08-02T11:43:00.000Z",
-          "wordCount": 945,
-          "title": "People here have been waiting for houses since 1996. They may soon get them",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/valhalla-20210728-img_0354hr_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/this-municipality-has-a-serious-service-delivery-problem-and-especially-with-water/",
-          "author": null,
-          "description": "Residents told there will be more water outages this week",
-          "link": "https://www.groundup.org.za/article/this-municipality-has-a-serious-service-delivery-problem-and-especially-with-water/",
-          "publishedOn": "2021-08-02T10:00:44.000Z",
-          "wordCount": 1005,
-          "title": "Makana municipality “has a serious service delivery problem, especially with water”",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/loyiso_dyongman/makhanda_water_cuts_2082021_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/xolobeni-n2-toll-road-may-be-bridge-too-far/",
-          "author": null,
-          "description": "Some argue it will bring economic opportunities while others worry it will destroy their way of life",
-          "link": "https://www.groundup.org.za/article/xolobeni-n2-toll-road-may-be-bridge-too-far/",
-          "publishedOn": "2021-08-02T08:44:40.000Z",
-          "wordCount": 2649,
-          "title": "N2 toll road on Wild Coast divides community",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/xolobeni_daniel/xolobenimeeting-danielsteyn-20210728_huge.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/soup-kitchen-closed-july-unrest/",
-          "author": null,
-          "description": "About 100 children were getting their Sunday meal at a kitchen run by people with disabilities",
-          "link": "https://www.groundup.org.za/article/soup-kitchen-closed-july-unrest/",
-          "publishedOn": "2021-08-02T07:51:00.000Z",
-          "wordCount": 928,
-          "title": "Children go hungry after soup kitchen closed by July unrest",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nompendulo%20Ngubane/proudly_able_extra_large.jpeg"
           }
         }
       ]
@@ -223,12 +223,165 @@
       "siteUrl": "https://lifehacker.com",
       "articles": [
         {
+          "id": "1847431876",
+          "author": "Brendan Hesse",
+          "description": "In the last few years, VPNs have gone from a niche data security tool to an everyday product you’ll see advertised on any vaguely tech-adjacent YouTube channel or podcast. But while there are many viable VPNs available commercially, their feature sets differ, and some are better suited for certain online activities…\nRead more...",
+          "link": "https://lifehacker.com/do-you-need-a-vpn-kill-switch-1847431876",
+          "publishedOn": "2021-08-05T21:00:00.000Z",
+          "wordCount": 516,
+          "title": "Do You Need a VPN Kill Switch?"
+        },
+        {
+          "id": "1847430661",
+          "author": "Emily Long",
+          "description": "We’ve all had those horrifying moments (maybe some of us more often than others) when we realize we just sent an important email with an embarrassing typo, or perhaps lacking a promised attachment. If you have quick reflexes—and use Gmail—you may be able to unsend these messages in time to avoid embarrassment. \nRead more...",
+          "link": "https://lifehacker.com/extend-your-undo-send-window-in-gmail-we-beg-of-you-1847430661",
+          "publishedOn": "2021-08-05T20:30:00.000Z",
+          "wordCount": 490,
+          "title": "Extend Your 'Undo Send' Window in Gmail, We Beg of You"
+        },
+        {
+          "id": "1847428332",
+          "author": "Pranay Parab",
+          "description": "Apple Music supports spatial audio using the Dolby Atmos technology, which means that you can listen to some of your favorite songs with a cool surround sound-like effect. We’re going to show you how to enable spatial audio in Apple Music so you can make the most of this cool feature.\nRead more...",
+          "link": "https://lifehacker.com/how-to-enable-spatial-audio-in-apple-music-1847428332",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 798,
+          "title": "How to Enable Spatial Audio in Apple Music"
+        },
+        {
+          "id": "1847426574",
+          "author": "Sara Murphy",
+          "description": "Every two or three years, I have a colonoscopy to screen for colorectal cancer. That’s a far more stringent schedule than the current guidelines outlined by the U.S. Preventive Services Task Force, which advises adults ages 45 and older to get non-invasive stool sample tests every 1-3 years and a screening colonoscopy…\nRead more...",
+          "link": "https://lifehacker.com/why-you-should-learn-your-family-medical-history-and-h-1847426574",
+          "publishedOn": "2021-08-05T19:30:00.000Z",
+          "wordCount": 2186,
+          "title": "Why You Should Learn Your Family Medical History (and How to Find It)"
+        },
+        {
+          "id": "1847430350",
+          "author": "Brendan Hesse",
+          "description": "If you’ve ever wanted to go to Burning Man, this year’s festival may be your best chance, as this year’s Burning Man will be (mostly) a virtual experience due to the ongoing COVID-19 pandemic.\n\nRead more...",
+          "link": "https://lifehacker.com/witness-burning-mans-drug-induced-debauchery-in-vr-this-1847430350",
+          "publishedOn": "2021-08-05T19:15:00.000Z",
+          "wordCount": 496,
+          "title": "Witness Burning Man's Drug-Induced Debauchery in VR This Year Because Whatever, I'm High"
+        },
+        {
+          "id": "1847430432",
+          "author": "Mike Winters",
+          "description": "This week, the U.S. Small Business Association launched a portal designed to speed up loan forgiveness for small business owners who have borrowed $150,000 or less from the Paycheck Protection Program (PPP) during the pandemic. If you’re a business owner who spent 60% of your loan on payroll, you likely qualify.…\nRead more...",
+          "link": "https://lifehacker.com/get-your-ppp-loan-forgiven-faster-using-this-new-portal-1847430432",
+          "publishedOn": "2021-08-05T19:00:00.000Z",
+          "wordCount": 461,
+          "title": "Get Your PPP Loan Forgiven Faster Using This New Portal"
+        },
+        {
+          "id": "1847428716",
+          "author": "Jake Peterson",
+          "description": "You press a key on your MacBook and nothing happens. You press another key and it enters that letter twice. A third key feel like it’s sticking. You’re not alone, as this is a common problem with a particular kind of Apple keyboard. If you have friends who bought a MacBook Air or MacBook Pro in the past year or two,…\nRead more...",
+          "link": "https://lifehacker.com/how-to-fix-sticky-keys-and-double-presses-on-your-macbo-1847428716",
+          "publishedOn": "2021-08-05T18:30:00.000Z",
+          "wordCount": 1262,
+          "title": "How to Fix Sticky Keys and Double Presses on Your MacBook Keyboard"
+        },
+        {
+          "id": "1847428454",
+          "author": "Sam Blum",
+          "description": "If there’s one thing most people take for granted, it’s the language they grew up speaking. The words we use and their respective meanings are the product of centuries of linguistic evolution that we rarely consider. Today,  much of our social interaction is characterized by turns of phrase that would seem completely…\nRead more...",
+          "link": "https://lifehacker.com/10-common-english-idioms-and-their-weird-historical-ori-1847428454",
+          "publishedOn": "2021-08-05T18:15:00.000Z",
+          "wordCount": 1504,
+          "title": "10 Common English Idioms and Their Weird Historical Origins"
+        },
+        {
+          "id": "1847428784",
+          "author": "Rachel Fairbank",
+          "description": "If you, like me, somehow always seem to have a stash of sweetened condensed milk in the back of cupboard, it might be time to finally use it up. I’ve always kept at least a couple cans on hand, just in case of emergency, which in the past 18 months has expanded to a good half-dozen, thanks to the milk shortages last…\nRead more...",
+          "link": "https://lifehacker.com/7-delicious-ways-to-use-that-old-can-of-sweetened-conde-1847428784",
+          "publishedOn": "2021-08-05T18:00:00.000Z",
+          "wordCount": 1606,
+          "title": "7 Delicious Ways to Use That Old Can of Sweetened Condensed Milk"
+        },
+        {
+          "id": "1847415678",
+          "author": "Ross Johnson",
+          "description": "We have a love/hate relationship with monarchy. In practice, sure, autocratic rule is generally a  bad thing (not that democracy is inherently a cakewalk, but at least it leaves us with no one else to blame), while modern, watered-down versions of royalty can  feel a bit pointless—like it’s all just for show. But…\nRead more...",
+          "link": "https://lifehacker.com/22-regal-films-about-18-of-your-favorite-british-monarc-1847415678",
+          "publishedOn": "2021-08-05T17:30:00.000Z",
+          "wordCount": 3243,
+          "title": "22 of the Best Movies About Murderous Coloniz—I Mean British Royalty"
+        },
+        {
+          "id": "1847429295",
+          "author": "A.A. Newton",
+          "description": "The pandemic is far from over, but with vaccination rates steadily climbing, in-person social events are on the menu for the first time in what feels like 600 years. It’s hard to know how to feel about that: On the one hand, Zoom is bad and parties rule. On the other, nonstop social engagements are a great way to burn…\nRead more...",
+          "link": "https://lifehacker.com/how-to-rebuild-your-social-calendar-without-going-over-1847429295",
+          "publishedOn": "2021-08-05T17:00:00.000Z",
+          "wordCount": 1100,
+          "title": "How to Rebuild Your Social Calendar (Without Going Overboard)"
+        },
+        {
+          "id": "1847427405",
+          "author": "Khamosh Pathak",
+          "description": "Not all photos or videos need to (or should) last forever in your camera roll. If you want to send photos that will be opened once and then disappear forever, you can now use WhatsApp to do it (like you already could on Snapchat and Instagram).\n\nRead more...",
+          "link": "https://lifehacker.com/how-to-send-disappearing-photos-and-videos-in-whatsapp-1847427405",
+          "publishedOn": "2021-08-05T16:30:00.000Z",
+          "wordCount": 396,
+          "title": "How to Send Disappearing Photos and Videos in WhatsApp"
+        },
+        {
+          "id": "1847424956",
+          "author": "Jake Peterson",
+          "description": "You need to borrow your partner’s car for a drive. Lucky for you, they have an AirTag on their car keys, so you don’t need to worry about losing them. Instead, you can worry about your iPhone going nuts, warning you that a strange AirTag is in your vicinity. Sure, you can dismiss the popup that appears on your phone…\nRead more...",
+          "link": "https://lifehacker.com/how-to-turn-off-airtag-alerts-when-someone-borrows-your-1847424956",
+          "publishedOn": "2021-08-05T15:30:00.000Z",
+          "wordCount": 432,
+          "title": "How to Turn Off AirTag Alerts When Someone Borrows Your Stuff"
+        },
+        {
+          "id": "1847425110",
+          "author": "Brendan Hesse",
+          "description": "After months of waiting, Sony has finally unlocked the ability to upgrade the PlayStation 5’s internal storage—and people are understandably a little lost.\n\nRead more...",
+          "link": "https://lifehacker.com/here-are-the-best-m-2-ssd-drives-for-ps5-if-youre-unde-1847425110",
+          "publishedOn": "2021-08-05T15:00:00.000Z",
+          "wordCount": 1586,
+          "title": "Here Are the Best M.2 SSD Drives for PS5, If You're Understandably Confused"
+        },
+        {
+          "id": "1847423915",
+          "author": "Sam Blum",
+          "description": "You do not want to sleep in an airport, but there may come a time in your life when an airport unexpectedly becomes home for an evening. There may be a horrendous blizzard that blocks any hope of reaching a hotel room, or your flight may get diverted in the dead of night, with all nearby vacancies already snatched up.\n\nRead more...",
+          "link": "https://lifehacker.com/how-to-sleep-in-an-airport-if-you-absolutely-must-1847423915",
+          "publishedOn": "2021-08-05T14:00:00.000Z",
+          "wordCount": 778,
+          "title": "How to Sleep in an Airport If You Absolutely Must"
+        },
+        {
+          "id": "1847424793",
+          "author": "Claire Lower",
+          "description": "I love a good popcorn hack. I have many. Sweet popcorn, savory popcorn, popcorn grits—I like it all! I even liked popcorn salad, the hyper-regional Midwest delicacy the internet was determined to hate. (I actually loved it, and so did Joel, and everyone owes Molly Yeh an apology.) But I have finally encountered a…\nRead more...",
+          "link": "https://lifehacker.com/dont-make-the-tiktok-chocolate-popcorn-1847424793",
+          "publishedOn": "2021-08-05T13:30:00.000Z",
+          "wordCount": 699,
+          "title": "Don't Make the TikTok Chocolate Popcorn"
+        },
+        {
+          "id": "1847424923",
+          "author": "Mike Winters",
+          "description": "Most consumers sign up for subscription boxes for convenience, cost savings, or the thrill of discovery, but they also underestimate the cost of their subscriptions overall, and can overpay for stuff long after the novelty fades. After all, do you really need to spend $100 on three pairs of black socks every month?…\nRead more...",
+          "link": "https://lifehacker.com/why-its-time-to-cancel-that-damn-subscription-box-1847424923",
+          "publishedOn": "2021-08-05T13:00:00.000Z",
+          "wordCount": 584,
+          "title": "Why It's Time to Cancel That Damn Subscription Box"
+        },
+        {
           "id": "1847424355",
           "author": "Aisha Jordan",
           "description": "Sure, the way your home shows on the inside is a big deal when you’re getting ready to sell—but what’s happening on the outside is important, too. Your home’s curb appeal (or lack thereof) will be among the first impressions your home makes to a potential buyer—and if you don’t want your landscaping to detract from…\nRead more...",
           "link": "https://lifehacker.com/these-plants-and-trees-can-actually-lower-your-homes-re-1847424355",
           "publishedOn": "2021-08-04T21:00:00.000Z",
-          "wordCount": 637,
+          "wordCount": 535,
           "title": "These Plants and Trees Can Actually Lower Your Home's Resale Value"
         },
         {
@@ -237,7 +390,7 @@
           "description": "Your smartphone’s operating system comes with a lot of excellent accessibility features  designed to make life better for those who have low vision, mobility issues, or hearing difficulties. If you have any of these issues, or know someone who faces them, it’s good to keep track of useful accessibility features that…\nRead more...",
           "link": "https://lifehacker.com/the-most-useful-smartphone-accessibility-features-1847421098",
           "publishedOn": "2021-08-04T20:30:00.000Z",
-          "wordCount": 1175,
+          "wordCount": 1178,
           "title": "The Most Useful Smartphone Accessibility Features"
         },
         {
@@ -246,7 +399,7 @@
           "description": "Machine learning has helped solve many of our biggest tech-related problems, and now it can help you find and create auto-generating, royalty-free music to play on your videos and livestreams so you won’t get hit with a copyright violation. \nMubert is a royalty-free music streaming service available on the web, iOS,…\nRead more...",
           "link": "https://lifehacker.com/how-to-play-music-on-your-livestream-without-getting-ba-1847423642",
           "publishedOn": "2021-08-04T20:00:00.000Z",
-          "wordCount": 735,
+          "wordCount": 738,
           "title": "How to Play Music on Your Livestream Without Getting Banned"
         },
         {
@@ -255,7 +408,7 @@
           "description": "There is a mysterious quote, the origins of which are largely unknown, but that’s often attributed to the late literary icon Kurt Vonnegut. So the largely unverified legend goes: When Vonnegut was a teenager, he realized something important. He was 15 years old and working on an archeological dig, when one the…\nRead more...",
           "link": "https://lifehacker.com/why-its-good-to-be-bad-at-things-you-enjoy-according-t-1847421639",
           "publishedOn": "2021-08-04T19:30:00.000Z",
-          "wordCount": 899,
+          "wordCount": 991,
           "title": "Why It's Good to Be Bad at Things You Enjoy, According to Kurt Vonnegut"
         },
         {
@@ -264,7 +417,7 @@
           "description": "Delta Plus, a variant of a variant, is the latest strain of the COVID-causing coronavirus to hit the news. (A previously-known variant, Lambda, is also making headlines today.) Still, so far, there’s nothing to panic more about: Delta is scary enough. \nRead more...",
           "link": "https://lifehacker.com/the-difference-between-delta-delta-plus-and-lambda-a-1847423234",
           "publishedOn": "2021-08-04T19:15:00.000Z",
-          "wordCount": 646,
+          "wordCount": 696,
           "title": "The Difference Between Delta, Delta Plus, and Lambda (and Why You Shouldn't Panic Yet)"
         },
         {
@@ -273,7 +426,7 @@
           "description": "One of the convenient new features that’s coming in iOS 15 (already available in public beta) is the ability to have Siri read out notifications from both Apple and third-party apps. Users have had the option to have Siri announce calls and texts for a while, but Announce Notifications lets you customize what…\nRead more...",
           "link": "https://lifehacker.com/how-to-turn-on-the-new-announce-notifications-on-your-i-1847422278",
           "publishedOn": "2021-08-04T19:00:00.000Z",
-          "wordCount": 384,
+          "wordCount": 386,
           "title": "How to Turn On the New 'Announce Notifications' on Your iPhone"
         },
         {
@@ -282,7 +435,7 @@
           "description": "I love my AirPods Pro. They block out intrusive sounds, they sound great, and they don’t fit in my ears. Okay, that last point is a drawback to be sure, but if you’re in the same boat, you should know it doesn’t have to be this way.\n\nRead more...",
           "link": "https://lifehacker.com/how-to-make-your-airpods-fit-better-into-your-gaping-ea-1847422203",
           "publishedOn": "2021-08-04T18:30:00.000Z",
-          "wordCount": 610,
+          "wordCount": 613,
           "title": "How to Make Your AirPods Fit Better Into Your Gaping Earholes"
         },
         {
@@ -291,161 +444,8 @@
           "description": "The cost of back-to-school shopping is going up by roughly 8% this year, but you could offset that cost by purchasing school supplies during “sales tax holidays” in the next few days. Seventeen states are temporarily exempting school supplies from sales tax this year, for savings worth up to 10% on purchases. Here’s…\nRead more...",
           "link": "https://lifehacker.com/how-to-buy-school-supplies-without-paying-sales-tax-1847422526",
           "publishedOn": "2021-08-04T18:00:00.000Z",
-          "wordCount": 426,
+          "wordCount": 519,
           "title": "How to Buy School Supplies Without Paying Sales Tax"
-        },
-        {
-          "id": "1847421932",
-          "author": "Aisha Jordan",
-          "description": "Moving with a plant is delicate business. They could be jostled too much and their leaves risk breakage—they could even be knocked over entirely. And after all that, they’ve got to acclimate to a new environment. You want them to come with you to your new digs, of course; but you don’t want to damage their health in…\nRead more...",
-          "link": "https://lifehacker.com/how-to-move-plants-to-your-new-home-without-killing-the-1847421932",
-          "publishedOn": "2021-08-04T17:45:00.000Z",
-          "wordCount": 731,
-          "title": "How to Move Plants to Your New Home Without Killing Them"
-        },
-        {
-          "id": "1847422353",
-          "author": "Claire Lower",
-          "description": "A few weeks ago, my boyfriend stole a bite of my ice cream and screamed. “Did you put salt on this?” he asked, visibly upset. I nodded. “Maldon is sprinkles,” I said, my voice devoid of empathy or sympathy. That’ll teach him to steal my treats! (It didn’t.)\nRead more...",
-          "link": "https://lifehacker.com/put-oil-and-vinegar-on-your-ice-cream-just-do-it-1847422353",
-          "publishedOn": "2021-08-04T17:30:00.000Z",
-          "wordCount": 674,
-          "title": "Put Oil and Vinegar on Your Ice Cream. Just Do It"
-        },
-        {
-          "id": "1847421360",
-          "author": "A.A. Newton",
-          "description": "If Chipotle burritos have a flaw, it’s their sheer size. One burrito is way too big for a single meal but not always enough for a second, depending on your appetite and interest in cold leftovers. There’s an easy solution: Order a bowl instead, with an extra tortilla or two on the side. \nRead more...",
-          "link": "https://lifehacker.com/why-only-a-sucker-orders-a-burrito-instead-of-a-bowl-1847421360",
-          "publishedOn": "2021-08-04T17:00:00.000Z",
-          "wordCount": 400,
-          "title": "Why Only a Sucker Orders a Burrito Instead of a Bowl"
-        },
-        {
-          "id": "1847420584",
-          "author": "Khamosh Pathak",
-          "description": "After Office and Xbox, Microsoft went ahead and put Windows in the cloud. With the Windows 365 service, businesses will be able to stream Windows devices directly from Microsoft’s servers—like Netflix, but for your work computer.\n\nRead more...",
-          "link": "https://lifehacker.com/windows-365-doesnt-make-much-sense-1847420584",
-          "publishedOn": "2021-08-04T16:30:00.000Z",
-          "wordCount": 867,
-          "title": "Windows 365 Doesn't Make Much Sense"
-        },
-        {
-          "id": "1847419032",
-          "author": "Patrick Hayes",
-          "description": "Whether it is sustainable or not, the housing market in the United States has been undeniably hot for much of 2021. In some of the most desirable markets, homes are only listed for a few days before multiple offers roll in.  However, even in a seller’s market, cutting corners when it comes to staging can have an…\nRead more...",
-          "link": "https://lifehacker.com/how-to-stage-your-home-to-sell-when-your-kids-have-too-1847419032",
-          "publishedOn": "2021-08-04T16:00:00.000Z",
-          "wordCount": 1176,
-          "title": "How to Stage Your Home to Sell When Your Kids Have Too Much Crap"
-        },
-        {
-          "id": "1847416555",
-          "author": "Sam Blum",
-          "description": "In New York City, if people want to participate in public life, they will soon have to supply proof of vaccination from COVID-19. The requirement is part of a new policy unveiled by Mayor Bill de Blasio, who told reporters on Tuesday that the city will require at least one dose of the coronavirus vaccine for anyone…\nRead more...",
-          "link": "https://lifehacker.com/the-different-ways-to-prove-youve-been-vaccinated-whet-1847416555",
-          "publishedOn": "2021-08-04T15:30:00.000Z",
-          "wordCount": 735,
-          "title": "The Different Ways to Prove You've Been Vaccinated, Whether You Like It or Not"
-        },
-        {
-          "id": "1847417620",
-          "author": "Jake Peterson",
-          "description": "Your old iPhone is feeling its age; apps crawl to open, animations couldn’t be choppier, keyboards lag like no one’s business. Before you throw in the towel and upgrade to the latest and greatest Apple device,  consider simply upgrading the battery instead.\n\nRead more...",
-          "link": "https://lifehacker.com/how-to-tell-if-a-new-battery-will-fix-your-lagging-ipho-1847417620",
-          "publishedOn": "2021-08-04T15:00:00.000Z",
-          "wordCount": 725,
-          "title": "How to Tell If a New Battery Will Fix Your Lagging iPhone"
-        },
-        {
-          "id": "1847419618",
-          "author": "Khamosh Pathak",
-          "description": "Just because someone is getting up there in years, that doesn’t mean the should  internet-connected world need leave them behind. Yes, even the silver-haired among us deserve to make Zoom calls, message on WhatsApp, and play a game or two.\n\nRead more...",
-          "link": "https://lifehacker.com/7-of-the-best-smartphones-for-older-people-2021-1847419618",
-          "publishedOn": "2021-08-04T14:30:00.000Z",
-          "wordCount": 1204,
-          "title": "7 of the Best Smartphones for Older People (2021)"
-        },
-        {
-          "id": "1847419941",
-          "author": "Rachel Fairbank",
-          "description": "It seems whenever I mention I’m a runner, there’s a good chance someone is about to warn me that I’m going to ruin my knees. And although the belief that running will destroy your knees is a widespread one, there isn’t  much evidence to support the claim. \nRead more...",
-          "link": "https://lifehacker.com/will-running-ruin-your-knees-1847419941",
-          "publishedOn": "2021-08-04T14:00:00.000Z",
-          "wordCount": 868,
-          "title": "Will Running Ruin Your Knees?"
-        },
-        {
-          "id": "1847417507",
-          "author": "Mike Winters",
-          "description": "Due to a range of problems—weather, a labor shortage, reduced capacity—flight delays and cancelations have been an even bigger hassle than usual this summer. While you might not be able to avoid them completely, there are steps you can take to protect yourself from too much aggravation.\nRead more...",
-          "link": "https://lifehacker.com/how-to-plan-for-canceled-and-delayed-flights-before-the-1847417507",
-          "publishedOn": "2021-08-04T13:30:00.000Z",
-          "wordCount": 702,
-          "title": "How to Plan for Canceled and Delayed Flights Before They Happen"
-        },
-        {
-          "id": "1847416739",
-          "author": "Claire Lower",
-          "description": "A sliced disk of a pickle has its time and place (on a burger, for example), and a sharp spear on the side of your plate can give your lunch a delicatessen vibe, but pickle shapes do not need to be so smooth, so neat, so clean. In fact, there is a very good argument for abandoning the knife altogether: Smash your…\nRead more...",
-          "link": "https://lifehacker.com/making-smashed-pickles-is-violent-and-good-1847416739",
-          "publishedOn": "2021-08-04T13:00:00.000Z",
-          "wordCount": 442,
-          "title": "Making Smashed Pickles Is Violent and Good"
-        },
-        {
-          "id": "1847417213",
-          "author": "Beth Skwarecki",
-          "description": "You’ve probably heard that you should replace your running shoes when the cushioning wears down, which tends to be after 300 to 500 miles according to most manufacturers. But it turns out there’s another problem with old shoes, even if you haven’t been running in them.\n\nRead more...",
-          "link": "https://lifehacker.com/why-older-running-shoes-probably-wont-last-even-if-the-1847417213",
-          "publishedOn": "2021-08-03T21:00:00.000Z",
-          "wordCount": 574,
-          "title": "Why Older Running Shoes Probably Won't Last, Even If They Haven’t Been Worn"
-        },
-        {
-          "id": "1847416830",
-          "author": "Aisha Jordan",
-          "description": "When your house is a disaster, the last thing you are thinking about is cleaning your plants. But houseplants get dirty and dusty just like anything else in your home, even if cleaning them requires some specialized knowhow. Many cleaning products (and even gentle soaps) can damage a plant’s leaves and roots, so it’s…\nRead more...",
-          "link": "https://lifehacker.com/you-should-be-cleaning-your-indoor-plants-1847416830",
-          "publishedOn": "2021-08-03T20:45:00.000Z",
-          "wordCount": 534,
-          "title": "You Should Be Cleaning Your Indoor Plants"
-        },
-        {
-          "id": "1847416930",
-          "author": "Beth Skwarecki",
-          "description": "I’m a huge fan of challenging myself in the fitness realm. I did a triathlon once, even though I knew halfway through training that I never wanted to do one again. I’ve begged my coach to give me weightlifting workouts that are notoriously difficult. Heck, I started the Lifehacker Fitness Challenge, our monthly…\nRead more...",
-          "link": "https://lifehacker.com/how-to-tell-if-a-fitness-challenge-is-a-complete-waste-1847416930",
-          "publishedOn": "2021-08-03T20:30:00.000Z",
-          "wordCount": 1779,
-          "title": "How to Tell If a 'Fitness Challenge' Is a Complete Waste of Time"
-        },
-        {
-          "id": "1847414300",
-          "author": "Jake Peterson",
-          "description": "Battery health is important, right? After all, our portable devices depend on them. These days, though, it’s actually not worth stressing about their health as much as you might think. \nRead more...",
-          "link": "https://lifehacker.com/why-you-shouldnt-waste-time-or-money-worrying-about-b-1847414300",
-          "publishedOn": "2021-08-03T20:00:00.000Z",
-          "wordCount": 792,
-          "title": "Why You Shouldn't Waste Time (or Money) Worrying About 'Battery Health'"
-        },
-        {
-          "id": "1847415810",
-          "author": "A.A. Newton",
-          "description": "Getting a college education isn’t supposed to be easy, but between the student loan crisis, skyrocketing tuition and fees, the whole “unending global pandemic” thing, and truly bleak job prospects, it’s currently way harder than it needs to be. These hacks won’t pay off your student loans or write your final term…\nRead more...",
-          "link": "https://lifehacker.com/10-ways-to-make-the-most-of-your-college-experience-1847415810",
-          "publishedOn": "2021-08-03T19:45:00.000Z",
-          "wordCount": 1595,
-          "title": "10 Ways to Make the Most of Your College Experience"
-        },
-        {
-          "id": "1847414512",
-          "author": "Sam Blum",
-          "description": "Your cat is a confusing creature. It’s possible—likely even—that most of the things your cat does, aside from maybe napping and eating, perplexes you. But your feline companion needn’t be a mystery. All those head butts? There’s a reason for them. The kneading of soft surfaces? It makes sense in context. The…\nRead more...",
-          "link": "https://lifehacker.com/6-of-the-most-bizarre-cat-behaviors-and-why-they-do-th-1847414512",
-          "publishedOn": "2021-08-03T19:30:00.000Z",
-          "wordCount": 892,
-          "title": "6 of the Most Bizarre Cat Behaviors (and Why They Do Them)"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=488568",
-          "author": "Danie Conradie",
-          "description": "One of the original ideas behind the RepRap project was for the machines to create their own upgrades. That philosophy is shining brightly in [Ivan Miranda] CNC milling machine project, …read more",
-          "link": "https://hackaday.com/2021/08/04/upgrade-a-3d-printed-cnc-milling-machine-by-using-it/",
-          "publishedOn": "2021-08-04T23:00:00.000Z",
-          "wordCount": 1200,
-          "title": "Upgrade A 3D Printed CNC Milling Machine By Using It"
-        },
-        {
-          "id": "https://hackaday.com/?p=490027",
+          "id": "https://hackaday.com/?p=490256",
           "author": "Kristina Panos",
-          "description": "We all have our favorite classic LEGO bricks, and wouldn’t be surprised if one or more of the various space computers showed up on pretty much everyone’s list. [dyoramic] loves …read more",
-          "link": "https://hackaday.com/2021/08/04/working-lego-space-computers-are-a-chip-off-the-old-block/",
-          "publishedOn": "2021-08-04T20:00:22.000Z",
-          "wordCount": 1176,
-          "title": "Working LEGO Space Computers are a Chip off the Old Block"
+          "description": "Back in 2013, [Michael Stapelberg] created what is lovingly referred to as the Stapelberg controller: a replacement keyboard controller for the original Kinesis Advantage, the decades-old darling of the ergonomic …read more",
+          "link": "https://hackaday.com/2021/08/05/kinesis-teensy-qmk-advantage-over-your-keyboard/",
+          "publishedOn": "2021-08-05T23:00:54.000Z",
+          "wordCount": 1133,
+          "title": "Kinesis + Teensy = QMK Advantage Over your Keyboard"
         },
         {
-          "id": "https://hackaday.com/?p=487931",
+          "id": "https://hackaday.com/?p=489845",
+          "author": "Joshua Vasquez",
+          "description": "The working principle of digital calipers is mysterious enough that we’d never think to dismantle, much less improve them, right? Well, think again, as [Limi DIY] retrofits the processing element …read more",
+          "link": "https://hackaday.com/2021/08/05/custom-caliper-tracks-for-when-youre-going-the-distance/",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 1596,
+          "title": "Custom Caliper Tracks for When You’re Going the Distance"
+        },
+        {
+          "id": "https://hackaday.com/?p=489596",
           "author": "Danie Conradie",
-          "description": "Drones have become the standard for moving aerial camera platforms, but another option that sees use in the professional world are cable cameras. As an exercise in integrating mechanics, electronics, …read more",
-          "link": "https://hackaday.com/2021/08/04/cablecam-is-an-exercise-in-system-integration/",
-          "publishedOn": "2021-08-04T18:30:00.000Z",
-          "wordCount": 1500,
-          "title": "Cablecam Is An Exercise In System Integration"
+          "description": "Conventional airfoil wings have come out on top for getting flying machines airborne over the last century, but there were a few other interesting designs that have come and gone. …read more",
+          "link": "https://hackaday.com/2021/08/05/magnus-effect-rc-aircraft-is-a-lot-harder-than-it-looks/",
+          "publishedOn": "2021-08-05T18:30:00.000Z",
+          "wordCount": 1417,
+          "title": "Magnus-Effect RC Aircraft Is A Lot Harder Than  It Looks"
         },
         {
-          "id": "https://hackaday.com/?p=490171",
-          "author": "Jenny List",
-          "description": "It seems that the folks at Espressif are doing their best to produce chips to fit every possible niche in the microcontroller-with-radio market, because here comes news of their latest …read more",
-          "link": "https://hackaday.com/2021/08/04/new-part-day-an-esp-with-zigbee/",
-          "publishedOn": "2021-08-04T18:17:52.000Z",
-          "wordCount": 1558,
-          "title": "New Part Day: An ESP With ZigBee"
+          "id": "https://hackaday.com/?p=490239",
+          "author": "Tom Nardi",
+          "description": "To say that 2020 was a transformative year would be something of an understatement. The COVID-19 pandemic completely changed the way we worked, learned, and lived. Despite all those jokes …read more",
+          "link": "https://hackaday.com/2021/08/05/hands-on-def-con-29-badge-embraces-the-new-normal/",
+          "publishedOn": "2021-08-05T17:01:31.000Z",
+          "wordCount": 2295,
+          "title": "Hands On: DEF CON 29 Badge Embraces the New Normal"
         },
         {
-          "id": "https://hackaday.com/?p=483134",
+          "id": "https://hackaday.com/?p=490221",
+          "author": "Kristina Panos",
+          "description": "This weekend is the Vintage Computer Festival (VCF) West, which will be held in-person at the Computer History Museum in Mountain View, California. Here is the complete schedule of events. …read more",
+          "link": "https://hackaday.com/2021/08/05/vintage-computer-festival-west-is-this-weekend/",
+          "publishedOn": "2021-08-05T15:31:04.000Z",
+          "wordCount": 1252,
+          "title": "Vintage Computer Festival West is This Weekend"
+        },
+        {
+          "id": "https://hackaday.com/?p=486097",
           "author": "Al Williams",
-          "description": "I’ve noticed, lately, that slotted screw heads are all but gone on new equipment. The only thing that I find remarkable about that is that it took so long. While …read more",
-          "link": "https://hackaday.com/2021/08/04/better-mousetraps-or-screw-drives-dont-always-win/",
-          "publishedOn": "2021-08-04T17:01:27.000Z",
-          "wordCount": 5243,
-          "title": "Better Mousetraps (or Screw Drives) Don’t Always Win"
+          "description": "The life of a Linux user can be a bit difficult. Sometimes you have to — or want to — run Windows. Why Windows? Sometimes you have a work computer …read more",
+          "link": "https://hackaday.com/2021/08/05/linux-fu-the-windows-x11-connection/",
+          "publishedOn": "2021-08-05T14:00:48.000Z",
+          "wordCount": 4353,
+          "title": "Linux Fu: The Windows X11 Connection"
         },
         {
-          "id": "https://hackaday.com/?p=490167&preview=true&preview_id=490167",
+          "id": "https://hackaday.com/?p=490132",
           "author": "Mike Szczys",
-          "description": "You wake up in the morning, and check Hackaday over breakfast. Then it’s off to work or school, where you’ve already had to explain the Jolly Wrencher to your shoulder-surfing …read more",
-          "link": "https://hackaday.com/2021/08/04/were-hiring-come-join-us-5/",
-          "publishedOn": "2021-08-04T16:00:47.000Z",
-          "wordCount": 1601,
-          "title": "We’re Hiring: Come Join Us!"
-        },
-        {
-          "id": "https://hackaday.com/?p=490062",
-          "author": "Jenny List",
-          "description": "As those of us who work in electronics are grappling with a semiconductor shortage making common devices unobtainable and less common ones very expensive, it’s worth noting that there’s another …read more",
-          "link": "https://hackaday.com/2021/08/04/semiconductor-shortage-never-mind-that-theres-a-vacuum-shortage/",
-          "publishedOn": "2021-08-04T15:00:00.000Z",
-          "wordCount": 2627,
-          "title": "Semiconductor Shortage? Never Mind That, There’s A Vacuum Shortage!"
+          "description": "We spend a lot of time thinking of how to create 3D objects, but what about being able to print full color graphics on the objects we create? This isn’t …read more",
+          "link": "https://hackaday.com/2021/08/05/this-is-a-3d-ink-jet-printer/",
+          "publishedOn": "2021-08-05T11:00:00.000Z",
+          "wordCount": 1727,
+          "title": "This is a 3D Ink Jet Printer"
         }
       ]
     },
@@ -524,6 +524,15 @@
       "feedUrl": "https://makezine.com/rss",
       "siteUrl": "https://makezine.com",
       "articles": [
+        {
+          "id": "https://makezine.com/2021/08/05/unnecessary-invention-mailbox-shredder-and-a-surprise-make-cameo/",
+          "author": null,
+          "description": "This junkmail shredder that mounts adjacent to your mailbox. \nThe post Unnecessary Invention: Junk Mail Shredder (And a Surprise Make: Cameo) appeared first on Make: DIY Projects and Ideas for Makers.",
+          "link": "https://makezine.com/2021/08/05/unnecessary-invention-mailbox-shredder-and-a-surprise-make-cameo/",
+          "publishedOn": "2021-08-05T17:24:20.000Z",
+          "wordCount": 1180,
+          "title": "Unnecessary Invention: Junk Mail Shredder (And a Surprise Make: Cameo)"
+        },
         {
           "id": "https://makezine.com/2021/08/04/maker-spotlight-whitney-knitter-of-knitronics/",
           "author": null,
@@ -604,15 +613,6 @@
           "publishedOn": "2021-07-27T15:00:00.000Z",
           "wordCount": 1286,
           "title": "Tutorial: Painting The Mandalorian Armorer Helmet"
-        },
-        {
-          "id": "https://makezine.com/2021/07/26/my-15-year-quest-to-make-the-ultimate-diy-coffee-roaster/",
-          "author": null,
-          "description": "One man's 15-year quest to build — and rebuild, and rebuild — the ultimate DIY coffee roaster\nThe post My 15-Year Quest to Make the Ultimate DIY Coffee Roaster appeared first on Make: DIY Projects and Ideas for Makers.",
-          "link": "https://makezine.com/2021/07/26/my-15-year-quest-to-make-the-ultimate-diy-coffee-roaster/",
-          "publishedOn": "2021-07-26T15:00:00.000Z",
-          "wordCount": 4495,
-          "title": "My 15-Year Quest to Make the Ultimate DIY Coffee Roaster"
         }
       ]
     },
@@ -622,13 +622,31 @@
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
         {
+          "id": "https://www.theguardian.com/film/2021/aug/05/free-guy-review-ryan-reynolds-taika-waititi-jodie-comer-video-game",
+          "author": "Peter Bradshaw",
+          "description": "A non-player character evolves into a sentient AI in a cheerfully silly riff on The Truman Show, with Taika Waititi and Jodie Comer\nThe great big handsome-goofy face of Ryan Reynolds looms out of the screen in this fantasy comedy from screenwriter Matt Lieberman and director Shawn Levy (of the Night at the Museum franchise). It’s an undemanding and cheerfully silly riff on the themes of virtual reality and artificial intelligence, and what the heck we’re all doing in this big old universe of ours: as if someone took The Truman Show or Inception – or even The Lego Movie – and stripped out every serious satirical ambition, replacing it with M&M-coloured spectacle. The result is not something that’s in any way challenging, but Reynolds is so puppyishly eager to please.\nReynolds plays a normal, boring guy whose name is Guy (amusingly, it is never clear if this is his actual given name, as in Guy Crouchback, or the more generic “guy”). He smiles incessantly, wears a bland, short-sleeved blue shirt and goes to work every day as a bank teller in a serenely marvellous-looking modern city, resembling Vancouver. There, he hangs out with his best friend, Buddy – again: generic or given name? – played by Lil Rel Howery, but his bank is always being hit by heists, which he greets with the same imperturbable smileyness. Gradually, Guy realises that he is an NPC, or non-player character, in a video game: a quirk or flaw in the algorithm means that he has hyperevolved into an AI state of free will and agency, able to question what is going on. This astonishes the game’s evil corporate owner Antwan (Taika Waititi), and also the designers Millie (Jodie Comer) and Keys (Joe Keery) whose concept Antwan ripped off. And Millie realises that she will have to enter the game as a player, befriend Guy and enlist his help in getting back their intellectual property – before, of course, falling in love with this clueless pixelated lunk.\n Continue reading...",
+          "link": "https://www.theguardian.com/film/2021/aug/05/free-guy-review-ryan-reynolds-taika-waititi-jodie-comer-video-game",
+          "publishedOn": "2021-08-05T16:00:07.000Z",
+          "wordCount": 764,
+          "title": "Free Guy review – Ryan Reynolds bounces through fun videogame existential crisis"
+        },
+        {
           "id": "https://www.theguardian.com/technology/2021/aug/04/uber-revenues-delivery-service-pandemic",
           "author": "Kari Paul",
-          "description": "In the ride-hailing service’s best quarterly report, it increased rides by 105% over last year as its delivery service grows\nUber is regaining much of the momentum it lost during the pandemic, announcing on Wednesday that its ride-hailing services saw a 105% increase and that revenue had more than doubled from this time last year.\nRevenue for the company’s most recent financial quarter totaled $3.93bn, beating analysts’ expectations and signaling an emergence from the dismal conditions at the same point last year when the pandemic was keeping most people at home.\n Continue reading...",
+          "description": "Revenues double as demand for rides increases, but ride-hailing company has to spend more\nHeavy spending to encourage drivers back to the road has pushed ride-hailing firm Uber into a larger-than-expected loss, despite the company than doubling its revenues as demand for its services increased.\nUber’s “take rate”, or its share of the fare, dropped in the last quarter as it faced elevated costs of getting willing drivers behind the wheel.\n Continue reading...",
           "link": "https://www.theguardian.com/technology/2021/aug/04/uber-revenues-delivery-service-pandemic",
-          "publishedOn": "2021-08-04T21:18:35.000Z",
-          "wordCount": 814,
-          "title": "Uber more than doubles revenues to nearly $4bn after a dismal pandemic year"
+          "publishedOn": "2021-08-05T10:53:20.000Z",
+          "wordCount": 879,
+          "title": "Heavy spending on driver incentives pushes Uber to bigger-than-forecast loss"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/05/move-over-space-tech-billionaires-have-a-new-utopian-boondoggle-the-metaverse",
+          "author": "Jessa Crispin",
+          "description": "Imagine a massive, invisible world that surrounds you but which you cannot see or engage unless you own the correct – expensive – technology\nLook at all of our tech billionaires trying to leave the world to evade responsibility for their malevolent influence on it. Anything to avoid being confronted by the workers they exploit or the victims of the ethnic and religious clashes facilitated by their platforms. Jeff Bezos and Richard Branson are flinging themselves into space; Elon Musk is burrowing into the earth; now Mark Zuckerberg is retreating into a virtual “metaverse”.\n Related:  Revealed: the Facebook loophole that lets world leaders deceive and harass their citizens \n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/05/move-over-space-tech-billionaires-have-a-new-utopian-boondoggle-the-metaverse",
+          "publishedOn": "2021-08-05T10:22:00.000Z",
+          "wordCount": 1187,
+          "title": "Move over, space. Tech billionaires have a new utopian boondoggle: the ‘metaverse’ | Jessa Crispin"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/aug/04/why-hacker-summer-camp-and-pandemic-precautions-dont-mix",
@@ -649,15 +667,6 @@
           "title": "Sony profits soar as it benefits from home entertainment boom"
         },
         {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/aug/04/a-moment-that-changed-me-i-realised-i-had-become-a-masochist-and-quit-twitter",
-          "author": "Laura Snapes",
-          "description": "Social media brought me better jobs, close friends and love. But I was ignoring the ways in which the constant criticism and approval were shaping my life\nIn March 2009, I type in “twitter.com” and sign up for the next 12 years of my life. I am 20, in my first year of uni. I have three friends and hate it here. But, on Twitter, I can talk to real music journalists, my longed-for future people. Two years later, I move to London to work at NME. My social awkwardness makes life in a new city feel like dredging the Thames with baggy tights. On Twitter, however, I have blossomed into a magnificent little chaos magnet. Even on sad, drunk Friday nights in, my phone-sized kingdom glitters.\nReal life improved, often thanks to Twitter. It led me to John, still my boyfriend 10 years on, and many of my closest friends. Thanks to being a woman in a male-dominated field, the odd viral review and little talent for discretion, I ended up with 60,000 followers. I didn’t take it that seriously, but acing my first popularity contest felt like winning Miss World, if she had bad posture and trigger-happy thumbs. Visibility brought better jobs and gave me a platform to retaliate against music’s many dirtbags. The mute button silenced reply guys and trolls, and I hadn’t searched my name in years, ever since John likened that always-upsetting habit to self-harm – an overstatement that nevertheless rang true.\n Continue reading...",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/aug/04/a-moment-that-changed-me-i-realised-i-had-become-a-masochist-and-quit-twitter",
-          "publishedOn": "2021-08-04T06:00:17.000Z",
-          "wordCount": 1112,
-          "title": "A moment that changed me: I realised I had become a masochist – and quit Twitter"
-        },
-        {
           "id": "https://www.theguardian.com/technology/2021/aug/04/how-to-photograph-the-full-moon-with-phone-tips-buck-thunder-take-picture-photography-smartphone-camera-dslr-iphone-best-settings-night-sky",
           "author": "Carly Earl",
           "description": "Guardian Australia picture editor Carly Earl explains the dos and don’ts of taking pictures of the moon\nWhen a full moon rises, many people will pull out their mobile phones to try and get an Instagram-worthy photograph, but unfortunately it is really challenging to get a great picture of the moon.\nTwo reasons: it is very far away and unless you have a telephoto lens (which makes the moon appear closer than it is) it will always appear as a very small glowing dot in the frame.\n Continue reading...",
@@ -676,15 +685,6 @@
           "title": "Let us regulate ‘wild west’ of cryptocurrency, SEC chair urges"
         },
         {
-          "id": "https://www.theguardian.com/books/2021/aug/03/twitter-admits-it-verified-fake-account-of-author-cormac-mccarthy",
-          "author": "Alex Hern",
-          "description": "Reclusive US novelist’s agent confirms he did not share his opinions about kombucha and SoundCloud\nCormac McCarthy is known for his sparse punctuation and distinctive writing style, the violent and pessimistic themes of his work, and his reclusive public persona. So it was surprising to see the novelist on Twitter, sharing bons mots about kombucha and SoundCloud for an audience of thousands.\nBut it was the real Cormac McCarthy – at least, according to Twitter, which gave the account, registered in 2018 under the misspelled name “CormacMcCrthy”, a blue tick marking it as a “verified user”.\n Continue reading...",
-          "link": "https://www.theguardian.com/books/2021/aug/03/twitter-admits-it-verified-fake-account-of-author-cormac-mccarthy",
-          "publishedOn": "2021-08-03T14:34:11.000Z",
-          "wordCount": 664,
-          "title": "Twitter admits it verified fake account of author Cormac McCarthy"
-        },
-        {
           "id": "https://www.theguardian.com/games/2021/aug/03/the-ascent-review-neon-digital",
           "author": "Tom Regan",
           "description": "PC, Xbox One, Xbox Series S|X; Neon Giant/Curve Digital\nThis high-octane, low-intelligence arcade sci-fi shooter is set in a neon-lit city whose upper levels house the wealthy while the impoverished live in sewers \nWhen I was a kid, nothing beat our family’s weekly pilgrimage to the local video store Vidbiz. While my parents pondered which thriller to digest with their takeaway, I’d gawp at the colourful PlayStation games on the corner shelf. Game rentals let me embark on interactive adventures I could otherwise never have afforded – while consuming an entire share-size pack of Sour Skittles in the process. Xbox’s Game Pass subscription gives me a similar buzz, offering a library of games to choose from and giving players the chance to try out odd or middling games that they’d never actually buy.\nSci-fi shooter The Ascent is a good example, the equivalent of a high-octane but intellectually bereft action flick. It is flawed but fun and atmospheric, set in a predictably bleak urban dystopia full of indentured workers, shady mega-corporations and augmented outlaws. Developer Neon Giant has dressed up The Ascent’s loot-driven blasting as an anti-capitalist critique: the class divide is built into planet Veles’s sleazy cyberpunk architecture. Its most impoverished inhabitants are banished to the sewers while wealthy citizens dwell in the districts above. As you climb your way up this tower-like metropolis, your grizzled mercenary fights tooth and nail to slowly – and literally – ascend to the upper echelons of society.\n Continue reading...",
@@ -692,6 +692,15 @@
           "publishedOn": "2021-08-03T12:00:04.000Z",
           "wordCount": 813,
           "title": "The Ascent review – a frenetic murderfest in a dystopian future"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/03/why-the-internet-in-cuba-has-become-a-us-political-hot-potato",
+          "author": "Ed Augustin and Daniel Montero in Havana",
+          "description": "After Havana shut down online access for 72 hours, the battle is on to keep the country connected\nCubans used to joke about Napoleon Bonaparte chatting to Mikhail Gorbachev, George W Bush and Fidel Castro in the afterlife. “If I’d have had your prudence, I’d never have fought Waterloo,” the French emperor tells the last Soviet leader. “If I’d have had your military might, I’d have won Waterloo,” he tells the Texan. Turning last to Castro, the emperor says: “If I’d have had Granma [the Cuban Communist party daily], I’d have lost Waterloo but nobody would have known.”\nThe joke no longer does the rounds. With millions of Cubans now online, the state’s monopoly on mass communication has been deeply eroded. But after social media helped catalyse historic protests on the island last month, the government temporarily shut the internet down.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/03/why-the-internet-in-cuba-has-become-a-us-political-hot-potato",
+          "publishedOn": "2021-08-03T10:00:02.000Z",
+          "wordCount": 1006,
+          "title": "Why the internet in Cuba has become a US political hot potato"
         },
         {
           "id": "https://www.theguardian.com/money/2021/aug/03/bt-leave-broadband-penalty",
@@ -962,15 +971,6 @@
           "publishedOn": "2021-07-12T10:16:11.000Z",
           "wordCount": 1123,
           "title": "What happens at Sun Valley, the secret gathering of unelected billionaire kings? | Hamilton Nolan"
-        },
-        {
-          "id": "https://www.theguardian.com/film/2021/jul/06/the-story-of-film-a-new-generation-review-invigorating-study-of-21st-century-cinema",
-          "author": "Peter Bradshaw",
-          "description": "Critic and film-maker Mark Cousins offers a new instalment in his monumental Story of Film series, examining what digital technology has brought to the table\nCritic and documentary film-maker Mark Cousins has returned to Cannes with another episode of his amazingly ambitious cinephile history The Story of Film, an illuminated patchwork clip-quilt, accompanied by his inimitable incantation-voiceover. It’s another example of his unique approach: Cousins is subjective almost to the point of free-associating or even sleep-talking (maybe appropriate for the dream state of the movies) but also colossally well-informed, bracingly internationalist and genuinely educational. I have never yet watched a Cousins film without learning something and being a bit sheepish about what I didn’t know.\nThat said, Cousins’s style takes some getting used to – almost like a hyper-innocent form of criticism, wide-eyed with wonder at cinema’s brave new world, a Miranda of the movies. Occasionally Cousins’s commentary verges on the superfluous, simply describing what is on screen, although there is almost always a shrewd insight there: he has a great section on a creepy travelling shot in David Robert Mitchell’s psychological horror It Follows.\n Continue reading...",
-          "link": "https://www.theguardian.com/film/2021/jul/06/the-story-of-film-a-new-generation-review-invigorating-study-of-21st-century-cinema",
-          "publishedOn": "2021-07-06T19:27:40.000Z",
-          "wordCount": 793,
-          "title": "The Story of Film: A New Generation review – invigorating study of 21st century cinema"
         }
       ]
     },
@@ -1029,15 +1029,6 @@
           "publishedOn": "2021-07-08T15:11:33.000Z",
           "wordCount": 2307,
           "title": "Female -vs- Male Squash Flowers: How To Tell The Difference"
-        },
-        {
-          "id": "https://getbusygardening.com/?p=34564",
-          "author": "Amy Andrychowicz",
-          "description": "Pollinating squash by hand is easy, will ensure higher yields, and doesn’t take much time. In this post, I will explain why your baby squash keep falling off, and discuss the processes of hand pollinating the flowers step-by-step. One of the biggest struggles that newbies face when growing vegetables for the first time is havingContinue Reading\nThe post How To Pollinate Squash By Hand For Maximum Production appeared first on Get Busy Gardening.",
-          "link": "https://getbusygardening.com/pollinating-squash/",
-          "publishedOn": "2021-07-06T16:27:55.000Z",
-          "wordCount": 3017,
-          "title": "How To Pollinate Squash By Hand For Maximum Production"
         }
       ]
     }
