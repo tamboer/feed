@@ -6,13 +6,27 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/court-hears-limpopo-education-department-breach-order-get-rid-school-pit-latrines/",
+          "author": null,
+          "description": "State’s plan is unconstitutional as pit toilets will only become a thing of the past in 2030, argues SECTION27",
+          "link": "https://www.groundup.org.za/article/court-hears-limpopo-education-department-breach-order-get-rid-school-pit-latrines/",
+          "publishedOn": "2021-08-07T08:36:28.000Z",
+          "wordCount": 1477,
+          "title": "Limpopo education department is in breach of order to get rid of school pit latrines, court hears",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ciaran%20Ryan/komape_court_exhibit-1_extra_large.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/home-affairs-renew-angolan-special-permit-amid-looming-deadline/",
           "author": null,
           "description": "Online application at the Visa Facilitation Services expected to start on 16 August and could take eight weeks to process",
           "link": "https://www.groundup.org.za/article/home-affairs-renew-angolan-special-permit-amid-looming-deadline/",
           "publishedOn": "2021-08-06T09:48:22.000Z",
-          "wordCount": 945,
-          "title": "Home Affairs to renew Angolan Special Permit amid looming deadline",
+          "wordCount": 983,
+          "title": "Home Affairs to renew Angolan Special Permit as deadline looms",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
@@ -25,7 +39,7 @@
           "description": "Court rules that the land occupiers must get basic services on new land",
           "link": "https://www.groundup.org.za/article/families-living-along-cape-town-railway-line-be-resettled/",
           "publishedOn": "2021-08-06T09:14:00.000Z",
-          "wordCount": 1152,
+          "wordCount": 1154,
           "title": "Families living along Cape Town railway line to be resettled",
           "enclosure": {
             "length": "26343",
@@ -53,7 +67,7 @@
           "description": "The department advised people to visit the Kariega branch or use their online services",
           "link": "https://www.groundup.org.za/article/hundreds-turned-away-gqeberha-labour-office-due-water-outages/",
           "publishedOn": "2021-08-06T08:32:03.000Z",
-          "wordCount": 1049,
+          "wordCount": 1054,
           "title": "No water means no service: Hundreds turned away at Gqeberha labour office",
           "enclosure": {
             "length": "26343",
@@ -67,7 +81,7 @@
           "description": "Labour department closed the court building after contractor failed to complete refurbishments",
           "link": "https://www.groundup.org.za/article/magistrates-court-currently-convening-car-park/",
           "publishedOn": "2021-08-06T03:00:00.000Z",
-          "wordCount": 761,
+          "wordCount": 765,
           "title": "Magistrates court currently convening in a car park",
           "enclosure": {
             "length": "26343",
@@ -81,8 +95,8 @@
           "description": "“How unfair is that? It’s a joke,” says resident",
           "link": "https://www.groundup.org.za/article/rural-kzn-residents-battle-get-water-although-they-live-near-huge-dam/",
           "publishedOn": "2021-08-06T02:00:00.000Z",
-          "wordCount": 1089,
-          "title": "Rural KZN residents battle to get water although they live near a sizeable dam",
+          "wordCount": 1094,
+          "title": "Rural families battle to get water although they live near a dam",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
@@ -95,7 +109,7 @@
           "description": "Commissioner finds workers guilty of “gross misconduct” and violating a court interdict",
           "link": "https://www.groundup.org.za/article/ccma-dismisses-33-spar-workers-gqeberha-violating-picket-rules/",
           "publishedOn": "2021-08-05T12:21:52.000Z",
-          "wordCount": 831,
+          "wordCount": 833,
           "title": "CCMA upholds dismissal of Spar workers in Gqeberha for violating picket rules",
           "enclosure": {
             "length": "26343",
@@ -109,7 +123,7 @@
           "description": "While South African families in Briardene pick up their lives, immigrants have been excluded from rebuilding efforts",
           "link": "https://www.groundup.org.za/article/immigrant-fire-victims-denied-building-materials-and-land-durban/",
           "publishedOn": "2021-08-05T09:39:52.000Z",
-          "wordCount": 1336,
+          "wordCount": 1335,
           "title": "Immigrant fire victims denied building materials and land in Durban",
           "enclosure": {
             "length": "26343",
@@ -123,7 +137,7 @@
           "description": "“I was relaxing on my couch when they arrived with their crowbars. They just tore apart my shack” says Gqeberha mother of four",
           "link": "https://www.groundup.org.za/article/community-torch-municipal-office-injure-pr-councillor-after-shacks-demolished/",
           "publishedOn": "2021-08-05T09:18:25.000Z",
-          "wordCount": 1054,
+          "wordCount": 1046,
           "title": "Community torch municipal office after shacks demolished",
           "enclosure": {
             "length": "26343",
@@ -137,7 +151,7 @@
           "description": "“We are not anti-development” say opponents of mine and toll road",
           "link": "https://www.groundup.org.za/article/xolobeni-there-future-eco-tourism/",
           "publishedOn": "2021-08-05T09:14:13.000Z",
-          "wordCount": 1686,
+          "wordCount": 1679,
           "title": "Wild Coast: is there a future in eco-tourism?",
           "enclosure": {
             "length": "26343",
@@ -151,7 +165,7 @@
           "description": "Gugulethu ward councillor acknowledges building is falling apart but can’t help occupants because it’s privately owned",
           "link": "https://www.groundup.org.za/article/shallow-pool-faeces-and-rubble-centre-building-occupied-families/",
           "publishedOn": "2021-08-05T04:00:00.000Z",
-          "wordCount": 1070,
+          "wordCount": 1063,
           "title": "Families living in filth in abandoned building",
           "enclosure": {
             "length": "26343",
@@ -165,7 +179,7 @@
           "description": "“It was scary to see this area go from busy to what felt like a ghost town overnight”",
           "link": "https://www.groundup.org.za/article/volunteers-revamping-markets-looted-soweto/",
           "publishedOn": "2021-08-05T04:00:00.000Z",
-          "wordCount": 1343,
+          "wordCount": 1350,
           "title": "Volunteers are fixing looted Soweto markets",
           "enclosure": {
             "length": "26343",
@@ -179,7 +193,7 @@
           "description": "Education department says this worsened its backlog on repairing over a thousand schools vandalised during lockdown",
           "link": "https://www.groundup.org.za/article/unrest-july-2021-more-r100-million-damages-schools-kzn-and-gauteng/",
           "publishedOn": "2021-08-04T09:48:32.000Z",
-          "wordCount": 1184,
+          "wordCount": 1193,
           "title": "July riots caused more than R100 million in damage to schools in KZN and Gauteng",
           "enclosure": {
             "length": "26343",
@@ -200,20 +214,6 @@
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/lv-judge-male-web_extra_large.jpg"
           }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/plettenberg-bay-protesters-close-n2/",
-          "author": null,
-          "description": "Kurland residents want electricity problem fixed",
-          "link": "https://www.groundup.org.za/article/plettenberg-bay-protesters-close-n2/",
-          "publishedOn": "2021-08-04T09:02:28.000Z",
-          "wordCount": 862,
-          "title": "Plettenberg Bay protesters close N2",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/siphokazi_mnyobe/kurlandfire-siphokazi_mnyobe-_20210804_extra_large.jpg"
-          }
         }
       ]
     },
@@ -222,6 +222,24 @@
       "feedUrl": "https://lifehacker.com/rss",
       "siteUrl": "https://lifehacker.com",
       "articles": [
+        {
+          "id": "1847439584",
+          "author": "Elizabeth Yuko",
+          "description": "Along with strawberries, watermelon, and peaches, blueberries are one of the signature fruit flavors of the summer. And if you find yourself going through container after container of them each year, you may have wondered about the possibility of growing your own. (That is, if you don’t currently live on a farm or…\nRead more...",
+          "link": "https://lifehacker.com/how-to-grow-a-blueberry-bush-in-your-home-1847439584",
+          "publishedOn": "2021-08-07T15:00:00.000Z",
+          "wordCount": 499,
+          "title": "How to Grow a Blueberry Bush in Your Home"
+        },
+        {
+          "id": "1847439621",
+          "author": "Elizabeth Yuko",
+          "description": "The heat and humidity of August doesn’t only make the outdoors unpleasant—it can make the insides of our homes sticky and uncomfortable, too.  If you deal with dampness either year-round or seasonally, you may use a dehumidifier to help control the indoor climate. That’s a smart move, but it’s also important to keep…\nRead more...",
+          "link": "https://lifehacker.com/how-to-tell-if-your-dehumidifier-is-one-of-two-million-1847439621",
+          "publishedOn": "2021-08-07T13:00:00.000Z",
+          "wordCount": 461,
+          "title": "How to Tell If Your Dehumidifier Is One of Two Million Recalled (and When to Replace Yours Anyway)"
+        },
         {
           "id": "1847434524",
           "author": "Lindsey Ellefson",
@@ -282,7 +300,7 @@
           "description": "Going into business with a family member might seem like a great idea on the surface. After all, blood is thicker than water, and all that. But no matter how great your familial relationship is right now, you’re much more likely to fight with a family member than a traditional business partner—and the ripple effects…\nRead more...",
           "link": "https://lifehacker.com/how-to-go-into-business-with-a-relative-without-destroy-1847434495",
           "publishedOn": "2021-08-06T18:00:00.000Z",
-          "wordCount": 1134,
+          "wordCount": 1135,
           "title": "How to Go Into Business With a Relative Without Destroying Your Family"
         },
         {
@@ -291,7 +309,7 @@
           "description": "If you’re fortunate enough to live somewhere with a nice lawn, landscaping, or garden, you likely have your own approach to maintaining them—and for some, that includes using pesticides. And if you and your neighbors don’t agree on spraying, it could cause some tension. But given that a pro-pesticide person is…\nRead more...",
           "link": "https://lifehacker.com/yes-you-need-to-talk-to-your-neighbors-if-you-insist-o-1847435793",
           "publishedOn": "2021-08-06T17:45:00.000Z",
-          "wordCount": 740,
+          "wordCount": 843,
           "title": "Yes, You Need to Talk to Your Neighbors If You Insist on Using Pesticides"
         },
         {
@@ -428,24 +446,6 @@
           "publishedOn": "2021-08-05T20:00:00.000Z",
           "wordCount": 801,
           "title": "How to Enable Spatial Audio in Apple Music"
-        },
-        {
-          "id": "1847426574",
-          "author": "Sara Murphy",
-          "description": "Every two or three years, I have a colonoscopy to screen for colorectal cancer. That’s a far more stringent schedule than the current guidelines outlined by the U.S. Preventive Services Task Force, which advises adults ages 45 and older to get non-invasive stool sample tests every 1-3 years and a screening colonoscopy…\nRead more...",
-          "link": "https://lifehacker.com/why-you-should-learn-your-family-medical-history-and-h-1847426574",
-          "publishedOn": "2021-08-05T19:30:00.000Z",
-          "wordCount": 2297,
-          "title": "Why You Should Learn Your Family Medical History (and How to Find It)"
-        },
-        {
-          "id": "1847430350",
-          "author": "Brendan Hesse",
-          "description": "If you’ve ever wanted to go to Burning Man, this year’s festival may be your best chance, as this year’s Burning Man will be (mostly) a virtual experience due to the ongoing COVID-19 pandemic.\n\nRead more...",
-          "link": "https://lifehacker.com/witness-burning-mans-drug-induced-debauchery-in-vr-this-1847430350",
-          "publishedOn": "2021-08-05T19:15:00.000Z",
-          "wordCount": 499,
-          "title": "Witness Burning Man's Drug-Induced Debauchery in VR This Year Because Whatever, I'm High"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=490571",
-          "author": "Al Williams",
-          "description": "Sure, we see quite a few plotters and other motion machines, but the one from [DAZ Projects] has the virtual of looking dead simple. The Arduino and CNC shield are …read more",
-          "link": "https://hackaday.com/2021/08/06/pen-plotter-is-about-as-simple-as-it-can-get/",
-          "publishedOn": "2021-08-06T23:00:50.000Z",
-          "wordCount": 1154,
-          "title": "Pen Plotter is About as Simple as It Can Get"
+          "id": "https://hackaday.com/?p=490522",
+          "author": "Matthew Carlson",
+          "description": "A 3D printer is a wonderful invention, but it needs maintenance like every machine that runs for long hours. [Rob Ward] had a well-used Robox 3D printer that was in …read more",
+          "link": "https://hackaday.com/2021/08/07/ramps-rebuild-keeps-robox-3d-printer-out-of-junk-bin/",
+          "publishedOn": "2021-08-07T23:00:05.000Z",
+          "wordCount": 1267,
+          "title": "RAMPS Rebuild Keeps Robox 3D Printer Out of Junk Bin"
         },
         {
-          "id": "https://hackaday.com/?p=490579",
-          "author": "Lewin Day",
-          "description": "Ah, the 5mm LED. Once a popular choice, they’ve been supplanted in modernity by smaller SMD components and/or more capable RGB parts in recent years. However, they’re still able to …read more",
-          "link": "https://hackaday.com/2021/08/06/cool-binary-clock-uses-old-school-leds-and-a-fancy-graphic-pcb/",
-          "publishedOn": "2021-08-06T20:00:23.000Z",
-          "wordCount": 1569,
-          "title": "Cool Binary Clock Uses Old-School LEDs and a Fancy Graphic PCB"
-        },
-        {
-          "id": "https://hackaday.com/?p=490241",
-          "author": "Jenny List",
-          "description": "The instinctive reaction when measuring nuclear radiation is to think of a Geiger counter, as the low-pressure gas tube detectors have entered our popular culture through the Cold War. A …read more",
-          "link": "https://hackaday.com/2021/08/06/a-trio-of-photodiodes-make-a-radiation-detector/",
-          "publishedOn": "2021-08-06T18:30:00.000Z",
-          "wordCount": 2007,
-          "title": "A Trio Of Photodiodes Make A Radiation Detector"
-        },
-        {
-          "id": "https://hackaday.com/?p=490419",
-          "author": "Mike Szczys",
-          "description": "The Whiskey Pirates have once again dropped an excellent electronic badge for DEF CON 29. This is, of course, unofficial, but certainly makes the list of the hottest custom bling …read more",
-          "link": "https://hackaday.com/2021/08/06/hands-on-whiskey-pirates-dc29-hardware-badge-blings-with-risc-v/",
-          "publishedOn": "2021-08-06T17:01:13.000Z",
-          "wordCount": 2412,
-          "title": "Hands-On: Whiskey Pirates DC29 Hardware Badge Blings with RISC-V"
-        },
-        {
-          "id": "https://hackaday.com/?p=490458&preview=true&preview_id=490458",
-          "author": "Mike Szczys",
-          "description": "Hackaday editors Elliot Williams and Mike Szczys get charged up on the best hacks the week had to offer. The 3D printer design gods were good to us, delivering an …read more",
-          "link": "https://hackaday.com/2021/08/06/hackaday-podcast-130-upside-down-3d-printer-biplane-quadcopter-gutting-a-calculator-watch-and-github-copilot/",
-          "publishedOn": "2021-08-06T16:01:23.000Z",
-          "wordCount": 1318,
-          "title": "Hackaday Podcast 130: Upside Down 3D-Printer, Biplane Quadcopter, Gutting a Calculator Watch, and GitHub CoPilot"
-        },
-        {
-          "id": "https://hackaday.com/?p=489997",
+          "id": "https://hackaday.com/?p=490156",
           "author": "Danie Conradie",
-          "description": "For conventional vertical takeoff and landing rotors on vertical shafts are the most common solution, as seen in helicopters and multirotors. A much less popular solution is the cyclocopter, which …read more",
-          "link": "https://hackaday.com/2021/08/06/cyclocopter-flies-with-eight-spinning-horizontal-wings/",
-          "publishedOn": "2021-08-06T15:30:00.000Z",
-          "wordCount": 1855,
-          "title": "Cyclocopter Flies With Eight Spinning Horizontal Wings"
+          "description": "Whether you know them as samara seeds, maple seeds, or helicopter seeds, most of us know the seeds that spin down to the ground on one or two blades. They …read more",
+          "link": "https://hackaday.com/2021/08/07/helicopter-seed-robot-can-also-drop-like-a-rock/",
+          "publishedOn": "2021-08-07T20:00:13.000Z",
+          "wordCount": 1749,
+          "title": "Helicopter Seed Robot Can Also Drop Like A Rock"
         },
         {
-          "id": "https://hackaday.com/?p=490187",
-          "author": "Jonathan Bennett",
-          "description": "The folks at Pen Test Partners decided to take a look at electric vehicle chargers. Many of these chargers are WiFi-connected, and let you check your vehicle’s charge state via …read more",
-          "link": "https://hackaday.com/2021/08/06/this-week-in-security-insecure-chargers-request-forgeries-and-kernel-security/",
-          "publishedOn": "2021-08-06T14:00:24.000Z",
-          "wordCount": 3024,
-          "title": "This Week in Security: Insecure Chargers, Request Forgeries, and Kernel Security"
+          "id": "https://hackaday.com/?p=489988",
+          "author": "Jenny List",
+          "description": "If you have ever read anything about the history of UNIX, you may remember that its early development was influenced by an older operating system. MULTICS was developed in the …read more",
+          "link": "https://hackaday.com/2021/08/07/multics-gets-a-new-release-52-years-after-launch/",
+          "publishedOn": "2021-08-07T17:01:56.000Z",
+          "wordCount": 2327,
+          "title": "MULTICS Gets A New Release… 52 Years After Launch"
+        },
+        {
+          "id": "https://hackaday.com/?p=490679",
+          "author": "Elliot Williams",
+          "description": "My wife was watching a crime drama, and one of the plot twists involved a witness’ hearing aid malfunctioning so that he could hear electromagnetic waves around him. It’s not …read more",
+          "link": "https://hackaday.com/2021/08/07/hearing-the-unhearable/",
+          "publishedOn": "2021-08-07T14:00:44.000Z",
+          "wordCount": 2678,
+          "title": "Hearing the Unhearable"
+        },
+        {
+          "id": "https://hackaday.com/?p=490605",
+          "author": "Joshua Vasquez",
+          "description": "When it comes to legged robots, it’s easy to think that the complexity and machining costs would keep these creatures far away from becoming anyone’s garage hobby. But, through a …read more",
+          "link": "https://hackaday.com/2021/08/07/capstan-drive-is-pulling-the-strings-on-this-dynamic-quadruped/",
+          "publishedOn": "2021-08-07T11:01:49.000Z",
+          "wordCount": 1327,
+          "title": "Capstan Drive is Pulling the Strings on this Dynamic Quadruped"
+        },
+        {
+          "id": "https://hackaday.com/?p=490518",
+          "author": "Al Williams",
+          "description": "We think of radioactive material as something buried away in bunkers with bombs, power plants, and maybe some exotic medical equipment. But turns out, there are little bits of radiation …read more",
+          "link": "https://hackaday.com/2021/08/07/everything-you-always-wanted-to-know-about-radioactive-lenses/",
+          "publishedOn": "2021-08-07T08:01:31.000Z",
+          "wordCount": 3896,
+          "title": "Everything You Always Wanted to Know about Radioactive Lenses"
+        },
+        {
+          "id": "https://hackaday.com/?p=490531",
+          "author": "Tom Nardi",
+          "description": "When we last checked in with [The Poor Student Hobbyist], he had just finished cramming a Game Boy Advance (GBA) SP motherboard into the body of the iconic Game Boy …read more",
+          "link": "https://hackaday.com/2021/08/06/game-boy-color-makes-itself-at-home-in-a-dmg-01/",
+          "publishedOn": "2021-08-07T05:00:19.000Z",
+          "wordCount": 1298,
+          "title": "Game Boy Color Makes Itself at Home in a DMG-01"
         }
       ]
     },
@@ -622,13 +622,49 @@
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
         {
-          "id": "https://www.theguardian.com/technology/2021/aug/06/secret-buyer-nabs-microsoft-grandees-superyacht-for-200m",
-          "author": "Rupert Neate Wealth correspondent",
-          "description": "For £1m a week you can rent 126-metre ship built for Paul Allen, with two helicopters, two subs and a recording studio\nA vast “explorer class” superyacht built for Microsoft co-founder Paul Allen has been sold for almost £200m, and is now available to rent for anyone with about a £1m to drop for a week.\nOctopus was the world’s largest yacht when she was built for Allen in 2003 and the 126-metre vessel marked a turning point in superyacht design, capable of being used for deep sea exploration as well as living a life of luxury on the high seas.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/aug/06/secret-buyer-nabs-microsoft-grandees-superyacht-for-200m",
-          "publishedOn": "2021-08-06T15:00:35.000Z",
-          "wordCount": 755,
-          "title": "Secret buyer nabs Microsoft grandee’s superyacht for £200m"
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/07/now-zuckerberg-wants-facebook-to-be-master-of-the-virtual-universe",
+          "author": "Alex Hern",
+          "description": "The social media magnate has evidently decided that the ‘metaverse’ is the way forward. But should we be worried?\nBrace yourselves: Mark Zuckerberg has a new pivot for Facebook. The visionary genius who brought us the pivot to video, the pivot to privacy, the pivot to trusted news and the pivot away from trusted news is now preparing for the latest turn: the pivot to the “metaverse”.\n“The metaverse is a vision that spans many companies – the whole industry,” Zuckerberg told tech news site the Verge in an interview last month. “My hope, if we do this well, I think over the next five years or so, in this next chapter of our company, I think we will effectively transition from people seeing us as primarily being a social media company to being a metaverse company.”\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/07/now-zuckerberg-wants-facebook-to-be-master-of-the-virtual-universe",
+          "publishedOn": "2021-08-07T15:00:04.000Z",
+          "wordCount": 1385,
+          "title": "Now Zuckerberg wants Facebook to be master of the virtual universe | Alex Hern"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/aug/07/week-in-patriarchy-apple-privacy",
+          "author": "Arwa Mahdawi",
+          "description": "On the surface Apple’s new features sound both sensible and commendable – but they also open a Pandora’s box of privacy and surveillance issues\nPrivacy. That’s (no longer) iPhone.\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/2021/aug/07/week-in-patriarchy-apple-privacy",
+          "publishedOn": "2021-08-07T13:00:01.000Z",
+          "wordCount": 1271,
+          "title": "Apple wants to check your phone for child abuse images – what could possibly go wrong? | Arwa Mahdawi"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2021/aug/07/password-of-three-random-words-better-than-complex-variation-experts-say",
+          "author": "Robin McKie Observer science editor",
+          "description": "UK National Cyber Security Centre recommends approach for improved combination of usability and safety\nIt is much better to concoct passwords for online accounts that are made up of three random words as opposed to creating complex variations of letters, numbers and symbols, government experts have said.\nIn a blogpost, the National Cyber Security Centre (NCSC) – which is part of Government Communications Headquarters – said a three-word system creates passwords that are easy to remember. In addition, it creates unusual combinations of letters, which means the system is strong enough to keep online accounts secure from cybercriminals. By contrast, more complex passwords can be ineffective as their makeup can often be guessed by criminals using specialist software.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/07/password-of-three-random-words-better-than-complex-variation-experts-say",
+          "publishedOn": "2021-08-07T11:29:13.000Z",
+          "wordCount": 547,
+          "title": "Password of three random words better than complex variation, experts say"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2021/aug/07/on-earth-4000-weeks-so-why-lose-time-online-distraction-oliver-burkeman",
+          "author": "Oliver Burkeman",
+          "description": "Silicon Valley makes billions by stealing your attention. No wonder it’s so hard to focus…\nOne Friday in April 2016, as that year’s polarising US presidential race intensified, and more than 30 armed conflicts raged around the globe, approximately 3 million people spent part of their day watching two reporters from BuzzFeed wrap rubber bands around a watermelon. Gradually, over the course of 43 agonising minutes, the pressure ramped up – the psychological kind and the physical force on the watermelon – until, at minute 44, the 686th rubber band was applied.\nWhat happened next won’t amaze you: the watermelon exploded, messily. The reporters high-fived, wiped the splatters from their reflective goggles, then ate some of the fruit. The broadcast ended. Earth continued its orbit around the sun.\n Continue reading...",
+          "link": "https://www.theguardian.com/books/2021/aug/07/on-earth-4000-weeks-so-why-lose-time-online-distraction-oliver-burkeman",
+          "publishedOn": "2021-08-07T08:00:02.000Z",
+          "wordCount": 3877,
+          "title": "At best, we’re on Earth for around 4,000 weeks – so why do we lose so much time to online distraction?"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/aug/07/wechats-youth-mode-is-says-lawsuit-as-china-steps-up-attack-on-tencent",
+          "author": "Reuters",
+          "description": "The messaging app does not comply with laws protecting children, say  prosecutors, in fresh crackdown on tech firms \nProsecutors in Beijing have initiated a civil lawsuit against a subsidiary of Tencent, saying the “youth mode” on the company’s popular social messaging app WeChat does not comply with laws protecting minors.\n Related: No cults, no politics, no ghouls: how China censors the video game world \n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/aug/07/wechats-youth-mode-is-says-lawsuit-as-china-steps-up-attack-on-tencent",
+          "publishedOn": "2021-08-07T03:36:32.000Z",
+          "wordCount": 466,
+          "title": "WeChat’s youth mode is illegal, says lawsuit, as China steps up attack on Tencent"
         },
         {
           "id": "https://www.theguardian.com/technology/2021/aug/06/apple-plans-to-scan-us-iphones-for-child-sexual-abuse-images",
@@ -667,31 +703,22 @@
           "title": "Free Guy review – Ryan Reynolds bounces through fun videogame existential crisis"
         },
         {
-          "id": "https://www.theguardian.com/environment/2021/aug/05/biden-electric-vehicles-goal-2030-climate-crisis",
-          "author": "Oliver Milman in New York",
-          "description": "President outlines plan to tackle the climate crisis by cutting emissions and tightening pollution standards for cars and trucks \nJoe Biden is setting a goal for half of all new US vehicle sales to be electric by 2030 while also tightening pollution standards for cars and trucks, in a barrage of action aimed at reducing the largest source of planet-heating gases in America.\n Related: Climate crisis: Scientists spot warning signs of Gulf Stream collapse \n Continue reading...",
-          "link": "https://www.theguardian.com/environment/2021/aug/05/biden-electric-vehicles-goal-2030-climate-crisis",
-          "publishedOn": "2021-08-05T14:00:30.000Z",
-          "wordCount": 1066,
-          "title": "Biden sets goal for 50% of new US vehicles to be electric by 2030"
+          "id": "https://www.theguardian.com/technology/2021/aug/04/uber-revenues-delivery-service-pandemic",
+          "author": "Kari Paul",
+          "description": "Revenues double as demand for rides increases, but ride-hailing company has to spend more\nHeavy spending to encourage drivers back to the road has pushed ride-hailing firm Uber into a larger-than-expected loss, despite the company than doubling its revenues as demand for its services increased.\nUber’s “take rate”, or its share of the fare, dropped in the last quarter as it faced elevated costs of getting willing drivers behind the wheel.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/04/uber-revenues-delivery-service-pandemic",
+          "publishedOn": "2021-08-05T10:53:20.000Z",
+          "wordCount": 879,
+          "title": "Heavy spending on driver incentives pushes Uber to bigger-than-forecast loss"
         },
         {
-          "id": "https://www.theguardian.com/commentisfree/2021/aug/05/move-over-space-tech-billionaires-have-a-new-utopian-boondoggle-the-metaverse",
-          "author": "Jessa Crispin",
-          "description": "Imagine a massive, invisible world that surrounds you but which you cannot see or engage unless you own the correct – expensive – technology\nLook at all of our tech billionaires trying to leave the world to evade responsibility for their malevolent influence on it. Anything to avoid being confronted by the workers they exploit or the victims of the ethnic and religious clashes facilitated by their platforms. Jeff Bezos and Richard Branson are flinging themselves into space; Elon Musk is burrowing into the earth; now Mark Zuckerberg is retreating into a virtual “metaverse”.\n Related:  Revealed: the Facebook loophole that lets world leaders deceive and harass their citizens \n Continue reading...",
-          "link": "https://www.theguardian.com/commentisfree/2021/aug/05/move-over-space-tech-billionaires-have-a-new-utopian-boondoggle-the-metaverse",
-          "publishedOn": "2021-08-05T10:22:00.000Z",
-          "wordCount": 1187,
-          "title": "Move over, space. Tech billionaires have a new utopian boondoggle: the ‘metaverse’ | Jessa Crispin"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/aug/04/sony-profits-soar-benefits-from-home-entertainment-boom-playstation-5",
-          "author": "Jillian Ambrose",
-          "description": "Semiconductor shortage means production volumes of PlayStation 5 fall short of demand\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nProfits at Sony Corporation have climbed by more than a quarter as demand for the PlayStation 5 games console, which boomed during the Covid-19 pandemic, continues to outpace supplies.\nThe Japanese entertainment and electronics conglomerate reported a 26% rise in operating profit in the three months to the end of June to 280.1bn yen (£1.85bn) from 221.7bn yen a year earlier.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/aug/04/sony-profits-soar-benefits-from-home-entertainment-boom-playstation-5",
-          "publishedOn": "2021-08-04T10:49:26.000Z",
-          "wordCount": 643,
-          "title": "Sony profits soar as it benefits from home entertainment boom"
+          "id": "https://www.theguardian.com/technology/2021/aug/04/why-hacker-summer-camp-and-pandemic-precautions-dont-mix",
+          "author": "Alex Hern",
+          "description": "Up for discussion in the Guardian tech newsletter: DEF CON hit by Covid concerns … Zuckerberg enters the Metaverse … and the impact of Final Fantasy VII\nIn a normal year, I would be getting on a plane today and travelling to Las Vegas for the loose conglomeration of events informally known as “Hacker Summer Camp”. Centred around DEF CON and its stuffy younger sibling Black Hat, the event sees Las Vegas taken over by hackers, information security specialists, spooks and criminals, all there to discuss the best ways to defend computers against hostile adversaries – and to break into those same computers as quickly as possible.\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/04/why-hacker-summer-camp-and-pandemic-precautions-dont-mix",
+          "publishedOn": "2021-08-04T10:56:50.000Z",
+          "wordCount": 1714,
+          "title": "TechScape: Why ‘hacker summer camp’ and pandemics don’t mix"
         },
         {
           "id": "https://www.theguardian.com/lifeandstyle/2021/aug/04/a-moment-that-changed-me-i-realised-i-had-become-a-masochist-and-quit-twitter",
@@ -710,15 +737,6 @@
           "publishedOn": "2021-08-04T02:42:29.000Z",
           "wordCount": 718,
           "title": "How to photograph the moon on your phone or camera, and the best settings to use"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/aug/03/cryptocurrency-sec-regulation",
-          "author": "Reuters",
-          "description": "Gary Gensler seeks more authority from Congress to oversee a market ‘rife with fraud, scams and abuse’\nThe chair of the US Securities and Exchange Commission (SEC) has called on Congress to give the agency more authority to police cryptocurrency trading, lending and platforms, a “wild west” he said was riddled with fraud and investor risk.\nGary Gensler said on Tuesday that the crypto market involved many tokens that may be unregistered securities and left prices open to manipulation and millions of investors vulnerable to risks.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/aug/03/cryptocurrency-sec-regulation",
-          "publishedOn": "2021-08-03T19:11:37.000Z",
-          "wordCount": 516,
-          "title": "Let us regulate ‘wild west’ of cryptocurrency, SEC chair urges"
         },
         {
           "id": "https://www.theguardian.com/games/2021/aug/03/the-ascent-review-neon-digital",
@@ -746,15 +764,6 @@
           "publishedOn": "2021-08-03T06:00:02.000Z",
           "wordCount": 477,
           "title": "BT is trying to charge me £348 to leave its broadband service"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/aug/02/amazon-warehouse-workers-union-second-vote",
-          "author": "Kari Paul and agencies",
-          "description": "National Labor Relations Board official finds company’s anti-union tactics tainted election\nAmazon warehouse workers in Alabama may get a second chance to form the company’s first union, after a US labor board official recommended a rerun of a landmark vote that failed to pass in April.\nAn official at the US National Labor Relations Board (NLRB) determined Amazon’s tactics against unionization tainted the election sufficiently to warrant a do-over. Workers had voted by a margin of 2-1 not to form a union in what was viewed as a huge blow to labor advocates seeking to organize Amazon, the second-largest employer in the country.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/aug/02/amazon-warehouse-workers-union-second-vote",
-          "publishedOn": "2021-08-03T01:37:29.000Z",
-          "wordCount": 751,
-          "title": "Amazon warehouse workers could get second vote on forming union"
         },
         {
           "id": "https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms",
@@ -791,15 +800,6 @@
           "publishedOn": "2021-07-31T15:16:24.000Z",
           "wordCount": 656,
           "title": "SolarWinds: Russian hackers broke into email accounts at US attorney offices"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/jul/31/time-to-clip-the-wings-of-nso-and-its-pegasus-spyware",
-          "author": "John Naughton",
-          "description": "Now the reach of the Israeli firm’s smartphone-hacking software has been revealed, the US and Apple may take action\n\nSee all the Guardian’s stories as part of the Pegasus project investigation\n\nWhat’s the most problematic tech company in the world? Facebook? Google? Palantir? Nope. It’s a small, privately held Israeli company called NSO that most people have never heard of. On its website, it describes itself as “a world leader in precision cyberintelligence solutions”. Its software, sold only to “licensed government intelligence and law-enforcement agencies”, naturally, helps them to “lawfully address the most dangerous issues in today’s world. NSO’s technology has helped prevent terrorism, break up criminal operations, find missing people and assist search and rescue teams.”\nSo what is this magical stuff? It’s called Pegasus and it is ultra-sophisticated spyware that covertly penetrates and compromises smartphones. It’s particularly good with Apple phones, which is significant because these devices are generally more secure than Android ones. This is positively infuriating to Apple, which views protecting its users’ privacy as one of its USPs.\n Continue reading...",
-          "link": "https://www.theguardian.com/commentisfree/2021/jul/31/time-to-clip-the-wings-of-nso-and-its-pegasus-spyware",
-          "publishedOn": "2021-07-31T15:00:32.000Z",
-          "wordCount": 1139,
-          "title": "Time to clip the wings of NSO and its Pegasus spyware | John Naughton"
         },
         {
           "id": "https://www.theguardian.com/games/2021/jul/31/ynglet-review-nicklas-nygren-amoeba",
@@ -1011,15 +1011,6 @@
           "publishedOn": "2021-07-13T18:59:00.000Z",
           "wordCount": 2669,
           "title": "How To Prune Basil The Right Way"
-        },
-        {
-          "id": "https://getbusygardening.com/?p=34781",
-          "author": "Amy Andrychowicz",
-          "description": "Squash plants have both male and female blossoms, and they each play a key role in fruit production. In this post, I’ll talk about the differences between female vs male squash flowers, and show you tons of photos to help you easily and quickly tell them apart. It’s important to be able to tell theContinue Reading\nThe post Female -vs- Male Squash Flowers: How To Tell The Difference appeared first on Get Busy Gardening.",
-          "link": "https://getbusygardening.com/male-vs-female-squash-blossoms/",
-          "publishedOn": "2021-07-08T15:11:33.000Z",
-          "wordCount": 1610,
-          "title": "Female -vs- Male Squash Flowers: How To Tell The Difference"
         }
       ]
     }
