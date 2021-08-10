@@ -6,12 +6,40 @@
       "siteUrl": "https://www.groundup.org.za/feeds/",
       "articles": [
         {
+          "id": "https://www.groundup.org.za/article/todays-heroes-the-ordinary-women-who-hold-south-africa-together/",
+          "author": null,
+          "description": "We interviewed five South African women who have overcome adversity to support their families.",
+          "link": "https://www.groundup.org.za/article/todays-heroes-the-ordinary-women-who-hold-south-africa-together/",
+          "publishedOn": "2021-08-09T05:00:00.000Z",
+          "wordCount": 1745,
+          "title": "Today’s heroes: the “ordinary” women who hold South Africa together",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Ashraf%20Hendricks/wadeatape_huge.jpg"
+          }
+        },
+        {
+          "id": "https://www.groundup.org.za/article/why-a-carceral-state-wont-solve-the-crisis-of-gender-based-violence/",
+          "author": null,
+          "description": "The certainty of arrest and prosecution, not long sentences, is what deters crime",
+          "link": "https://www.groundup.org.za/article/why-a-carceral-state-wont-solve-the-crisis-of-gender-based-violence/",
+          "publishedOn": "2021-08-09T04:45:00.000Z",
+          "wordCount": 1699,
+          "title": "Harsh prison terms won’t solve the crisis of gender-based violence",
+          "enclosure": {
+            "length": "26343",
+            "type": "image/jpeg",
+            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/the-constitution_extra_large.jpg"
+          }
+        },
+        {
           "id": "https://www.groundup.org.za/article/court-hears-limpopo-education-department-breach-order-get-rid-school-pit-latrines/",
           "author": null,
           "description": "State’s plan is unconstitutional as pit toilets will only become a thing of the past in 2030, argues SECTION27",
           "link": "https://www.groundup.org.za/article/court-hears-limpopo-education-department-breach-order-get-rid-school-pit-latrines/",
           "publishedOn": "2021-08-07T08:36:28.000Z",
-          "wordCount": 1468,
+          "wordCount": 1485,
           "title": "Limpopo education department is in breach of order to get rid of school pit latrines, court hears",
           "enclosure": {
             "length": "26343",
@@ -25,7 +53,7 @@
           "description": "Online application at the Visa Facilitation Services expected to start on 16 August and could take eight weeks to process",
           "link": "https://www.groundup.org.za/article/home-affairs-renew-angolan-special-permit-amid-looming-deadline/",
           "publishedOn": "2021-08-06T09:48:22.000Z",
-          "wordCount": 970,
+          "wordCount": 976,
           "title": "Home Affairs to renew Angolan Special Permit as deadline looms",
           "enclosure": {
             "length": "26343",
@@ -39,7 +67,7 @@
           "description": "Court rules that the land occupiers must get basic services on new land",
           "link": "https://www.groundup.org.za/article/families-living-along-cape-town-railway-line-be-resettled/",
           "publishedOn": "2021-08-06T09:14:00.000Z",
-          "wordCount": 1151,
+          "wordCount": 1158,
           "title": "Families living along Cape Town railway line to be resettled",
           "enclosure": {
             "length": "26343",
@@ -53,7 +81,7 @@
           "description": "Law enforcement and march marshals were quick to contain the situation",
           "link": "https://www.groundup.org.za/article/eff-hold-march-phoenix-over-vigilante-killings/",
           "publishedOn": "2021-08-06T08:37:00.000Z",
-          "wordCount": 1086,
+          "wordCount": 1084,
           "title": "EFF march in Phoenix: stones thrown and insults hurled at residents",
           "enclosure": {
             "length": "26343",
@@ -67,7 +95,7 @@
           "description": "The department advised people to visit the Kariega branch or use their online services",
           "link": "https://www.groundup.org.za/article/hundreds-turned-away-gqeberha-labour-office-due-water-outages/",
           "publishedOn": "2021-08-06T08:32:03.000Z",
-          "wordCount": 1044,
+          "wordCount": 1060,
           "title": "No water means no service: Hundreds turned away at Gqeberha labour office",
           "enclosure": {
             "length": "26343",
@@ -81,7 +109,7 @@
           "description": "Labour department closed the court building after contractor failed to complete refurbishments",
           "link": "https://www.groundup.org.za/article/magistrates-court-currently-convening-car-park/",
           "publishedOn": "2021-08-06T03:00:00.000Z",
-          "wordCount": 758,
+          "wordCount": 769,
           "title": "Magistrates court currently convening in a car park",
           "enclosure": {
             "length": "26343",
@@ -95,7 +123,7 @@
           "description": "“How unfair is that? It’s a joke,” says resident",
           "link": "https://www.groundup.org.za/article/rural-kzn-residents-battle-get-water-although-they-live-near-huge-dam/",
           "publishedOn": "2021-08-06T02:00:00.000Z",
-          "wordCount": 1096,
+          "wordCount": 1094,
           "title": "Rural families battle to get water although they live near a dam",
           "enclosure": {
             "length": "26343",
@@ -109,7 +137,7 @@
           "description": "Commissioner finds workers guilty of “gross misconduct” and violating a court interdict",
           "link": "https://www.groundup.org.za/article/ccma-dismisses-33-spar-workers-gqeberha-violating-picket-rules/",
           "publishedOn": "2021-08-05T12:21:52.000Z",
-          "wordCount": 821,
+          "wordCount": 829,
           "title": "CCMA upholds dismissal of Spar workers in Gqeberha for violating picket rules",
           "enclosure": {
             "length": "26343",
@@ -123,7 +151,7 @@
           "description": "While South African families in Briardene pick up their lives, immigrants have been excluded from rebuilding efforts",
           "link": "https://www.groundup.org.za/article/immigrant-fire-victims-denied-building-materials-and-land-durban/",
           "publishedOn": "2021-08-05T09:39:52.000Z",
-          "wordCount": 1333,
+          "wordCount": 1338,
           "title": "Immigrant fire victims denied building materials and land in Durban",
           "enclosure": {
             "length": "26343",
@@ -137,7 +165,7 @@
           "description": "“I was relaxing on my couch when they arrived with their crowbars. They just tore apart my shack” says Gqeberha mother of four",
           "link": "https://www.groundup.org.za/article/community-torch-municipal-office-injure-pr-councillor-after-shacks-demolished/",
           "publishedOn": "2021-08-05T09:18:25.000Z",
-          "wordCount": 1052,
+          "wordCount": 1051,
           "title": "Community torch municipal office after shacks demolished",
           "enclosure": {
             "length": "26343",
@@ -151,7 +179,7 @@
           "description": "“We are not anti-development” say opponents of mine and toll road",
           "link": "https://www.groundup.org.za/article/xolobeni-there-future-eco-tourism/",
           "publishedOn": "2021-08-05T09:14:13.000Z",
-          "wordCount": 1683,
+          "wordCount": 1679,
           "title": "Wild Coast: is there a future in eco-tourism?",
           "enclosure": {
             "length": "26343",
@@ -165,7 +193,7 @@
           "description": "Gugulethu ward councillor acknowledges building is falling apart but can’t help occupants because it’s privately owned",
           "link": "https://www.groundup.org.za/article/shallow-pool-faeces-and-rubble-centre-building-occupied-families/",
           "publishedOn": "2021-08-05T04:00:00.000Z",
-          "wordCount": 1058,
+          "wordCount": 1076,
           "title": "Families living in filth in abandoned building",
           "enclosure": {
             "length": "26343",
@@ -179,40 +207,12 @@
           "description": "“It was scary to see this area go from busy to what felt like a ghost town overnight”",
           "link": "https://www.groundup.org.za/article/volunteers-revamping-markets-looted-soweto/",
           "publishedOn": "2021-08-05T04:00:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1354,
           "title": "Volunteers are fixing looted Soweto markets",
           "enclosure": {
             "length": "26343",
             "type": "image/jpeg",
             "url": "http://www.groundup.org.za/media/_versions/images/photographers/masego_mafata/mampho_lesoana_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/unrest-july-2021-more-r100-million-damages-schools-kzn-and-gauteng/",
-          "author": null,
-          "description": "Education department says this worsened its backlog on repairing over a thousand schools vandalised during lockdown",
-          "link": "https://www.groundup.org.za/article/unrest-july-2021-more-r100-million-damages-schools-kzn-and-gauteng/",
-          "publishedOn": "2021-08-04T09:48:32.000Z",
-          "wordCount": 1198,
-          "title": "July riots caused more than R100 million in damage to schools in KZN and Gauteng",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/photographers/Nokulunga%20Majola/golden_steps_3_extra_large.jpg"
-          }
-        },
-        {
-          "id": "https://www.groundup.org.za/article/court-orders-church-pay-transgender-woman-r600000-damages/",
-          "author": null,
-          "description": "International Pentecost Holiness Church members undressed Karabo Ndlovu to conduct a gender test",
-          "link": "https://www.groundup.org.za/article/court-orders-church-pay-transgender-woman-r600000-damages/",
-          "publishedOn": "2021-08-04T09:19:35.000Z",
-          "wordCount": 1031,
-          "title": "Court orders church to pay transgender woman R600,000 in damages",
-          "enclosure": {
-            "length": "26343",
-            "type": "image/jpeg",
-            "url": "http://www.groundup.org.za/media/_versions/images/Graphics/lisa_nelson/lv-judge-male-web_extra_large.jpg"
           }
         }
       ]
@@ -223,12 +223,174 @@
       "siteUrl": "https://lifehacker.com",
       "articles": [
         {
+          "id": "1847452024",
+          "author": "Aisha Jordan",
+          "description": "There are plenty of plant care techniques that help growers yield greater gains, like wiring and “screen of green” netting that help plants grow higher and reach more sun. And of course there’s pruning, which involves cutting a plant to size to promote new, fuller growth. But a similar process is called “deadheading,”…\nRead more...",
+          "link": "https://lifehacker.com/deadhead-your-flowers-to-keep-them-blooming-all-season-1847452024",
+          "publishedOn": "2021-08-09T21:30:00.000Z",
+          "wordCount": 544,
+          "title": "'Deadhead' Your Flowers to Keep Them Blooming All Season"
+        },
+        {
+          "id": "1847451416",
+          "author": "Beth Skwarecki",
+          "description": "I used to use “ego lifting” as an insult. Some dude is loading all the plates onto a bar, and deadlifting with a rounded back? Curling and putting his hips into it? He’s obviously doing it wrong, making me the superior one, even if I can’t get even half his deadlift off the ground.\n\nRead more...",
+          "link": "https://lifehacker.com/go-ahead-do-some-ego-lifting-1847451416",
+          "publishedOn": "2021-08-09T21:00:00.000Z",
+          "wordCount": 1410,
+          "title": "Go Ahead, Do Some Ego Lifting"
+        },
+        {
+          "id": "1847449930",
+          "author": "Sam Blum",
+          "description": "Have you heard the news? Earth is fucked. And unless you’re a reckless billionaire, chances are good you will never go to space. Only a handful of humans have ventured outside Earth’s atmosphere and lived to tell about it, and none of those lucky and extremely well-prepared souls (around 574 of them) has ever come…\nRead more...",
+          "link": "https://lifehacker.com/apply-to-live-in-a-mars-simulation-because-earth-is-fuc-1847449930",
+          "publishedOn": "2021-08-09T20:30:00.000Z",
+          "wordCount": 595,
+          "title": "Apply to Live in a Mars Simulation Because Earth Is Screwed"
+        },
+        {
+          "id": "1847451857",
+          "author": "Claire Lower",
+          "description": "As a lover of the brined and the heavily salted, I appreciate the many gifts the caper bush bestows upon us. From it, we receive not only capers, but caperberries—two things that sound like they might be the same thing, but are in fact quite different.\nRead more...",
+          "link": "https://lifehacker.com/the-difference-between-capers-and-caperberries-and-whe-1847451857",
+          "publishedOn": "2021-08-09T20:00:00.000Z",
+          "wordCount": 587,
+          "title": "The Difference Between Capers and Caperberries, and When to Use Them Both"
+        },
+        {
+          "id": "1847450805",
+          "author": "Brendan Hesse",
+          "description": "If your Google Drive is constantly, inexplicably overflowing, you maybe be among those users may be losing out on their storage space due to a glut of hidden, “orphaned” files. Files become orphaned when their parent directory is deleted but the file itself is not. For example, if you upload a document to a folder in…\nRead more...",
+          "link": "https://lifehacker.com/how-to-find-the-hidden-orphaned-files-eating-your-googl-1847450805",
+          "publishedOn": "2021-08-09T19:00:00.000Z",
+          "wordCount": 444,
+          "title": "How to Find the Hidden 'Orphaned' Files Eating Your Google Drive Storage"
+        },
+        {
+          "id": "1847450208",
+          "author": "Beth Skwarecki",
+          "description": "Cold pressed juices have a healthier reputation than just throwing a few fruits and veggies in a blender. They’re expensive, they need to be eaten fresh, and juice sellers and devotees sing the praises of their supposed health benefits. But how different is a juice from a smoothie, really? \nRead more...",
+          "link": "https://lifehacker.com/are-juices-really-healthier-than-smoothies-1847450208",
+          "publishedOn": "2021-08-09T18:30:00.000Z",
+          "wordCount": 762,
+          "title": "Are Juices Really Healthier Than Smoothies?"
+        },
+        {
+          "id": "1847447798",
+          "author": "Khamosh Pathak",
+          "description": "It sucks when you end up losing your iPhone. Maybe you forgot it at the cafe, or it was stolen from the train station. Fortunately, it can be easy to track your iPhone (as long as it’s juiced up, and active). And if you already have a passcode enabled, the Find My iPhone feature is enabled automatically. Here’s how to…\nRead more...",
+          "link": "https://lifehacker.com/check-these-settings-before-you-lose-your-iphone-so-you-1847447798",
+          "publishedOn": "2021-08-09T18:00:00.000Z",
+          "wordCount": 679,
+          "title": "Check These Settings Before You Lose Your iPhone so You Can Find It Later"
+        },
+        {
+          "id": "1847435346",
+          "author": "Rachel Fairbank",
+          "description": "Recovering from trauma is hard no matter when it happens. However, if adversity happens during childhood, it can be especially hard to overcome. Unlike adults, children have very little control over their environment. If a child is living in an abusive home, their ability to remove themselves from that environment is…\nRead more...",
+          "link": "https://lifehacker.com/how-to-deal-with-your-childhood-trauma-as-an-adult-1847435346",
+          "publishedOn": "2021-08-09T17:30:00.000Z",
+          "wordCount": 1097,
+          "title": "How to Deal With Your Childhood Trauma As an Adult"
+        },
+        {
+          "id": "1847450178",
+          "author": "Claire Lower",
+          "description": "My family is big on deviled eggs, so much so that we have multiple vintage divoted  platters for serving them. The divots keep the eggs in place during transport, preventing them from sliding around the platter or onto the floor. I love mine, but I recognize that not everyone has the space for a devoted deviled egg…\nRead more...",
+          "link": "https://lifehacker.com/how-to-keep-deviled-eggs-from-sliding-around-on-the-pla-1847450178",
+          "publishedOn": "2021-08-09T17:15:00.000Z",
+          "wordCount": 482,
+          "title": "How to Keep Deviled Eggs From Sliding Around"
+        },
+        {
+          "id": "1847446196",
+          "author": "Sam Blum",
+          "description": "Many men are haunted by the societal expectations of being male. It’s the reason many guys refuse therapy, letting their emotional struggles bubble beneath the surface until they inevitably boil over, sometimes in the form of abusive behavior. The idea that men must be exemplars of bravery, strength, resolve, and must…\nRead more...",
+          "link": "https://lifehacker.com/how-the-man-box-can-help-you-understand-masculinity-a-1847446196",
+          "publishedOn": "2021-08-09T17:00:00.000Z",
+          "wordCount": 868,
+          "title": "How the ‘Man Box’ Can Help You Understand Masculinity as a Prison"
+        },
+        {
+          "id": "1847449313",
+          "author": "Aisha Jordan",
+          "description": "As summer winds down, newer gardeners might expect their garden will soon wither away—but the change in season doesn’t necessarily mean your gardening is coming to an end for the year. There are seasonal vegetables and plants that can continue throughout the fall. Here’s how to plant a fall garden, along with the best…\nRead more...",
+          "link": "https://lifehacker.com/how-to-plant-a-fall-garden-and-the-best-time-to-do-it-1847449313",
+          "publishedOn": "2021-08-09T16:30:00.000Z",
+          "wordCount": 722,
+          "title": "How to Plant a Fall Garden (and the Best Time to Do It)"
+        },
+        {
+          "id": "1847448917",
+          "author": "Jake Peterson",
+          "description": "Unlike some other messaging services, WhatsApp only lets you register one phone number per account. That means when you log into your WhatsApp account on another phone using that number, it logs you out of the app on your existing device. So if you open WhatsApp on your usual phone to find yourself logged out—even…\nRead more...",
+          "link": "https://lifehacker.com/don-t-panic-your-whatsapp-probably-wasnt-hacked-1847448917",
+          "publishedOn": "2021-08-09T16:00:00.000Z",
+          "wordCount": 392,
+          "title": "Don’t Panic, Your WhatsApp (Probably) Wasn't Hacked"
+        },
+        {
+          "id": "1847448484",
+          "author": "Pranay Parab",
+          "description": "While you’re busy checking out the best time-saving features on iPhone, don’t leave your Android phone behind. After all, productivity features have been around on Android for a lot longer and over time, it’s only added more features that make common tasks much faster. If you use an Android, here are 10 awesome…\nRead more...",
+          "link": "https://lifehacker.com/10-time-saving-features-and-settings-you-should-be-usin-1847448484",
+          "publishedOn": "2021-08-09T15:30:00.000Z",
+          "wordCount": 1301,
+          "title": "10 Time-Saving Features and Settings You Should Be Using on Your Android"
+        },
+        {
+          "id": "1847439591",
+          "author": "Emily Long",
+          "description": "Let’s start by stating the obvious: there are many, many ways to brew your morning (or afternoon, or evening) coffee. Maybe you’re already completely content with the convenience of your automatic coffeemaker, or perhaps the only piece of equipment you own is a French press. But if you’re still not settled on your…\nRead more...",
+          "link": "https://lifehacker.com/how-to-choose-the-coffee-brewing-method-thats-right-for-1847439591",
+          "publishedOn": "2021-08-09T15:00:00.000Z",
+          "wordCount": 847,
+          "title": "How to Choose the Coffee Brewing Method That's Right for You"
+        },
+        {
+          "id": "1847448019",
+          "author": "Khamosh Pathak",
+          "description": "The iPad is one of—if not the—best tablets on the market, but it’s also expensive. While the base model iPad is more budget-friendly, it’s a steep climb as you enter the iPad Air ($599) and iPad Pro ($799) territory. Not to mention that the 12.9-inch iPad Pro costs $1099.\n\nRead more...",
+          "link": "https://lifehacker.com/7-cheaper-alternatives-to-apples-ipad-accessories-1847448019",
+          "publishedOn": "2021-08-09T14:30:00.000Z",
+          "wordCount": 1022,
+          "title": "7 Cheaper Alternatives to Apple's iPad Accessories"
+        },
+        {
+          "id": "1847438528",
+          "author": "Jake Peterson",
+          "description": "There was a time long past when cellphone cameras were hot garbage. These days, however, smartphones shoot incredible video. Hollywood has even made a feature film or two on these things. But if you want to take full advantage of that great video quality on your iPhone or Android, you’ll need to make sure its actually…\nRead more...",
+          "link": "https://lifehacker.com/how-to-set-your-smartphone-to-actually-shoot-in-its-hig-1847438528",
+          "publishedOn": "2021-08-09T14:00:00.000Z",
+          "wordCount": 667,
+          "title": "How to Set Your Smartphone to Actually Shoot in Its Highest Resolution"
+        },
+        {
+          "id": "1847434468",
+          "author": "Lindsey Ellefson",
+          "description": "You don’t need a contract with a reality TV show to broadcast everything you do to an audience anymore. All you need is a streaming platform, and most people—especially those who enjoy playing video games or watching other people play them—use Twitch.\n\nRead more...",
+          "link": "https://lifehacker.com/how-to-build-a-bigger-following-on-twitch-1847434468",
+          "publishedOn": "2021-08-09T13:30:00.000Z",
+          "wordCount": 1318,
+          "title": "How to Build a Bigger Following on Twitch"
+        },
+        {
+          "id": "1847439419",
+          "author": "Lindsey Ellefson",
+          "description": "Some things (many things) are just more beautiful in real life than they are on social media. Fireworks and your new boyfriend might initially come to mind, but today, we’re talking about sunsets. No photo of a sunset ever seems to reflect how stunning the sight actually was, but that’s never stopped any of us from…\nRead more...",
+          "link": "https://lifehacker.com/how-take-glorious-sunset-photos-with-your-smartphone-b-1847439419",
+          "publishedOn": "2021-08-09T13:00:00.000Z",
+          "wordCount": 963,
+          "title": "How to Take Glorious Sunset Photos With Your Smartphone, Because Yours Suck"
+        },
+        {
           "id": "1847440517",
           "author": "Elizabeth Yuko",
           "description": "By the time August rolls around, it may seem like you’re able to switch to gardening autopilot, doing all the necessary watering, weeding, and picking without much thought. But really, there’s plenty you can (and probably should) do this month to make sure your garden is able to coast through the end of the summer and…\nRead more...",
           "link": "https://lifehacker.com/complete-these-gardening-tasks-in-august-to-get-ready-f-1847440517",
           "publishedOn": "2021-08-08T15:00:00.000Z",
-          "wordCount": 613,
+          "wordCount": 617,
           "title": "Complete These Gardening Tasks in August to Get Ready for the End of the Season"
         },
         {
@@ -237,7 +399,7 @@
           "description": "Movie posters: They don’t make ’em like they used to. Sure, smaller independent films can get away with something interesting (usually with a yellow background), but posters for major blockbusters tend to be pretty formulaic. The first few decades of cinema were, however, a different story.\nRead more...",
           "link": "https://lifehacker.com/use-this-site-to-browse-and-download-thousands-of-histo-1847440419",
           "publishedOn": "2021-08-08T13:00:00.000Z",
-          "wordCount": 535,
+          "wordCount": 513,
           "title": "Use This Site to Browse and Download Thousands of Historical Movie Posters"
         },
         {
@@ -246,7 +408,7 @@
           "description": "Along with strawberries, watermelon, and peaches, blueberries are one of the signature fruit flavors of the summer. And if you find yourself going through container after container of them each year, you may have wondered about the possibility of growing your own. (That is, if you don’t currently live on a farm or…\nRead more...",
           "link": "https://lifehacker.com/how-to-grow-a-blueberry-bush-in-your-home-1847439584",
           "publishedOn": "2021-08-07T15:00:00.000Z",
-          "wordCount": 521,
+          "wordCount": 498,
           "title": "How to Grow a Blueberry Bush in Your Home"
         },
         {
@@ -255,7 +417,7 @@
           "description": "The heat and humidity of August doesn’t only make the outdoors unpleasant—it can make the insides of our homes sticky and uncomfortable, too.  If you deal with dampness either year-round or seasonally, you may use a dehumidifier to help control the indoor climate. That’s a smart move, but it’s also important to keep…\nRead more...",
           "link": "https://lifehacker.com/how-to-tell-if-your-dehumidifier-is-one-of-two-million-1847439621",
           "publishedOn": "2021-08-07T13:00:00.000Z",
-          "wordCount": 502,
+          "wordCount": 483,
           "title": "How to Tell If Your Dehumidifier Is One of Two Million Recalled (and When to Replace Yours Anyway)"
         },
         {
@@ -264,7 +426,7 @@
           "description": "Are people constantly telling you how funny you are? Do you always have the perfect joke in any situation, but no one to tell it to? Have you always thought maybe you should try stand-up? Well, you also probably know that stand-up comedy is a notoriously hard business to break into—but it can be done. Here are a few…\nRead more...",
           "link": "https://lifehacker.com/how-to-get-into-stand-up-comedy-because-youre-a-glutton-1847434524",
           "publishedOn": "2021-08-06T20:00:00.000Z",
-          "wordCount": 851,
+          "wordCount": 828,
           "title": "How to Get Into Stand-up Comedy Because You're a Glutton for Punishment"
         },
         {
@@ -273,7 +435,7 @@
           "description": "While it’s common to incorporate rocks into landscape designs, most of the time it’s in the form of a border around plants or a tree, or creating a path through a yard or garden. But there’s another possibility: You could plan and create a full-on rock garden.\nRead more...",
           "link": "https://lifehacker.com/you-need-a-rock-garden-to-save-yourself-from-so-much-ya-1847435833",
           "publishedOn": "2021-08-06T19:45:00.000Z",
-          "wordCount": 610,
+          "wordCount": 587,
           "title": "You Need a Rock Garden to Save Yourself From so Much Yard Work"
         },
         {
@@ -282,170 +444,8 @@
           "description": "Traditional wisdom suggests it’s usually a good move to invest in real estate—but how do you that if you don’t have much money? After all, not everyone has huge stacks of cash lying around, waiting to be spent on an investment property. Fortunately, there are a few ways you can realize some upside from the hot housing…\nRead more...",
           "link": "https://lifehacker.com/how-to-invest-in-real-estate-without-a-lot-of-money-1847438904",
           "publishedOn": "2021-08-06T19:30:00.000Z",
-          "wordCount": 780,
+          "wordCount": 757,
           "title": "How to Invest in Real Estate Without a Lot of Money"
-        },
-        {
-          "id": "1847437530",
-          "author": "Sam Blum",
-          "description": "The scenes outside the Camp Nou soccer stadium in Barcelona say it all: A grown man crying into the jersey of Lionel Messi, because the once-in-a-generation superstar is leaving the club this summer after nearly 20 years due to an impasse with his contract renewal. \nRead more...",
-          "link": "https://lifehacker.com/how-to-deal-with-a-traitorous-asshole-leaving-your-team-1847437530",
-          "publishedOn": "2021-08-06T19:15:00.000Z",
-          "wordCount": 803,
-          "title": "How to Deal with a Traitorous Asshole Leaving Your Team in a Perfectly Rational Way, Screw Him He's Not That Good Anyway, I'm Not Bitter, Whatever, He's Overrated"
-        },
-        {
-          "id": "1847436152",
-          "author": "Pranay Parab",
-          "description": "Basic tasks can sometimes feel like a chore on your iPhone because it takes a lot of time for something trivial. For example, the Camera app keeps opening to the default photo mode, and you have to keep sliding over to other modes such as portrait or video. Fortunately, it’s possible to save a lot of time by speeding…\nRead more...",
-          "link": "https://lifehacker.com/10-time-saving-features-and-settings-you-should-be-usin-1847436152",
-          "publishedOn": "2021-08-06T19:00:00.000Z",
-          "wordCount": 1330,
-          "title": "10 Time-Saving Features and Settings You Should Be Using on Your iPhone"
-        },
-        {
-          "id": "1847429811",
-          "author": "Lindsey Ellefson",
-          "description": "When you wake up from a nightmare you might be a little panicked, but when you wake up from a dirty dream about someone you know in real life, you might be a lot panicked. The prospect of going to work, school, or a social function and seeing them—knowing how “they” are in bed—can feel like an awkward waking nightmare…\nRead more...",
-          "link": "https://lifehacker.com/what-to-do-after-having-a-sex-dream-about-someone-you-k-1847429811",
-          "publishedOn": "2021-08-06T18:30:00.000Z",
-          "wordCount": 1111,
-          "title": "What to Do After Having a Sex Dream About Someone You Know (Aside From That)"
-        },
-        {
-          "id": "1847434495",
-          "author": "Lindsey Ellefson",
-          "description": "Going into business with a family member might seem like a great idea on the surface. After all, blood is thicker than water, and all that. But no matter how great your familial relationship is right now, you’re much more likely to fight with a family member than a traditional business partner—and the ripple effects…\nRead more...",
-          "link": "https://lifehacker.com/how-to-go-into-business-with-a-relative-without-destroy-1847434495",
-          "publishedOn": "2021-08-06T18:00:00.000Z",
-          "wordCount": 1157,
-          "title": "How to Go Into Business With a Relative Without Destroying Your Family"
-        },
-        {
-          "id": "1847435793",
-          "author": "Elizabeth Yuko",
-          "description": "If you’re fortunate enough to live somewhere with a nice lawn, landscaping, or garden, you likely have your own approach to maintaining them—and for some, that includes using pesticides. And if you and your neighbors don’t agree on spraying, it could cause some tension. But given that a pro-pesticide person is…\nRead more...",
-          "link": "https://lifehacker.com/yes-you-need-to-talk-to-your-neighbors-if-you-insist-o-1847435793",
-          "publishedOn": "2021-08-06T17:45:00.000Z",
-          "wordCount": 865,
-          "title": "Yes, You Need to Talk to Your Neighbors If You Insist on Using Pesticides"
-        },
-        {
-          "id": "1847422976",
-          "author": "Devojka",
-          "description": "Congratulations. You’ve graduated to the phase of drinking where you can say with confidence that the Negroni is one of your favorite cocktails. The road to full appreciation of this most perfect drink was not always a straightforward one, but once you got hooked on the bitter ambrosia you couldn’t get enough! You…\nRead more...",
-          "link": "https://lifehacker.com/have-an-affair-with-gloria-1847422976",
-          "publishedOn": "2021-08-06T17:30:00.000Z",
-          "wordCount": 767,
-          "title": "Have an Affair With Gloria"
-        },
-        {
-          "id": "1847436460",
-          "author": "Jake Peterson",
-          "description": "“It’s my money, and I need it now!” You said it, JG Wentworth. The cash back you rack up when making purchases on your Apple Card is yours to do with as you like—but if you want to send it to your bank account, it’ll take one to three business days to get there. That’s far from ideal. If you need your money now,…\nRead more...",
-          "link": "https://lifehacker.com/how-to-finally-instant-transfer-your-apple-cash-to-a-vi-1847436460",
-          "publishedOn": "2021-08-06T17:00:00.000Z",
-          "wordCount": 618,
-          "title": "How to Finally 'Instant Transfer' Your Apple Cash to a Visa and MasterCard"
-        },
-        {
-          "id": "1847434454",
-          "author": "Stephen Johnson",
-          "description": "Cancel culture is such an important issue in my life, and this week’s cancel culture victims include DaBaby, Reddit’s worst anti-feminists, and golf-playing drunken airplane passengers.\n\nRead more...",
-          "link": "https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-was-d-1847434454",
-          "publishedOn": "2021-08-06T16:45:00.000Z",
-          "wordCount": 1177,
-          "title": "The Out-of-Touch Adults' Guide To Kid Culture: Why Was DaBaby Canceled?"
-        },
-        {
-          "id": "1835872015",
-          "author": "Joel Kahn",
-          "description": "What kind of coffee maker do you prefer? Keurig? Chemex? Drip maker? Aeropress? Nespresso? French press? Perhaps you prefer a cold brewer? As many types of coffee makers as there are, there are also ways to clean them. To get the most flavor (and least amount of old coffee residue) in each cup of joe, follow the…\nRead more...",
-          "link": "https://lifehacker.com/how-to-clean-every-type-of-coffee-maker-1835872015",
-          "publishedOn": "2021-08-06T16:30:00.000Z",
-          "wordCount": 810,
-          "title": "How to Clean Every Type of Coffee Maker"
-        },
-        {
-          "id": "1847429789",
-          "author": "Ross Johnson",
-          "description": "Netflix has built its 200 million+ subscriber base on the backs of some great original TV series, and there’s a fair chance  you’re watching (or have already binged) the biggies: Bridgerton, The Witcher, Stranger Things, Tiger King, The Queen’s Gambit, Lupin, etc. Even if you’re haven’t seen them, they’re buzzy enough…\nRead more...",
-          "link": "https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789",
-          "publishedOn": "2021-08-06T16:00:00.000Z",
-          "wordCount": 2933,
-          "title": "25 Netflix Original Shows You Probably Aren't Watching but Definitely Should Be"
-        },
-        {
-          "id": "1847436245",
-          "author": "Lindsey Ellefson",
-          "description": "Congrats on that super-cute baby you have there! Your little bundle of joy is so precious that it’s practically criminal to deprive your online followers of a constant stream of pictures. But by now, you’ve probably figured out that photographing a baby is harder than it sounds—no matter how adorable they are in real…\nRead more...",
-          "link": "https://lifehacker.com/never-show-a-nostril-and-other-ways-to-take-baby-pics-1847436245",
-          "publishedOn": "2021-08-06T15:45:00.000Z",
-          "wordCount": 1261,
-          "title": "Never Show a Nostril, and Other Ways to Take Baby Pics That Don't Suck"
-        },
-        {
-          "id": "1847435887",
-          "author": "A.A. Newton",
-          "description": "Shoe sizes vary so much between brands that buying a new pair can feel like a crapshoot. Obviously, the best way to get a good fit is to just try them on, but that’s not always possible. If you have no choice but to order online, you should know how big your feet actually are in centimeters.\nRead more...",
-          "link": "https://lifehacker.com/why-you-should-know-your-foot-size-in-centimeters-1847435887",
-          "publishedOn": "2021-08-06T15:30:00.000Z",
-          "wordCount": 570,
-          "title": "Why You Should Know Your Foot Size in Centimeters"
-        },
-        {
-          "id": "1847431649",
-          "author": "Sam Blum",
-          "description": "There are three different personalities that encompass the broader traits of those with Narcissistic Personality Disorder (NPD). While you might expect someone with a disarming smile and an infectious energy to be the type of narcissist who crosses your path, it’s possible for someone with NPD to seem more like a…\nRead more...",
-          "link": "https://lifehacker.com/how-to-tell-if-you-re-dating-a-vulnerable-narcissist-a-1847431649",
-          "publishedOn": "2021-08-06T15:00:00.000Z",
-          "wordCount": 671,
-          "title": "How to Tell If You’re Dating a Vulnerable Narcissist (and What to Do About It)"
-        },
-        {
-          "id": "1847427356",
-          "author": "Rachel Fairbank",
-          "description": "In the past year, many parents had the unexpected experience of their adult children moving back in with them due to various pandemic-related issues, such as their university shifting to online classes, job loss, or financial strain. According to a recent Pew Research Center poll, 52% of young adults between the ages…\nRead more...",
-          "link": "https://lifehacker.com/how-to-cope-with-empty-nest-syndrome-during-the-pandemi-1847427356",
-          "publishedOn": "2021-08-06T14:30:00.000Z",
-          "wordCount": 1061,
-          "title": "How to Cope With Empty Nest Syndrome During the Pandemic"
-        },
-        {
-          "id": "1847431870",
-          "author": "Rachel Fairbank",
-          "description": "Parental guilt is hard to shake off, no matter what decisions you make as a parent. Before you spend too much time over-analyzing your best courses of action though, it’s important to take a step back and think about what those actions may or may not be teaching your child about ambition. For example, mothers who…\nRead more...",
-          "link": "https://lifehacker.com/how-to-raise-ambitious-kids-1847431870",
-          "publishedOn": "2021-08-06T14:00:00.000Z",
-          "wordCount": 912,
-          "title": "How to Raise Ambitious Kids"
-        },
-        {
-          "id": "1847432167",
-          "author": "Mike Winters",
-          "description": "Gyms have a terrible reputation for not actually canceling your gym membership, so what do you do when they ignore your cancelation emails and keep charging your card long after you canceled? Here are some tips to ensure that you don’t get bilked by an unscrupulous gym. \nRead more...",
-          "link": "https://lifehacker.com/how-to-stop-a-gym-from-charging-your-card-after-canceli-1847432167",
-          "publishedOn": "2021-08-06T13:30:00.000Z",
-          "wordCount": 684,
-          "title": "How to Stop a Gym From Charging Your Card After Canceling Your Membership"
-        },
-        {
-          "id": "1847424891",
-          "author": "Beth Skwarecki",
-          "description": "I set out to learn whether virtual reality games can give you a good workout, and last week you heard about a bunch of my favorites. Now that I’ve adventured through the virtual world, I have returned to you with opinions.\n\nRead more...",
-          "link": "https://lifehacker.com/what-ive-learned-about-working-out-in-vr-1847424891",
-          "publishedOn": "2021-08-06T13:00:00.000Z",
-          "wordCount": 1695,
-          "title": "What I've Learned About Working Out in VR"
-        },
-        {
-          "id": "1847431876",
-          "author": "Brendan Hesse",
-          "description": "In the last few years, VPNs have gone from a niche data security tool to an everyday product you’ll see advertised on any vaguely tech-adjacent YouTube channel or podcast. But while there are many viable VPNs available commercially, their feature sets differ, and some are better suited for certain online activities…\nRead more...",
-          "link": "https://lifehacker.com/do-you-need-a-vpn-kill-switch-1847431876",
-          "publishedOn": "2021-08-05T21:00:00.000Z",
-          "wordCount": 573,
-          "title": "Do You Need a VPN Kill Switch?"
         }
       ]
     },
@@ -455,67 +455,67 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
-          "id": "https://hackaday.com/?p=488774",
-          "author": "Kristina Panos",
-          "description": "Do you have burning opinions about GitHub Copilot, the AI pair programmer that Microsoft introduced a few months ago? Are you worried about the future of free and open software? …read more",
-          "link": "https://hackaday.com/2021/08/08/hackaday-links-august-8-2021/",
-          "publishedOn": "2021-08-08T23:00:22.000Z",
-          "wordCount": 1342,
-          "title": "Hackaday Links: August 8, 2021"
+          "id": "https://hackaday.com/?p=490934",
+          "author": "Ryan Flowers",
+          "description": "There are a few words in the electrical engineering lexicon that will perk any hardware hacker’s ears. The first of course is “Nixie tubes” with their warm cold war era …read more",
+          "link": "https://hackaday.com/2021/08/09/relay-logic-nixie-tube-clock-checks-all-the-boxes/",
+          "publishedOn": "2021-08-09T23:00:05.000Z",
+          "wordCount": 1299,
+          "title": "Relay Logic Nixie Tube Clock Checks All The Boxes"
         },
         {
-          "id": "https://hackaday.com/?p=490266",
-          "author": "Jenny List",
-          "description": "In the crowd of GNU/Linux and BSD users that throng our community, it’s easy to forget that those two families are not the only games in the open-source operating system …read more",
-          "link": "https://hackaday.com/2021/08/08/reactos-is-going-places-with-more-stable-amd64-smp-and-multi-monitor-support/",
-          "publishedOn": "2021-08-08T20:00:14.000Z",
-          "wordCount": 1742,
-          "title": "ReactOS Is Going Places, With More Stable AMD64, SMP, And Multi-Monitor Support"
+          "id": "https://hackaday.com/?p=490697",
+          "author": "Tom Nardi",
+          "description": "Last month we featured a project that aimed to recreate the iconic mechanical VU meter with an Arduino and a common OLED display. It was cheap and easy to implement, …read more",
+          "link": "https://hackaday.com/2021/08/09/improving-oled-vu-meters-with-a-little-physics/",
+          "publishedOn": "2021-08-09T20:00:25.000Z",
+          "wordCount": 1541,
+          "title": "Improving OLED VU Meters with a Little Physics"
         },
         {
-          "id": "https://hackaday.com/?p=490341",
-          "author": "Mike Szczys",
-          "description": "Are we seeing more wristwatch PCB swapping projects because more people are working on them, or because we saw one and they’re on our mind? The world may never know, …read more",
-          "link": "https://hackaday.com/2021/08/08/wristwatch-pcb-swaps-must-be-in-the-air/",
-          "publishedOn": "2021-08-08T17:00:48.000Z",
-          "wordCount": 1879,
-          "title": "Wristwatch PCB Swaps Must Be In the Air"
+          "id": "https://hackaday.com/?p=490811",
+          "author": "Stephen Ogier",
+          "description": "A Bayer array, or Bayer filter, is what lets a digital camera take color photos. It’s an array of tiny color filters that sit on top of a camera’s CCD. …read more",
+          "link": "https://hackaday.com/2021/08/09/using-a-laser-to-blast-away-a-bayer-array/",
+          "publishedOn": "2021-08-09T18:30:30.000Z",
+          "wordCount": 1851,
+          "title": "Using a Laser to Blast Away a Bayer Array"
         },
         {
-          "id": "https://hackaday.com/?p=490578",
+          "id": "https://hackaday.com/?p=487932",
           "author": "Lewin Day",
-          "description": "Listening to chiptunes on an emulator or software-based player is fine, but sometimes you just gotta have that real hardware charm. [Kazhuu] is one such enthusiast who feels this way, …read more",
-          "link": "https://hackaday.com/2021/08/08/a-snes-music-player-you-can-control-with-a-browser/",
-          "publishedOn": "2021-08-08T14:00:35.000Z",
-          "wordCount": 1147,
-          "title": "A SNES Music Player You Can Control With A Browser"
+          "description": "For almost as long as there have been cars and planes, people have speculated that one day we will all get around in flying cars. They’d allow us to “avoid …read more",
+          "link": "https://hackaday.com/2021/08/09/a-new-flying-car-illustrates-the-same-old-problems/",
+          "publishedOn": "2021-08-09T17:00:35.000Z",
+          "wordCount": 5276,
+          "title": "A New Flying Car Illustrates The Same Old Problems"
         },
         {
-          "id": "https://hackaday.com/?p=490540",
-          "author": "Matthew Carlson",
-          "description": "Light has always been a key part of the classic Game Boy experience. Some of us have fond memories of riding along in the back seat of a car at …read more",
-          "link": "https://hackaday.com/2021/08/08/building-a-solar-powered-game-boy-pocket/",
-          "publishedOn": "2021-08-08T11:00:09.000Z",
-          "wordCount": 1492,
-          "title": "Building a Solar Powered Game Boy Pocket"
+          "id": "https://hackaday.com/?p=488652&preview=true&preview_id=488652",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, August 11 at noon Pacific for the Vintage Displays Hack Chat with Fran Blanche! In terms of ease of integration and density of the information that …read more",
+          "link": "https://hackaday.com/2021/08/09/vintage-displays-hack-chat-with-fran-blanche/",
+          "publishedOn": "2021-08-09T16:00:45.000Z",
+          "wordCount": 1244,
+          "title": "Vintage Displays Hack Chat with Fran Blanche"
         },
         {
-          "id": "https://hackaday.com/?p=490561",
-          "author": "Lewin Day",
-          "description": "There are plenty of designs for table-top 3D printers, engravers, and general CNC machines out there. However, if you wanna build big things and build them fast, sometimes you need …read more",
-          "link": "https://hackaday.com/2021/08/08/giant-cnc-machine-measures-a-full-cubic-meter/",
-          "publishedOn": "2021-08-08T08:00:05.000Z",
-          "wordCount": 3200,
-          "title": "Giant CNC Machine Measures A Full Cubic Meter"
-        },
-        {
-          "id": "https://hackaday.com/?p=490085",
+          "id": "https://hackaday.com/?p=490799",
           "author": "Jenny List",
-          "description": "Researching a piece on vacuum tubes, we stumbled on something unexpected from Electro-Harmonix, best known for guitar amplifiers and audio tube manufacture. In a break from their core business, they …read more",
-          "link": "https://hackaday.com/2021/08/07/the-magnetosphere-has-a-ton-of-energy-can-a-guitar-amp-company-tap-into-it/",
-          "publishedOn": "2021-08-08T05:00:30.000Z",
-          "wordCount": 2976,
-          "title": "The Magnetosphere Has a Ton Of Energy. Can A Guitar Amp Company Tap Into It?"
+          "description": "A highlight of last year’s Hackaday Remoticon was a soldering competition that had teams from around the world came together online and did the well-known MakersBox SMD Challenge kit in …read more",
+          "link": "https://hackaday.com/2021/08/09/so-you-can-solder-small-smd-devices-the-question-is-just-how-small/",
+          "publishedOn": "2021-08-09T15:30:14.000Z",
+          "wordCount": 1630,
+          "title": "So You Can Solder Small SMD Devices. The Question is, Just How Small?"
+        },
+        {
+          "id": "https://hackaday.com/?p=489726",
+          "author": "Dan Maloney",
+          "description": "The number of artificial prosthetic replacement parts available for the human body is really quite impressive. From prosthetic eyes to artificial hips and knees, there are very few parts of …read more",
+          "link": "https://hackaday.com/2021/08/09/permanent-artificial-hearts-long-sought-replacements-may-not-be-far-away/",
+          "publishedOn": "2021-08-09T14:01:33.000Z",
+          "wordCount": 3710,
+          "title": "Permanent Artificial Hearts: Long-Sought Replacements May Not Be Far Away"
         }
       ]
     },
@@ -622,12 +622,21 @@
       "siteUrl": "https://www.theguardian.com/us/technology",
       "articles": [
         {
+          "id": "https://www.theguardian.com/technology/2021/aug/09/samsung-boss-to-be-freed-from-jail-after-bribery-sentence",
+          "author": "Rupert Neate",
+          "description": "Billionaire Lee Jae-yong will be released in South Korea on Friday having served 18 months in prison\nThe billionaire boss of South Korea’s Samsung empire will be freed from jail on Friday after serving part of a 30-month sentence for bribing former South Korea president Park Geun-hye. \nLee Jae-yong, Samsung’s vice-chairman and de facto leader, will be released on 13 August, the country’s justice minister announced in a live TV briefing.\nLee was caught up in a huge corruption scandal that brought down the government Park in 2016. Park was sentenced to 20 years in prison and fined 18bn won (£12m).\n Continue reading...",
+          "link": "https://www.theguardian.com/technology/2021/aug/09/samsung-boss-to-be-freed-from-jail-after-bribery-sentence",
+          "publishedOn": "2021-08-09T17:22:29.000Z",
+          "wordCount": 653,
+          "title": "Samsung boss to be freed from jail after bribery sentence"
+        },
+        {
           "id": "https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes",
           "author": "Sarah Butler",
           "description": "Project that could bring fibre broadband to remote areas while monitoring pipes for water leaks\nThe government has launched a £4m fund to back projects trialling running fibre optic broadband cables through water pipes to help connect hard-to-reach homes without digging up roads.\nThe money will also be used to test out monitors in pipes that can help water companies identify and repair leaks more quickly. About a fifth of water put into public supply every day is lost via leaks and it is hoped that sensors could help deliver water companies’ commitment to reduce water loss by half.\n Continue reading...",
           "link": "https://www.theguardian.com/technology/2021/aug/09/uk-launches-4m-fund-to-run-fibre-optic-cables-through-water-pipes",
           "publishedOn": "2021-08-08T23:01:34.000Z",
-          "wordCount": 618,
+          "wordCount": 626,
           "title": "UK launches £4m fund to run fibre optic cables through water pipes"
         },
         {
@@ -660,10 +669,10 @@
         {
           "id": "https://www.theguardian.com/commentisfree/2021/aug/07/now-zuckerberg-wants-facebook-to-be-master-of-the-virtual-universe",
           "author": "Alex Hern",
-          "description": "The social media magnate has evidently decided that the ‘metaverse’ is the way forward. But should we be worried?\nBrace yourselves: Mark Zuckerberg has a new pivot for Facebook. The visionary genius who brought us the pivot to video, the pivot to privacy, the pivot to trusted news and the pivot away from trusted news is now preparing for the latest turn: the pivot to the “metaverse”.\n“The metaverse is a vision that spans many companies – the whole industry,” Zuckerberg told tech news site the Verge in an interview last month. “My hope, if we do this well, I think over the next five years or so, in this next chapter of our company, I think we will effectively transition from people seeing us as primarily being a social media company to being a metaverse company.”\n Continue reading...",
+          "description": "The social media magnate has evidently decided that the ‘metaverse’ is the way forward. But should we be worried?\nBrace yourselves: Mark Zuckerberg has a new pivot for Facebook. The visionary genius who brought us the pivot to video, the pivot to privacy, the pivot to trusted news and the pivot away from trusted news is now preparing for the latest turn: the pivot to the “metaverse”.\n Continue reading...",
           "link": "https://www.theguardian.com/commentisfree/2021/aug/07/now-zuckerberg-wants-facebook-to-be-master-of-the-virtual-universe",
           "publishedOn": "2021-08-07T15:00:04.000Z",
-          "wordCount": 1385,
+          "wordCount": 1401,
           "title": "Now Zuckerberg wants Facebook to be master of the virtual universe | Alex Hern"
         },
         {
@@ -694,13 +703,13 @@
           "title": "At best, we’re on Earth for around 4,000 weeks – so why do we lose so much time to online distraction?"
         },
         {
-          "id": "https://www.theguardian.com/technology/2021/aug/06/apple-plans-to-scan-us-iphones-for-child-sexual-abuse-images",
-          "author": "Alex Hern and agencies",
-          "description": "Security researchers fear neuralMatch system could be misused to spy on citizens\nApple will scan photo libraries stored on iPhones in the US for known images of child sexual abuse, the company says, drawing praise from child protection groups but crossing a line that privacy campaigners warn could have dangerous ramifications. The company will also examine the contents of end-to-end encrypted messages for the first time.\n Continue reading...",
-          "link": "https://www.theguardian.com/technology/2021/aug/06/apple-plans-to-scan-us-iphones-for-child-sexual-abuse-images",
-          "publishedOn": "2021-08-06T09:08:39.000Z",
-          "wordCount": 1028,
-          "title": "Apple plans to scan US iPhones for child sexual abuse images"
+          "id": "https://www.theguardian.com/music/2021/aug/07/no-limits-in-the-metaverse-video-game-concerts-big-business",
+          "author": "Rob LeDonne",
+          "description": "This weekend, tens of millions will watch and interact with an Ariana Grande avatar for a concert in video game Fortnite – the latest in a growing, lucrative market\nA shimmering Ariana Grande emerges from the starry night sky as she begins to run through her biggest pop hits. Dressed in a glistening sequinned two-piece and rocking a towering ponytail with hints of neon pink, the superstar is both levitating and incandescent.\nLiterally. This isn’t Grande’s latest festival outing, nor is the pop star even physically present. Rather, Grande is seen here in an entirely digital form as part of The Rift Tour, an interactive collaboration with the massively popular online video game Fortnite. Rolling out globally this weekend only, it’s a unique partnership the brand is dubbing a “musical journey” with the singer, and marks the latest chapter of an emerging relationship between two disparate cultural behemoths: music and video games.\n Continue reading...",
+          "link": "https://www.theguardian.com/music/2021/aug/07/no-limits-in-the-metaverse-video-game-concerts-big-business",
+          "publishedOn": "2021-08-07T00:30:38.000Z",
+          "wordCount": 948,
+          "title": "‘Limits are non-existent in the metaverse!’ Video game concerts become big business"
         },
         {
           "id": "https://www.theguardian.com/tv-and-radio/2021/aug/06/a-horrifying-true-show-on-the-climate-crisis-podcasts-of-the-week",
@@ -773,6 +782,15 @@
           "publishedOn": "2021-08-04T02:42:29.000Z",
           "wordCount": 718,
           "title": "How to photograph the moon on your phone or camera, and the best settings to use"
+        },
+        {
+          "id": "https://www.theguardian.com/games/2021/aug/03/pokemon-no-go-players-revolt-as-niantic-sends-them-back-outside",
+          "author": "Alex Hern",
+          "description": "Consternation as players summoned back to gyms and PokeStops after pandemic-induced relaxation of rules\nThe developer of Pokémon Go is facing a player revolt after rolling back safety measures implemented at the onset of the pandemic last year. \nNiantic, the Google subsidiary which released the smash hit mobile game in 2016, had reacted to the onset of the pandemic by tweaking how its games work. The introduction of social distancing and stay-at-home orders around the world made it hard to play the company’s augmented reality (AR) games as intended, since they task players with leaving their homes and visiting local landmarks to catch Pokémon, gather items, and fight for regional dominance.\n Continue reading...",
+          "link": "https://www.theguardian.com/games/2021/aug/03/pokemon-no-go-players-revolt-as-niantic-sends-them-back-outside",
+          "publishedOn": "2021-08-03T18:32:56.000Z",
+          "wordCount": 698,
+          "title": "Pokémon no go? Players revolt as Niantic sends them back outside"
         },
         {
           "id": "https://www.theguardian.com/games/2021/aug/03/the-ascent-review-neon-digital",
@@ -872,33 +890,6 @@
           "publishedOn": "2021-07-30T06:00:02.000Z",
           "wordCount": 1448,
           "title": "Samsung Galaxy Book Pro 360 review: flexible laptop with beautiful OLED screen"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture",
-          "author": "Dani Anguiano",
-          "description": "Hundreds gathered outside video game company’s headquarters in California while others took part in a virtual protest\nEmployees of Activision Blizzard, the video game company that produces World of Warcraft and Call of Duty, staged a walkout Wednesday morning to call for better working conditions as the company faces allegations of a “frat boy” culture and severe harassment and discrimination against female workers.\nThe California department of fair employment and housing (DFEH) filed a lawsuit against the company last week after a two-year investigation found widespread sexual harassment, retaliation and discrimination and that the video game maker “fostered a sexist culture” in which female employees earn less than males doing similar work.\n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/jul/28/activision-blizzard-walkout-allegations-harassment-frat-boy-culture",
-          "publishedOn": "2021-07-28T19:58:52.000Z",
-          "wordCount": 922,
-          "title": "Activision Blizzard employees walk out over harassment and ‘frat boy’ culture allegations"
-        },
-        {
-          "id": "https://www.theguardian.com/games/2021/jul/28/the-great-ace-attorney-chronicles-review",
-          "author": "Patrick Lum",
-          "description": "Switch/PS4/PC; Capcom\nWith one Herlock Sholmes as your companion, the latest in the witty legal-mystery series sends you back to a sublimely realised Victorian London\nI’ll be the first to admit my bias when it comes to the Phoenix Wright: Ace Attorney games – the legal-themed mystery series that partly inspired me to become a qualified (though not practising) lawyer – so the fact that I like The Great Ace Attorney Chronicles is no surprise. The real twist is that what might have been a mere spin-off tale about Phoenix Wright’s ancestor in Victorian London has turned out to be perhaps my favourite game in the series, thanks to series creator Shu Takumi’s return to the writer-director’s seat.\nDespite the different setting, the basics of video-game lawyering remain largely unchanged: investigate, gather evidence, scrutinise testimony and present your undeniable proof that witnesses are mistaken, ignorant, or straight up lying. Though there are some additions that make for even livelier trials, including group testimonies with clashing witnesses, or the need to appeal to a surly and arbitrary jury, the core thrill – of presenting that key piece of evidence that reduces a smug, preening culprit to a snivelling mess – remains.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jul/28/the-great-ace-attorney-chronicles-review",
-          "publishedOn": "2021-07-28T12:09:18.000Z",
-          "wordCount": 992,
-          "title": "The Great Ace Attorney Chronicles review – an open and shut case of gaming brilliance"
-        },
-        {
-          "id": "https://www.theguardian.com/games/2021/jul/26/cris-tales-review-japanese-role-playing-games-rpg-colombia",
-          "author": "Nic Reuben",
-          "description": "PC (version tested), PlayStation 4, PlayStation 5, Xbox One, Xbox Series S/X, Nintendo Switch; Dreams Uncorporated/Syck/Modus\nFoes can be cast into the past or future in a whimsical time-bending throwback that celebrates Colombia\nThis week marked both Colombian Independence Day and the release of Cris Tales, an enchanting homage to classic Japanese RPGs and Colombia itself from a homegrown development team. It’s a whimsical fantasy journey with magical realist roots that ground it firmly in the now, even as it transports the player between the past and future.\nThe combat twist we’ve seen before is timed button presses while attacking and defending, which make the turn-based fights feel more involved. The twist we haven’t seen before is heroine Crisbell’s time manipulation. Foes on the left of the screen can be sent into the past, and those on the right into the future. You’ll age and de-age goblins, soak then rust armour, blossom explosive plants, and reverse your companions’ deaths.\n Continue reading...",
-          "link": "https://www.theguardian.com/games/2021/jul/26/cris-tales-review-japanese-role-playing-games-rpg-colombia",
-          "publishedOn": "2021-07-26T14:35:07.000Z",
-          "wordCount": 652,
-          "title": "Cris Tales review – a magical realist tribute to Japanese role-playing games"
         },
         {
           "id": "https://www.theguardian.com/books/2021/jul/23/12-bytes-by-jeanette-winterson-review-how-we-got-here-and-where-we-might-go-next",
