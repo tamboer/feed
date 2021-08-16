@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-15T00:34:16.806Z</id>
+    <id>urn:2021-08-16T00:34:16.238Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:34:16.806Z</updated>
+    <updated>2021-08-16T00:34:16.238Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: August 15, 2021]]></title>
+        <id>https://hackaday.com/?p=491019&amp;preview=true&amp;preview_id=491019</id>
+        <link href="https://hackaday.com/2021/08/15/hackaday-links-august-15-2021/"/>
+        <updated>2021-08-15T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Unless you’re in the market for a new car, household appliance, or game console, or if you’re involved in the manufacture of these things, chances are pretty good that the …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Display Case is a Portable Triple Monitor Setup]]></title>
+        <id>https://hackaday.com/?p=491542</id>
+        <link href="https://hackaday.com/2021/08/15/solar-display-case-is-a-portable-triple-monitor-setup/"/>
+        <updated>2021-08-15T20:01:17.000Z</updated>
+        <summary type="html"><![CDATA[They say once you start using twin monitors on the desktop, you’ll never want to go back. It’s even worse when you upgrade to three or more. However, it can …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cold Gas Thruster On an RC Car]]></title>
+        <id>https://hackaday.com/?p=491544</id>
+        <link href="https://hackaday.com/2021/08/15/a-cold-gas-thruster-on-an-rc-car/"/>
+        <updated>2021-08-15T17:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Tesla have boldly claimed that one day they’ll ship a Roadster complete with a cold-gas thruster for truly ridiculous acceleration. Whether or not that ever comes to pass remains to …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce the Humidity in Your Home Without a Dehumidifier]]></title>
+        <id>1847487211</id>
+        <link href="https://lifehacker.com/how-to-reduce-the-humidity-in-your-home-without-a-dehum-1847487211"/>
+        <updated>2021-08-15T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With many parts of the country experiencing uncomfortably high levels of humidity, you may have noticed the impact both outdoors and indoors. Sure,  having the air conditioning on, or a dehumidifier running helps, but not everyone has access to those options. 
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove Sunscreen Stains from Furniture and Carpet]]></title>
+        <id>1847487227</id>
+        <link href="https://lifehacker.com/how-to-remove-sunscreen-stains-from-furniture-and-carpe-1847487227"/>
+        <updated>2021-08-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunscreen is a summertime necessity, but sometimes it can end up on places other than your skin. Whether you squeeze the bottle too hard—resulting in lotion exploding all over your favorite carpet—or someone in your household sits down on the couch covered in a fresh coat of head-to-toe sunblock, sunscreen stains can…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar Fueled Emergency Power Pack]]></title>
+        <id>https://hackaday.com/?p=491500</id>
+        <link href="https://hackaday.com/2021/08/15/solar-fueled-emergency-power-pack/"/>
+        <updated>2021-08-15T14:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Heavy rainfall in Northern Europe last month caused disastrous flooding in several countries. [Daniel Jedecke] was on assignment in the North Rhine-Westphalia region of Germany during the floods and saw …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How artist Ben Grosser is cutting Mark Zuckerberg down to size]]></title>
+        <id>https://www.theguardian.com/media/2021/aug/15/ben-grosser-order-of-magnitude-mark-zuckerberg-film-software-for-less-arebyte</id>
+        <link href="https://www.theguardian.com/media/2021/aug/15/ben-grosser-order-of-magnitude-mark-zuckerberg-film-software-for-less-arebyte"/>
+        <updated>2021-08-15T14:00:09.000Z</updated>
+        <summary type="html"><![CDATA[The artist and social media critic on his work subverting the manipulative practices of Facebook, Instagram and Twitter
+When the history of the first decades of this century comes to be written, there will be few more telling artworks than Ben Grosser’s film Order of Magnitude. In the 47 minute video, Grosser, a digital artist and professor of new media at the University of Illinois, has spliced together every public instance in which Mark Zuckerberg has talked of “more” and “bigger”. The resulting montage of interviews and presentations is a fast forward of the rapid growth of Facebook as, in the chief executive’s mouth, thousands become millions then billions. It makes a mesmerising monologue, the story of our times.
+“The idea that Zuckerberg latched on to even more than anyone else in Silicon Valley,” Grosser suggested, when he spoke to me from Urbana via Zoom last week, “was the need to grow as big as fast as possible, get the largest market share. And everything was subservient to that.” The film is part of a double act. Grosser has also spliced together all the moments he can find of Zuckerberg ever mentioning numbers diminishing or things getting smaller. This film runs for 30 seconds, though in a new version for his forthcoming exhibition at the Arebyte Gallery in London, he has slowed those seconds down so it also runs for 47 minutes.
+ Continue reading...]]></summary>
+        <author>
+            <name>Tim Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game (voice)over: actors turn to video game work during pandemic]]></title>
+        <id>https://www.theguardian.com/games/2021/aug/15/actors-turn-to-video-game-work-during-pandemic</id>
+        <link href="https://www.theguardian.com/games/2021/aug/15/actors-turn-to-video-game-work-during-pandemic"/>
+        <updated>2021-08-15T13:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Demand for voice actors increases, providing relief for workers whose other sources of income has dried up
+
+Coronavirus – latest updates
+See all our coronavirus coverage
+
+It was not only audiences that turned to video games during the pandemic. With theatres closed, and TV and film production on hiatus, British actors chose work they could do from isolation – and the booming gaming industry was ready to fill the gap.
+“The minute the pandemic hit, it was just everyone asking me: ‘What mic should I get? How do you set up a home studio?’” says Cassie Layton, an actor and musician from south-west London. “I was lucky in that I had worked doing voice acting for a few years before the pandemic hit. But every single actor, I think, either had the thought or took the action to set up a home studio.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Alex Hern</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Your Hot Tub Into a Refreshing Cool Plunge Pool]]></title>
+        <id>1847487239</id>
+        <link href="https://lifehacker.com/how-to-convert-your-hot-tub-into-a-refreshing-cool-plun-1847487239"/>
+        <updated>2021-08-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hot tubs are great when it’s chilly out, but when the outdoor temperatures and humidity begin to rise, stewing in bubbling hot water may not seem very appealing. Fortunately, there’s something you can do about that. In an article for Hunker, Michelle Miley explains how to cool  and then maintain your chilled hot…
+Read more...]]></summary>
+        <author>
+            <name>Elizabeth Yuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Fabric Stiffens on Demand]]></title>
+        <id>https://hackaday.com/?p=491610</id>
+        <link href="https://hackaday.com/2021/08/15/3d-printed-fabric-stiffens-on-demand/"/>
+        <updated>2021-08-15T11:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Researchers in Singapore and at CalTech have developed a 3D printed fabric with an interesting property: it is generally flexible but can stiffen on demand. You can see a video …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touchscreen Makes For A Neat Wavetable Synth]]></title>
+        <id>https://hackaday.com/?p=491064</id>
+        <link href="https://hackaday.com/2021/08/15/touchscreen-makes-for-a-neat-wavetable-synth/"/>
+        <updated>2021-08-15T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[A popular tool in chiptune software like LSDJ allows the user to draw a waveform and use it as the basis for a wavetable synth. It’s fun and it can …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yo Dawg, We Heard You Like Retrocomputers]]></title>
+        <id>https://hackaday.com/?p=491368</id>
+        <link href="https://hackaday.com/2021/08/14/yo-dawg-we-heard-you-like-retrocomputers/"/>
+        <updated>2021-08-15T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The idea of having software translation programs around to do things like emulate a Super Nintendo on your $3000 gaming computer or, more practically, run x86 software on a new …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Despite healthy orders, can Just Eat deliver on share price growth?]]></title>
         <id>https://www.theguardian.com/business/2021/aug/15/despite-healthy-orders-can-just-eat-deliver-on-share-price-growth</id>
@@ -19,26 +152,6 @@ But now that restaurants, cafes and other hospitality venues have reopened, will
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed Smart Glasses Put Linux in Your Face]]></title>
-        <id>https://hackaday.com/?p=491476</id>
-        <link href="https://hackaday.com/2021/08/14/3d-printed-smart-glasses-put-linux-in-your-face/"/>
-        <updated>2021-08-14T23:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Unimpressed by DIY wearables powered by dinky microcontrollers, [Teemu Laurila] has been working on a 3D printed head-mounted computer that puts a full-fledged Linux desktop in your field of view. …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Zeloof Z2 Intergrated Circuit Has 100 Transistors]]></title>
-        <id>https://hackaday.com/?p=491715</id>
-        <link href="https://hackaday.com/2021/08/14/the-zeloof-z2-intergrated-circuit-has-100-transistors/"/>
-        <updated>2021-08-14T20:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2018 we reported on the first silicon integrated circuit to be produced in a homemade chip fab. It was the work of [Sam Zeloof], and his Z1 chip …read more]]></summary>
-        <author>
-            <name>Jenny List</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[At home with a heat pump: ‘It makes hot water when it’s freezing outside’]]></title>
         <id>https://www.theguardian.com/money/2021/aug/14/at-home-with-a-heat-pump-it-makes-hot-water-when-its-freezing-outside</id>
         <link href="https://www.theguardian.com/money/2021/aug/14/at-home-with-a-heat-pump-it-makes-hot-water-when-its-freezing-outside"/>
@@ -50,16 +163,6 @@ Deed and his wife Carol began considering home heating options for their detache
  Continue reading...]]></summary>
         <author>
             <name>Jillian Ambrose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surplus Syringes Make Satisfactory Tuner for Amateur Radio Experimentation]]></title>
-        <id>https://hackaday.com/?p=491564</id>
-        <link href="https://hackaday.com/2021/08/14/surplus-syringes-make-satisfactory-tuner-for-amateur-radio-experimentation/"/>
-        <updated>2021-08-14T17:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Amateur Radio as a hobby has a long history of encouraging experimentation using whatever one might have on hand. When [Tom Essenpreis] wanted to use his 14 MHz antenna outside …read more]]></summary>
-        <author>
-            <name>Ryan Flowers</name>
         </author>
     </entry>
     <entry>
@@ -98,16 +201,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goals and Goalposts]]></title>
-        <id>https://hackaday.com/?p=491657</id>
-        <link href="https://hackaday.com/2021/08/14/goals-and-goalposts/"/>
-        <updated>2021-08-14T14:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In the winter, I hatched a vague plan to learn some of the modern unmanned aerial vehicle tech. Everybody needs an autonomous vehicle, and we’ve got some good flying fields …read more]]></summary>
-        <author>
-            <name>Elliot Williams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Tell the Difference Between Poison Hemlock and a Harmless Flower, as the Invasive Species Spreads]]></title>
         <id>1847485268</id>
         <link href="https://lifehacker.com/how-to-tell-the-difference-between-poison-hemlock-and-a-1847485268"/>
@@ -132,29 +225,6 @@ This field doesn’t belong to a dystopian future but to Shay Myers, a third-gen
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse Engineering a Topfield VFD Front Panel]]></title>
-        <id>https://hackaday.com/?p=491321</id>
-        <link href="https://hackaday.com/2021/08/14/reverse-engineering-a-topfield-vfd-front-panel/"/>
-        <updated>2021-08-14T11:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Hackers love the warm glow of a vacuum fluorescent display (VFD), and there’s no shortage of dead consumer electronics from which they can be pulled to keep our collective parts …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook shut down our research into its role in spreading disinformation |  Laura Edelson and Damon McCoy]]></title>
-        <id>https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics</id>
-        <link href="https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics"/>
-        <updated>2021-08-14T10:00:36.000Z</updated>
-        <summary type="html"><![CDATA[The company’s hostility to academic scrutiny limits our ability to understand how the platform amplifies political falsehoods 
-Last week, Facebook disabled our personal accounts, obstructing the research we lead at New York University to study the spread of disinformation on the company’s platform. The move has already compromised our work – forcing us to suspend our investigations into Facebook’s role in amplifying vaccine misinformation, sowing distrust in our elections and fomenting the violent riots at the US Capitol on 6 January.
-But even more important than the effect on our work is what Facebook’s hostility toward outside scrutiny means for the many other researchers and journalists trying to study Facebook’s effects on society. We’ve already heard from other researchers planning similar projects who are now pulling back. If Facebook has its way, there will be no independent research of its platform.
- Continue reading...]]></summary>
-        <author>
-            <name>Laura Edelson and Damon McCoy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I toured Orkney in the world’s first all-electric campervan]]></title>
         <id>https://www.theguardian.com/travel/2021/aug/14/orkney-islands-scotland-worlds-first-all-electric-campervan</id>
         <link href="https://www.theguardian.com/travel/2021/aug/14/orkney-islands-scotland-worlds-first-all-electric-campervan"/>
@@ -166,16 +236,6 @@ Home to 200 known neolithic sites, and with on average three sites of archaeolog
  Continue reading...]]></summary>
         <author>
             <name>Phoebe Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pomodachi: A Productivity Pet You Feed By Working]]></title>
-        <id>https://hackaday.com/?p=491379</id>
-        <link href="https://hackaday.com/2021/08/14/pomodachi-a-productivity-pet-you-feed-by-working/"/>
-        <updated>2021-08-14T08:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Being productive doesn’t have to be a lonely endeavor. Even if you’re a lone wolf, who wouldn’t benefit from having a cute little productivity pet to cheer them on? That’s …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
         </author>
     </entry>
     <entry>
@@ -202,16 +262,6 @@ A couple of weeks later, Leanne began taking the hormones that would stimulate h
  Continue reading...]]></summary>
         <author>
             <name>Alex Holder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB Mouse Hack for Pachyderm Protection]]></title>
-        <id>https://hackaday.com/?p=491185</id>
-        <link href="https://hackaday.com/2021/08/13/usb-mouse-hack-for-pachyderm-protection/"/>
-        <updated>2021-08-14T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[When most of us think of seismometers, our minds conjure up images of broken buildings, buckled roads, and search and rescue teams digging through rubble. But when [Subir Bhaduri] his …read more]]></summary>
-        <author>
-            <name>Ryan Flowers</name>
         </author>
     </entry>
     <entry>
@@ -372,6 +422,19 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘White hat’ hacker behind $610m crypto heist returns most of money]]></title>
+        <id>https://www.theguardian.com/technology/2021/aug/13/white-hat-hacker-behind-610m-crypto-heist-returns-most-of-money</id>
+        <link href="https://www.theguardian.com/technology/2021/aug/13/white-hat-hacker-behind-610m-crypto-heist-returns-most-of-money"/>
+        <updated>2021-08-13T15:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Still-unidentified hacker claims attack was carried out ‘for fun’ to ‘expose the vulnerability’ of platform
+The hacker responsible for one of the world’s largest digital coin heists has returned nearly all of their more than $610m (£440m) haul, reportedly saying they did it “for fun” and to expose a vulnerability.
+The victim, Poly Network, which until Tuesday’s heist was a little known peer-to-peer cryptocurrency platform, said all of the funds except for $33m-worth of the digital coin Tether, which were frozen earlier in the week, had been transferred to a wallet controlled by both the platform and the hacker.
+ Continue reading...]]></summary>
+        <author>
+            <name>Miranda Bryant and agencies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[7 Meditation Apps That Are Cheaper (and Better) Than Headspace and Calm]]></title>
         <id>1847455111</id>
         <link href="https://lifehacker.com/7-meditation-apps-that-are-cheaper-and-better-than-he-1847455111"/>
@@ -406,19 +469,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK security chiefs issue guidance to ministers over hackers on WhatsApp]]></title>
-        <id>https://www.theguardian.com/technology/2021/aug/13/uk-security-chiefs-issue-guidance-after-hackers-target-ministers-on-whatsapp</id>
-        <link href="https://www.theguardian.com/technology/2021/aug/13/uk-security-chiefs-issue-guidance-after-hackers-target-ministers-on-whatsapp"/>
-        <updated>2021-08-13T14:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Exclusive: civil service chief points to work to improve cybersecurity in response to Labour concerns 
-Ministers and civil servants conducting “government by WhatsApp” have been at risk of being targeted by hackers, leading to new advice from security chiefs about how to improve their privacy.
-The cabinet secretary, Simon Case, revealed that the Government Security Group had issued fresh guidance across government in a letter to Labour, which had raised questions about ministers using their personal phones to conduct official business.
- Continue reading...]]></summary>
-        <author>
-            <name>Rowena Mason Deputy political editor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why You Should Be Careful When Installing a Beta OS]]></title>
         <id>1847476301</id>
         <link href="https://lifehacker.com/why-you-should-be-careful-when-installing-a-beta-os-1847476301"/>
@@ -439,6 +489,19 @@ Turns out, there is a built-in web browser on PS5. If you tab through the PS5’
 Read more...]]></summary>
         <author>
             <name>Brendan Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disgraced Samsung boss released early from South Korean prison]]></title>
+        <id>https://www.theguardian.com/technology/2021/aug/13/disgraced-samsung-boss-released-early-from-south-korean-prison</id>
+        <link href="https://www.theguardian.com/technology/2021/aug/13/disgraced-samsung-boss-released-early-from-south-korean-prison"/>
+        <updated>2021-08-13T13:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Billionaire vice-chair was serving 30-month sentence for bribing country’s former president
+The billionaire boss of South Korea’s Samsung empire has been released from prison after serving 18 months of a 30-month sentence for bribing the former president of South Korea Park Geun-hye.
+Lee Jae-yong, Samsung’s vice-chair and de facto leader, apologised to the country for his actions upon his release from Seoul detention centre. “I’ve caused much concern for the people. I deeply apologise,” Lee, 53, told reporters on Friday. “I am listening to the concerns, criticisms, worries and high expectations for me. I will work hard.”
+ Continue reading...]]></summary>
+        <author>
+            <name>Rupert Neate</name>
         </author>
     </entry>
     <entry>
@@ -489,6 +552,23 @@ Priced from £399, it sits below the £629 OnePlus 9 and £829 9 Pro and follows
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shocking new scares from Dr Death – podcasts of the week]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2021/aug/13/shocking-new-scares-from-dr-death-podcasts-of-the-week</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2021/aug/13/shocking-new-scares-from-dr-death-podcasts-of-the-week"/>
+        <updated>2021-08-13T05:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Paolo Macchiarini is the subject of the latest series of the hit medical malpractice series. Plus: Fonejacker is back, and LOUD celebrates chart-topping music genre reggaeton 
+Dr Death (available from 16 Aug)
+Just when you thought it was safe to step back into the surgery, here comes season three of Wondery’s unnerving blockbuster of a podcast, subtitled Miracle Man. This time round, the shady medic in question is “super surgeon” Dr Paolo Macchiarini, whose windpipe transplants and handsome looks caught the attention of TV producer Benita Alexander. In textbook Dr Death style, she’s floored by the “dashing, charming” George Clooney lookalike, and starts a whirlwind romance with the promise of a lavish wedding blessed by the pope. What could possibly go wrong? 
+Hannah Verdier
+
+All New Fonejacker Podcast
+Prank calls have the potential to seem passé in 2021, but not when they’re delivered by Fonejacker’s Kayvan Novak on his podcast. All eight episodes are available now, with Novak resurrecting his TV aliases including wheeler dealer Terry Tibbs, the ever-meddling Dufrais Constantinople, Donald Donaldson – permanently convinced that his wife is having an affair – and Brian Badonde, who can say any letter, as long as it’s b. Bitesized episodes mean that the characters don’t outstay their welcome, while “victims” are as unsuspecting as ever. Hannah J Davies
+ Continue reading...]]></summary>
+        <author>
+            <name>Hannah Verdier, Hannah J Davies and Shivani Dave</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to photograph the moon on your phone or camera, and the best settings to use]]></title>
         <id>https://www.theguardian.com/technology/2021/aug/13/how-to-photograph-the-full-blue-moon-with-phone-tips-seasonal-sturgeon-green-corn-barley-fruit-grain-moon-take-picture-photography-smartphone-camera-dslr-iphone-best-settings-night-sky</id>
         <link href="https://www.theguardian.com/technology/2021/aug/13/how-to-photograph-the-full-blue-moon-with-phone-tips-seasonal-sturgeon-green-corn-barley-fruit-grain-moon-take-picture-photography-smartphone-camera-dslr-iphone-best-settings-night-sky"/>
@@ -522,53 +602,6 @@ The post Making Customizable Tool Rolls appeared first on Make: DIY Projects and
 Read more...]]></summary>
         <author>
             <name>Beth Skwarecki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage English Ivy and Other Invasive Plants Killing Your Yard]]></title>
-        <id>1847476858</id>
-        <link href="https://lifehacker.com/how-to-manage-english-ivy-and-other-invasive-plants-kil-1847476858"/>
-        <updated>2021-08-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Keeping your yard healthy is especially hard when an unexpected plant is beating it for resources. Many invasive plants need little to no light, and don’t mind too much sun either. They’re adaptable, which is why they spread so easily through your yard, moving so fast that it seems next to impossible to stop them. 
-Read more...]]></summary>
-        <author>
-            <name>Aisha Jordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 of the Most Iconic Shows Within Shows and Movies Within Movies]]></title>
-        <id>1847473286</id>
-        <link href="https://lifehacker.com/30-of-the-most-iconic-shows-within-shows-and-movies-wit-1847473286"/>
-        <updated>2021-08-12T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are other universes that exist alongside ours, and the people in them also really like TV. Entertainment options can seem endless as it is; now multiply that by infinite parallel worlds and you’ll understand the daunting task of keeping up with all the maybe shows and could-be movies.
-
-Read more...]]></summary>
-        <author>
-            <name>Ross Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Be a Zero-Waste Parent Without Losing Your Mind]]></title>
-        <id>1847474665</id>
-        <link href="https://lifehacker.com/how-to-be-a-zero-waste-parent-without-losing-your-mind-1847474665"/>
-        <updated>2021-08-12T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[In America’s “linear economy,” one where products are designed to be used once before being discarded, getting to “zero-waste” is nearly impossible without dedicating your life to the cause. It’s an especially tricky proposition for busy parents who don’t have time to make bespoke yogurt for picky children who will…
-Read more...]]></summary>
-        <author>
-            <name>Sarah Showfety</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok acts on teen safety with ‘bedtime’ block on app alerts]]></title>
-        <id>https://www.theguardian.com/technology/2021/aug/12/tiktok-acts-on-teen-safety-with-bedtime-block-on-app-alerts</id>
-        <link href="https://www.theguardian.com/technology/2021/aug/12/tiktok-acts-on-teen-safety-with-bedtime-block-on-app-alerts"/>
-        <updated>2021-08-12T17:35:43.000Z</updated>
-        <summary type="html"><![CDATA[Social networking firm introduces range of child safety measures including increased privacy controls 
-TikTok will prevent teenagers from receiving notifications past their bedtime, the company said, announcing a range of child safety improvements that will arrive just before the UK introduces its age appropriate design code next month.
-The company will no longer send push notifications after 9pm to users aged between 13 and 15. For 16-year-olds and those aged 17 notifications will not be sent after 10pm.
- Continue reading...]]></summary>
-        <author>
-            <name>Alex Hern</name>
         </author>
     </entry>
     <entry>
@@ -651,22 +684,6 @@ The post Maker Spotlight: Miguel Angel Espinola Lopez appeared first on Make: DI
         <summary type="html"><![CDATA[Researchers have suggested how government can help fix the numbers]]></summary>
         <author>
             <name>GroundUp News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google staff could see pay cut if they opt to work from home]]></title>
-        <id>https://www.theguardian.com/technology/2021/aug/12/google-staff-could-see-pay-cut-if-they-opt-to-work-from-home</id>
-        <link href="https://www.theguardian.com/technology/2021/aug/12/google-staff-could-see-pay-cut-if-they-opt-to-work-from-home"/>
-        <updated>2021-08-12T01:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Pay calculator suggests workers who commute long-distance could see salary drop if they shun the office in wake of pandemic
-
-See all our coronavirus coverage
-
-Google employees could see their pay cut if they switched to working from home permanently in the wake of the pandemic, according to a company pay calculator seen by Reuters.
-It is an experiment taking place across Silicon Valley, which often sets trends for other large employers. Facebook and Twitter cut pay for remote employees who moved to less expensive areas. However, Google’s pay calculator tool – which allows staff to see the effects of a move – suggests remote employees, especially long-distance commuters, could experience pay cuts without moving. 
- Continue reading...]]></summary>
-        <author>
-            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -881,6 +898,19 @@ Six years on, The Forgotten City has been rebuilt, transplanted from Skyrim’s 
  Continue reading...]]></summary>
         <author>
             <name>Luke Holland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Instagram’s creatives are angry about its move to video]]></title>
+        <id>https://www.theguardian.com/technology/2021/aug/08/instagram-artists-leaving-social-media-tiktok-shopping</id>
+        <link href="https://www.theguardian.com/technology/2021/aug/08/instagram-artists-leaving-social-media-tiktok-shopping"/>
+        <updated>2021-08-08T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[The social media platform was once a favourite of artists and photographers, but a shift towards TikTok-type videos and shopping could leave them looking for a new home online
+In late July, hobbyist photographer and self-proclaimed “sunrise hunter” Sam Binding conducted an experiment. After visiting Somerset Lavender Farm to catch the sun peeking over the purple blossoms, the 40-year-old from Bristol uploaded the results to both Instagram and Twitter. Two days later, he used the apps’ built-in analytics tools to assess the impact of his shots. On Instagram, a total of 5,595 people saw his post – just over half of his 11,000 followers. On Twitter, his post was seen by 5,611 people, despite the fact he has just 333 followers on the site.
+This confirmed Binding’s hunch that although most people believe that Instagram is a place to share photos and Twitter is a place to share words, that may no longer be the case. When it launched in 2010, Instagram courted the artistic community, inviting respected designers to be among its initial users and naming its very first filter X-Pro II, after an analogue photo-developing technique. In her 2020 book No Filter: The Inside Story of Instagram, technology reporter Sarah Frier documents how Instagram co-founder Kevin Systrom wanted Instagram to be an outlet for artists (in a high-school essay, Systrom wrote that he liked how photography could “inspire others to look at the world in a new way”).
+ Continue reading...]]></summary>
+        <author>
+            <name>Amelia Tait</name>
         </author>
     </entry>
     <entry>
@@ -1218,19 +1248,6 @@ Four previously undiscovered weaknesses in Microsoft’s Exchange software, know
  Continue reading...]]></summary>
         <author>
             <name>Alex Hern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Warming by Charles Arthur review – a coolly prosecutorial look at social media]]></title>
-        <id>https://www.theguardian.com/books/2021/jul/17/social-warming-by-charles-arthur-review-a-coolly-prosecutorial-look-at-social-media</id>
-        <link href="https://www.theguardian.com/books/2021/jul/17/social-warming-by-charles-arthur-review-a-coolly-prosecutorial-look-at-social-media"/>
-        <updated>2021-07-17T08:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Social media giants contribute to global conflicts and allow misinformation. How have they gained so much control, and what is that doing to our lives?
-It’s good to remember that every time Mark Zuckerberg claims that he founded Facebook in order to connect people or build communities, he is somehow forgetting that he first created the site in order to enable himself and his fellow dorm-dwellers to rate Harvard’s young women on their looks. But then, Zuckerberg has never been the sharpest tool in the box. He once said that Facebook wouldn’t interfere with Holocaust-denial on its service, because it was hard to impugn people’s motives for denying the Holocaust, before a couple of years later announcing that his “thinking” on the matter had “evolved” and Holocaust denial was now frowned upon. Well, evolution does work slowly.
-But as Charles Arthur’s coolly prosecutorial book shows, social-media algorithms don’t just allow people with nefarious interests to get together: they perform as active matchmakers. “Facebook was hothousing extremism by putting extremists in touch with each other,” concluded Facebook’s own internal investigations in 2016. Not only that, Facebook was “auto-generating terrorist content”: its “machine learning” systems created a “Local Business” page for “al-Qaida in the Arabian peninsula”.
- Continue reading...]]></summary>
-        <author>
-            <name>Steven Poole</name>
         </author>
     </entry>
 </feed>
